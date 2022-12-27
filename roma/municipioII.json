@@ -5,7 +5,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Purea di carote",
-          "day" : "01-11-22",
+          "day" : "02-11-22",
           "morningSnack" : "Cracker",
           "mainCourse" : "Risotto con crema di piselli",
           "secondCourse" : "Petto di pollo al limone",
@@ -15,7 +15,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Bieta all'olio",
-          "day" : "02-11-22",
+          "day" : "03-11-22",
           "morningSnack" : "Panino all'olio con marmellata di frutta",
           "mainCourse" : "Pasta (ditalini rigati) e patate",
           "secondCourse" : "Uova strapazzate",
@@ -25,7 +25,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Zucchine trifolate",
-          "day" : "03-11-22",
+          "day" : "04-11-22",
           "morningSnack" : "Yogurt da bere",
           "mainCourse" : "Pasta (pipe piccole rigate) all'olio e parmigiano",
           "secondCourse" : "Medaglioni di spigola",
@@ -35,7 +35,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Carote stufate",
-          "day" : "04-11-22",
+          "day" : "07-11-22",
           "morningSnack" : "Yogurt da bere",
           "mainCourse" : "Tortellini al burro e parmigiano",
           "secondCourse" : "Bocconcini di tacchino",
@@ -45,7 +45,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Fagiolini all'olio",
-          "day" : "07-11-22",
+          "day" : "08-11-22",
           "morningSnack" : "Spremuta di arancia e biscotti frollini al cacao",
           "mainCourse" : "Pasta con lenticchie (ditalini rigati)",
           "secondCourse" : "Frittata",
@@ -55,7 +55,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Broccoli romaneschi all'olio",
-          "day" : "08-11-22",
+          "day" : "09-11-22",
           "morningSnack" : "Frutta di stagione",
           "mainCourse" : "Pasta (stortini) al trito vegetale",
           "secondCourse" : "Tortino di limanda",
@@ -65,7 +65,7 @@
         {
           "sideDish" : "Pane",
           "green" : "",
-          "day" : "09-11-22",
+          "day" : "10-11-22",
           "morningSnack" : "Focaccia rossa soffice",
           "mainCourse" : "Risotto al ragù di carne",
           "secondCourse" : "Tortino di patate",
@@ -75,7 +75,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Cavolfiori gratinati",
-          "day" : "10-11-22",
+          "day" : "11-11-22",
           "morningSnack" : "Cracker",
           "mainCourse" : "Crema di verdure con pasta (semi di melone)",
           "secondCourse" : "Ricotta",
@@ -85,7 +85,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Finocchi gratinati",
-          "day" : "11-11-22",
+          "day" : "14-11-22",
           "morningSnack" : "Focaccia rossa soffice",
           "mainCourse" : "Crema di piselli con pasta (ditalini rigati)",
           "secondCourse" : "Caciotta dolce",
@@ -95,7 +95,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Spinaci all'olio",
-          "day" : "14-11-22",
+          "day" : "15-11-22",
           "morningSnack" : "Polpa di frutta e Biscotti frollini al miele",
           "mainCourse" : "Pasta (mezze penne rigate) al pomodoro",
           "secondCourse" : "Petto di pollo panato",
@@ -105,7 +105,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Cavolfiori all'olio",
-          "day" : "15-11-22",
+          "day" : "16-11-22",
           "morningSnack" : "Cracker",
           "mainCourse" : "Pasta (corallini) e patate",
           "secondCourse" : "Arrosto di bovino",
@@ -115,7 +115,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Bieta al pomodoro",
-          "day" : "16-11-22",
+          "day" : "17-11-22",
           "morningSnack" : "Spremuta di arancia e biscotti frollini al cacao",
           "mainCourse" : "Pasta (mezzi fusilli) rosa",
           "secondCourse" : "Uova strapazzate",
@@ -125,7 +125,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Insalata verde",
-          "day" : "17-11-22",
+          "day" : "18-11-22",
           "morningSnack" : "Yogurt da bere",
           "mainCourse" : "Riso alla parmigiana",
           "secondCourse" : "Medaglioni di spigola",
@@ -135,7 +135,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Fagiolini all'olio",
-          "day" : "18-11-22",
+          "day" : "21-11-22",
           "morningSnack" : "Frutta di stagione",
           "mainCourse" : "Polenta al ragù di carne",
           "secondCourse" : "",
@@ -145,7 +145,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Broccoli romaneschi all'olio",
-          "day" : "21-11-22",
+          "day" : "22-11-22",
           "morningSnack" : "Spremuta di arancia e biscotti frollini al cacao",
           "mainCourse" : "Risotto allo zafferano con crema di ceci",
           "secondCourse" : "Montasio",
@@ -155,7 +155,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Spinaci",
-          "day" : "22-11-22",
+          "day" : "23-11-22",
           "morningSnack" : "Yogurt da bere",
           "mainCourse" : "Pasta (lumachine) all'olio e parmigiano",
           "secondCourse" : "Frittata",
@@ -165,7 +165,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Carote stufate",
-          "day" : "23-11-22",
+          "day" : "24-11-22",
           "morningSnack" : "Focaccia rossa soffice",
           "mainCourse" : "Pasta (gnocchetti sardi) al pomodoro",
           "secondCourse" : "Medaglioni di merluzzo al limone",
@@ -175,7 +175,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Purea di patate",
-          "day" : "24-11-22",
+          "day" : "25-11-22",
           "morningSnack" : "Cracker",
           "mainCourse" : "Crema di fagioli e patate con pasta (ditalini rigati)",
           "secondCourse" : "Bocconcini di tacchino",
@@ -185,7 +185,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Insalata verde",
-          "day" : "25-11-22",
+          "day" : "28-11-22",
           "morningSnack" : "Spremuta di arancia e biscotti frollini al cacao",
           "mainCourse" : "Pasta (mezze farfalle) al pomodoro",
           "secondCourse" : "Arrosto di maiale",
@@ -195,7 +195,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Bieta all’olio",
-          "day" : "28-11-22",
+          "day" : "29-11-22",
           "morningSnack" : "Cracker",
           "mainCourse" : "Crema di verdure con pasta (semi di melone)",
           "secondCourse" : "Polpettone di agnello",
@@ -205,7 +205,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Fagiolini all'olio",
-          "day" : "29-11-22",
+          "day" : "30-11-22",
           "morningSnack" : "Focaccia rossa soffice",
           "mainCourse" : "Risotto al pomodoro",
           "secondCourse" : "Filetti di platessa panati",
@@ -215,7 +215,7 @@
         {
           "sideDish" : "Pane integrale",
           "green" : "Patate all'olio",
-          "day" : "30-11-22",
+          "day" : "01-12-22",
           "morningSnack" : "Yogurt da bere",
           "mainCourse" : "Crema di lenticchie con farro",
           "secondCourse" : "Mozzarella di bufala",
@@ -225,7 +225,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Finocchi gratinati",
-          "day" : "01-12-22",
+          "day" : "02-12-22",
           "morningSnack" : "Polpa di frutta e Biscotti frollini al miele",
           "mainCourse" : "Pasta (mezzi fusilli) al sugo di spigola",
           "secondCourse" : "Uova strapazzate",
@@ -235,7 +235,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Carote stufate",
-          "day" : "02-12-22",
+          "day" : "05-12-22",
           "morningSnack" : "Cracker",
           "mainCourse" : "Pizza margherita",
           "secondCourse" : "Ricotta",
@@ -245,7 +245,7 @@
         {
           "sideDish" : "Pane",
           "green" : "",
-          "day" : "05-12-22",
+          "day" : "06-12-22",
           "morningSnack" : "Yogurt da bere",
           "mainCourse" : "Pasta (gnocchetti sardi) al burro e parmigiano",
           "secondCourse" : "Frittata con patate",
@@ -255,7 +255,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Finocchi al tegame",
-          "day" : "06-12-22",
+          "day" : "07-12-22",
           "morningSnack" : "Spremuta di arancia e biscotti frollini al cacao",
           "mainCourse" : "Crema di piselli con pasta (conchigliette)",
           "secondCourse" : "Fuso di pollo arrosto",
@@ -265,7 +265,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Insalata verde",
-          "day" : "07-12-22",
+          "day" : "09-12-22",
           "morningSnack" : "Frutta di stagione",
           "mainCourse" : "Risotto con zucca",
           "secondCourse" : "Hamburger di bovino",
@@ -275,7 +275,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Spinaci all’olio",
-          "day" : "09-12-22",
+          "day" : "12-12-22",
           "morningSnack" : "Focaccia rossa soffice",
           "mainCourse" : "Pasta (lumachine) al pomodoro",
           "secondCourse" : "Medaglioni di merluzzo",
@@ -285,7 +285,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Bieta al pomodoro",
-          "day" : "12-12-22",
+          "day" : "13-12-22",
           "morningSnack" : "Yogurt da bere",
           "mainCourse" : "Riso alla parmigiana",
           "secondCourse" : "Fesa di tacchino al limone",
@@ -295,7 +295,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Carote stufate",
-          "day" : "13-12-22",
+          "day" : "14-12-22",
           "morningSnack" : "Focaccia rossa soffice",
           "mainCourse" : "Pasta (mezze penne rigate) al pesto",
           "secondCourse" : "Bastoncini di merluzzo della cuoca",
@@ -305,7 +305,7 @@
         {
           "sideDish" : "Pane",
           "green" : "",
-          "day" : "14-12-22",
+          "day" : "15-12-22",
           "morningSnack" : "Polpa di frutta e Biscotti frollini al miele x",
           "mainCourse" : "Pasta (pipe piccole rigate) al ragù di carne",
           "secondCourse" : "Tortino di patate",
@@ -315,7 +315,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Fagiolini al pomodoro",
-          "day" : "15-12-22",
+          "day" : "16-12-22",
           "morningSnack" : "Cracker",
           "mainCourse" : "Crema di verdure con pasta (ditalini rigati)",
           "secondCourse" : "Frittata",
@@ -325,7 +325,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Cavolfiori gratinati",
-          "day" : "16-12-22",
+          "day" : "19-12-22",
           "morningSnack" : "Spremuta di arancia e biscotti frollini al cacao",
           "mainCourse" : "Crema di fagioli con pasta (corallini)",
           "secondCourse" : "Provolone dolce",
@@ -335,7 +335,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Spinaci all'olio",
-          "day" : "19-12-22",
+          "day" : "20-12-22",
           "morningSnack" : "Spremuta di arancia e biscotti frollini al cacao",
           "mainCourse" : "Pasta (lumachine) al pomodoro",
           "secondCourse" : "Uova strapazzate",
@@ -345,7 +345,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Finocchi al tegame",
-          "day" : "20-12-22",
+          "day" : "21-12-22",
           "morningSnack" : "Polpa di frutta e Biscotti frollini al miele",
           "mainCourse" : "Pasta (pipe piccole rigate) con zucca",
           "secondCourse" : "Polpettone goloso di bovino",
@@ -355,7 +355,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Insalata verde",
-          "day" : "21-12-22",
+          "day" : "22-12-22",
           "morningSnack" : "Cracker",
           "mainCourse" : "Risotto allo zafferano",
           "secondCourse" : "Caciotta dolce",
@@ -365,7 +365,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Bieta all'olio",
-          "day" : "22-12-22",
+          "day" : "09-01-23",
           "morningSnack" : "Focaccia rossa soffice",
           "mainCourse" : "Crema di ceci con pasta (ditalini rigati)",
           "secondCourse" : "Fuso di pollo arrosto",
@@ -375,7 +375,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Fagiolini all’olio",
-          "day" : "09-01-23",
+          "day" : "10-01-23",
           "morningSnack" : "Yogurt da bere",
           "mainCourse" : "Lasagna",
           "secondCourse" : "",
@@ -385,7 +385,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Purea di patate",
-          "day" : "10-01-23",
+          "day" : "11-01-23",
           "morningSnack" : "Cracker",
           "mainCourse" : "Riso con piselli",
           "secondCourse" : "Sformatino di platessa",
@@ -395,7 +395,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Spinaci al burro e parmigiano",
-          "day" : "11-01-23",
+          "day" : "12-01-23",
           "morningSnack" : "Spremuta di arancia e biscotti frollini al cacao",
           "mainCourse" : "Pasta (pipe piccole rigate) alla pizzaiola",
           "secondCourse" : "Arrosto di tacchino",
@@ -405,7 +405,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Carote stufate",
-          "day" : "12-01-23",
+          "day" : "13-01-23",
           "morningSnack" : "Frutta di stagione",
           "mainCourse" : "Pasta (mezze farfalle) al burro e parmigiano",
           "secondCourse" : "Crescenza",
@@ -415,7 +415,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Broccoli romaneschi all'olio",
-          "day" : "13-01-23",
+          "day" : "16-01-23",
           "morningSnack" : "Focaccia rossa soffice",
           "mainCourse" : "Crema di legumi misti con pasta (conchigliette)",
           "secondCourse" : "Frittata",
@@ -425,7 +425,7 @@
         {
           "sideDish" : "Pane integrale",
           "green" : "Patate al forno",
-          "day" : "16-01-23",
+          "day" : "17-01-23",
           "morningSnack" : "Cracker",
           "mainCourse" : "Risotto con indivia",
           "secondCourse" : "Straccetti di pollo cremolati",
@@ -435,7 +435,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Insalata verde",
-          "day" : "17-01-23",
+          "day" : "18-01-23",
           "morningSnack" : "Yogurt da bere",
           "mainCourse" : "Agnolotti al pomodoro",
           "secondCourse" : "Mozzarella di bufala",
@@ -445,7 +445,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Bieta all'olio",
-          "day" : "18-01-23",
+          "day" : "19-01-23",
           "morningSnack" : "Focaccia rossa soffice",
           "mainCourse" : "Crema di fagioli con pasta (corallini)",
           "secondCourse" : "Uova strapazzate",
@@ -455,7 +455,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Finocchi al tegame",
-          "day" : "19-01-23",
+          "day" : "20-01-23",
           "morningSnack" : "Polpa di frutta e Biscotti frollini al miele",
           "mainCourse" : "Pasta (conchigliette) con zucca",
           "secondCourse" : "Medaglioni di limanda",
@@ -465,7 +465,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Spinaci all'olio",
-          "day" : "20-01-23",
+          "day" : "23-01-23",
           "morningSnack" : "Spremuta di arancia e biscotti frollini al cacao",
           "mainCourse" : "Pasta (gnocchetti sardi) rosa",
           "secondCourse" : "Polpette di carne mista al pomodoro",
@@ -475,7 +475,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Carote stufate",
-          "day" : "23-01-23",
+          "day" : "24-01-23",
           "morningSnack" : "Yogurt da bere",
           "mainCourse" : "Tortellini al burro e parmigiano",
           "secondCourse" : "Bocconcini di tacchino",
@@ -485,7 +485,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Fagiolini all'olio",
-          "day" : "24-01-23",
+          "day" : "25-01-23",
           "morningSnack" : "Spremuta di arancia e biscotti frollini al cacao",
           "mainCourse" : "Pasta con lenticchie (ditalini rigati)",
           "secondCourse" : "Frittata",
@@ -495,7 +495,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Broccoli romaneschi all'olio",
-          "day" : "25-01-23",
+          "day" : "26-01-23",
           "morningSnack" : "Frutta di stagione",
           "mainCourse" : "Pasta (stortini) al trito vegetale",
           "secondCourse" : "Tortino di limanda",
@@ -505,7 +505,7 @@
         {
           "sideDish" : "Pane",
           "green" : "",
-          "day" : "26-01-23",
+          "day" : "27-01-23",
           "morningSnack" : "Focaccia rossa soffice",
           "mainCourse" : "Risotto al ragù di carne",
           "secondCourse" : "Tortino di patate",
@@ -515,7 +515,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Cavolfiori gratinati",
-          "day" : "27-01-23",
+          "day" : "30-01-23",
           "morningSnack" : "Cracker",
           "mainCourse" : "Crema di verdure con pasta (semi di melone)",
           "secondCourse" : "Ricotta",
@@ -525,7 +525,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Finocchi gratinati",
-          "day" : "30-01-23",
+          "day" : "31-01-23",
           "morningSnack" : "Focaccia rossa soffice",
           "mainCourse" : "Crema di piselli con pasta (ditalini rigati)",
           "secondCourse" : "Caciotta dolce",
@@ -535,7 +535,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Spinaci all'olio",
-          "day" : "31-01-23",
+          "day" : "01-02-23",
           "morningSnack" : "Polpa di frutta e Biscotti frollini al miele",
           "mainCourse" : "Pasta (mezze penne rigate) al pomodoro",
           "secondCourse" : "Petto di pollo panato",
@@ -545,7 +545,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Cavolfiori all'olio",
-          "day" : "01-02-23",
+          "day" : "02-02-23",
           "morningSnack" : "Cracker",
           "mainCourse" : "Pasta (corallini) e patate",
           "secondCourse" : "Arrosto di bovino",
@@ -555,7 +555,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Bieta al pomodoro",
-          "day" : "02-02-23",
+          "day" : "03-02-23",
           "morningSnack" : "Spremuta di arancia e biscotti frollini al cacao",
           "mainCourse" : "Pasta (mezzi fusilli) rosa",
           "secondCourse" : "Uova strapazzate",
@@ -565,7 +565,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Insalata verde",
-          "day" : "03-02-23",
+          "day" : "06-02-23",
           "morningSnack" : "Yogurt da bere",
           "mainCourse" : "Riso alla parmigiana",
           "secondCourse" : "Medaglioni di spigola",
@@ -575,7 +575,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Fagiolini all'olio",
-          "day" : "06-02-23",
+          "day" : "07-02-23",
           "morningSnack" : "Frutta di stagione",
           "mainCourse" : "Polenta al ragù di carne",
           "secondCourse" : "",
@@ -585,7 +585,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Broccoli romaneschi all'olio",
-          "day" : "07-02-23",
+          "day" : "08-02-23",
           "morningSnack" : "Spremuta di arancia e biscotti frollini al cacao",
           "mainCourse" : "Risotto allo zafferano con crema di ceci",
           "secondCourse" : "Montasio",
@@ -595,7 +595,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Spinaci",
-          "day" : "08-02-23",
+          "day" : "09-02-23",
           "morningSnack" : "Yogurt da bere",
           "mainCourse" : "Pasta (lumachine) all'olio e parmigiano",
           "secondCourse" : "Frittata",
@@ -605,7 +605,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Carote stufate",
-          "day" : "09-02-23",
+          "day" : "10-02-23",
           "morningSnack" : "Focaccia rossa soffice",
           "mainCourse" : "Pasta (gnocchetti sardi) al pomodoro",
           "secondCourse" : "Medaglioni di merluzzo al limone",
@@ -615,7 +615,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Purea di patate",
-          "day" : "10-02-23",
+          "day" : "13-02-23",
           "morningSnack" : "Cracker",
           "mainCourse" : "Crema di fagioli e patate con pasta (ditalini rigati)",
           "secondCourse" : "Bocconcini di tacchino",
@@ -625,7 +625,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Insalata verde",
-          "day" : "13-02-23",
+          "day" : "14-02-23",
           "morningSnack" : "Spremuta di arancia e biscotti frollini al cacao",
           "mainCourse" : "Pasta (mezze farfalle) al pomodoro",
           "secondCourse" : "Arrosto di maiale",
@@ -635,7 +635,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Bieta all’olio",
-          "day" : "14-02-23",
+          "day" : "15-02-23",
           "morningSnack" : "Cracker",
           "mainCourse" : "Crema di verdure con pasta (semi di melone)",
           "secondCourse" : "Polpettone di agnello",
@@ -645,7 +645,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Fagiolini all'olio",
-          "day" : "15-02-23",
+          "day" : "16-02-23",
           "morningSnack" : "Focaccia rossa soffice",
           "mainCourse" : "Risotto al pomodoro",
           "secondCourse" : "Filetti di platessa panati",
@@ -655,7 +655,7 @@
         {
           "sideDish" : "Pane integrale",
           "green" : "Patate all'olio",
-          "day" : "16-02-23",
+          "day" : "17-02-23",
           "morningSnack" : "Yogurt da bere",
           "mainCourse" : "Crema di lenticchie con farro",
           "secondCourse" : "Mozzarella di bufala",
@@ -665,7 +665,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Finocchi gratinati",
-          "day" : "17-02-23",
+          "day" : "20-02-23",
           "morningSnack" : "Polpa di frutta e Biscotti frollini al miele",
           "mainCourse" : "Pasta (mezzi fusilli) al sugo di spigola",
           "secondCourse" : "Uova strapazzate",
@@ -675,7 +675,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Carote stufate",
-          "day" : "20-02-23",
+          "day" : "21-02-23",
           "morningSnack" : "Cracker",
           "mainCourse" : "Pizza margherita",
           "secondCourse" : "Ricotta",
@@ -685,7 +685,7 @@
         {
           "sideDish" : "Pane",
           "green" : "",
-          "day" : "21-02-23",
+          "day" : "22-02-23",
           "morningSnack" : "Yogurt da bere",
           "mainCourse" : "Pasta (gnocchetti sardi) al burro e parmigiano",
           "secondCourse" : "Frittata con patate",
@@ -695,7 +695,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Finocchi al tegame",
-          "day" : "22-02-23",
+          "day" : "23-02-23",
           "morningSnack" : "Spremuta di arancia e biscotti frollini al cacao",
           "mainCourse" : "Crema di piselli con pasta (conchigliette)",
           "secondCourse" : "Fuso di pollo arrosto",
@@ -705,7 +705,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Insalata verde",
-          "day" : "23-02-23",
+          "day" : "24-02-23",
           "morningSnack" : "Frutta di stagione",
           "mainCourse" : "Risotto con zucca",
           "secondCourse" : "Hamburger di bovino",
@@ -715,7 +715,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Spinaci all’olio",
-          "day" : "24-02-23",
+          "day" : "27-02-23",
           "morningSnack" : "Focaccia rossa soffice",
           "mainCourse" : "Pasta (lumachine) al pomodoro",
           "secondCourse" : "Medaglioni di merluzzo",
@@ -725,7 +725,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Bieta al pomodoro",
-          "day" : "27-02-23",
+          "day" : "28-02-23",
           "morningSnack" : "Yogurt da bere",
           "mainCourse" : "Riso alla parmigiana",
           "secondCourse" : "Fesa di tacchino al limone",
@@ -735,7 +735,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Carote stufate",
-          "day" : "28-02-23",
+          "day" : "01-03-23",
           "morningSnack" : "Focaccia rossa soffice",
           "mainCourse" : "Pasta (mezze penne rigate) al pesto",
           "secondCourse" : "Bastoncini di merluzzo della cuoca",
@@ -745,7 +745,7 @@
         {
           "sideDish" : "Pane",
           "green" : "",
-          "day" : "01-03-23",
+          "day" : "02-03-23",
           "morningSnack" : "Polpa di frutta e Biscotti frollini al miele x",
           "mainCourse" : "Pasta (pipe piccole rigate) al ragù di carne",
           "secondCourse" : "Tortino di patate",
@@ -755,7 +755,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Fagiolini al pomodoro",
-          "day" : "02-03-23",
+          "day" : "03-03-23",
           "morningSnack" : "Cracker",
           "mainCourse" : "Crema di verdure con pasta (ditalini rigati)",
           "secondCourse" : "Frittata",
@@ -765,7 +765,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Cavolfiori gratinati",
-          "day" : "03-03-23",
+          "day" : "06-03-23",
           "morningSnack" : "Spremuta di arancia e biscotti frollini al cacao",
           "mainCourse" : "Crema di fagioli con pasta (corallini)",
           "secondCourse" : "Provolone dolce",
@@ -775,7 +775,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Spinaci all'olio",
-          "day" : "06-03-23",
+          "day" : "07-03-23",
           "morningSnack" : "Spremuta di arancia e biscotti frollini al cacao",
           "mainCourse" : "Pasta (lumachine) al pomodoro",
           "secondCourse" : "Uova strapazzate",
@@ -785,7 +785,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Finocchi al tegame",
-          "day" : "07-03-23",
+          "day" : "08-03-23",
           "morningSnack" : "Polpa di frutta e Biscotti frollini al miele",
           "mainCourse" : "Pasta (pipe piccole rigate) con zucca",
           "secondCourse" : "Polpettone goloso di bovino",
@@ -795,7 +795,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Insalata verde",
-          "day" : "08-03-23",
+          "day" : "09-03-23",
           "morningSnack" : "Cracker",
           "mainCourse" : "Risotto allo zafferano",
           "secondCourse" : "Caciotta dolce",
@@ -805,7 +805,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Bieta all'olio",
-          "day" : "09-03-23",
+          "day" : "10-03-23",
           "morningSnack" : "Focaccia rossa soffice",
           "mainCourse" : "Crema di ceci con pasta (ditalini rigati)",
           "secondCourse" : "Fuso di pollo arrosto",
@@ -815,7 +815,7 @@
         {
           "sideDish" : "Pane integrale",
           "green" : "Carote stufate",
-          "day" : "10-03-23",
+          "day" : "13-03-23",
           "morningSnack" : "Yogurt da bere",
           "mainCourse" : "Pasta (mezzi fusilli) all'olio e parmigiano",
           "secondCourse" : "Bocconcini di merluzzo della cuoca",
@@ -825,7 +825,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Fagiolini all’olio",
-          "day" : "13-03-23",
+          "day" : "14-03-23",
           "morningSnack" : "Yogurt da bere",
           "mainCourse" : "Lasagna",
           "secondCourse" : "",
@@ -835,7 +835,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Purea di patate",
-          "day" : "14-03-23",
+          "day" : "15-03-23",
           "morningSnack" : "Cracker",
           "mainCourse" : "Riso con piselli",
           "secondCourse" : "Sformatino di platessa",
@@ -845,7 +845,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Spinaci al burro e parmigiano",
-          "day" : "15-03-23",
+          "day" : "16-03-23",
           "morningSnack" : "Spremuta di arancia e biscotti frollini al cacao",
           "mainCourse" : "Pasta (pipe piccole rigate) alla pizzaiola",
           "secondCourse" : "Arrosto di tacchino",
@@ -855,7 +855,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Carote stufate",
-          "day" : "16-03-23",
+          "day" : "17-03-23",
           "morningSnack" : "Frutta di stagione",
           "mainCourse" : "Pasta (mezze farfalle) al burro e parmigiano",
           "secondCourse" : "Crescenza",
@@ -865,7 +865,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Broccoli romaneschi all'olio",
-          "day" : "17-03-23",
+          "day" : "20-03-23",
           "morningSnack" : "Focaccia rossa soffice",
           "mainCourse" : "Crema di legumi misti con pasta (conchigliette)",
           "secondCourse" : "Frittata",
@@ -875,7 +875,7 @@
         {
           "sideDish" : "Pane integrale",
           "green" : "Patate al forno",
-          "day" : "20-03-23",
+          "day" : "21-03-23",
           "morningSnack" : "Cracker",
           "mainCourse" : "Risotto con indivia",
           "secondCourse" : "Straccetti di pollo cremolati",
@@ -885,7 +885,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Insalata verde",
-          "day" : "21-03-23",
+          "day" : "22-03-23",
           "morningSnack" : "Yogurt da bere",
           "mainCourse" : "Agnolotti al pomodoro",
           "secondCourse" : "Mozzarella di bufala",
@@ -895,7 +895,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Bieta all'olio",
-          "day" : "22-03-23",
+          "day" : "23-03-23",
           "morningSnack" : "Focaccia rossa soffice",
           "mainCourse" : "Crema di fagioli con pasta (corallini)",
           "secondCourse" : "Uova strapazzate",
@@ -905,7 +905,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Finocchi al tegame",
-          "day" : "23-03-23",
+          "day" : "24-03-23",
           "morningSnack" : "Polpa di frutta e Biscotti frollini al miele",
           "mainCourse" : "Pasta (conchigliette) con zucca",
           "secondCourse" : "Medaglioni di limanda",
@@ -915,7 +915,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Spinaci all'olio",
-          "day" : "24-03-23",
+          "day" : "27-03-23",
           "morningSnack" : "Spremuta di arancia e biscotti frollini al cacao",
           "mainCourse" : "Pasta (gnocchetti sardi) rosa",
           "secondCourse" : "Polpette di carne mista al pomodoro",
@@ -925,7 +925,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Carote stufate",
-          "day" : "27-03-23",
+          "day" : "28-03-23",
           "morningSnack" : "Yogurt da bere",
           "mainCourse" : "Tortellini al burro e parmigiano",
           "secondCourse" : "Bocconcini di tacchino",
@@ -935,7 +935,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Fagiolini all'olio",
-          "day" : "28-03-23",
+          "day" : "29-03-23",
           "morningSnack" : "Spremuta di arancia e biscotti frollini al cacao",
           "mainCourse" : "Pasta con lenticchie (ditalini rigati)",
           "secondCourse" : "Frittata",
@@ -945,7 +945,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Broccoli romaneschi all'olio",
-          "day" : "29-03-23",
+          "day" : "30-03-23",
           "morningSnack" : "Frutta di stagione",
           "mainCourse" : "Pasta (stortini) al trito vegetale",
           "secondCourse" : "Tortino di limanda",
@@ -955,7 +955,7 @@
         {
           "sideDish" : "Pane",
           "green" : "",
-          "day" : "30-03-23",
+          "day" : "31-03-23",
           "morningSnack" : "Focaccia rossa soffice",
           "mainCourse" : "Risotto al ragù di carne",
           "secondCourse" : "Tortino di patate",
@@ -965,7 +965,6 @@
         {
           "sideDish" : "Pane",
           "green" : "Cavolfiori gratinati",
-          "day" : "31-03-23",
           "morningSnack" : "Cracker",
           "mainCourse" : "Crema di verdure con pasta (semi di melone)",
           "secondCourse" : "Ricotta",
@@ -980,7 +979,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Purea di carote",
-          "day" : "01-11-22",
+          "day" : "02-11-22",
           "morningSnack" : "Cracker",
           "mainCourse" : "Risotto con crema di piselli",
           "secondCourse" : "Petto di pollo al limone",
@@ -990,7 +989,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Bieta all'olio",
-          "day" : "02-11-22",
+          "day" : "03-11-22",
           "morningSnack" : "Panino all'olio con marmellata di frutta",
           "mainCourse" : "Pasta (ditalini rigati) e patate",
           "secondCourse" : "Uova strapazzate",
@@ -1000,7 +999,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Zucchine trifolate",
-          "day" : "03-11-22",
+          "day" : "04-11-22",
           "morningSnack" : "Yogurt da bere",
           "mainCourse" : "Pasta (pipe rigate) all'olio e parmigiano",
           "secondCourse" : "Medaglioni di spigola",
@@ -1010,7 +1009,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Carote alla julienne",
-          "day" : "04-11-22",
+          "day" : "07-11-22",
           "morningSnack" : "Yogurt da bere",
           "mainCourse" : "Tortellini al burro e parmigiano",
           "secondCourse" : "Bocconcini di tacchino",
@@ -1020,7 +1019,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Fagiolini all'olio",
-          "day" : "07-11-22",
+          "day" : "08-11-22",
           "morningSnack" : "Spremuta di arancia e biscotti frollini al cacao",
           "mainCourse" : "Crema di lenticchie con pasta (ditalini rigati)",
           "secondCourse" : "Frittata",
@@ -1030,7 +1029,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Broccoli romaneschi all'olio",
-          "day" : "08-11-22",
+          "day" : "09-11-22",
           "morningSnack" : "Frutta di stagione",
           "mainCourse" : "Pasta (farfalle) al trito vegetale",
           "secondCourse" : "Tortino di limanda",
@@ -1040,7 +1039,7 @@
         {
           "sideDish" : "Pane",
           "green" : "",
-          "day" : "09-11-22",
+          "day" : "10-11-22",
           "morningSnack" : "Focaccia rossa soffice",
           "mainCourse" : "Risotto al ragù di carne",
           "secondCourse" : "Tortino di patate",
@@ -1050,7 +1049,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Cavolfiori gratinati",
-          "day" : "10-11-22",
+          "day" : "11-11-22",
           "morningSnack" : "Cracker",
           "mainCourse" : "Crema di verdure con pasta (semi di melone)",
           "secondCourse" : "Ricotta",
@@ -1060,7 +1059,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Insalata di finocchi",
-          "day" : "11-11-22",
+          "day" : "14-11-22",
           "morningSnack" : "Focaccia rossa soffice",
           "mainCourse" : "Crema di piselli con pasta (ditalini rigati)",
           "secondCourse" : "Caciotta dolce",
@@ -1070,7 +1069,7 @@
         {
           "sideDish" : "Pane Integrale",
           "green" : "Spinaci all'olio",
-          "day" : "14-11-22",
+          "day" : "15-11-22",
           "morningSnack" : "Frullato di frutta e Biscotti frollini al miele",
           "mainCourse" : "Pasta (penne rigate) al pomodoro",
           "secondCourse" : "Petto di pollo panato",
@@ -1080,7 +1079,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Cavolfiori all'olio",
-          "day" : "15-11-22",
+          "day" : "16-11-22",
           "morningSnack" : "Cracker",
           "mainCourse" : "Pasta (corallini) e patate",
           "secondCourse" : "Arrosto di bovino",
@@ -1090,7 +1089,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Bieta al pomodoro",
-          "day" : "16-11-22",
+          "day" : "17-11-22",
           "morningSnack" : "Spremuta di arancia e biscotti frollini al cacao",
           "mainCourse" : "Pasta (fusilli) rosa",
           "secondCourse" : "Uova strapazzate",
@@ -1100,7 +1099,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Insalata mista",
-          "day" : "17-11-22",
+          "day" : "18-11-22",
           "morningSnack" : "Yogurt da bere",
           "mainCourse" : "Riso alla parmigiana\/Riso basmati e verdure",
           "secondCourse" : "Medaglioni di spigola",
@@ -1110,7 +1109,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Fagiolini all'olio",
-          "day" : "18-11-22",
+          "day" : "21-11-22",
           "morningSnack" : "Frutta di stagione",
           "mainCourse" : "Polenta al ragù di carne",
           "secondCourse" : "",
@@ -1120,7 +1119,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Broccoli romaneschi all'olio",
-          "day" : "21-11-22",
+          "day" : "22-11-22",
           "morningSnack" : "Spremuta di arancia e biscotti frollini al cacao",
           "mainCourse" : "Risotto allo zafferano con crema di ceci",
           "secondCourse" : "Montasio",
@@ -1130,7 +1129,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Spinaci all’olio",
-          "day" : "22-11-22",
+          "day" : "23-11-22",
           "morningSnack" : "Yogurt da bere",
           "mainCourse" : "Pasta (rigatoni) all'olio e parmigiano",
           "secondCourse" : "Frittata",
@@ -1140,7 +1139,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Carote stufate",
-          "day" : "23-11-22",
+          "day" : "24-11-22",
           "morningSnack" : "Focaccia rossa soffice",
           "mainCourse" : "Pasta (gnocchetti sardi) al pomodoro",
           "secondCourse" : "Medaglioni di merluzzo al limone",
@@ -1150,7 +1149,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Purea di patate",
-          "day" : "24-11-22",
+          "day" : "25-11-22",
           "morningSnack" : "Cracker",
           "mainCourse" : "Crema di fagioli e patate con pasta (pipe piccole rigate)",
           "secondCourse" : "Bocconcini di tacchino",
@@ -1160,7 +1159,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Insalata verde",
-          "day" : "25-11-22",
+          "day" : "28-11-22",
           "morningSnack" : "Spremuta di arancia e biscotti frollini al cacao",
           "mainCourse" : "Pasta (penne rigate) alla amatriciana",
           "secondCourse" : "Arrosto di maiale\/Maiale in agrodolce (*)",
@@ -1170,7 +1169,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Bieta all’olio",
-          "day" : "28-11-22",
+          "day" : "29-11-22",
           "morningSnack" : "Cracker",
           "mainCourse" : "Crema di verdure con pasta (semi di melone)",
           "secondCourse" : "Spezzatino di agnello",
@@ -1180,7 +1179,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Fagiolini all'olio",
-          "day" : "29-11-22",
+          "day" : "30-11-22",
           "morningSnack" : "Focaccia rossa soffice",
           "mainCourse" : "Risotto al pomodoro",
           "secondCourse" : "Filetti di platessa panati",
@@ -1190,7 +1189,7 @@
         {
           "sideDish" : "Pane integrale",
           "green" : "Patate all'olio",
-          "day" : "30-11-22",
+          "day" : "01-12-22",
           "morningSnack" : "Yogurt da bere",
           "mainCourse" : "Crema di lenticchie con farro",
           "secondCourse" : "Mozzarella di bufala",
@@ -1200,7 +1199,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Insalata di finocchi",
-          "day" : "01-12-22",
+          "day" : "02-12-22",
           "morningSnack" : "Frullato di frutta e Biscotti frollini al miele",
           "mainCourse" : "Pasta (sedanini) al sugo di spigola",
           "secondCourse" : "Uova strapazzate",
@@ -1210,7 +1209,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Carote alla julienne",
-          "day" : "02-12-22",
+          "day" : "05-12-22",
           "morningSnack" : "Cracker",
           "mainCourse" : "Pizza margherita",
           "secondCourse" : "Ricotta",
@@ -1220,7 +1219,7 @@
         {
           "sideDish" : "Pane",
           "green" : "",
-          "day" : "05-12-22",
+          "day" : "06-12-22",
           "morningSnack" : "Yogurt da bere",
           "mainCourse" : "Pasta (gnocchetti sardi) al burro e parmigiano",
           "secondCourse" : "Frittata con patate",
@@ -1230,7 +1229,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Scarola al tegame",
-          "day" : "06-12-22",
+          "day" : "07-12-22",
           "morningSnack" : "Spremuta di arancia e biscotti frollini al cacao",
           "mainCourse" : "Crema di piselli con pasta (conchigliette)",
           "secondCourse" : "Coscio di pollo arrosto",
@@ -1240,7 +1239,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Insalata verde",
-          "day" : "07-12-22",
+          "day" : "09-12-22",
           "morningSnack" : "Frutta di stagione",
           "mainCourse" : "Risotto con zucca",
           "secondCourse" : "Hamburger di bovino",
@@ -1250,7 +1249,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Spinaci all’olio",
-          "day" : "09-12-22",
+          "day" : "12-12-22",
           "morningSnack" : "Focaccia rossa soffice",
           "mainCourse" : "Pasta (rigatoni) al pomodoro",
           "secondCourse" : "Medaglioni di merluzzo",
@@ -1260,7 +1259,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Bieta al pomodoro",
-          "day" : "12-12-22",
+          "day" : "13-12-22",
           "morningSnack" : "Yogurt da bere",
           "mainCourse" : "Riso alla parmigiana",
           "secondCourse" : "Fesa di tacchino al limone",
@@ -1270,7 +1269,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Carote alla julienne",
-          "day" : "13-12-22",
+          "day" : "14-12-22",
           "morningSnack" : "Focaccia rossa soffice",
           "mainCourse" : "Pasta (pennette rigate) al pesto",
           "secondCourse" : "Bastoncini di merluzzo della cuoca",
@@ -1280,7 +1279,7 @@
         {
           "sideDish" : "Pane Integrale",
           "green" : "",
-          "day" : "14-12-22",
+          "day" : "15-12-22",
           "morningSnack" : "Frullato di frutta e Biscotti frollini al miele",
           "mainCourse" : "Crostatina con marmellata di frutta",
           "secondCourse" : "Tortino di patate",
@@ -1290,7 +1289,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Fagiolini al pomodoro",
-          "day" : "15-12-22",
+          "day" : "16-12-22",
           "morningSnack" : "Cracker",
           "mainCourse" : "Crema di verdure con pasta (ditalini rigati)",
           "secondCourse" : "Frittata",
@@ -1300,7 +1299,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Cavolfiori gratinati",
-          "day" : "16-12-22",
+          "day" : "19-12-22",
           "morningSnack" : "Spremuta di arancia e biscotti frollini al cacao",
           "mainCourse" : "Crema di fagioli con pasta (corallini)",
           "secondCourse" : "Provolone dolce",
@@ -1310,7 +1309,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Spinaci all'olio",
-          "day" : "19-12-22",
+          "day" : "20-12-22",
           "morningSnack" : "Spremuta di arancia e biscotti frollini al cacao",
           "mainCourse" : "Pasta (spaghetti) al tonno",
           "secondCourse" : "Uova strapazzate",
@@ -1320,7 +1319,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Fiori di zucca alla romana",
-          "day" : "20-12-22",
+          "day" : "21-12-22",
           "morningSnack" : "Frullato di frutta e Biscotti frollini al miele",
           "mainCourse" : "Pasta (pipe rigate) con zucca",
           "secondCourse" : "Saltimbocca alla romana",
@@ -1330,7 +1329,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Insalata mista",
-          "day" : "21-12-22",
+          "day" : "22-12-22",
           "morningSnack" : "Cracker",
           "mainCourse" : "Risotto allo zafferano",
           "secondCourse" : "Caciotta dolce",
@@ -1340,7 +1339,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Bieta all'olio",
-          "day" : "22-12-22",
+          "day" : "09-01-23",
           "morningSnack" : "Focaccia rossa soffice",
           "mainCourse" : "Crema di ceci con pasta (ditalini rigati)",
           "secondCourse" : "Coscio di pollo arrosto\/Pulpe de pui cu busuloc (*)",
@@ -1350,7 +1349,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Fagiolini all’olio",
-          "day" : "09-01-23",
+          "day" : "10-01-23",
           "morningSnack" : "Yogurt da bere",
           "mainCourse" : "Lasagna",
           "secondCourse" : "",
@@ -1360,7 +1359,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Purea di patate",
-          "day" : "10-01-23",
+          "day" : "11-01-23",
           "morningSnack" : "Cracker",
           "mainCourse" : "Riso con piselli",
           "secondCourse" : "Sformatino di platessa",
@@ -1370,7 +1369,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Spinaci al burro e parmigiano",
-          "day" : "11-01-23",
+          "day" : "12-01-23",
           "morningSnack" : "Spremuta di arancia e biscotti frollini al cacao",
           "mainCourse" : "Pasta (pipe rigate) alla pizzaiola",
           "secondCourse" : "Arrosto di tacchino",
@@ -1380,7 +1379,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Carote alla julienne",
-          "day" : "12-01-23",
+          "day" : "13-01-23",
           "morningSnack" : "Frutta di stagione",
           "mainCourse" : "Pasta (farfalle) al burro e parmigiano",
           "secondCourse" : "Crescenza",
@@ -1390,7 +1389,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Broccoli romaneschi all'olio",
-          "day" : "13-01-23",
+          "day" : "16-01-23",
           "morningSnack" : "Focaccia rossa soffice",
           "mainCourse" : "Crema di legumi misti con pasta (conchigliette)",
           "secondCourse" : "Frittata",
@@ -1400,7 +1399,7 @@
         {
           "sideDish" : "Pane integrale",
           "green" : "Patate al forno",
-          "day" : "16-01-23",
+          "day" : "17-01-23",
           "morningSnack" : "Cracker",
           "mainCourse" : "Risotto con indivia",
           "secondCourse" : "Straccetti di pollo cremolati",
@@ -1410,7 +1409,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Insalata verde",
-          "day" : "17-01-23",
+          "day" : "18-01-23",
           "morningSnack" : "Yogurt da bere",
           "mainCourse" : "Agnolotti al pomodoro",
           "secondCourse" : "Mozzarella di bufala",
@@ -1420,7 +1419,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Bieta all'olio",
-          "day" : "18-01-23",
+          "day" : "19-01-23",
           "morningSnack" : "Focaccia rossa soffice",
           "mainCourse" : "Crema di fagioli con pasta (corallini)",
           "secondCourse" : "Uova strapazzate",
@@ -1430,7 +1429,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Insalata di finocchi",
-          "day" : "19-01-23",
+          "day" : "20-01-23",
           "morningSnack" : "Frullato di frutta e Biscotti frollini al miele",
           "mainCourse" : "Pasta (conchigliette) con zucca",
           "secondCourse" : "Medaglioni di limanda",
@@ -1440,7 +1439,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Spinaci all'olio",
-          "day" : "20-01-23",
+          "day" : "23-01-23",
           "morningSnack" : "Spremuta di arancia e biscotti frollini al cacao",
           "mainCourse" : "Pasta (gnocchetti sardi) rosa",
           "secondCourse" : "Polpette di carne mista al pomodoro",
@@ -1450,7 +1449,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Carote alla julienne",
-          "day" : "23-01-23",
+          "day" : "24-01-23",
           "morningSnack" : "Yogurt da bere",
           "mainCourse" : "Tortellini al burro e parmigiano",
           "secondCourse" : "Bocconcini di tacchino",
@@ -1460,7 +1459,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Fagiolini all'olio",
-          "day" : "24-01-23",
+          "day" : "25-01-23",
           "morningSnack" : "Spremuta di arancia e biscotti frollini al cacao",
           "mainCourse" : "Crema di lenticchie con pasta (ditalini rigati)",
           "secondCourse" : "Frittata",
@@ -1470,7 +1469,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Broccoli romaneschi all'olio",
-          "day" : "25-01-23",
+          "day" : "26-01-23",
           "morningSnack" : "Frutta di stagione",
           "mainCourse" : "Pasta (farfalle) al trito vegetale",
           "secondCourse" : "Tortino di limanda",
@@ -1480,7 +1479,7 @@
         {
           "sideDish" : "Pane",
           "green" : "",
-          "day" : "26-01-23",
+          "day" : "27-01-23",
           "morningSnack" : "Focaccia rossa soffice",
           "mainCourse" : "Risotto al ragù di carne",
           "secondCourse" : "Tortino di patate",
@@ -1490,7 +1489,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Cavolfiori gratinati",
-          "day" : "27-01-23",
+          "day" : "30-01-23",
           "morningSnack" : "Cracker",
           "mainCourse" : "Crema di verdure con pasta (semi di melone)",
           "secondCourse" : "Ricotta",
@@ -1500,7 +1499,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Insalata di finocchi",
-          "day" : "30-01-23",
+          "day" : "31-01-23",
           "morningSnack" : "Focaccia rossa soffice",
           "mainCourse" : "Crema di piselli con pasta (ditalini rigati)",
           "secondCourse" : "Caciotta dolce",
@@ -1510,7 +1509,7 @@
         {
           "sideDish" : "Pane Integrale",
           "green" : "Spinaci all'olio",
-          "day" : "31-01-23",
+          "day" : "01-02-23",
           "morningSnack" : "Frullato di frutta e Biscotti frollini al miele",
           "mainCourse" : "Pasta (penne rigate) al pomodoro",
           "secondCourse" : "Petto di pollo panato",
@@ -1520,7 +1519,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Cavolfiori all'olio",
-          "day" : "01-02-23",
+          "day" : "02-02-23",
           "morningSnack" : "Cracker",
           "mainCourse" : "Pasta (corallini) e patate",
           "secondCourse" : "Arrosto di bovino",
@@ -1530,7 +1529,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Bieta al pomodoro",
-          "day" : "02-02-23",
+          "day" : "03-02-23",
           "morningSnack" : "Spremuta di arancia e biscotti frollini al cacao",
           "mainCourse" : "Pasta (fusilli) rosa",
           "secondCourse" : "Uova strapazzate",
@@ -1540,7 +1539,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Insalata mista",
-          "day" : "03-02-23",
+          "day" : "06-02-23",
           "morningSnack" : "Yogurt da bere",
           "mainCourse" : "Riso alla parmigiana\/Riso basmati e verdure",
           "secondCourse" : "Medaglioni di spigola",
@@ -1550,7 +1549,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Fagiolini all'olio",
-          "day" : "06-02-23",
+          "day" : "07-02-23",
           "morningSnack" : "Frutta di stagione",
           "mainCourse" : "Polenta al ragù di carne",
           "secondCourse" : "",
@@ -1560,7 +1559,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Broccoli romaneschi all'olio",
-          "day" : "07-02-23",
+          "day" : "08-02-23",
           "morningSnack" : "Spremuta di arancia e biscotti frollini al cacao",
           "mainCourse" : "Risotto allo zafferano con crema di ceci",
           "secondCourse" : "Montasio",
@@ -1570,7 +1569,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Spinaci all’olio",
-          "day" : "08-02-23",
+          "day" : "09-02-23",
           "morningSnack" : "Yogurt da bere",
           "mainCourse" : "Pasta (rigatoni) all'olio e parmigiano",
           "secondCourse" : "Frittata",
@@ -1580,7 +1579,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Carote stufate",
-          "day" : "09-02-23",
+          "day" : "10-02-23",
           "morningSnack" : "Focaccia rossa soffice",
           "mainCourse" : "Pasta (gnocchetti sardi) al pomodoro",
           "secondCourse" : "Medaglioni di merluzzo al limone",
@@ -1590,7 +1589,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Purea di patate",
-          "day" : "10-02-23",
+          "day" : "13-02-23",
           "morningSnack" : "Cracker",
           "mainCourse" : "Crema di fagioli e patate con pasta (pipe piccole rigate)",
           "secondCourse" : "Bocconcini di tacchino",
@@ -1600,7 +1599,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Insalata verde",
-          "day" : "13-02-23",
+          "day" : "14-02-23",
           "morningSnack" : "Spremuta di arancia e biscotti frollini al cacao",
           "mainCourse" : "Pasta (penne rigate) alla amatriciana",
           "secondCourse" : "Arrosto di maiale\/Maiale in agrodolce (*)",
@@ -1610,7 +1609,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Bieta all’olio",
-          "day" : "14-02-23",
+          "day" : "15-02-23",
           "morningSnack" : "Cracker",
           "mainCourse" : "Crema di verdure con pasta (semi di melone)",
           "secondCourse" : "Spezzatino di agnello",
@@ -1620,7 +1619,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Fagiolini all'olio",
-          "day" : "15-02-23",
+          "day" : "16-02-23",
           "morningSnack" : "Focaccia rossa soffice",
           "mainCourse" : "Risotto al pomodoro",
           "secondCourse" : "Filetti di platessa panati",
@@ -1630,7 +1629,7 @@
         {
           "sideDish" : "Pane integrale",
           "green" : "Patate all'olio",
-          "day" : "16-02-23",
+          "day" : "17-02-23",
           "morningSnack" : "Yogurt da bere",
           "mainCourse" : "Crema di lenticchie con farro",
           "secondCourse" : "Mozzarella di bufala",
@@ -1640,7 +1639,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Insalata di finocchi",
-          "day" : "17-02-23",
+          "day" : "20-02-23",
           "morningSnack" : "Frullato di frutta e Biscotti frollini al miele",
           "mainCourse" : "Pasta (sedanini) al sugo di spigola",
           "secondCourse" : "Uova strapazzate",
@@ -1650,7 +1649,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Carote alla julienne",
-          "day" : "20-02-23",
+          "day" : "21-02-23",
           "morningSnack" : "Cracker",
           "mainCourse" : "Pizza margherita",
           "secondCourse" : "Ricotta",
@@ -1660,7 +1659,7 @@
         {
           "sideDish" : "Pane",
           "green" : "",
-          "day" : "21-02-23",
+          "day" : "22-02-23",
           "morningSnack" : "Yogurt da bere",
           "mainCourse" : "Pasta (gnocchetti sardi) al burro e parmigiano",
           "secondCourse" : "Frittata con patate",
@@ -1670,7 +1669,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Scarola al tegame",
-          "day" : "22-02-23",
+          "day" : "23-02-23",
           "morningSnack" : "Spremuta di arancia e biscotti frollini al cacao",
           "mainCourse" : "Crema di piselli con pasta (conchigliette)",
           "secondCourse" : "Coscio di pollo arrosto",
@@ -1680,7 +1679,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Insalata verde",
-          "day" : "23-02-23",
+          "day" : "24-02-23",
           "morningSnack" : "Frutta di stagione",
           "mainCourse" : "Risotto con zucca",
           "secondCourse" : "Hamburger di bovino",
@@ -1690,7 +1689,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Spinaci all’olio",
-          "day" : "24-02-23",
+          "day" : "27-02-23",
           "morningSnack" : "Focaccia rossa soffice",
           "mainCourse" : "Pasta (rigatoni) al pomodoro",
           "secondCourse" : "Medaglioni di merluzzo",
@@ -1700,7 +1699,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Bieta al pomodoro",
-          "day" : "27-02-23",
+          "day" : "28-02-23",
           "morningSnack" : "Yogurt da bere",
           "mainCourse" : "Riso alla parmigiana",
           "secondCourse" : "Fesa di tacchino al limone",
@@ -1710,7 +1709,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Carote alla julienne",
-          "day" : "28-02-23",
+          "day" : "01-03-23",
           "morningSnack" : "Focaccia rossa soffice",
           "mainCourse" : "Pasta (pennette rigate) al pesto",
           "secondCourse" : "Bastoncini di merluzzo della cuoca",
@@ -1720,7 +1719,7 @@
         {
           "sideDish" : "Pane Integrale",
           "green" : "",
-          "day" : "01-03-23",
+          "day" : "02-03-23",
           "morningSnack" : "Frullato di frutta e Biscotti frollini al miele",
           "mainCourse" : "Crostatina con marmellata di frutta",
           "secondCourse" : "Tortino di patate",
@@ -1730,7 +1729,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Fagiolini al pomodoro",
-          "day" : "02-03-23",
+          "day" : "03-03-23",
           "morningSnack" : "Cracker",
           "mainCourse" : "Crema di verdure con pasta (ditalini rigati)",
           "secondCourse" : "Frittata",
@@ -1740,7 +1739,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Cavolfiori gratinati",
-          "day" : "03-03-23",
+          "day" : "06-03-23",
           "morningSnack" : "Spremuta di arancia e biscotti frollini al cacao",
           "mainCourse" : "Crema di fagioli con pasta (corallini)",
           "secondCourse" : "Provolone dolce",
@@ -1750,7 +1749,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Spinaci all'olio",
-          "day" : "06-03-23",
+          "day" : "07-03-23",
           "morningSnack" : "Spremuta di arancia e biscotti frollini al cacao",
           "mainCourse" : "Pasta (spaghetti) al tonno",
           "secondCourse" : "Uova strapazzate",
@@ -1760,7 +1759,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Fiori di zucca alla romana",
-          "day" : "07-03-23",
+          "day" : "08-03-23",
           "morningSnack" : "Frullato di frutta e Biscotti frollini al miele",
           "mainCourse" : "Pasta (pipe rigate) con zucca",
           "secondCourse" : "Saltimbocca alla romana",
@@ -1770,7 +1769,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Insalata mista",
-          "day" : "08-03-23",
+          "day" : "09-03-23",
           "morningSnack" : "Cracker",
           "mainCourse" : "Risotto allo zafferano",
           "secondCourse" : "Caciotta dolce",
@@ -1780,7 +1779,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Bieta all'olio",
-          "day" : "09-03-23",
+          "day" : "10-03-23",
           "morningSnack" : "Focaccia rossa soffice",
           "mainCourse" : "Crema di ceci con pasta (ditalini rigati)",
           "secondCourse" : "Coscio di pollo arrosto\/Pulpe de pui cu busuloc (*)",
@@ -1790,7 +1789,7 @@
         {
           "sideDish" : "Pane integrale",
           "green" : "Carote alla julienne",
-          "day" : "10-03-23",
+          "day" : "13-03-23",
           "morningSnack" : "Yogurt da bere",
           "mainCourse" : "Pasta (fusilli) all'olio e parmigiano",
           "secondCourse" : "Bastoncini di merluzzo della cuoca",
@@ -1800,7 +1799,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Fagiolini all’olio",
-          "day" : "13-03-23",
+          "day" : "14-03-23",
           "morningSnack" : "Yogurt da bere",
           "mainCourse" : "Lasagna",
           "secondCourse" : "",
@@ -1810,7 +1809,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Purea di patate",
-          "day" : "14-03-23",
+          "day" : "15-03-23",
           "morningSnack" : "Cracker",
           "mainCourse" : "Riso con piselli",
           "secondCourse" : "Sformatino di platessa",
@@ -1820,7 +1819,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Spinaci al burro e parmigiano",
-          "day" : "15-03-23",
+          "day" : "16-03-23",
           "morningSnack" : "Spremuta di arancia e biscotti frollini al cacao",
           "mainCourse" : "Pasta (pipe rigate) alla pizzaiola",
           "secondCourse" : "Arrosto di tacchino",
@@ -1830,7 +1829,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Carote alla julienne",
-          "day" : "16-03-23",
+          "day" : "17-03-23",
           "morningSnack" : "Frutta di stagione",
           "mainCourse" : "Pasta (farfalle) al burro e parmigiano",
           "secondCourse" : "Crescenza",
@@ -1840,7 +1839,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Broccoli romaneschi all'olio",
-          "day" : "17-03-23",
+          "day" : "20-03-23",
           "morningSnack" : "Focaccia rossa soffice",
           "mainCourse" : "Crema di legumi misti con pasta (conchigliette)",
           "secondCourse" : "Frittata",
@@ -1850,7 +1849,7 @@
         {
           "sideDish" : "Pane integrale",
           "green" : "Patate al forno",
-          "day" : "20-03-23",
+          "day" : "21-03-23",
           "morningSnack" : "Cracker",
           "mainCourse" : "Risotto con indivia",
           "secondCourse" : "Straccetti di pollo cremolati",
@@ -1860,7 +1859,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Insalata verde",
-          "day" : "21-03-23",
+          "day" : "22-03-23",
           "morningSnack" : "Yogurt da bere",
           "mainCourse" : "Agnolotti al pomodoro",
           "secondCourse" : "Mozzarella di bufala",
@@ -1870,7 +1869,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Bieta all'olio",
-          "day" : "22-03-23",
+          "day" : "23-03-23",
           "morningSnack" : "Focaccia rossa soffice",
           "mainCourse" : "Crema di fagioli con pasta (corallini)",
           "secondCourse" : "Uova strapazzate",
@@ -1880,7 +1879,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Insalata di finocchi",
-          "day" : "23-03-23",
+          "day" : "24-03-23",
           "morningSnack" : "Frullato di frutta e Biscotti frollini al miele",
           "mainCourse" : "Pasta (conchigliette) con zucca",
           "secondCourse" : "Medaglioni di limanda",
@@ -1890,7 +1889,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Spinaci all'olio",
-          "day" : "24-03-23",
+          "day" : "27-03-23",
           "morningSnack" : "Spremuta di arancia e biscotti frollini al cacao",
           "mainCourse" : "Pasta (gnocchetti sardi) rosa",
           "secondCourse" : "Polpette di carne mista al pomodoro",
@@ -1900,7 +1899,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Carote alla julienne",
-          "day" : "27-03-23",
+          "day" : "28-03-23",
           "morningSnack" : "Yogurt da bere",
           "mainCourse" : "Tortellini al burro e parmigiano",
           "secondCourse" : "Bocconcini di tacchino",
@@ -1910,7 +1909,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Fagiolini all'olio",
-          "day" : "28-03-23",
+          "day" : "29-03-23",
           "morningSnack" : "Spremuta di arancia e biscotti frollini al cacao",
           "mainCourse" : "Crema di lenticchie con pasta (ditalini rigati)",
           "secondCourse" : "Frittata",
@@ -1920,7 +1919,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Broccoli romaneschi all'olio",
-          "day" : "29-03-23",
+          "day" : "30-03-23",
           "morningSnack" : "Frutta di stagione",
           "mainCourse" : "Pasta (farfalle) al trito vegetale",
           "secondCourse" : "Tortino di limanda",
@@ -1930,7 +1929,7 @@
         {
           "sideDish" : "Pane",
           "green" : "",
-          "day" : "30-03-23",
+          "day" : "31-03-23",
           "morningSnack" : "Focaccia rossa soffice",
           "mainCourse" : "Risotto al ragù di carne",
           "secondCourse" : "Tortino di patate",
@@ -1940,7 +1939,6 @@
         {
           "sideDish" : "Pane",
           "green" : "Cavolfiori gratinati",
-          "day" : "31-03-23",
           "morningSnack" : "Cracker",
           "mainCourse" : "Crema di verdure con pasta (semi di melone)",
           "secondCourse" : "Ricotta",
@@ -1955,7 +1953,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Purea di carote",
-          "day" : "01-11-22",
+          "day" : "02-11-22",
           "morningSnack" : "Cracker",
           "mainCourse" : "Risotto con crema di piselli",
           "secondCourse" : "Petto di pollo al limone",
@@ -1965,7 +1963,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Bieta all'olio",
-          "day" : "02-11-22",
+          "day" : "03-11-22",
           "morningSnack" : "Panino all'olio con marmellata di frutta",
           "mainCourse" : "Pasta (ditalini rigati) e patate",
           "secondCourse" : "Uova strapazzate",
@@ -1975,7 +1973,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Zucchine trifolate",
-          "day" : "03-11-22",
+          "day" : "04-11-22",
           "morningSnack" : "Yogurt da bere",
           "mainCourse" : "Pasta (pipe rigate) all'olio e parmigiano",
           "secondCourse" : "Medaglioni di spigola",
@@ -1985,7 +1983,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Carote alla julienne",
-          "day" : "04-11-22",
+          "day" : "07-11-22",
           "morningSnack" : "Yogurt da bere",
           "mainCourse" : "Tortellini al burro e parmigiano",
           "secondCourse" : "Bocconcini di tacchino",
@@ -1995,7 +1993,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Fagiolini all'olio",
-          "day" : "07-11-22",
+          "day" : "08-11-22",
           "morningSnack" : "Spremuta di arancia e biscotti frollini al cacao",
           "mainCourse" : "Crema di lenticchie con pasta (ditalini rigati)",
           "secondCourse" : "Frittata",
@@ -2005,7 +2003,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Broccoli romaneschi all'olio",
-          "day" : "08-11-22",
+          "day" : "09-11-22",
           "morningSnack" : "Frutta di stagione",
           "mainCourse" : "Pasta (farfalle) al trito vegetale",
           "secondCourse" : "Tortino di limanda",
@@ -2015,7 +2013,7 @@
         {
           "sideDish" : "Pane",
           "green" : "",
-          "day" : "09-11-22",
+          "day" : "10-11-22",
           "morningSnack" : "Focaccia rossa soffice",
           "mainCourse" : "Risotto al ragù di carne",
           "secondCourse" : "Tortino di patate",
@@ -2025,7 +2023,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Cavolfiori gratinati",
-          "day" : "10-11-22",
+          "day" : "11-11-22",
           "morningSnack" : "Cracker",
           "mainCourse" : "Crema di verdure con pasta (semi di melone)",
           "secondCourse" : "Ricotta",
@@ -2035,7 +2033,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Insalata di finocchi",
-          "day" : "11-11-22",
+          "day" : "14-11-22",
           "morningSnack" : "Focaccia rossa soffice",
           "mainCourse" : "Crema di piselli con pasta (ditalini rigati)",
           "secondCourse" : "Caciotta dolce",
@@ -2045,7 +2043,7 @@
         {
           "sideDish" : "Pane Integrale",
           "green" : "Spinaci all'olio",
-          "day" : "14-11-22",
+          "day" : "15-11-22",
           "morningSnack" : "Frullato di frutta e Biscotti frollini al miele",
           "mainCourse" : "Pasta (penne rigate) al pomodoro",
           "secondCourse" : "Petto di pollo panato",
@@ -2055,7 +2053,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Cavolfiori all'olio",
-          "day" : "15-11-22",
+          "day" : "16-11-22",
           "morningSnack" : "Cracker",
           "mainCourse" : "Pasta (corallini) e patate",
           "secondCourse" : "Arrosto di bovino",
@@ -2065,7 +2063,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Bieta al pomodoro",
-          "day" : "16-11-22",
+          "day" : "17-11-22",
           "morningSnack" : "Spremuta di arancia e biscotti frollini al cacao",
           "mainCourse" : "Pasta (fusilli) rosa",
           "secondCourse" : "Uova strapazzate",
@@ -2075,7 +2073,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Insalata mista",
-          "day" : "17-11-22",
+          "day" : "18-11-22",
           "morningSnack" : "Yogurt da bere",
           "mainCourse" : "Riso alla parmigiana\/Riso basmati e verdure",
           "secondCourse" : "Medaglioni di spigola",
@@ -2085,7 +2083,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Fagiolini all'olio",
-          "day" : "18-11-22",
+          "day" : "21-11-22",
           "morningSnack" : "Frutta di stagione",
           "mainCourse" : "Polenta al ragù di carne",
           "secondCourse" : "",
@@ -2095,7 +2093,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Broccoli romaneschi all'olio",
-          "day" : "21-11-22",
+          "day" : "22-11-22",
           "morningSnack" : "Spremuta di arancia e biscotti frollini al cacao",
           "mainCourse" : "Risotto allo zafferano con crema di ceci",
           "secondCourse" : "Montasio",
@@ -2105,7 +2103,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Spinaci all’olio",
-          "day" : "22-11-22",
+          "day" : "23-11-22",
           "morningSnack" : "Yogurt da bere",
           "mainCourse" : "Pasta (rigatoni) all'olio e parmigiano",
           "secondCourse" : "Frittata",
@@ -2115,7 +2113,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Carote stufate",
-          "day" : "23-11-22",
+          "day" : "24-11-22",
           "morningSnack" : "Focaccia rossa soffice",
           "mainCourse" : "Pasta (gnocchetti sardi) al pomodoro",
           "secondCourse" : "Medaglioni di merluzzo al limone",
@@ -2125,7 +2123,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Purea di patate",
-          "day" : "24-11-22",
+          "day" : "25-11-22",
           "morningSnack" : "Cracker",
           "mainCourse" : "Crema di fagioli e patate con pasta (pipe piccole rigate)",
           "secondCourse" : "Bocconcini di tacchino",
@@ -2135,7 +2133,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Insalata verde",
-          "day" : "25-11-22",
+          "day" : "28-11-22",
           "morningSnack" : "Spremuta di arancia e biscotti frollini al cacao",
           "mainCourse" : "Pasta (penne rigate) alla amatriciana",
           "secondCourse" : "Arrosto di maiale\/Maiale in agrodolce (*)",
@@ -2145,7 +2143,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Bieta all’olio",
-          "day" : "28-11-22",
+          "day" : "29-11-22",
           "morningSnack" : "Cracker",
           "mainCourse" : "Crema di verdure con pasta (semi di melone)",
           "secondCourse" : "Spezzatino di agnello",
@@ -2155,7 +2153,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Fagiolini all'olio",
-          "day" : "29-11-22",
+          "day" : "30-11-22",
           "morningSnack" : "Focaccia rossa soffice",
           "mainCourse" : "Risotto al pomodoro",
           "secondCourse" : "Filetti di platessa panati",
@@ -2165,7 +2163,7 @@
         {
           "sideDish" : "Pane integrale",
           "green" : "Patate all'olio",
-          "day" : "30-11-22",
+          "day" : "01-12-22",
           "morningSnack" : "Yogurt da bere",
           "mainCourse" : "Crema di lenticchie con farro",
           "secondCourse" : "Mozzarella di bufala",
@@ -2175,7 +2173,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Insalata di finocchi",
-          "day" : "01-12-22",
+          "day" : "02-12-22",
           "morningSnack" : "Frullato di frutta e Biscotti frollini al miele",
           "mainCourse" : "Pasta (sedanini) al sugo di spigola",
           "secondCourse" : "Uova strapazzate",
@@ -2185,7 +2183,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Carote alla julienne",
-          "day" : "02-12-22",
+          "day" : "05-12-22",
           "morningSnack" : "Cracker",
           "mainCourse" : "Pizza margherita",
           "secondCourse" : "Ricotta",
@@ -2195,7 +2193,7 @@
         {
           "sideDish" : "Pane",
           "green" : "",
-          "day" : "05-12-22",
+          "day" : "06-12-22",
           "morningSnack" : "Yogurt da bere",
           "mainCourse" : "Pasta (gnocchetti sardi) al burro e parmigiano",
           "secondCourse" : "Frittata con patate",
@@ -2205,7 +2203,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Scarola al tegame",
-          "day" : "06-12-22",
+          "day" : "07-12-22",
           "morningSnack" : "Spremuta di arancia e biscotti frollini al cacao",
           "mainCourse" : "Crema di piselli con pasta (conchigliette)",
           "secondCourse" : "Coscio di pollo arrosto",
@@ -2215,7 +2213,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Insalata verde",
-          "day" : "07-12-22",
+          "day" : "09-12-22",
           "morningSnack" : "Frutta di stagione",
           "mainCourse" : "Risotto con zucca",
           "secondCourse" : "Hamburger di bovino",
@@ -2225,7 +2223,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Spinaci all’olio",
-          "day" : "09-12-22",
+          "day" : "12-12-22",
           "morningSnack" : "Focaccia rossa soffice",
           "mainCourse" : "Pasta (rigatoni) al pomodoro",
           "secondCourse" : "Medaglioni di merluzzo",
@@ -2235,7 +2233,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Bieta al pomodoro",
-          "day" : "12-12-22",
+          "day" : "13-12-22",
           "morningSnack" : "Yogurt da bere",
           "mainCourse" : "Riso alla parmigiana",
           "secondCourse" : "Fesa di tacchino al limone",
@@ -2245,7 +2243,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Carote alla julienne",
-          "day" : "13-12-22",
+          "day" : "14-12-22",
           "morningSnack" : "Focaccia rossa soffice",
           "mainCourse" : "Pasta (pennette rigate) al pesto",
           "secondCourse" : "Bastoncini di merluzzo della cuoca",
@@ -2255,7 +2253,7 @@
         {
           "sideDish" : "Pane Integrale",
           "green" : "",
-          "day" : "14-12-22",
+          "day" : "15-12-22",
           "morningSnack" : "Frullato di frutta e Biscotti frollini al miele",
           "mainCourse" : "Crostatina con marmellata di frutta",
           "secondCourse" : "Tortino di patate",
@@ -2265,7 +2263,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Fagiolini al pomodoro",
-          "day" : "15-12-22",
+          "day" : "16-12-22",
           "morningSnack" : "Cracker",
           "mainCourse" : "Crema di verdure con pasta (ditalini rigati)",
           "secondCourse" : "Frittata",
@@ -2275,7 +2273,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Cavolfiori gratinati",
-          "day" : "16-12-22",
+          "day" : "19-12-22",
           "morningSnack" : "Spremuta di arancia e biscotti frollini al cacao",
           "mainCourse" : "Crema di fagioli con pasta (corallini)",
           "secondCourse" : "Provolone dolce",
@@ -2285,7 +2283,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Spinaci all'olio",
-          "day" : "19-12-22",
+          "day" : "20-12-22",
           "morningSnack" : "Spremuta di arancia e biscotti frollini al cacao",
           "mainCourse" : "Pasta (spaghetti) al tonno",
           "secondCourse" : "Uova strapazzate",
@@ -2295,7 +2293,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Fiori di zucca alla romana",
-          "day" : "20-12-22",
+          "day" : "21-12-22",
           "morningSnack" : "Frullato di frutta e Biscotti frollini al miele",
           "mainCourse" : "Pasta (pipe rigate) con zucca",
           "secondCourse" : "Saltimbocca alla romana",
@@ -2305,7 +2303,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Insalata mista",
-          "day" : "21-12-22",
+          "day" : "22-12-22",
           "morningSnack" : "Cracker",
           "mainCourse" : "Risotto allo zafferano",
           "secondCourse" : "Caciotta dolce",
@@ -2315,7 +2313,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Bieta all'olio",
-          "day" : "22-12-22",
+          "day" : "09-01-23",
           "morningSnack" : "Focaccia rossa soffice",
           "mainCourse" : "Crema di ceci con pasta (ditalini rigati)",
           "secondCourse" : "Coscio di pollo arrosto\/Pulpe de pui cu busuloc (*)",
@@ -2325,7 +2323,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Fagiolini all’olio",
-          "day" : "09-01-23",
+          "day" : "10-01-23",
           "morningSnack" : "Yogurt da bere",
           "mainCourse" : "Lasagna",
           "secondCourse" : "",
@@ -2335,7 +2333,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Purea di patate",
-          "day" : "10-01-23",
+          "day" : "11-01-23",
           "morningSnack" : "Cracker",
           "mainCourse" : "Riso con piselli",
           "secondCourse" : "Sformatino di platessa",
@@ -2345,7 +2343,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Spinaci al burro e parmigiano",
-          "day" : "11-01-23",
+          "day" : "12-01-23",
           "morningSnack" : "Spremuta di arancia e biscotti frollini al cacao",
           "mainCourse" : "Pasta (pipe rigate) alla pizzaiola",
           "secondCourse" : "Arrosto di tacchino",
@@ -2355,7 +2353,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Carote alla julienne",
-          "day" : "12-01-23",
+          "day" : "13-01-23",
           "morningSnack" : "Frutta di stagione",
           "mainCourse" : "Pasta (farfalle) al burro e parmigiano",
           "secondCourse" : "Crescenza",
@@ -2365,7 +2363,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Broccoli romaneschi all'olio",
-          "day" : "13-01-23",
+          "day" : "16-01-23",
           "morningSnack" : "Focaccia rossa soffice",
           "mainCourse" : "Crema di legumi misti con pasta (conchigliette)",
           "secondCourse" : "Frittata",
@@ -2375,7 +2373,7 @@
         {
           "sideDish" : "Pane integrale",
           "green" : "Patate al forno",
-          "day" : "16-01-23",
+          "day" : "17-01-23",
           "morningSnack" : "Cracker",
           "mainCourse" : "Risotto con indivia",
           "secondCourse" : "Straccetti di pollo cremolati",
@@ -2385,7 +2383,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Insalata verde",
-          "day" : "17-01-23",
+          "day" : "18-01-23",
           "morningSnack" : "Yogurt da bere",
           "mainCourse" : "Agnolotti al pomodoro",
           "secondCourse" : "Mozzarella di bufala",
@@ -2395,7 +2393,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Bieta all'olio",
-          "day" : "18-01-23",
+          "day" : "19-01-23",
           "morningSnack" : "Focaccia rossa soffice",
           "mainCourse" : "Crema di fagioli con pasta (corallini)",
           "secondCourse" : "Uova strapazzate",
@@ -2405,7 +2403,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Insalata di finocchi",
-          "day" : "19-01-23",
+          "day" : "20-01-23",
           "morningSnack" : "Frullato di frutta e Biscotti frollini al miele",
           "mainCourse" : "Pasta (conchigliette) con zucca",
           "secondCourse" : "Medaglioni di limanda",
@@ -2415,7 +2413,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Spinaci all'olio",
-          "day" : "20-01-23",
+          "day" : "23-01-23",
           "morningSnack" : "Spremuta di arancia e biscotti frollini al cacao",
           "mainCourse" : "Pasta (gnocchetti sardi) rosa",
           "secondCourse" : "Polpette di carne mista al pomodoro",
@@ -2425,7 +2423,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Carote alla julienne",
-          "day" : "23-01-23",
+          "day" : "24-01-23",
           "morningSnack" : "Yogurt da bere",
           "mainCourse" : "Tortellini al burro e parmigiano",
           "secondCourse" : "Bocconcini di tacchino",
@@ -2435,7 +2433,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Fagiolini all'olio",
-          "day" : "24-01-23",
+          "day" : "25-01-23",
           "morningSnack" : "Spremuta di arancia e biscotti frollini al cacao",
           "mainCourse" : "Crema di lenticchie con pasta (ditalini rigati)",
           "secondCourse" : "Frittata",
@@ -2445,7 +2443,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Broccoli romaneschi all'olio",
-          "day" : "25-01-23",
+          "day" : "26-01-23",
           "morningSnack" : "Frutta di stagione",
           "mainCourse" : "Pasta (farfalle) al trito vegetale",
           "secondCourse" : "Tortino di limanda",
@@ -2455,7 +2453,7 @@
         {
           "sideDish" : "Pane",
           "green" : "",
-          "day" : "26-01-23",
+          "day" : "27-01-23",
           "morningSnack" : "Focaccia rossa soffice",
           "mainCourse" : "Risotto al ragù di carne",
           "secondCourse" : "Tortino di patate",
@@ -2465,7 +2463,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Cavolfiori gratinati",
-          "day" : "27-01-23",
+          "day" : "30-01-23",
           "morningSnack" : "Cracker",
           "mainCourse" : "Crema di verdure con pasta (semi di melone)",
           "secondCourse" : "Ricotta",
@@ -2475,7 +2473,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Insalata di finocchi",
-          "day" : "30-01-23",
+          "day" : "31-01-23",
           "morningSnack" : "Focaccia rossa soffice",
           "mainCourse" : "Crema di piselli con pasta (ditalini rigati)",
           "secondCourse" : "Caciotta dolce",
@@ -2485,7 +2483,7 @@
         {
           "sideDish" : "Pane Integrale",
           "green" : "Spinaci all'olio",
-          "day" : "31-01-23",
+          "day" : "01-02-23",
           "morningSnack" : "Frullato di frutta e Biscotti frollini al miele",
           "mainCourse" : "Pasta (penne rigate) al pomodoro",
           "secondCourse" : "Petto di pollo panato",
@@ -2495,7 +2493,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Cavolfiori all'olio",
-          "day" : "01-02-23",
+          "day" : "02-02-23",
           "morningSnack" : "Cracker",
           "mainCourse" : "Pasta (corallini) e patate",
           "secondCourse" : "Arrosto di bovino",
@@ -2505,7 +2503,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Bieta al pomodoro",
-          "day" : "02-02-23",
+          "day" : "03-02-23",
           "morningSnack" : "Spremuta di arancia e biscotti frollini al cacao",
           "mainCourse" : "Pasta (fusilli) rosa",
           "secondCourse" : "Uova strapazzate",
@@ -2515,7 +2513,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Insalata mista",
-          "day" : "03-02-23",
+          "day" : "06-02-23",
           "morningSnack" : "Yogurt da bere",
           "mainCourse" : "Riso alla parmigiana\/Riso basmati e verdure",
           "secondCourse" : "Medaglioni di spigola",
@@ -2525,7 +2523,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Fagiolini all'olio",
-          "day" : "06-02-23",
+          "day" : "07-02-23",
           "morningSnack" : "Frutta di stagione",
           "mainCourse" : "Polenta al ragù di carne",
           "secondCourse" : "",
@@ -2535,7 +2533,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Broccoli romaneschi all'olio",
-          "day" : "07-02-23",
+          "day" : "08-02-23",
           "morningSnack" : "Spremuta di arancia e biscotti frollini al cacao",
           "mainCourse" : "Risotto allo zafferano con crema di ceci",
           "secondCourse" : "Montasio",
@@ -2545,7 +2543,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Spinaci all’olio",
-          "day" : "08-02-23",
+          "day" : "09-02-23",
           "morningSnack" : "Yogurt da bere",
           "mainCourse" : "Pasta (rigatoni) all'olio e parmigiano",
           "secondCourse" : "Frittata",
@@ -2555,7 +2553,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Carote stufate",
-          "day" : "09-02-23",
+          "day" : "10-02-23",
           "morningSnack" : "Focaccia rossa soffice",
           "mainCourse" : "Pasta (gnocchetti sardi) al pomodoro",
           "secondCourse" : "Medaglioni di merluzzo al limone",
@@ -2565,7 +2563,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Purea di patate",
-          "day" : "10-02-23",
+          "day" : "13-02-23",
           "morningSnack" : "Cracker",
           "mainCourse" : "Crema di fagioli e patate con pasta (pipe piccole rigate)",
           "secondCourse" : "Bocconcini di tacchino",
@@ -2575,7 +2573,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Insalata verde",
-          "day" : "13-02-23",
+          "day" : "14-02-23",
           "morningSnack" : "Spremuta di arancia e biscotti frollini al cacao",
           "mainCourse" : "Pasta (penne rigate) alla amatriciana",
           "secondCourse" : "Arrosto di maiale\/Maiale in agrodolce (*)",
@@ -2585,7 +2583,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Bieta all’olio",
-          "day" : "14-02-23",
+          "day" : "15-02-23",
           "morningSnack" : "Cracker",
           "mainCourse" : "Crema di verdure con pasta (semi di melone)",
           "secondCourse" : "Spezzatino di agnello",
@@ -2595,7 +2593,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Fagiolini all'olio",
-          "day" : "15-02-23",
+          "day" : "16-02-23",
           "morningSnack" : "Focaccia rossa soffice",
           "mainCourse" : "Risotto al pomodoro",
           "secondCourse" : "Filetti di platessa panati",
@@ -2605,7 +2603,7 @@
         {
           "sideDish" : "Pane integrale",
           "green" : "Patate all'olio",
-          "day" : "16-02-23",
+          "day" : "17-02-23",
           "morningSnack" : "Yogurt da bere",
           "mainCourse" : "Crema di lenticchie con farro",
           "secondCourse" : "Mozzarella di bufala",
@@ -2615,7 +2613,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Insalata di finocchi",
-          "day" : "17-02-23",
+          "day" : "20-02-23",
           "morningSnack" : "Frullato di frutta e Biscotti frollini al miele",
           "mainCourse" : "Pasta (sedanini) al sugo di spigola",
           "secondCourse" : "Uova strapazzate",
@@ -2625,7 +2623,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Carote alla julienne",
-          "day" : "20-02-23",
+          "day" : "21-02-23",
           "morningSnack" : "Cracker",
           "mainCourse" : "Pizza margherita",
           "secondCourse" : "Ricotta",
@@ -2635,7 +2633,7 @@
         {
           "sideDish" : "Pane",
           "green" : "",
-          "day" : "21-02-23",
+          "day" : "22-02-23",
           "morningSnack" : "Yogurt da bere",
           "mainCourse" : "Pasta (gnocchetti sardi) al burro e parmigiano",
           "secondCourse" : "Frittata con patate",
@@ -2645,7 +2643,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Scarola al tegame",
-          "day" : "22-02-23",
+          "day" : "23-02-23",
           "morningSnack" : "Spremuta di arancia e biscotti frollini al cacao",
           "mainCourse" : "Crema di piselli con pasta (conchigliette)",
           "secondCourse" : "Coscio di pollo arrosto",
@@ -2655,7 +2653,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Insalata verde",
-          "day" : "23-02-23",
+          "day" : "24-02-23",
           "morningSnack" : "Frutta di stagione",
           "mainCourse" : "Risotto con zucca",
           "secondCourse" : "Hamburger di bovino",
@@ -2665,7 +2663,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Spinaci all’olio",
-          "day" : "24-02-23",
+          "day" : "27-02-23",
           "morningSnack" : "Focaccia rossa soffice",
           "mainCourse" : "Pasta (rigatoni) al pomodoro",
           "secondCourse" : "Medaglioni di merluzzo",
@@ -2675,7 +2673,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Bieta al pomodoro",
-          "day" : "27-02-23",
+          "day" : "28-02-23",
           "morningSnack" : "Yogurt da bere",
           "mainCourse" : "Riso alla parmigiana",
           "secondCourse" : "Fesa di tacchino al limone",
@@ -2685,7 +2683,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Carote alla julienne",
-          "day" : "28-02-23",
+          "day" : "01-03-23",
           "morningSnack" : "Focaccia rossa soffice",
           "mainCourse" : "Pasta (pennette rigate) al pesto",
           "secondCourse" : "Bastoncini di merluzzo della cuoca",
@@ -2695,7 +2693,7 @@
         {
           "sideDish" : "Pane Integrale",
           "green" : "",
-          "day" : "01-03-23",
+          "day" : "02-03-23",
           "morningSnack" : "Frullato di frutta e Biscotti frollini al miele",
           "mainCourse" : "Crostatina con marmellata di frutta",
           "secondCourse" : "Tortino di patate",
@@ -2705,7 +2703,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Fagiolini al pomodoro",
-          "day" : "02-03-23",
+          "day" : "03-03-23",
           "morningSnack" : "Cracker",
           "mainCourse" : "Crema di verdure con pasta (ditalini rigati)",
           "secondCourse" : "Frittata",
@@ -2715,7 +2713,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Cavolfiori gratinati",
-          "day" : "03-03-23",
+          "day" : "06-03-23",
           "morningSnack" : "Spremuta di arancia e biscotti frollini al cacao",
           "mainCourse" : "Crema di fagioli con pasta (corallini)",
           "secondCourse" : "Provolone dolce",
@@ -2725,7 +2723,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Spinaci all'olio",
-          "day" : "06-03-23",
+          "day" : "07-03-23",
           "morningSnack" : "Spremuta di arancia e biscotti frollini al cacao",
           "mainCourse" : "Pasta (spaghetti) al tonno",
           "secondCourse" : "Uova strapazzate",
@@ -2735,7 +2733,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Fiori di zucca alla romana",
-          "day" : "07-03-23",
+          "day" : "08-03-23",
           "morningSnack" : "Frullato di frutta e Biscotti frollini al miele",
           "mainCourse" : "Pasta (pipe rigate) con zucca",
           "secondCourse" : "Saltimbocca alla romana",
@@ -2745,7 +2743,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Insalata mista",
-          "day" : "08-03-23",
+          "day" : "09-03-23",
           "morningSnack" : "Cracker",
           "mainCourse" : "Risotto allo zafferano",
           "secondCourse" : "Caciotta dolce",
@@ -2755,7 +2753,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Bieta all'olio",
-          "day" : "09-03-23",
+          "day" : "10-03-23",
           "morningSnack" : "Focaccia rossa soffice",
           "mainCourse" : "Crema di ceci con pasta (ditalini rigati)",
           "secondCourse" : "Coscio di pollo arrosto\/Pulpe de pui cu busuloc (*)",
@@ -2765,7 +2763,7 @@
         {
           "sideDish" : "Pane integrale",
           "green" : "Carote alla julienne",
-          "day" : "10-03-23",
+          "day" : "13-03-23",
           "morningSnack" : "Yogurt da bere",
           "mainCourse" : "Pasta (fusilli) all'olio e parmigiano",
           "secondCourse" : "Bastoncini di merluzzo della cuoca",
@@ -2775,7 +2773,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Fagiolini all’olio",
-          "day" : "13-03-23",
+          "day" : "14-03-23",
           "morningSnack" : "Yogurt da bere",
           "mainCourse" : "Lasagna",
           "secondCourse" : "",
@@ -2785,7 +2783,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Purea di patate",
-          "day" : "14-03-23",
+          "day" : "15-03-23",
           "morningSnack" : "Cracker",
           "mainCourse" : "Riso con piselli",
           "secondCourse" : "Sformatino di platessa",
@@ -2795,7 +2793,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Spinaci al burro e parmigiano",
-          "day" : "15-03-23",
+          "day" : "16-03-23",
           "morningSnack" : "Spremuta di arancia e biscotti frollini al cacao",
           "mainCourse" : "Pasta (pipe rigate) alla pizzaiola",
           "secondCourse" : "Arrosto di tacchino",
@@ -2805,7 +2803,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Carote alla julienne",
-          "day" : "16-03-23",
+          "day" : "17-03-23",
           "morningSnack" : "Frutta di stagione",
           "mainCourse" : "Pasta (farfalle) al burro e parmigiano",
           "secondCourse" : "Crescenza",
@@ -2815,7 +2813,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Broccoli romaneschi all'olio",
-          "day" : "17-03-23",
+          "day" : "20-03-23",
           "morningSnack" : "Focaccia rossa soffice",
           "mainCourse" : "Crema di legumi misti con pasta (conchigliette)",
           "secondCourse" : "Frittata",
@@ -2825,7 +2823,7 @@
         {
           "sideDish" : "Pane integrale",
           "green" : "Patate al forno",
-          "day" : "20-03-23",
+          "day" : "21-03-23",
           "morningSnack" : "Cracker",
           "mainCourse" : "Risotto con indivia",
           "secondCourse" : "Straccetti di pollo cremolati",
@@ -2835,7 +2833,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Insalata verde",
-          "day" : "21-03-23",
+          "day" : "22-03-23",
           "morningSnack" : "Yogurt da bere",
           "mainCourse" : "Agnolotti al pomodoro",
           "secondCourse" : "Mozzarella di bufala",
@@ -2845,7 +2843,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Bieta all'olio",
-          "day" : "22-03-23",
+          "day" : "23-03-23",
           "morningSnack" : "Focaccia rossa soffice",
           "mainCourse" : "Crema di fagioli con pasta (corallini)",
           "secondCourse" : "Uova strapazzate",
@@ -2855,7 +2853,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Insalata di finocchi",
-          "day" : "23-03-23",
+          "day" : "24-03-23",
           "morningSnack" : "Frullato di frutta e Biscotti frollini al miele",
           "mainCourse" : "Pasta (conchigliette) con zucca",
           "secondCourse" : "Medaglioni di limanda",
@@ -2865,7 +2863,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Spinaci all'olio",
-          "day" : "24-03-23",
+          "day" : "27-03-23",
           "morningSnack" : "Spremuta di arancia e biscotti frollini al cacao",
           "mainCourse" : "Pasta (gnocchetti sardi) rosa",
           "secondCourse" : "Polpette di carne mista al pomodoro",
@@ -2875,7 +2873,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Carote alla julienne",
-          "day" : "27-03-23",
+          "day" : "28-03-23",
           "morningSnack" : "Yogurt da bere",
           "mainCourse" : "Tortellini al burro e parmigiano",
           "secondCourse" : "Bocconcini di tacchino",
@@ -2885,7 +2883,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Fagiolini all'olio",
-          "day" : "28-03-23",
+          "day" : "29-03-23",
           "morningSnack" : "Spremuta di arancia e biscotti frollini al cacao",
           "mainCourse" : "Crema di lenticchie con pasta (ditalini rigati)",
           "secondCourse" : "Frittata",
@@ -2895,7 +2893,7 @@
         {
           "sideDish" : "Pane",
           "green" : "Broccoli romaneschi all'olio",
-          "day" : "29-03-23",
+          "day" : "30-03-23",
           "morningSnack" : "Frutta di stagione",
           "mainCourse" : "Pasta (farfalle) al trito vegetale",
           "secondCourse" : "Tortino di limanda",
@@ -2905,7 +2903,7 @@
         {
           "sideDish" : "Pane",
           "green" : "",
-          "day" : "30-03-23",
+          "day" : "31-03-23",
           "morningSnack" : "Focaccia rossa soffice",
           "mainCourse" : "Risotto al ragù di carne",
           "secondCourse" : "Tortino di patate",
@@ -2915,7 +2913,6 @@
         {
           "sideDish" : "Pane",
           "green" : "Cavolfiori gratinati",
-          "day" : "31-03-23",
           "morningSnack" : "Cracker",
           "mainCourse" : "Crema di verdure con pasta (semi di melone)",
           "secondCourse" : "Ricotta",
