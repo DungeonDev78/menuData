@@ -1,0 +1,2090 @@
+{
+  "schoolMenus" : [
+    {
+      "days" : [
+        {
+          "sideDish" : "Pane",
+          "day" : "01-03-2023",
+          "morningSnack" : "Polpa di frutta e biscotti frollini al miele",
+          "mainCourse" : "Pasta (pipe piccole rigate) al ragù di carne",
+          "secondCourse" : "Tortino di patate",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Crostatina con marmellata di frutta"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Fagiolini al pomodoro",
+          "day" : "02-03-2023",
+          "morningSnack" : "Cracker",
+          "mainCourse" : "Crema di verdure con pasta (ditalini rigati)",
+          "secondCourse" : "Frittata",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Panino all'olio con cioccolato al latte\/fondente"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Cavolfiori gratinati",
+          "day" : "03-03-2023",
+          "morningSnack" : "Spremuta di arancia e biscotti frollini al cacao",
+          "mainCourse" : "Crema di fagioli con pasta (corallini)",
+          "secondCourse" : "Provolone dolce",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Focaccia bianca"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Spinaci all'olio",
+          "day" : "06-03-2023",
+          "morningSnack" : "Spremuta di arancia e biscotti frollini al cacao",
+          "mainCourse" : "Pasta (lumachine) al pomodoro",
+          "secondCourse" : "Uova strapazzate",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Focaccia bianca"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Finocchi al tegame",
+          "day" : "07-03-2023",
+          "morningSnack" : "Polpa di frutta e biscotti frollini al miele",
+          "mainCourse" : "Pasta (pipe piccole rigate) con zucca",
+          "secondCourse" : "Polpettone goloso di bovino",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Crostatina con marmellata di frutta"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Insalata verde",
+          "day" : "08-03-2023",
+          "morningSnack" : "Cracker",
+          "mainCourse" : "Risotto allo zafferano",
+          "secondCourse" : "Caciotta dolce",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Panino all'olio con cioccolato al latte\/fondente"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Bieta all'olio",
+          "day" : "09-03-2023",
+          "morningSnack" : "Focaccia rossa soffice",
+          "mainCourse" : "Crema di ceci con pasta (ditalini rigati)",
+          "secondCourse" : "Fuso di pollo arrosto",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Banana"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Carote stufate",
+          "day" : "10-03-2023",
+          "morningSnack" : "Yogurt da bere",
+          "mainCourse" : "Pasta (mezzi fusilli) all'olio e parmigiano",
+          "secondCourse" : "Bastoncini di merluzzo della cuoca",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Muffin alle gocce di cioccolato"
+        },
+        {
+          "sideDish" : "Pane",
+          "day" : "13-03-2023",
+          "morningSnack" : "Yogurt da bere",
+          "mainCourse" : "Lasagna",
+          "secondCourse" : "Fagiolini all'olio",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Muffin alle gocce di cioccolato"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Purea di patate",
+          "day" : "14-03-2023",
+          "morningSnack" : "Cracker",
+          "mainCourse" : "Riso con piselli",
+          "secondCourse" : "Sformatino di platessa",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Panino all'olio con cioccolato al latte\/fondente"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Spinaci al burro e parmigiano",
+          "day" : "15-03-2023",
+          "morningSnack" : "Spremuta di arancia e biscotti frollini al cacao",
+          "mainCourse" : "Pasta (pipe piccole rigate) alla pizzaiola",
+          "secondCourse" : "Arrosto di tacchino",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Focaccia bianca"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Carote stufate",
+          "day" : "16-03-2023",
+          "morningSnack" : "Frutta di stagione",
+          "mainCourse" : "Pasta (mezze farfalle) al burro e parmigiano",
+          "secondCourse" : "Crescenza",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Crostatina con marmellata di frutta"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Broccoli romaneschi all'olio",
+          "day" : "17-03-2023",
+          "morningSnack" : "Focaccia rossa soffice",
+          "mainCourse" : "Crema di legumi misti con pasta (conchigliette)",
+          "secondCourse" : "Frittata",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Banana"
+        },
+        {
+          "sideDish" : "Pane integrale",
+          "green" : "Patate al forno",
+          "day" : "20-03-2023",
+          "morningSnack" : "Cracker",
+          "mainCourse" : "Risotto con indivia",
+          "secondCourse" : "Straccetti di pollo cremolati",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Panino all'olio con cioccolato al latte\/fondente"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Insalata verde",
+          "day" : "21-03-2023",
+          "morningSnack" : "Yogurt da bere",
+          "mainCourse" : "Agnolotti al pomodoro",
+          "secondCourse" : "Mozzarella di bufala",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Muffin alle gocce di cioccolato"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Bieta all'olio",
+          "day" : "22-03-2023",
+          "morningSnack" : "Focaccia rossa soffice",
+          "mainCourse" : "Crema di fagioli con pasta (corallini)",
+          "secondCourse" : "Uova strapazzate",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Banana"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Finocchi al tegame",
+          "day" : "23-03-2023",
+          "morningSnack" : "Polpa di frutta e biscotti frollini al miele",
+          "mainCourse" : "Pasta (conchigliette) con zucca",
+          "secondCourse" : "Medaglioni di limanda",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Crostatina con marmellata di frutta"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Spinaci all'olio",
+          "day" : "24-03-2023",
+          "morningSnack" : "Spremuta di arancia e biscotti frollini al cacao",
+          "mainCourse" : "Pasta (gnocchetti sardi) rosa",
+          "secondCourse" : "Polpette di carne mista al pomodoro",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Focaccia bianca"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Carote stufate",
+          "day" : "27-03-2023",
+          "morningSnack" : "Yogurt da bere",
+          "mainCourse" : "Tortellini al burro e parmigiano",
+          "secondCourse" : "Bocconcini di tacchino",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Muffin alle gocce di cioccolato"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Fagiolini all'olio",
+          "day" : "28-03-2023",
+          "morningSnack" : "Spremuta di arancia e biscotti frollini al cacao",
+          "mainCourse" : "Pasta con lenticchie (ditalini rigati)",
+          "secondCourse" : "Frittata",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Focaccia bianca"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Broccoli romaneschi all'olio",
+          "day" : "29-03-2023",
+          "morningSnack" : "Frutta di stagione",
+          "mainCourse" : "Pasta (stortini) al trito vegetale",
+          "secondCourse" : "Tortino di limanda",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Crostatina con marmellata di frutta"
+        },
+        {
+          "sideDish" : "Pane",
+          "day" : "30-03-2023",
+          "morningSnack" : "Focaccia rossa soffice",
+          "mainCourse" : "Risotto al ragù di carne",
+          "secondCourse" : "Tortino di patate",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Banana"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Cavolfiori gratinati",
+          "day" : "31-03-2023",
+          "morningSnack" : "Cracker",
+          "mainCourse" : "Crema di verdure con pasta (semi di melone)",
+          "secondCourse" : "Ricotta",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Panino all'olio con cioccolato al latte\/fondente"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Zucchine gratinate",
+          "day" : "03-04-2023",
+          "morningSnack" : "Cracker",
+          "mainCourse" : "Ravioli ricotta e spinaci burro e salvia",
+          "secondCourse" : "Fesa di tacchino al tegame",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Crostatina con marmellata di frutta"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Carote stufate",
+          "day" : "04-04-2023",
+          "morningSnack" : "Banana",
+          "mainCourse" : "Crema di ceci con pasta",
+          "secondCourse" : "Uova strapazzate\/Frittata",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Panino all'olio con marmellata di frutta"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Bieta all'olio",
+          "day" : "05-04-2023",
+          "morningSnack" : "Yogurt da bere",
+          "mainCourse" : "Pasta al pesto",
+          "secondCourse" : "Tortino di limanda",
+          "fruit" : "Gelato",
+          "afterNoonSnack" : "Focaccia bianca soffice"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Insalata di pomodori",
+          "day" : "12-04-2023",
+          "morningSnack" : "Plumcake allo yogurt",
+          "mainCourse" : "Pasta con lenticchie",
+          "secondCourse" : "Robiola",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Mini grissini e succo di frutta senza zuccheri agg."
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Fagiolini all'olio",
+          "day" : "13-04-2023",
+          "morningSnack" : "Polpa di frutta e biscotti frollini al cacao",
+          "mainCourse" : "Pasta all'ortolana",
+          "secondCourse" : "Bocconcini di tacchino",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Muffin allo yogurt"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Patate all'olio",
+          "day" : "14-04-2023",
+          "morningSnack" : "Cracker",
+          "mainCourse" : "Pasta con zucchine",
+          "secondCourse" : "Filetti di platessa gratinati",
+          "fruit" : "Gelato",
+          "afterNoonSnack" : "Crostatina con marmellata di frutta"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Fagiolini all'olio",
+          "day" : "17-04-2023",
+          "morningSnack" : "Yogurt da bere",
+          "mainCourse" : "Crema di verdure con pasta",
+          "secondCourse" : "Scaloppina di bovino",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Focaccia bianca soffice"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Zucchine trifolate",
+          "day" : "18-04-2023",
+          "morningSnack" : "Plumcake allo yogurt",
+          "mainCourse" : "Pasta al trito vegetale",
+          "secondCourse" : "Medaglioni di merluzzo al limone",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Mini grissini e succo di frutta senza zuccheri agg."
+        },
+        {
+          "sideDish" : "Pane integrale",
+          "green" : "Patate al tegame",
+          "day" : "19-04-2023",
+          "morningSnack" : "Polpa di frutta e biscotti frollini al cacao",
+          "mainCourse" : "Riso alla parmigiana",
+          "secondCourse" : "Fuso di pollo arrosto",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Muffin allo yogurt"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Insalata di pomodori",
+          "day" : "20-04-2023",
+          "morningSnack" : "Cracker",
+          "mainCourse" : "Crema di fagioli con pasta",
+          "secondCourse" : "Uova strapazzate\/Frittata",
+          "fruit" : "Gelato",
+          "afterNoonSnack" : "Crostatina con marmellata di frutta"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Bieta all'olio",
+          "day" : "21-04-2023",
+          "morningSnack" : "Banana",
+          "mainCourse" : "Pizza margherita",
+          "secondCourse" : "Robiola",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Panino all'olio con marmellata di frutta"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Spinaci al burro e parmigiano",
+          "day" : "24-04-2023",
+          "morningSnack" : "Plumcake allo yogurt",
+          "mainCourse" : "Pasta con piselli",
+          "secondCourse" : "Asiago",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Mini grissini e succo di frutta senza zuccheri agg."
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Fagiolini all'olio",
+          "day" : "26-04-2023",
+          "morningSnack" : "Cracker",
+          "mainCourse" : "Pasta con zucchine",
+          "secondCourse" : "Bastoncini di merluzzo della cuoca",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Crostatina con marmellata di frutta"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Zucchine trifolate",
+          "day" : "27-04-2023",
+          "morningSnack" : "Banana",
+          "mainCourse" : "Pasta al pomodoro e basilico",
+          "secondCourse" : "Polpettone di bovino",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Panino all'olio con marmellata di frutta"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Insalata verde",
+          "day" : "28-04-2023",
+          "morningSnack" : "Yogurt da bere",
+          "mainCourse" : "Insalata di pasta mediterranea",
+          "secondCourse" : "Uova strapazzate\/Frittata",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Focaccia bianca soffice"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Spinaci all'olio",
+          "day" : "02-05-2023",
+          "morningSnack" : "Cracker",
+          "mainCourse" : "Pasta al sugo di spigola",
+          "secondCourse" : "Uova strapazzate\/Frittata",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Crostatina con marmellata di frutta"
+        },
+        {
+          "sideDish" : "Pane",
+          "day" : "03-05-2023",
+          "morningSnack" : "Banana",
+          "mainCourse" : "Lasagna",
+          "secondCourse" : "Carote stufate",
+          "fruit" : "Gelato",
+          "afterNoonSnack" : "Panino all'olio con marmellata di frutta"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Patate all'olio",
+          "day" : "04-05-2023",
+          "morningSnack" : "Yogurt da bere",
+          "mainCourse" : "Pasta al burro e parmigiano",
+          "secondCourse" : "Medaglioni di merluzzo",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Focaccia bianca soffice"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Zucchine gratinate",
+          "day" : "05-05-2023",
+          "morningSnack" : "Plumcake allo yogurt",
+          "mainCourse" : "Crema di fagioli con pasta",
+          "secondCourse" : "Ricotta",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Mini grissini e succo di frutta senza zuccheri agg."
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Spinaci all'olio",
+          "day" : "08-05-2023",
+          "morningSnack" : "Banana",
+          "mainCourse" : "Riso alla parmigiana",
+          "secondCourse" : "Bocconcini di tacchino al limone",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Panino all'olio con marmellata di frutta"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Carote al tegame",
+          "day" : "09-05-2023",
+          "morningSnack" : "Yogurt da bere",
+          "mainCourse" : "Pasta al pomodoro e basilico",
+          "secondCourse" : "Tortino di limanda",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Focaccia bianca soffice"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Tortino di zucchine",
+          "day" : "10-05-2023",
+          "morningSnack" : "Plumcake allo yogurt",
+          "mainCourse" : "Pasta con piselli",
+          "secondCourse" : "Uova strapazzate\/Frittata",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Mini grissini e succo di frutta senza zuccheri agg."
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Insalata verde",
+          "day" : "11-05-2023",
+          "morningSnack" : "Frutta di stagione",
+          "mainCourse" : "Pasta all'ortolana",
+          "secondCourse" : "Caciotta dolce",
+          "fruit" : "Gelato",
+          "afterNoonSnack" : "Muffin allo yogurt"
+        },
+        {
+          "sideDish" : "Pane",
+          "day" : "12-05-2023",
+          "morningSnack" : "Cracker",
+          "mainCourse" : "Pasta al ragù di carne",
+          "secondCourse" : "Tortino di patate",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Crostatina con marmellata di frutta"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Zucchine trifolate",
+          "day" : "15-05-2023",
+          "morningSnack" : "Yogurt da bere",
+          "mainCourse" : "Pasta al pomodoro e basilico",
+          "secondCourse" : "Uova strapazzate\/Frittata",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Focaccia bianca soffice"
+        },
+        {
+          "sideDish" : "Pane",
+          "day" : "16-05-2023",
+          "morningSnack" : "Frutta di stagione",
+          "mainCourse" : "Pasta all'olio e parmigiano",
+          "secondCourse" : "Crocchette di patate e fagioli cannellini",
+          "fruit" : "Gelato",
+          "afterNoonSnack" : "Mini grissini e succo di frutta senza zuccheri agg."
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Insalata di pomodori",
+          "day" : "17-05-2023",
+          "morningSnack" : "Polpa di frutta e biscotti frollini al cacao",
+          "mainCourse" : "Agnolotti al pomodoro",
+          "secondCourse" : "Mozzarella di bufala",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Muffin allo yogurt"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Carote stufate",
+          "day" : "18-05-2023",
+          "morningSnack" : "Cracker",
+          "mainCourse" : "Pasta con pesto di zucchine",
+          "secondCourse" : "Filetti di platessa panati",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Crostatina con marmellata di frutta"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Insalata verde",
+          "day" : "19-05-2023",
+          "morningSnack" : "Banana",
+          "mainCourse" : "Risotto allo zafferano",
+          "secondCourse" : "Hamburger di bovino",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Panino all'olio con marmellata di frutta"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Fagiolini all'olio",
+          "day" : "22-05-2023",
+          "morningSnack" : "Plumcake allo yogurt",
+          "mainCourse" : "Pasta al pesto",
+          "secondCourse" : "Bocconcini di maiale panati",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Mini grissini e succo di frutta senza zuccheri agg."
+        },
+        {
+          "sideDish" : "Pane integrale",
+          "green" : "Patate al tegame",
+          "day" : "23-05-2023",
+          "morningSnack" : "Polpa di frutta e biscotti frollini al cacao",
+          "mainCourse" : "Crema di verdure con pasta",
+          "secondCourse" : "Montasio",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Muffin allo yogurt"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Carote al tegame",
+          "day" : "24-05-2023",
+          "morningSnack" : "Cracker",
+          "mainCourse" : "Riso con piselli",
+          "secondCourse" : "Petto di pollo al limone",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Crostatina con marmellata di frutta"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Bieta all'olio",
+          "day" : "25-05-2023",
+          "morningSnack" : "Banana",
+          "mainCourse" : "Pasta e patate",
+          "secondCourse" : "Uova strapazzate\/Frittata",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Panino all'olio con marmellata di frutta"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Zucchine trifolate",
+          "day" : "26-05-2023",
+          "morningSnack" : "Yogurt da bere",
+          "mainCourse" : "Pasta all'olio e parmigiano",
+          "secondCourse" : "Medaglioni di spigola",
+          "fruit" : "Gelato",
+          "afterNoonSnack" : "Focaccia bianca soffice"
+        },
+        {
+          "sideDish" : "Pane",
+          "day" : "29-05-2023",
+          "morningSnack" : "Frutta di stagione",
+          "mainCourse" : "Pasta all'ortolana",
+          "secondCourse" : "Tortino di patate",
+          "fruit" : "Gelato",
+          "afterNoonSnack" : "Muffin allo yogurt"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Insalata verde",
+          "day" : "30-05-2023",
+          "morningSnack" : "Cracker",
+          "mainCourse" : "Pasta al burro e parmigiano",
+          "secondCourse" : "Bastoncini di merluzzo della cuoca",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Crostatina con marmellata di frutta"
+        },
+        {
+          "sideDish" : "Pane",
+          "day" : "31-05-2023",
+          "morningSnack" : "Banana",
+          "mainCourse" : "Pasta integrale al trito vegetale",
+          "secondCourse" : "Frittata con zucchine",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Panino all'olio con marmellata di frutta"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Patate all'olio",
+          "day" : "01-06-2023",
+          "morningSnack" : "Yogurt da bere",
+          "mainCourse" : "Pasta al burro e parmigiano",
+          "secondCourse" : "Medaglioni di merluzzo",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Focaccia bianca soffice"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Spinaci all'olio",
+          "day" : "05-06-2023",
+          "morningSnack" : "Banana",
+          "mainCourse" : "Riso alla parmigiana",
+          "secondCourse" : "Bocconcini di tacchino al limone",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Panino all'olio con marmellata di frutta"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Carote al tegame",
+          "day" : "06-06-2023",
+          "morningSnack" : "Yogurt da bere",
+          "mainCourse" : "Pasta al pomodoro e basilico",
+          "secondCourse" : "Tortino di limanda",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Focaccia bianca soffice"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Tortino di zucchine",
+          "day" : "07-06-2023",
+          "morningSnack" : "Plumcake allo yogurt",
+          "mainCourse" : "Pasta con piselli",
+          "secondCourse" : "Uova strapazzate\/Frittata",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Mini grissini e succo di frutta senza zuccheri agg."
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Insalata verde",
+          "day" : "08-06-2023",
+          "morningSnack" : "Frutta di stagione",
+          "mainCourse" : "Pasta all'ortolana",
+          "secondCourse" : "Caciotta dolce",
+          "fruit" : "Gelato",
+          "afterNoonSnack" : "Muffin allo yogurt"
+        },
+        {
+          "sideDish" : "Pane",
+          "day" : "09-06-2023",
+          "morningSnack" : "Cracker",
+          "mainCourse" : "Pasta al ragù di carne",
+          "secondCourse" : "Tortino di patate",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Crostatina con marmellata di frutta"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Zucchine trifolate",
+          "day" : "12-06-2023",
+          "morningSnack" : "Yogurt da bere",
+          "mainCourse" : "Pasta al pomodoro e basilico",
+          "secondCourse" : "Uova strapazzate\/Frittata",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Focaccia bianca soffice"
+        },
+        {
+          "sideDish" : "Pane",
+          "day" : "13-06-2023",
+          "morningSnack" : "Frutta di stagione",
+          "mainCourse" : "Pasta all'olio e parmigiano",
+          "secondCourse" : "Crocchette di patate e fagioli cannellini",
+          "fruit" : "Gelato",
+          "afterNoonSnack" : "Mini grissini e succo di frutta senza zuccheri agg."
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Insalata di pomodori",
+          "day" : "14-06-2023",
+          "morningSnack" : "Polpa di frutta e biscotti frollini al cacao",
+          "mainCourse" : "Agnolotti al pomodoro",
+          "secondCourse" : "Mozzarella di bufala",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Muffin allo yogurt"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Carote stufate",
+          "day" : "15-06-2023",
+          "morningSnack" : "Cracker",
+          "mainCourse" : "Pasta con pesto di zucchine",
+          "secondCourse" : "Filetti di platessa panati",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Crostatina con marmellata di frutta"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Insalata verde",
+          "day" : "16-06-2023",
+          "morningSnack" : "Banana",
+          "mainCourse" : "Risotto allo zafferano",
+          "secondCourse" : "Hamburger di bovino",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Panino all'olio con marmellata di frutta"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Fagiolini all'olio",
+          "day" : "19-06-2023",
+          "morningSnack" : "Plumcake allo yogurt",
+          "mainCourse" : "Pasta al pesto",
+          "secondCourse" : "Bocconcini di maiale panati",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Mini grissini e succo di frutta senza zuccheri agg."
+        },
+        {
+          "sideDish" : "Pane integrale",
+          "green" : "Patate al tegame",
+          "day" : "20-06-2023",
+          "morningSnack" : "Polpa di frutta e biscotti frollini al cacao",
+          "mainCourse" : "Crema di verdure con pasta",
+          "secondCourse" : "Montasio",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Muffin allo yogurt"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Carote al tegame",
+          "day" : "21-06-2023",
+          "morningSnack" : "Cracker",
+          "mainCourse" : "Riso con piselli",
+          "secondCourse" : "Petto di pollo al limone",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Crostatina con marmellata di frutta"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Bieta all'olio",
+          "day" : "22-06-2023",
+          "morningSnack" : "Banana",
+          "mainCourse" : "Pasta e patate",
+          "secondCourse" : "Uova strapazzate\/Frittata",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Panino all'olio con marmellata di frutta"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Zucchine trifolate",
+          "day" : "23-06-2023",
+          "morningSnack" : "Yogurt da bere",
+          "mainCourse" : "Pasta all'olio e parmigiano",
+          "secondCourse" : "Medaglioni di spigola",
+          "fruit" : "Gelato",
+          "afterNoonSnack" : "Focaccia bianca soffice"
+        },
+        {
+          "sideDish" : "Pane",
+          "day" : "26-06-2023",
+          "morningSnack" : "Frutta di stagione",
+          "mainCourse" : "Pasta all'ortolana",
+          "secondCourse" : "Tortino di patate",
+          "fruit" : "Gelato",
+          "afterNoonSnack" : "Muffin allo yogurt"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Insalata verde",
+          "day" : "27-06-2023",
+          "morningSnack" : "Cracker",
+          "mainCourse" : "Pasta al burro e parmigiano",
+          "secondCourse" : "Bastoncini di merluzzo della cuoca",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Crostatina con marmellata di frutta"
+        },
+        {
+          "sideDish" : "Pane",
+          "day" : "28-06-2023",
+          "morningSnack" : "Banana",
+          "mainCourse" : "Pasta integrale al trito vegetale",
+          "secondCourse" : "Frittata con zucchine",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Panino all'olio con marmellata di frutta"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Fagiolini al pomodoro",
+          "day" : "30-06-2023",
+          "morningSnack" : "Plumcake allo yogurt",
+          "mainCourse" : "Farro con lenticchie",
+          "secondCourse" : "Crescenza",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Mini grissini e succo di frutta senza zuccheri agg."
+        }
+      ],
+      "schoolType" : "infanzia"
+    },
+    {
+      "days" : [
+        {
+          "sideDish" : "Pane integrale",
+          "day" : "01-03-2023",
+          "morningSnack" : "Frullato di frutta e biscotti frollini al miele",
+          "mainCourse" : "Pasta (pipe rigate) al ragù di carne",
+          "secondCourse" : "Tortino di patate",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Crostatina con marmellata di frutta"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Fagiolini al pomodoro",
+          "day" : "02-03-2023",
+          "morningSnack" : "Cracker",
+          "mainCourse" : "Crema di verdure con pasta (ditalini rigati)",
+          "secondCourse" : "Frittata",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Panino all'olio con cioccolato al latte\/fondente"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Cavolfiori gratinati",
+          "day" : "03-03-2023",
+          "morningSnack" : "Spremuta di arancia e biscotti frollini al cacao",
+          "mainCourse" : "Crema di fagioli con pasta (corallini)",
+          "secondCourse" : "Provolone dolce",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Focaccia bianca"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Spinaci all'olio",
+          "day" : "06-03-2023",
+          "morningSnack" : "Spremuta di arancia e biscotti frollini al cacao",
+          "mainCourse" : "Pasta (spaghetti) al tonno",
+          "secondCourse" : "Uova strapazzate",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Focaccia bianca"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Fiori di zucca alla romana",
+          "day" : "07-03-2023",
+          "morningSnack" : "Frullato di frutta e biscotti frollini al miele",
+          "mainCourse" : "Pasta (pipe rigate) con zucca",
+          "secondCourse" : "Saltimbocca alla romana",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Crostatina con marmellata di frutta"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Insalata mista",
+          "day" : "08-03-2023",
+          "morningSnack" : "Cracker",
+          "mainCourse" : "Risotto allo zafferano",
+          "secondCourse" : "Caciotta dolce",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Panino all'olio con cioccolato al latte\/fondente"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Bieta all'olio",
+          "day" : "09-03-2023",
+          "morningSnack" : "Focaccia rossa soffice",
+          "mainCourse" : "Crema di ceci con pasta (ditalini rigati)",
+          "secondCourse" : "Coscio di pollo arrosto\/Pulpe de pui cu busuioc (*)",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Banana"
+        },
+        {
+          "sideDish" : "Pane integrale",
+          "green" : "Carote alla julienne",
+          "day" : "10-03-2023",
+          "morningSnack" : "Yogurt da bere",
+          "mainCourse" : "Pasta (fusilli) all'olio e parmigiano",
+          "secondCourse" : "Bastoncini di merluzzo della cuoca",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Muffin alle gocce di cioccolato"
+        },
+        {
+          "sideDish" : "Pane",
+          "day" : "13-03-2023",
+          "morningSnack" : "Yogurt da bere",
+          "mainCourse" : "Lasagna",
+          "secondCourse" : "Fagiolini all'olio",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Muffin alle gocce di cioccolato"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Purea di patate",
+          "day" : "14-03-2023",
+          "morningSnack" : "Cracker",
+          "mainCourse" : "Riso con piselli",
+          "secondCourse" : "Sformatino di platessa",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Panino all'olio con cioccolato al latte\/fondente"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Spinaci al burro e parmigiano",
+          "day" : "15-03-2023",
+          "morningSnack" : "Spremuta di arancia e biscotti frollini al cacao",
+          "mainCourse" : "Pasta (pipe rigate) alla pizzaiola",
+          "secondCourse" : "Arrosto di tacchino",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Focaccia bianca"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Carote alla julienne",
+          "day" : "16-03-2023",
+          "morningSnack" : "Frutta di stagione",
+          "mainCourse" : "Pasta (farfalle) al burro e parmigiano",
+          "secondCourse" : "Crescenza",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Crostatina con marmellata di frutta"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Broccoli romaneschi all'olio",
+          "day" : "17-03-2023",
+          "morningSnack" : "Focaccia rossa soffice",
+          "mainCourse" : "Crema di legumi misti con pasta (conchigliette)",
+          "secondCourse" : "Frittata",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Banana"
+        },
+        {
+          "sideDish" : "Pane integrale",
+          "green" : "Patate al forno",
+          "day" : "20-03-2023",
+          "morningSnack" : "Cracker",
+          "mainCourse" : "Risotto con indivia",
+          "secondCourse" : "Straccetti di pollo cremolati",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Panino all'olio con cioccolato al latte\/fondente"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Insalata verde",
+          "day" : "21-03-2023",
+          "morningSnack" : "Yogurt da bere",
+          "mainCourse" : "Agnolotti al pomodoro",
+          "secondCourse" : "Mozzarella di bufala",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Muffin alle gocce di cioccolato"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Bieta all'olio",
+          "day" : "22-03-2023",
+          "morningSnack" : "Focaccia rossa soffice",
+          "mainCourse" : "Crema di fagioli con pasta (corallini)",
+          "secondCourse" : "Uova strapazzate",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Banana"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Insalata di finocchi",
+          "day" : "23-03-2023",
+          "morningSnack" : "Frullato di frutta e biscotti frollini al miele",
+          "mainCourse" : "Pasta (conchigliette) con zucca",
+          "secondCourse" : "Medaglioni di limanda",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Crostatina con marmellata di frutta"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Spinaci all'olio",
+          "day" : "24-03-2023",
+          "morningSnack" : "Spremuta di arancia e biscotti frollini al cacao",
+          "mainCourse" : "Pasta (gnocchetti sardi) rosa",
+          "secondCourse" : "Polpette di carne mista al pomodoro",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Focaccia bianca"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Carote alla julienne",
+          "day" : "27-03-2023",
+          "morningSnack" : "Yogurt da bere",
+          "mainCourse" : "Tortellini al burro e parmigiano",
+          "secondCourse" : "Bocconcini di tacchino",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Muffin alle gocce di cioccolato"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Fagiolini all'olio",
+          "day" : "28-03-2023",
+          "morningSnack" : "Spremuta di arancia e biscotti frollini al cacao",
+          "mainCourse" : "Pasta con lenticchie (ditalini rigati)",
+          "secondCourse" : "Frittata",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Focaccia bianca"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Broccoli romaneschi all'olio",
+          "day" : "29-03-2023",
+          "morningSnack" : "Frutta di stagione",
+          "mainCourse" : "Pasta (farfalle) al trito vegetale",
+          "secondCourse" : "Tortino di limanda",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Crostatina con marmellata di frutta"
+        },
+        {
+          "sideDish" : "Pane",
+          "day" : "30-03-2023",
+          "morningSnack" : "Focaccia rossa soffice",
+          "mainCourse" : "Risotto al ragù di carne",
+          "secondCourse" : "Tortino di patate",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Banana"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Cavolfiori gratinati",
+          "day" : "31-03-2023",
+          "morningSnack" : "Cracker",
+          "mainCourse" : "Crema di verdure con pasta (semi di melone)",
+          "secondCourse" : "Ricotta",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Panino all'olio con cioccolato al latte\/fondente"
+        },
+        {
+          "sideDish" : "Pane integrale",
+          "green" : "Fiori di zucca alla romana",
+          "day" : "03-04-2023",
+          "morningSnack" : "Banana",
+          "mainCourse" : "Riso alla parmigiana",
+          "secondCourse" : "Bocconcini di tacchino al limone",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Panino all'olio con marmellata di frutta"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Carote alla julienne",
+          "day" : "04-04-2023",
+          "morningSnack" : "Yogurt da bere",
+          "mainCourse" : "Pasta al pomodoro e basilico",
+          "secondCourse" : "Tortino di limanda",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Focaccia bianca soffice"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Tortino di zucchine",
+          "day" : "05-04-2023",
+          "morningSnack" : "Plumcake allo yogurt",
+          "mainCourse" : "Pasta con piselli",
+          "secondCourse" : "Uova strapazzate\/Frittata",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Mini grissini e succo di frutta senza zuccheri agg."
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Insalata di pomodori",
+          "day" : "12-04-2023",
+          "morningSnack" : "Frullato di frutta e biscotti frollini al cacao",
+          "mainCourse" : "Agnolotti al pomodoro",
+          "secondCourse" : "Mozzarella di bufala",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Muffin allo yogurt"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Carote stufate",
+          "day" : "13-04-2023",
+          "morningSnack" : "Cracker",
+          "mainCourse" : "Pasta con pesto di zucchine",
+          "secondCourse" : "Filetti di platessa panati",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Crostatina con marmellata di frutta"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Insalata verde",
+          "day" : "14-04-2023",
+          "morningSnack" : "Banana",
+          "mainCourse" : "Risotto allo zafferano",
+          "secondCourse" : "Hamburger di bovino",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Panino all'olio con marmellata di frutta"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Fagiolini all'olio",
+          "day" : "17-04-2023",
+          "morningSnack" : "Plumcake allo yogurt",
+          "mainCourse" : "Pasta al pesto",
+          "secondCourse" : "Cotoletta di maiale panata",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Mini grissini e succo di frutta senza zuccheri agg."
+        },
+        {
+          "sideDish" : "Pane integrale",
+          "green" : "Patate al tegame",
+          "day" : "18-04-2023",
+          "morningSnack" : "Frullato di frutta e biscotti frollini al cacao",
+          "mainCourse" : "Crema di verdure con pasta",
+          "secondCourse" : "Montasio",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Muffin allo yogurt"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Carote alla julienne",
+          "day" : "19-04-2023",
+          "morningSnack" : "Cracker",
+          "mainCourse" : "Riso con piselli",
+          "secondCourse" : "Petto di pollo al limone",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Crostatina con marmellata di frutta"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Bieta all'olio",
+          "day" : "20-04-2023",
+          "morningSnack" : "Banana",
+          "mainCourse" : "Pasta e patate",
+          "secondCourse" : "Uova strapazzate\/Frittata",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Panino all'olio con marmellata di frutta"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Zucchine trifolate",
+          "day" : "21-04-2023",
+          "morningSnack" : "Yogurt da bere",
+          "mainCourse" : "Pasta all'olio e parmigiano",
+          "secondCourse" : "Medaglioni di spigola",
+          "fruit" : "Gelato",
+          "afterNoonSnack" : "Focaccia bianca soffice"
+        },
+        {
+          "sideDish" : "Pane",
+          "day" : "24-04-2023",
+          "morningSnack" : "Frutta di stagione",
+          "mainCourse" : "Pasta all'ortolana",
+          "secondCourse" : "Tortino di patate",
+          "fruit" : "Gelato",
+          "afterNoonSnack" : "Muffin allo yogurt"
+        },
+        {
+          "sideDish" : "Pane",
+          "day" : "26-04-2023",
+          "morningSnack" : "Banana",
+          "mainCourse" : "Pasta integrale al trito vegetale",
+          "secondCourse" : "Frittata con zucchine",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Panino all'olio con marmellata di frutta"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Carote al tegame",
+          "day" : "27-04-2023",
+          "morningSnack" : "Yogurt da bere",
+          "mainCourse" : "Pasta al pesto",
+          "secondCourse" : "Coscio di pollo arrosto",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Focaccia bianca soffice"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Fagiolini al pomodoro",
+          "day" : "28-04-2023",
+          "morningSnack" : "Plumcake allo yogurt",
+          "mainCourse" : "Farro con lenticchie",
+          "secondCourse" : "Crescenza",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Mini grissini e succo di frutta senza zuccheri agg."
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Spinaci all'olio",
+          "day" : "02-05-2023",
+          "morningSnack" : "Cracker",
+          "mainCourse" : "Pasta al sugo di spigola",
+          "secondCourse" : "Uova strapazzate\/Frittata",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Crostatina con marmellata di frutta"
+        },
+        {
+          "sideDish" : "Pane",
+          "day" : "03-05-2023",
+          "morningSnack" : "Banana",
+          "mainCourse" : "Lasagna",
+          "secondCourse" : "Carote stufate",
+          "fruit" : "Gelato",
+          "afterNoonSnack" : "Panino all'olio con marmellata di frutta"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Patate all'olio",
+          "day" : "04-05-2023",
+          "morningSnack" : "Yogurt da bere",
+          "mainCourse" : "Pasta al burro e parmigiano",
+          "secondCourse" : "Medaglioni di merluzzo",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Focaccia bianca soffice"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Zucchine gratinate",
+          "day" : "05-05-2023",
+          "morningSnack" : "Plumcake allo yogurt",
+          "mainCourse" : "Crema di fagioli con pasta",
+          "secondCourse" : "Ricotta",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Mini grissini e succo di frutta senza zuccheri agg."
+        },
+        {
+          "sideDish" : "Pane integrale",
+          "green" : "Fiori di zucca alla romana",
+          "day" : "08-05-2023",
+          "morningSnack" : "Banana",
+          "mainCourse" : "Riso alla parmigiana",
+          "secondCourse" : "Bocconcini di tacchino al limone",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Panino all'olio con marmellata di frutta"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Carote alla julienne",
+          "day" : "09-05-2023",
+          "morningSnack" : "Yogurt da bere",
+          "mainCourse" : "Pasta al pomodoro e basilico",
+          "secondCourse" : "Tortino di limanda",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Focaccia bianca soffice"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Tortino di zucchine",
+          "day" : "10-05-2023",
+          "morningSnack" : "Plumcake allo yogurt",
+          "mainCourse" : "Pasta con piselli",
+          "secondCourse" : "Uova strapazzate\/Frittata",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Mini grissini e succo di frutta senza zuccheri agg."
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Insalata mista",
+          "day" : "11-05-2023",
+          "morningSnack" : "Frutta di stagione",
+          "mainCourse" : "Pasta all'ortolana",
+          "secondCourse" : "Caciotta dolce",
+          "fruit" : "Gelato",
+          "afterNoonSnack" : "Muffin allo yogurt"
+        },
+        {
+          "sideDish" : "Pane",
+          "day" : "12-05-2023",
+          "morningSnack" : "Cracker",
+          "mainCourse" : "Pasta al ragù di carne",
+          "secondCourse" : "Tortino di patate",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Crostatina con marmellata di frutta"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Zucchine trifolate",
+          "day" : "15-05-2023",
+          "morningSnack" : "Yogurt da bere",
+          "mainCourse" : "Pasta al tonno",
+          "secondCourse" : "Uova strapazzate\/Frittata",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Focaccia bianca soffice"
+        },
+        {
+          "sideDish" : "Pane",
+          "day" : "16-05-2023",
+          "morningSnack" : "Plumcake allo yogurt",
+          "mainCourse" : "Pasta (pipe rigate) all'olio e parmigiano\/Cous cous pollo e verdure",
+          "secondCourse" : "Crocchette di patate e fagioli cannellini",
+          "fruit" : "Gelato",
+          "afterNoonSnack" : "Mini grissini e succo di frutta senza zuccheri agg."
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Insalata di pomodori",
+          "day" : "17-05-2023",
+          "morningSnack" : "Frullato di frutta e biscotti frollini al cacao",
+          "mainCourse" : "Agnolotti al pomodoro",
+          "secondCourse" : "Mozzarella di bufala",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Muffin allo yogurt"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Carote stufate",
+          "day" : "18-05-2023",
+          "morningSnack" : "Cracker",
+          "mainCourse" : "Pasta con pesto di zucchine",
+          "secondCourse" : "Filetti di platessa panati",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Crostatina con marmellata di frutta"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Insalata verde",
+          "day" : "19-05-2023",
+          "morningSnack" : "Banana",
+          "mainCourse" : "Risotto allo zafferano",
+          "secondCourse" : "Hamburger di bovino",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Panino all'olio con marmellata di frutta"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Fagiolini all'olio",
+          "day" : "22-05-2023",
+          "morningSnack" : "Plumcake allo yogurt",
+          "mainCourse" : "Pasta al pesto",
+          "secondCourse" : "Cotoletta di maiale panata",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Mini grissini e succo di frutta senza zuccheri agg."
+        },
+        {
+          "sideDish" : "Pane integrale",
+          "green" : "Patate al tegame",
+          "day" : "23-05-2023",
+          "morningSnack" : "Frullato di frutta e biscotti frollini al cacao",
+          "mainCourse" : "Crema di verdure con pasta",
+          "secondCourse" : "Montasio",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Muffin allo yogurt"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Carote alla julienne",
+          "day" : "24-05-2023",
+          "morningSnack" : "Cracker",
+          "mainCourse" : "Riso con piselli",
+          "secondCourse" : "Petto di pollo al limone",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Crostatina con marmellata di frutta"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Bieta all'olio",
+          "day" : "25-05-2023",
+          "morningSnack" : "Banana",
+          "mainCourse" : "Pasta e patate",
+          "secondCourse" : "Uova strapazzate\/Frittata",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Panino all'olio con marmellata di frutta"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Zucchine trifolate",
+          "day" : "26-05-2023",
+          "morningSnack" : "Yogurt da bere",
+          "mainCourse" : "Pasta all'olio e parmigiano",
+          "secondCourse" : "Medaglioni di spigola",
+          "fruit" : "Gelato",
+          "afterNoonSnack" : "Focaccia bianca soffice"
+        },
+        {
+          "sideDish" : "Pane",
+          "day" : "29-05-2023",
+          "morningSnack" : "Frutta di stagione",
+          "mainCourse" : "Pasta all'ortolana",
+          "secondCourse" : "Tortino di patate",
+          "fruit" : "Gelato",
+          "afterNoonSnack" : "Muffin allo yogurt"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Insalata verde",
+          "day" : "30-05-2023",
+          "morningSnack" : "Cracker",
+          "mainCourse" : "Pasta al burro e parmigiano",
+          "secondCourse" : "Bastoncini di merluzzo della cuoca",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Crostatina con marmellata di frutta"
+        },
+        {
+          "sideDish" : "Pane",
+          "day" : "31-05-2023",
+          "morningSnack" : "Banana",
+          "mainCourse" : "Pasta integrale al trito vegetale",
+          "secondCourse" : "Frittata con zucchine",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Panino all'olio con marmellata di frutta"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Carote al tegame",
+          "day" : "01-06-2023",
+          "morningSnack" : "Yogurt da bere",
+          "mainCourse" : "Pasta al pesto",
+          "secondCourse" : "Coscio di pollo arrosto",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Focaccia bianca soffice"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Zucchine gratinate",
+          "day" : "05-06-2023",
+          "morningSnack" : "Cracker",
+          "mainCourse" : "Ravioli ricotta e spinaci burro e salvia",
+          "secondCourse" : "Fesa di tacchino al tegame",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Crostatina con marmellata di frutta"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Carote stufate",
+          "day" : "06-06-2023",
+          "morningSnack" : "Banana",
+          "mainCourse" : "Crema di ceci con pasta",
+          "secondCourse" : "Uova strapazzate\/Frittata",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Panino all'olio con marmellata di frutta"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Bieta all'olio",
+          "day" : "07-06-2023",
+          "morningSnack" : "Yogurt da bere",
+          "mainCourse" : "Pasta al pesto",
+          "secondCourse" : "Tonno all'olio di oliva",
+          "fruit" : "Gelato",
+          "afterNoonSnack" : "Focaccia bianca soffice"
+        },
+        {
+          "sideDish" : "Pane integrale",
+          "green" : "Patate al forno",
+          "day" : "08-06-2023",
+          "morningSnack" : "Plumcake allo yogurt",
+          "mainCourse" : "Risotto al ragù di carne",
+          "secondCourse" : "Mozzarella di bufala",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Mini grissini e succo di frutta senza zuccheri agg."
+        }
+      ],
+      "schoolType" : "primaria"
+    },
+    {
+      "days" : [
+        {
+          "sideDish" : "Pane integrale",
+          "day" : "01-03-2023",
+          "morningSnack" : "Frullato di frutta e biscotti frollini al miele",
+          "mainCourse" : "Pasta (pipe rigate) al ragù di carne",
+          "secondCourse" : "Tortino di patate",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Crostatina con marmellata di frutta"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Fagiolini al pomodoro",
+          "day" : "02-03-2023",
+          "morningSnack" : "Cracker",
+          "mainCourse" : "Crema di verdure con pasta (ditalini rigati)",
+          "secondCourse" : "Frittata",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Panino all'olio con cioccolato al latte\/fondente"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Cavolfiori gratinati",
+          "day" : "03-03-2023",
+          "morningSnack" : "Spremuta di arancia e biscotti frollini al cacao",
+          "mainCourse" : "Crema di fagioli con pasta (corallini)",
+          "secondCourse" : "Provolone dolce",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Focaccia bianca"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Spinaci all'olio",
+          "day" : "06-03-2023",
+          "morningSnack" : "Spremuta di arancia e biscotti frollini al cacao",
+          "mainCourse" : "Pasta (spaghetti) al tonno",
+          "secondCourse" : "Uova strapazzate",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Focaccia bianca"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Fiori di zucca alla romana",
+          "day" : "07-03-2023",
+          "morningSnack" : "Frullato di frutta e biscotti frollini al miele",
+          "mainCourse" : "Pasta (pipe rigate) con zucca",
+          "secondCourse" : "Saltimbocca alla romana",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Crostatina con marmellata di frutta"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Insalata mista",
+          "day" : "08-03-2023",
+          "morningSnack" : "Cracker",
+          "mainCourse" : "Risotto allo zafferano",
+          "secondCourse" : "Caciotta dolce",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Panino all'olio con cioccolato al latte\/fondente"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Bieta all'olio",
+          "day" : "09-03-2023",
+          "morningSnack" : "Focaccia rossa soffice",
+          "mainCourse" : "Crema di ceci con pasta (ditalini rigati)",
+          "secondCourse" : "Coscio di pollo arrosto\/Pulpe de pui cu busuioc (*)",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Banana"
+        },
+        {
+          "sideDish" : "Pane integrale",
+          "green" : "Carote alla julienne",
+          "day" : "10-03-2023",
+          "morningSnack" : "Yogurt da bere",
+          "mainCourse" : "Pasta (fusilli) all'olio e parmigiano",
+          "secondCourse" : "Bastoncini di merluzzo della cuoca",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Muffin alle gocce di cioccolato"
+        },
+        {
+          "sideDish" : "Pane",
+          "day" : "13-03-2023",
+          "morningSnack" : "Yogurt da bere",
+          "mainCourse" : "Lasagna",
+          "secondCourse" : "Fagiolini all'olio",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Muffin alle gocce di cioccolato"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Purea di patate",
+          "day" : "14-03-2023",
+          "morningSnack" : "Cracker",
+          "mainCourse" : "Riso con piselli",
+          "secondCourse" : "Sformatino di platessa",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Panino all'olio con cioccolato al latte\/fondente"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Spinaci al burro e parmigiano",
+          "day" : "15-03-2023",
+          "morningSnack" : "Spremuta di arancia e biscotti frollini al cacao",
+          "mainCourse" : "Pasta (pipe rigate) alla pizzaiola",
+          "secondCourse" : "Arrosto di tacchino",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Focaccia bianca"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Carote alla julienne",
+          "day" : "16-03-2023",
+          "morningSnack" : "Frutta di stagione",
+          "mainCourse" : "Pasta (farfalle) al burro e parmigiano",
+          "secondCourse" : "Crescenza",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Crostatina con marmellata di frutta"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Broccoli romaneschi all'olio",
+          "day" : "17-03-2023",
+          "morningSnack" : "Focaccia rossa soffice",
+          "mainCourse" : "Crema di legumi misti con pasta (conchigliette)",
+          "secondCourse" : "Frittata",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Banana"
+        },
+        {
+          "sideDish" : "Pane integrale",
+          "green" : "Patate al forno",
+          "day" : "20-03-2023",
+          "morningSnack" : "Cracker",
+          "mainCourse" : "Risotto con indivia",
+          "secondCourse" : "Straccetti di pollo cremolati",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Panino all'olio con cioccolato al latte\/fondente"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Insalata verde",
+          "day" : "21-03-2023",
+          "morningSnack" : "Yogurt da bere",
+          "mainCourse" : "Agnolotti al pomodoro",
+          "secondCourse" : "Mozzarella di bufala",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Muffin alle gocce di cioccolato"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Bieta all'olio",
+          "day" : "22-03-2023",
+          "morningSnack" : "Focaccia rossa soffice",
+          "mainCourse" : "Crema di fagioli con pasta (corallini)",
+          "secondCourse" : "Uova strapazzate",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Banana"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Insalata di finocchi",
+          "day" : "23-03-2023",
+          "morningSnack" : "Frullato di frutta e biscotti frollini al miele",
+          "mainCourse" : "Pasta (conchigliette) con zucca",
+          "secondCourse" : "Medaglioni di limanda",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Crostatina con marmellata di frutta"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Spinaci all'olio",
+          "day" : "24-03-2023",
+          "morningSnack" : "Spremuta di arancia e biscotti frollini al cacao",
+          "mainCourse" : "Pasta (gnocchetti sardi) rosa",
+          "secondCourse" : "Polpette di carne mista al pomodoro",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Focaccia bianca"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Carote alla julienne",
+          "day" : "27-03-2023",
+          "morningSnack" : "Yogurt da bere",
+          "mainCourse" : "Tortellini al burro e parmigiano",
+          "secondCourse" : "Bocconcini di tacchino",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Muffin alle gocce di cioccolato"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Fagiolini all'olio",
+          "day" : "28-03-2023",
+          "morningSnack" : "Spremuta di arancia e biscotti frollini al cacao",
+          "mainCourse" : "Pasta con lenticchie (ditalini rigati)",
+          "secondCourse" : "Frittata",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Focaccia bianca"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Broccoli romaneschi all'olio",
+          "day" : "29-03-2023",
+          "morningSnack" : "Frutta di stagione",
+          "mainCourse" : "Pasta (farfalle) al trito vegetale",
+          "secondCourse" : "Tortino di limanda",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Crostatina con marmellata di frutta"
+        },
+        {
+          "sideDish" : "Pane",
+          "day" : "30-03-2023",
+          "morningSnack" : "Focaccia rossa soffice",
+          "mainCourse" : "Risotto al ragù di carne",
+          "secondCourse" : "Tortino di patate",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Banana"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Cavolfiori gratinati",
+          "day" : "31-03-2023",
+          "morningSnack" : "Cracker",
+          "mainCourse" : "Crema di verdure con pasta (semi di melone)",
+          "secondCourse" : "Ricotta",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Panino all'olio con cioccolato al latte\/fondente"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Zucchine gratinate",
+          "day" : "03-04-2023",
+          "morningSnack" : "Cracker",
+          "mainCourse" : "Ravioli ricotta e spinaci burro e salvia",
+          "secondCourse" : "Fesa di tacchino al tegame",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Crostatina con marmellata di frutta"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Carote stufate",
+          "day" : "04-04-2023",
+          "morningSnack" : "Banana",
+          "mainCourse" : "Crema di ceci con pasta",
+          "secondCourse" : "Uova strapazzate\/Frittata",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Panino all'olio con marmellata di frutta"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Bieta all'olio",
+          "day" : "05-04-2023",
+          "morningSnack" : "Yogurt da bere",
+          "mainCourse" : "Pasta al pesto",
+          "secondCourse" : "Tonno all'olio di oliva",
+          "fruit" : "Gelato",
+          "afterNoonSnack" : "Focaccia bianca soffice"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Insalata di pomodori",
+          "day" : "12-04-2023",
+          "morningSnack" : "Plumcake allo yogurt",
+          "mainCourse" : "Pasta con lenticchie",
+          "secondCourse" : "Robiola",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Mini grissini e succo di frutta senza zuccheri agg."
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Fagiolini all'olio",
+          "day" : "13-04-2023",
+          "morningSnack" : "Frullato di frutta e biscotti frollini al cacao",
+          "mainCourse" : "Pasta all'ortolana",
+          "secondCourse" : "Bocconcini di tacchino",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Muffin allo yogurt"
+        },
+        {
+          "sideDish" : "Pane integrale",
+          "green" : "Patate all'olio",
+          "day" : "14-04-2023",
+          "morningSnack" : "Cracker",
+          "mainCourse" : "Pasta con zucchine",
+          "secondCourse" : "Filetti di platessa gratinati",
+          "fruit" : "Gelato",
+          "afterNoonSnack" : "Crostatina con marmellata di frutta"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Fagiolini all'olio",
+          "day" : "17-04-2023",
+          "morningSnack" : "Yogurt da bere",
+          "mainCourse" : "Crema di verdure con pasta",
+          "secondCourse" : "Scaloppina di bovino",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Focaccia bianca soffice"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Zucchine trifolate",
+          "day" : "18-04-2023",
+          "morningSnack" : "Plumcake allo yogurt",
+          "mainCourse" : "Pasta al trito vegetale",
+          "secondCourse" : "Medaglioni di merluzzo al limone",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Mini grissini e succo di frutta senza zuccheri agg."
+        },
+        {
+          "sideDish" : "Pane integrale",
+          "green" : "Patate al tegame",
+          "day" : "19-04-2023",
+          "morningSnack" : "Frullato di frutta e biscotti frollini al cacao",
+          "mainCourse" : "Riso alla parmigiana",
+          "secondCourse" : "Coscio di pollo arrosto\/Pulpe de pui cu busuioc",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Muffin allo yogurt"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Insalata di pomodori",
+          "day" : "20-04-2023",
+          "morningSnack" : "Cracker",
+          "mainCourse" : "Crema di fagioli con pasta",
+          "secondCourse" : "Uova strapazzate\/Frittata",
+          "fruit" : "Gelato",
+          "afterNoonSnack" : "Crostatina con marmellata di frutta"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Bieta all'olio",
+          "day" : "21-04-2023",
+          "morningSnack" : "Banana",
+          "mainCourse" : "Pizza margherita",
+          "secondCourse" : "Robiola",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Panino all'olio e marmellata di frutta"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Spinaci al burro e parmigiano",
+          "day" : "24-04-2023",
+          "morningSnack" : "Plumcake allo yogurt",
+          "mainCourse" : "Pasta con piselli",
+          "secondCourse" : "Asiago",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Mini grissini e succo di frutta senza zuccheri agg."
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Fagiolini all'olio",
+          "day" : "26-04-2023",
+          "morningSnack" : "Cracker",
+          "mainCourse" : "Pasta con zucchine",
+          "secondCourse" : "Bastoncini di merluzzo della cuoca",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Crostatina con marmellata di frutta"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Zucchine trifolate",
+          "day" : "27-04-2023",
+          "morningSnack" : "Banana",
+          "mainCourse" : "Pasta al pomodoro e basilico",
+          "secondCourse" : "Polpettone di bovino",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Panino all'olio con marmellata di frutta"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Insalata mista",
+          "day" : "28-04-2023",
+          "morningSnack" : "Yogurt da bere",
+          "mainCourse" : "Insalata di pasta mediterranea",
+          "secondCourse" : "Uova strapazzate\/Frittata",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Focaccia bianca soffice"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Spinaci all'olio",
+          "day" : "02-05-2023",
+          "morningSnack" : "Cracker",
+          "mainCourse" : "Pasta al sugo di spigola",
+          "secondCourse" : "Uova strapazzate\/Frittata",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Crostatina con marmellata di frutta"
+        },
+        {
+          "sideDish" : "Pane",
+          "day" : "03-05-2023",
+          "morningSnack" : "Banana",
+          "mainCourse" : "Lasagna",
+          "secondCourse" : "Carote stufate",
+          "fruit" : "Gelato",
+          "afterNoonSnack" : "Panino all'olio con marmellata di frutta"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Patate all'olio",
+          "day" : "04-05-2023",
+          "morningSnack" : "Yogurt da bere",
+          "mainCourse" : "Pasta al burro e parmigiano",
+          "secondCourse" : "Medaglioni di merluzzo",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Focaccia bianca soffice"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Zucchine gratinate",
+          "day" : "05-05-2023",
+          "morningSnack" : "Plumcake allo yogurt",
+          "mainCourse" : "Crema di fagioli con pasta",
+          "secondCourse" : "Ricotta",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Mini grissini e succo di frutta senza zuccheri agg."
+        },
+        {
+          "sideDish" : "Pane integrale",
+          "green" : "Fiori di zucca alla romana",
+          "day" : "08-05-2023",
+          "morningSnack" : "Banana",
+          "mainCourse" : "Riso alla parmigiana",
+          "secondCourse" : "Bocconcini di tacchino al limone",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Panino all'olio con marmellata di frutta"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Carote alla julienne",
+          "day" : "09-05-2023",
+          "morningSnack" : "Yogurt da bere",
+          "mainCourse" : "Pasta al pomodoro e basilico",
+          "secondCourse" : "Tortino di limanda",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Focaccia bianca soffice"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Tortino di zucchine",
+          "day" : "10-05-2023",
+          "morningSnack" : "Plumcake allo yogurt",
+          "mainCourse" : "Pasta con piselli",
+          "secondCourse" : "Uova strapazzate\/Frittata",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Mini grissini e succo di frutta senza zuccheri agg."
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Insalata mista",
+          "day" : "11-05-2023",
+          "morningSnack" : "Frutta di stagione",
+          "mainCourse" : "Pasta all'ortolana",
+          "secondCourse" : "Caciotta dolce",
+          "fruit" : "Gelato",
+          "afterNoonSnack" : "Muffin allo yogurt"
+        },
+        {
+          "sideDish" : "Pane",
+          "day" : "12-05-2023",
+          "morningSnack" : "Cracker",
+          "mainCourse" : "Pasta al ragù di carne",
+          "secondCourse" : "Tortino di patate",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Crostatina con marmellata di frutta"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Zucchine trifolate",
+          "day" : "15-05-2023",
+          "morningSnack" : "Yogurt da bere",
+          "mainCourse" : "Pasta al tonno",
+          "secondCourse" : "Uova strapazzate\/Frittata",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Focaccia bianca soffice"
+        },
+        {
+          "sideDish" : "Pane",
+          "day" : "16-05-2023",
+          "morningSnack" : "Plumcake allo yogurt",
+          "mainCourse" : "Pasta (pipe rigate) all'olio e parmigiano\/Cous cous pollo e verdure",
+          "secondCourse" : "Crocchette di patate e fagioli cannellini",
+          "fruit" : "Gelato",
+          "afterNoonSnack" : "Mini grissini e succo di frutta senza zuccheri agg."
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Insalata di pomodori",
+          "day" : "17-05-2023",
+          "morningSnack" : "Frullato di frutta e biscotti frollini al cacao",
+          "mainCourse" : "Agnolotti al pomodoro",
+          "secondCourse" : "Mozzarella di bufala",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Muffin allo yogurt"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Carote stufate",
+          "day" : "18-05-2023",
+          "morningSnack" : "Cracker",
+          "mainCourse" : "Pasta con pesto di zucchine",
+          "secondCourse" : "Filetti di platessa panati",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Crostatina con marmellata di frutta"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Insalata verde",
+          "day" : "19-05-2023",
+          "morningSnack" : "Banana",
+          "mainCourse" : "Risotto allo zafferano",
+          "secondCourse" : "Hamburger di bovino",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Panino all'olio con marmellata di frutta"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Fagiolini all'olio",
+          "day" : "22-05-2023",
+          "morningSnack" : "Plumcake allo yogurt",
+          "mainCourse" : "Pasta al pesto",
+          "secondCourse" : "Cotoletta di maiale panata",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Mini grissini e succo di frutta senza zuccheri agg."
+        },
+        {
+          "sideDish" : "Pane integrale",
+          "green" : "Patate al tegame",
+          "day" : "23-05-2023",
+          "morningSnack" : "Frullato di frutta e biscotti frollini al cacao",
+          "mainCourse" : "Crema di verdure con pasta",
+          "secondCourse" : "Montasio",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Muffin allo yogurt"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Carote alla julienne",
+          "day" : "24-05-2023",
+          "morningSnack" : "Cracker",
+          "mainCourse" : "Riso con piselli",
+          "secondCourse" : "Petto di pollo al limone",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Crostatina con marmellata di frutta"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Bieta all'olio",
+          "day" : "25-05-2023",
+          "morningSnack" : "Banana",
+          "mainCourse" : "Pasta e patate",
+          "secondCourse" : "Uova strapazzate\/Frittata",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Panino all'olio con marmellata di frutta"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Zucchine trifolate",
+          "day" : "26-05-2023",
+          "morningSnack" : "Yogurt da bere",
+          "mainCourse" : "Pasta all'olio e parmigiano",
+          "secondCourse" : "Medaglioni di spigola",
+          "fruit" : "Gelato",
+          "afterNoonSnack" : "Focaccia bianca soffice"
+        },
+        {
+          "sideDish" : "Pane",
+          "day" : "29-05-2023",
+          "morningSnack" : "Frutta di stagione",
+          "mainCourse" : "Pasta all'ortolana",
+          "secondCourse" : "Tortino di patate",
+          "fruit" : "Gelato",
+          "afterNoonSnack" : "Muffin allo yogurt"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Insalata verde",
+          "day" : "30-05-2023",
+          "morningSnack" : "Cracker",
+          "mainCourse" : "Pasta al burro e parmigiano",
+          "secondCourse" : "Bastoncini di merluzzo della cuoca",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Crostatina con marmellata di frutta"
+        },
+        {
+          "sideDish" : "Pane",
+          "day" : "31-05-2023",
+          "morningSnack" : "Banana",
+          "mainCourse" : "Pasta integrale al trito vegetale",
+          "secondCourse" : "Frittata con zucchine",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Panino all'olio con marmellata di frutta"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Carote al tegame",
+          "day" : "01-06-2023",
+          "morningSnack" : "Yogurt da bere",
+          "mainCourse" : "Pasta al pesto",
+          "secondCourse" : "Coscio di pollo arrosto",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Focaccia bianca soffice"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Zucchine gratinate",
+          "day" : "05-06-2023",
+          "morningSnack" : "Cracker",
+          "mainCourse" : "Ravioli ricotta e spinaci burro e salvia",
+          "secondCourse" : "Fesa di tacchino al tegame",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Crostatina con marmellata di frutta"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Carote stufate",
+          "day" : "06-06-2023",
+          "morningSnack" : "Banana",
+          "mainCourse" : "Crema di ceci con pasta",
+          "secondCourse" : "Uova strapazzate\/Frittata",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Panino all'olio con marmellata di frutta"
+        },
+        {
+          "sideDish" : "Pane",
+          "green" : "Bieta all'olio",
+          "day" : "07-06-2023",
+          "morningSnack" : "Yogurt da bere",
+          "mainCourse" : "Pasta al pesto",
+          "secondCourse" : "Tonno all'olio di oliva",
+          "fruit" : "Gelato",
+          "afterNoonSnack" : "Focaccia bianca soffice"
+        },
+        {
+          "sideDish" : "Pane integrale",
+          "green" : "Patate al forno",
+          "day" : "08-06-2023",
+          "morningSnack" : "Plumcake allo yogurt",
+          "mainCourse" : "Risotto al ragù di carne",
+          "secondCourse" : "Mozzarella di bufala",
+          "fruit" : "Frutta",
+          "afterNoonSnack" : "Mini grissini e succo di frutta senza zuccheri agg."
+        }
+      ],
+      "schoolType" : "secondaria"
+    }
+  ],
+  "identifier" : "municipioIX"
+}
