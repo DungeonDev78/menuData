@@ -1,1 +1,487 @@
-{}
+{
+    "identifier": "municipioIII",
+    "cicliScolastici": [
+        {
+            "menuGionalieri": [],
+            "identifier": "infanzia"
+        },
+        {
+            "identifier": "nidoGrandi",
+            "menuGionalieri": [
+                {
+                    "data": "02-09-2024",
+                    "merenda": "Yogurt e cereali",
+                    "pranzo": [
+                        "Crema di piselli con pasta",
+                        "Caciotta dolce",
+                        "Spinaci all'olio e parmigiano",
+                        "Pane"
+                    ],
+                    "spuntino": "Frutta fresca"
+                },
+                {
+                    "pranzo": [
+                        "Farro all'ortolana",
+                        "Arrosto di tacchino",
+                        "Patate al forno",
+                        "Pane"
+                    ],
+                    "spuntino": "Frutta fresca",
+                    "data": "03-09-2024",
+                    "merenda": "Frullato di banana con latte"
+                },
+                {
+                    "data": "04-09-2024",
+                    "pranzo": [
+                        "Pasta con zucchine",
+                        "Tortino di limanda",
+                        "Fagiolini all'olio",
+                        "Pane"
+                    ],
+                    "spuntino": "Frutta fresca",
+                    "merenda": "Gelato fior di latte"
+                },
+                {
+                    "spuntino": "Frutta fresca",
+                    "data": "05-09-2024",
+                    "merenda": "Latte e Biscotti",
+                    "pranzo": [
+                        "Pasta al pomodoro fresco e basilico",
+                        "Polpettone di bovino",
+                        "Zucchine trifolate",
+                        "Pane"
+                    ]
+                },
+                {
+                    "pranzo": [
+                        "Crema di verdure con pasta",
+                        "Uova strapazzate",
+                        "Insalata cappuccina",
+                        "Pane"
+                    ],
+                    "data": "06-09-2024",
+                    "spuntino": "Frutta fresca",
+                    "merenda": "Pane (a fette) e pomodoro"
+                },
+                {
+                    "pranzo": [
+                        "Risotto con zucchine",
+                        "Straccetti di pollo cremolati",
+                        "Insalata di pomodori",
+                        "Pane"
+                    ],
+                    "data": "09-09-2024",
+                    "spuntino": "Frutta fresca",
+                    "merenda": "Polpa di frutta e fette biscottate"
+                },
+                {
+                    "data": "10-09-2024",
+                    "pranzo": [
+                        "Pasta al sugo di spigola",
+                        "Frittata",
+                        "Spinacia all'olio",
+                        "Pane"
+                    ],
+                    "spuntino": "Frutta fresca",
+                    "merenda": "Yogurt e cereali"
+                },
+                {
+                    "data": "11-09-2024",
+                    "merenda": "Focaccia bianca soffice",
+                    "pranzo": [
+                        "Timballo di pasta",
+                        "Carote stufate",
+                        "Pane"
+                    ],
+                    "spuntino": "Frutta fresca"
+                },
+                {
+                    "pranzo": [
+                        "Pasta al burro e parmigiano",
+                        "Medaglioni di merluzzo",
+                        "Patate all'olio",
+                        "Pane"
+                    ],
+                    "merenda": "Frullato di banana con latte",
+                    "spuntino": "Frutta fresca",
+                    "data": "12-09-2024"
+                },
+                {
+                    "pranzo": [
+                        "Crema di fagioli con pasta",
+                        "Ricotta",
+                        "Zucchine gratinate",
+                        "Pane"
+                    ],
+                    "merenda": "Latte e biscotti",
+                    "spuntino": "Frutta fresca",
+                    "data": "13-09-2024"
+                },
+                {
+                    "data": "16-09-2024",
+                    "spuntino": "Frutta fresca",
+                    "merenda": "Yogurt e cereali",
+                    "pranzo": [
+                        "Riso alla parmigiana",
+                        "Bocconcini di pollo al tegame",
+                        "Spinaci all'olio",
+                        "Pane"
+                    ]
+                },
+                {
+                    "pranzo": [
+                        "Pasta al pomodoro fresco e basilico",
+                        "Tortino di limanda",
+                        "Carote all'olio",
+                        "Pane"
+                    ],
+                    "spuntino": "Frutta fresca",
+                    "merenda": "Latte e biscotti",
+                    "data": "17-09-2024"
+                },
+                {
+                    "pranzo": [
+                        "Crema di ceci con pasta",
+                        "Uova strapazzate",
+                        "Zucchine gratinate",
+                        "Pane"
+                    ],
+                    "data": "18-09-2024",
+                    "spuntino": "Frutta fresca",
+                    "merenda": "Frullato di banana con latte"
+                },
+                {
+                    "merenda": "Polpa di frutta e fette biscottate",
+                    "pranzo": [
+                        "Pasta all'ortolana",
+                        "Caciotta dolce",
+                        "Insalata cappuccina",
+                        "Pane"
+                    ],
+                    "data": "19-09-2024",
+                    "spuntino": "Frutta fresca"
+                },
+                {
+                    "pranzo": [
+                        "Pasta al ragù di carne",
+                        "Tortino di patate",
+                        "Pane"
+                    ],
+                    "merenda": "Focaccia bianca soffice",
+                    "spuntino": "Frutta fresca",
+                    "data": "20-09-2024"
+                },
+                {
+                    "pranzo": [
+                        "Pasta al pomodoro fresco e basilico",
+                        "Frittata",
+                        "Zucchine trifolate",
+                        "Pane"
+                    ],
+                    "merenda": "Latte e Biscotti",
+                    "spuntino": "Frutta fresca",
+                    "data": "23-09-2024"
+                },
+                {
+                    "pranzo": [
+                        "Crocchette di patate e fagioli cannellini",
+                        "Pasta all'olio e parmigiano",
+                        "Pane"
+                    ],
+                    "spuntino": "Frutta fresca",
+                    "merenda": "Yogurt e cereali",
+                    "data": "24-09-2024"
+                },
+                {
+                    "pranzo": [
+                        "Crema di verdure con pasta",
+                        "Robiola",
+                        "Insalata di pomodori",
+                        "Pane"
+                    ],
+                    "merenda": "Polpa di frutta e Fette Biscottate",
+                    "spuntino": "Frutta fresca",
+                    "data": "25-09-2024"
+                },
+                {
+                    "spuntino": "Frutta fresca",
+                    "data": "26-09-2024",
+                    "pranzo": [
+                        "Pasta con zucchine",
+                        "Sformatino di platessa",
+                        "Carote stufate",
+                        "Pane"
+                    ],
+                    "merenda": "Pane (a fette) e pomodoro"
+                },
+                {
+                    "data": "27-09-2024",
+                    "merenda": "Gelato fior di latte",
+                    "spuntino": "Frutta fresca",
+                    "pranzo": [
+                        "Risotto allo zafferano",
+                        "Polpettone di bovino",
+                        "Bieta all'olio",
+                        "Pane"
+                    ]
+                },
+                {
+                    "data": "30-09-2024",
+                    "pranzo": [
+                        "Pasta al pesto delicato",
+                        "Bocconcini di maiale al tegame",
+                        "Fagiolini all'olio",
+                        "Pane"
+                    ],
+                    "spuntino": "Frutta fresca",
+                    "merenda": "***DATA******DATA******DATA******DATA******DATA******DATA******DATA******DATA******DATA******DATA***"
+                }
+            ]
+        },
+        {
+            "menuGionalieri": [
+                {
+                    "spuntino": "Frutta fresca",
+                    "merenda": "Yogurt e cereali",
+                    "pranzo": [
+                        "Crema di piselli con pasta",
+                        "Caciotta dolce",
+                        "Spinaci all'olio e parmigiano",
+                        "Pane"
+                    ],
+                    "data": "02-09-2024"
+                },
+                {
+                    "data": "03-09-2024",
+                    "pranzo": [
+                        "Farro all'ortolana",
+                        "Arrosto di tacchino",
+                        "Patate al tegame",
+                        "Pane"
+                    ],
+                    "merenda": "Frullato di banana con latte",
+                    "spuntino": "Frutta fresca"
+                },
+                {
+                    "merenda": "Gelato fior di latte",
+                    "data": "04-09-2024",
+                    "pranzo": [
+                        "Pasta con zucchine",
+                        "Tortino di limanda",
+                        "Fagiolini all'olio",
+                        "Pane"
+                    ],
+                    "spuntino": "Frutta fresca"
+                },
+                {
+                    "merenda": "Latte e Biscotti",
+                    "data": "05-09-2024",
+                    "spuntino": "Frutta fresca",
+                    "pranzo": [
+                        "Pasta al pomodoro fresco e basilico",
+                        "Polpettone di bovino",
+                        "Zucchine trifolate",
+                        "Pane"
+                    ]
+                },
+                {
+                    "spuntino": "Frutta fresca",
+                    "pranzo": [
+                        "Crema di verdure con pasta",
+                        "Uova strapazzate",
+                        "Carote all'olio",
+                        "Pane"
+                    ],
+                    "merenda": "Pane (a fette) e pomodoro",
+                    "data": "06-09-2024"
+                },
+                {
+                    "pranzo": [
+                        "Risotto con zucchine",
+                        "Straccetti di pollo cremolati",
+                        "Bieta all'olio",
+                        "Pane"
+                    ],
+                    "merenda": "Polpa di frutta e fette biscottate",
+                    "spuntino": "Frutta fresca",
+                    "data": "09-09-2024"
+                },
+                {
+                    "spuntino": "Frutta fresca",
+                    "pranzo": [
+                        "Pasta al sugo di spigola",
+                        "Frittata",
+                        "Spinacia all'olio",
+                        "Pane"
+                    ],
+                    "data": "10-09-2024",
+                    "merenda": "Yogurt e cereali"
+                },
+                {
+                    "data": "11-09-2024",
+                    "spuntino": "Frutta fresca",
+                    "pranzo": [
+                        "Timballo di pasta",
+                        "Carote stufate",
+                        "Pane"
+                    ],
+                    "merenda": "Focaccia bianca soffice"
+                },
+                {
+                    "pranzo": [
+                        "Pasta al burro e parmigiano",
+                        "Medaglioni di merluzzo",
+                        "Patate all'olio",
+                        "Pane"
+                    ],
+                    "data": "12-09-2024",
+                    "merenda": "Frullato di banana con latte",
+                    "spuntino": "Frutta fresca"
+                },
+                {
+                    "pranzo": [
+                        "Crema di fagioli con pasta",
+                        "Ricotta",
+                        "Zucchine gratinate",
+                        "Pane"
+                    ],
+                    "data": "13-09-2024",
+                    "spuntino": "Frutta fresca",
+                    "merenda": "Latte e biscotti"
+                },
+                {
+                    "data": "16-09-2024",
+                    "spuntino": "Frutta fresca",
+                    "pranzo": [
+                        "Riso alla parmigiana",
+                        "Bocconcini di pollo al tegame",
+                        "Spinaci all'olio",
+                        "Pane"
+                    ],
+                    "merenda": "Yogurt e cereali"
+                },
+                {
+                    "pranzo": [
+                        "Pasta al pomodoro fresco e basilico",
+                        "Tortino di limanda",
+                        "Carote all'olio",
+                        "Pane"
+                    ],
+                    "data": "17-09-2024",
+                    "merenda": "Latte e biscotti",
+                    "spuntino": "Frutta fresca"
+                },
+                {
+                    "data": "18-09-2024",
+                    "spuntino": "Frutta fresca",
+                    "pranzo": [
+                        "Crema di ceci con pasta",
+                        "Uova strapazzate",
+                        "Zucchine gratinate",
+                        "Pane"
+                    ],
+                    "merenda": "Frullato di banana con latte"
+                },
+                {
+                    "pranzo": [
+                        "Pasta all'ortolana",
+                        "Caciotta dolce",
+                        "Fagiolini all'olio",
+                        "Pane"
+                    ],
+                    "merenda": "Polpa di frutta e fette biscottate",
+                    "data": "19-09-2024",
+                    "spuntino": "Frutta fresca"
+                },
+                {
+                    "pranzo": [
+                        "Pasta al ragù di carne",
+                        "Tortino di patate",
+                        "Pane"
+                    ],
+                    "merenda": "Focaccia bianca soffice",
+                    "data": "20-09-2024",
+                    "spuntino": "Frutta fresca"
+                },
+                {
+                    "spuntino": "Frutta fresca",
+                    "merenda": "Latte e Biscotti",
+                    "pranzo": [
+                        "Pasta al pomodoro fresco e basilico",
+                        "Frittata",
+                        "Zucchine trifolate",
+                        "Pane"
+                    ],
+                    "data": "23-09-2024"
+                },
+                {
+                    "data": "24-09-2024",
+                    "pranzo": [
+                        "Pasta all'olio e parmigiano",
+                        "Crocchette di patate e fagioli cannellini",
+                        "Pane"
+                    ],
+                    "merenda": "Yogurt e cereali",
+                    "spuntino": "Frutta fresca"
+                },
+                {
+                    "data": "25-09-2024",
+                    "spuntino": "Frutta fresca",
+                    "merenda": "Polpa di frutta e Fette Biscottate",
+                    "pranzo": [
+                        "Crema di verdure con pasta",
+                        "Robiola",
+                        "Spinaci all'olio",
+                        "Pane"
+                    ]
+                },
+                {
+                    "spuntino": "Frutta fresca",
+                    "data": "26-09-2024",
+                    "pranzo": [
+                        "Pasta con zucchine",
+                        "Sformatino di platessa",
+                        "Carote stufate",
+                        "Pane"
+                    ],
+                    "merenda": "Pane (a fette) e pomodoro"
+                },
+                {
+                    "data": "27-09-2024",
+                    "pranzo": [
+                        "Risotto allo zafferano",
+                        "Polpettone di bovino",
+                        "Bieta all'olio",
+                        "Pane"
+                    ],
+                    "spuntino": "Frutta fresca",
+                    "merenda": "Gelato fior di latte"
+                },
+                {
+                    "data": "30-09-2024",
+                    "pranzo": [
+                        "Pasta al pesto delicato",
+                        "Bocconcini di maiale al tegame",
+                        "Fagiolini all'olio",
+                        "Pane"
+                    ],
+                    "spuntino": "Frutta fresca",
+                    "merenda": "***DATA******DATA******DATA******DATA******DATA******DATA******DATA******DATA******DATA******DATA***"
+                }
+            ],
+            "identifier": "nidoMedi"
+        },
+        {
+            "identifier": "ponte",
+            "menuGionalieri": []
+        },
+        {
+            "menuGionalieri": [],
+            "identifier": "primaria"
+        },
+        {
+            "menuGionalieri": [],
+            "identifier": "secondaria"
+        }
+    ]
+}
