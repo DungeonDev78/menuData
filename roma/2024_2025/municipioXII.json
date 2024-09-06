@@ -1,1 +1,540 @@
-{}
+{
+    "cicliScolastici": [
+        {
+            "menuGionalieri": [
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
+                    "data": "06-09-2024"
+                },
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
+                    "data": "07-09-2024"
+                },
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
+                    "data": "08-09-2024"
+                },
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
+                    "data": "09-09-2024"
+                },
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
+                    "data": "10-09-2024"
+                },
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
+                    "data": "11-09-2024"
+                },
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
+                    "data": "12-09-2024"
+                },
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
+                    "data": "13-09-2024"
+                },
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
+                    "data": "14-09-2024"
+                },
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
+                    "data": "15-09-2024"
+                },
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
+                    "data": "16-09-2024"
+                },
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
+                    "data": "17-09-2024"
+                },
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
+                    "data": "18-09-2024"
+                },
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
+                    "data": "19-09-2024"
+                }
+            ],
+            "identifier": "infanzia"
+        },
+        {
+            "menuGionalieri": [
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
+                    "data": "06-09-2024"
+                },
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
+                    "data": "07-09-2024"
+                },
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
+                    "data": "08-09-2024"
+                },
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
+                    "data": "09-09-2024"
+                },
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
+                    "data": "10-09-2024"
+                },
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
+                    "data": "11-09-2024"
+                },
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
+                    "data": "12-09-2024"
+                },
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
+                    "data": "13-09-2024"
+                },
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
+                    "data": "14-09-2024"
+                },
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
+                    "data": "15-09-2024"
+                },
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
+                    "data": "16-09-2024"
+                },
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
+                    "data": "17-09-2024"
+                },
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
+                    "data": "18-09-2024"
+                },
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
+                    "data": "19-09-2024"
+                }
+            ],
+            "identifier": "nidoGrandi"
+        },
+        {
+            "identifier": "nidoMedi",
+            "menuGionalieri": [
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
+                    "data": "06-09-2024"
+                },
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
+                    "data": "07-09-2024"
+                },
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
+                    "data": "08-09-2024"
+                },
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
+                    "data": "09-09-2024"
+                },
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
+                    "data": "10-09-2024"
+                },
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
+                    "data": "11-09-2024"
+                },
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
+                    "data": "12-09-2024"
+                },
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
+                    "data": "13-09-2024"
+                },
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
+                    "data": "14-09-2024"
+                },
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
+                    "data": "15-09-2024"
+                },
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
+                    "data": "16-09-2024"
+                },
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
+                    "data": "17-09-2024"
+                },
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
+                    "data": "18-09-2024"
+                },
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
+                    "data": "19-09-2024"
+                }
+            ],
+        },
+        {
+            "menuGionalieri": [
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
+                    "data": "06-09-2024"
+                },
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
+                    "data": "07-09-2024"
+                },
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
+                    "data": "08-09-2024"
+                },
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
+                    "data": "09-09-2024"
+                },
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
+                    "data": "10-09-2024"
+                },
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
+                    "data": "11-09-2024"
+                },
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
+                    "data": "12-09-2024"
+                },
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
+                    "data": "13-09-2024"
+                },
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
+                    "data": "14-09-2024"
+                },
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
+                    "data": "15-09-2024"
+                },
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
+                    "data": "16-09-2024"
+                },
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
+                    "data": "17-09-2024"
+                },
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
+                    "data": "18-09-2024"
+                },
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
+                    "data": "19-09-2024"
+                }
+            ],
+            "identifier": "ponte"
+        },
+        {
+            "identifier": "primaria",
+            "menuGionalieri": [
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
+                    "data": "06-09-2024"
+                },
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
+                    "data": "07-09-2024"
+                },
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
+                    "data": "08-09-2024"
+                },
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
+                    "data": "09-09-2024"
+                },
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
+                    "data": "10-09-2024"
+                },
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
+                    "data": "11-09-2024"
+                },
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
+                    "data": "12-09-2024"
+                },
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
+                    "data": "13-09-2024"
+                },
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
+                    "data": "14-09-2024"
+                },
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
+                    "data": "15-09-2024"
+                },
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
+                    "data": "16-09-2024"
+                },
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
+                    "data": "17-09-2024"
+                },
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
+                    "data": "18-09-2024"
+                },
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
+                    "data": "19-09-2024"
+                }
+            ],
+        },
+        {
+            "identifier": "secondaria",
+            "menuGionalieri": [
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
+                    "data": "06-09-2024"
+                },
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
+                    "data": "07-09-2024"
+                },
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
+                    "data": "08-09-2024"
+                },
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
+                    "data": "09-09-2024"
+                },
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
+                    "data": "10-09-2024"
+                },
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
+                    "data": "11-09-2024"
+                },
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
+                    "data": "12-09-2024"
+                },
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
+                    "data": "13-09-2024"
+                },
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
+                    "data": "14-09-2024"
+                },
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
+                    "data": "15-09-2024"
+                },
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
+                    "data": "16-09-2024"
+                },
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
+                    "data": "17-09-2024"
+                },
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
+                    "data": "18-09-2024"
+                },
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
+                    "data": "19-09-2024"
+                }
+            ],
+        }
+    ],
+    "identifier": "municipioXII"
+}
+
