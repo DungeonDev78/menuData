@@ -1,240 +1,179 @@
 {
     "cicliScolastici": [
         {
-            "menuGionalieri": [],
+            "menuGionalieri": [
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
+                    "data": "06-09-2024"
+                },
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
+                    "data": "07-09-2024"
+                },
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
+                    "data": "08-09-2024"
+                },
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
+                    "data": "09-09-2024"
+                },
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
+                    "data": "10-09-2024"
+                },
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
+                    "data": "11-09-2024"
+                },
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
+                    "data": "12-09-2024"
+                },
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
+                    "data": "13-09-2024"
+                },
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
+                    "data": "14-09-2024"
+                },
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
+                    "data": "15-09-2024"
+                },
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
+                    "data": "16-09-2024"
+                },
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
+                    "data": "17-09-2024"
+                },
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
+                    "data": "18-09-2024"
+                },
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
+                    "data": "19-09-2024"
+                }
+            ],
             "identifier": "infanzia"
         },
         {
             "menuGionalieri": [
                 {
                     "pranzo": [
-                        "Pasta all'olio e parmigiano",
-                        "Fesa di tacchino al limone",
-                        "Zucchine gratinate",
-                        "Pane"
+                        "Menu in aggiornamento"
                     ],
-                    "data": "02-09-2024",
-                    "spuntino": "Frutta fresca",
-                    "merenda": "Polpa di frutta e Fette Biscottate"
+                    "data": "06-09-2024"
                 },
                 {
-                    "data": "03-09-2024",
-                    "spuntino": "Frutta fresca",
                     "pranzo": [
-                        "Crema di ceci con pasta",
-                        "Uova strapazzate",
-                        "Carote stufate",
-                        "Pane"
+                        "Menu in aggiornamento"
                     ],
-                    "merenda": "Yogurt e cereali"
+                    "data": "07-09-2024"
                 },
                 {
-                    "data": "04-09-2024",
                     "pranzo": [
-                        "Pasta al pesto delicato",
-                        "Tortino di limanda",
-                        "Bieta all'olio",
-                        "Pane"
+                        "Menu in aggiornamento"
                     ],
-                    "spuntino": "Frutta fresca",
-                    "merenda": "Pane (a fette) e pomodoro"
+                    "data": "08-09-2024"
                 },
                 {
-                    "data": "05-09-2024",
                     "pranzo": [
-                        "Risotto al ragù di carne",
-                        "Ricotta",
-                        "Patate al forno",
-                        "Pane"
+                        "Menu in aggiornamento"
                     ],
-                    "merenda": "Latte e biscotti",
-                    "spuntino": "Frutta fresca"
+                    "data": "09-09-2024"
                 },
                 {
-                    "data": "06-09-2024",
                     "pranzo": [
-                        "Pasta all'ortolana",
-                        "Bocconcini di maiale al tegame",
-                        "Spinaci all'olio e parmigiano",
-                        "Pane"
+                        "Menu in aggiornamento"
                     ],
-                    "spuntino": "Frutta fresca",
-                    "merenda": "Frullato di banana con latte"
+                    "data": "10-09-2024"
                 },
                 {
                     "pranzo": [
-                        "Pasta rosa",
-                        "Uova strapazzate",
-                        "Carote all'olio",
-                        "Pane"
+                        "Menu in aggiornamento"
                     ],
-                    "spuntino": "Frutta fresca",
-                    "data": "09-09-2024",
-                    "merenda": "Yogurt e cereali"
+                    "data": "11-09-2024"
                 },
                 {
-                    "data": "10-09-2024",
                     "pranzo": [
-                        "Risotto allo zafferano",
-                        "Polpette di carne mista al pomodoro",
-                        "Bieta all'olio",
-                        "Pane"
+                        "Menu in aggiornamento"
                     ],
-                    "merenda": "Latte e Biscotti",
-                    "spuntino": "Frutta fresca"
+                    "data": "12-09-2024"
                 },
                 {
-                    "spuntino": "Frutta fresca",
-                    "merenda": "Focaccia bianca soffice",
-                    "data": "11-09-2024",
                     "pranzo": [
-                        "Crema di lenticchie con pasta",
-                        "Robiola",
-                        "Insalata di pomodori",
-                        "Pane"
-                    ]
-                },
-                {
-                    "data": "12-09-2024",
-                    "spuntino": "Frutta fresca",
-                    "pranzo": [
-                        "Pasta all'ortolana",
-                        "Bocconcini di tacchino",
-                        "Fagiolini all'olio",
-                        "Pane"
+                        "Menu in aggiornamento"
                     ],
-                    "merenda": "Polpa di frutta e Fette Biscottate"
+                    "data": "13-09-2024"
                 },
                 {
-                    "merenda": "Gelato fior di latte",
-                    "data": "13-09-2024",
                     "pranzo": [
-                        "Pasta con zucchine",
-                        "Sformatino di platessa",
-                        "Patate all'olio",
-                        "Pane"
+                        "Menu in aggiornamento"
                     ],
-                    "spuntino": "Frutta fresca"
+                    "data": "14-09-2024"
                 },
                 {
-                    "data": "16-09-2024",
-                    "spuntino": "Frutta fresca",
-                    "merenda": "Polpa di frutta e Fette Biscottate",
                     "pranzo": [
-                        "Crema di verdure con pasta",
-                        "Arrosto di bovino",
-                        "Fagiolini all'olio",
-                        "Pane"
-                    ]
-                },
-                {
-                    "merenda": "Yogurt e cereali",
-                    "data": "17-09-2024",
-                    "pranzo": [
-                        "Pasta al trito vegetale",
-                        "Medaglioni di merluzzo al limone",
-                        "Zucchine trifolate",
-                        "Pane"
+                        "Menu in aggiornamento"
                     ],
-                    "spuntino": "Frutta fresca"
+                    "data": "15-09-2024"
                 },
                 {
-                    "spuntino": "Frutta fresca",
                     "pranzo": [
-                        "Riso alla parmigiana",
-                        "Straccetti di pollo cremolati",
-                        "Patate al tegame",
-                        "Pane"
+                        "Menu in aggiornamento"
                     ],
-                    "merenda": "Frullato di banana con latte",
+                    "data": "16-09-2024"
+                },
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
+                    "data": "17-09-2024"
+                },
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
                     "data": "18-09-2024"
                 },
                 {
-                    "spuntino": "Frutta fresca",
                     "pranzo": [
-                        "Crema di fagioli con pasta",
-                        "Frittata con spinaci",
-                        "Pane"
+                        "Menu in aggiornamento"
                     ],
-                    "merenda": "Focaccia bianca soffice",
                     "data": "19-09-2024"
-                },
-                {
-                    "data": "20-09-2024",
-                    "merenda": "Latte e Biscotti",
-                    "spuntino": "Frutta fresca",
-                    "pranzo": [
-                        "Pasta (maccheroncini all'uovo) al pomodoro",
-                        "Mozzarella",
-                        "Bieta all'olio",
-                        "Pane"
-                    ]
-                },
-                {
-                    "spuntino": "Frutta fresca",
-                    "merenda": "Yogurt e cereali",
-                    "pranzo": [
-                        "Crema di piselli con pasta",
-                        "Caciotta dolce",
-                        "Spinaci all'olio e parmigiano",
-                        "Pane"
-                    ],
-                    "data": "23-09-2024"
-                },
-                {
-                    "spuntino": "Frutta fresca",
-                    "pranzo": [
-                        "Farro all'ortolana",
-                        "Arrosto di tacchino",
-                        "Patate al forno",
-                        "Pane"
-                    ],
-                    "data": "24-09-2024",
-                    "merenda": "Frullato di banana con latte"
-                },
-                {
-                    "pranzo": [
-                        "Pasta con zucchine",
-                        "Tortino di limanda",
-                        "Fagiolini all'olio",
-                        "Pane"
-                    ],
-                    "merenda": "Gelato fior di latte",
-                    "data": "25-09-2024",
-                    "spuntino": "Frutta fresca"
-                },
-                {
-                    "pranzo": [
-                        "Pasta al pomodoro fresco e basilico",
-                        "Polpettone di bovino",
-                        "Zucchine trifolate",
-                        "Pane"
-                    ],
-                    "data": "26-09-2024",
-                    "spuntino": "Frutta fresca",
-                    "merenda": "Latte e Biscotti"
-                },
-                {
-                    "spuntino": "Frutta fresca",
-                    "data": "27-09-2024",
-                    "pranzo": [
-                        "Crema di verdure con pasta",
-                        "Uova strapazzate",
-                        "Insalata cappuccina",
-                        "Pane"
-                    ],
-                    "merenda": "Pane (a fette) e pomodoro"
-                },
-                {
-                    "merenda": "***DATA******DATA******DATA******DATA******DATA******DATA******DATA******DATA******DATA******DATA***",
-                    "pranzo": [
-                        "Risotto con zucchine",
-                        "Straccetti di pollo cremolati",
-                        "Insalata di pomodori",
-                        "Pane"
-                    ],
-                    "spuntino": "Frutta fresca",
-                    "data": "30-09-2024"
                 }
             ],
             "identifier": "nidoGrandi"
@@ -244,247 +183,356 @@
             "menuGionalieri": [
                 {
                     "pranzo": [
-                        "Pasta all'olio e parmigiano",
-                        "Fesa di tacchino al limone",
-                        "Zucchine gratinate",
-                        "Pane"
+                        "Menu in aggiornamento"
                     ],
-                    "data": "02-09-2024",
-                    "spuntino": "Frutta fresca",
-                    "merenda": "Polpa di frutta e Fette Biscottate"
+                    "data": "06-09-2024"
                 },
                 {
-                    "merenda": "Yogurt e cereali",
                     "pranzo": [
-                        "Crema di ceci con pasta",
-                        "Uova strapazzate",
-                        "Carote stufate",
-                        "Pane"
+                        "Menu in aggiornamento"
                     ],
-                    "spuntino": "Frutta fresca",
-                    "data": "03-09-2024"
+                    "data": "07-09-2024"
                 },
                 {
                     "pranzo": [
-                        "Pasta al pesto delicato",
-                        "Tortino di limanda",
-                        "Bieta all'olio",
-                        "Pane"
+                        "Menu in aggiornamento"
                     ],
-                    "merenda": "Pane (a fette) e pomodoro",
-                    "data": "04-09-2024",
-                    "spuntino": "Frutta fresca"
+                    "data": "08-09-2024"
                 },
                 {
-                    "spuntino": "Frutta fresca",
                     "pranzo": [
-                        "Risotto al ragù di carne",
-                        "Ricotta",
-                        "Patate al forno",
-                        "Pane"
+                        "Menu in aggiornamento"
                     ],
-                    "data": "05-09-2024",
-                    "merenda": "Latte e biscotti"
+                    "data": "09-09-2024"
                 },
                 {
-                    "data": "06-09-2024",
-                    "spuntino": "Frutta fresca",
-                    "merenda": "Frullato di banana con latte",
                     "pranzo": [
-                        "Pasta all'ortolana",
-                        "Bocconcini di maiale al tegame",
-                        "Spinaci all'olio e parmigiano",
-                        "Pane"
-                    ]
-                },
-                {
-                    "spuntino": "Frutta fresca",
-                    "data": "09-09-2024",
-                    "merenda": "Yogurt e cereali",
-                    "pranzo": [
-                        "Pasta rosa",
-                        "Uova strapazzate",
-                        "Carote all'olio",
-                        "Pane"
-                    ]
-                },
-                {
-                    "spuntino": "Frutta fresca",
-                    "pranzo": [
-                        "Risotto allo zafferano",
-                        "Polpette di carne mista al pomodoro",
-                        "Bieta all'olio",
-                        "Pane"
+                        "Menu in aggiornamento"
                     ],
-                    "data": "10-09-2024",
-                    "merenda": "Latte e Biscotti"
+                    "data": "10-09-2024"
                 },
                 {
-                    "merenda": "Focaccia bianca soffice",
                     "pranzo": [
-                        "Crema di lenticchie con pasta",
-                        "Robiola",
-                        "Zucchine gratinate",
-                        "Pane"
+                        "Menu in aggiornamento"
                     ],
-                    "spuntino": "Frutta fresca",
                     "data": "11-09-2024"
                 },
                 {
                     "pranzo": [
-                        "Pasta all'ortolana",
-                        "Bocconcini di tacchino",
-                        "Fagiolini all'olio",
-                        "Pane"
+                        "Menu in aggiornamento"
                     ],
-                    "data": "12-09-2024",
-                    "merenda": "Polpa di frutta e Fette Biscottate",
-                    "spuntino": "Frutta fresca"
+                    "data": "12-09-2024"
                 },
                 {
-                    "spuntino": "Frutta fresca",
                     "pranzo": [
-                        "Pasta con zucchine",
-                        "Sformatino di platessa",
-                        "Patate all'olio",
-                        "Pane"
+                        "Menu in aggiornamento"
                     ],
-                    "data": "13-09-2024",
-                    "merenda": "Gelato fior di latte"
+                    "data": "13-09-2024"
                 },
                 {
                     "pranzo": [
-                        "Crema di verdure con pasta",
-                        "Arrosto di bovino",
-                        "Fagiolini all'olio",
-                        "Pane"
+                        "Menu in aggiornamento"
                     ],
-                    "data": "16-09-2024",
-                    "merenda": "Polpa di frutta e Fette Biscottate",
-                    "spuntino": "Frutta fresca"
+                    "data": "14-09-2024"
                 },
                 {
-                    "spuntino": "Frutta fresca",
                     "pranzo": [
-                        "Pasta al trito vegetale",
-                        "Medaglioni di merluzzo al limone",
-                        "Zucchine trifolate",
-                        "Pane"
+                        "Menu in aggiornamento"
                     ],
-                    "data": "17-09-2024",
-                    "merenda": "Yogurt e cereali"
+                    "data": "15-09-2024"
                 },
                 {
-                    "merenda": "Frullato di banana con latte",
-                    "spuntino": "Frutta fresca",
-                    "data": "18-09-2024",
                     "pranzo": [
-                        "Riso alla parmigiana",
-                        "Straccetti di pollo cremolati",
-                        "Patate al tegame",
-                        "Pane"
-                    ]
-                },
-                {
-                    "data": "19-09-2024",
-                    "spuntino": "Frutta fresca",
-                    "pranzo": [
-                        "Crema di fagioli con pasta",
-                        "Frittata con spinaci",
-                        "Pane"
+                        "Menu in aggiornamento"
                     ],
-                    "merenda": "Focaccia bianca soffice"
+                    "data": "16-09-2024"
                 },
                 {
                     "pranzo": [
-                        "Pasta al pomodoro",
-                        "Robiola",
-                        "Bieta all'olio",
-                        "Pane"
+                        "Menu in aggiornamento"
                     ],
-                    "spuntino": "Frutta fresca",
-                    "merenda": "Latte e Biscotti",
-                    "data": "20-09-2024"
+                    "data": "17-09-2024"
                 },
                 {
-                    "merenda": "Yogurt e cereali",
                     "pranzo": [
-                        "Crema di piselli con pasta",
-                        "Caciotta dolce",
-                        "Spinaci all'olio e parmigiano",
-                        "Pane"
+                        "Menu in aggiornamento"
                     ],
-                    "spuntino": "Frutta fresca",
-                    "data": "23-09-2024"
+                    "data": "18-09-2024"
                 },
                 {
                     "pranzo": [
-                        "Farro all'ortolana",
-                        "Arrosto di tacchino",
-                        "Patate al tegame",
-                        "Pane"
+                        "Menu in aggiornamento"
                     ],
-                    "spuntino": "Frutta fresca",
-                    "data": "24-09-2024",
-                    "merenda": "Frullato di banana con latte"
-                },
-                {
-                    "pranzo": [
-                        "Pasta con zucchine",
-                        "Tortino di limanda",
-                        "Fagiolini all'olio",
-                        "Pane"
-                    ],
-                    "spuntino": "Frutta fresca",
-                    "merenda": "Gelato fior di latte",
-                    "data": "25-09-2024"
-                },
-                {
-                    "merenda": "Latte e Biscotti",
-                    "pranzo": [
-                        "Pasta al pomodoro fresco e basilico",
-                        "Polpettone di bovino",
-                        "Zucchine trifolate",
-                        "Pane"
-                    ],
-                    "spuntino": "Frutta fresca",
-                    "data": "26-09-2024"
-                },
-                {
-                    "data": "27-09-2024",
-                    "merenda": "Pane (a fette) e pomodoro",
-                    "spuntino": "Frutta fresca",
-                    "pranzo": [
-                        "Crema di verdure con pasta",
-                        "Uova strapazzate",
-                        "Carote all'olio",
-                        "Pane"
-                    ]
-                },
-                {
-                    "spuntino": "Frutta fresca",
-                    "pranzo": [
-                        "Risotto con zucchine",
-                        "Straccetti di pollo cremolati",
-                        "Bieta all'olio",
-                        "Pane"
-                    ],
-                    "merenda": "***DATA******DATA******DATA******DATA******DATA******DATA******DATA******DATA******DATA******DATA***",
-                    "data": "30-09-2024"
+                    "data": "19-09-2024"
                 }
-            ]
+            ],
         },
         {
-            "menuGionalieri": [],
+            "menuGionalieri": [
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
+                    "data": "06-09-2024"
+                },
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
+                    "data": "07-09-2024"
+                },
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
+                    "data": "08-09-2024"
+                },
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
+                    "data": "09-09-2024"
+                },
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
+                    "data": "10-09-2024"
+                },
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
+                    "data": "11-09-2024"
+                },
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
+                    "data": "12-09-2024"
+                },
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
+                    "data": "13-09-2024"
+                },
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
+                    "data": "14-09-2024"
+                },
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
+                    "data": "15-09-2024"
+                },
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
+                    "data": "16-09-2024"
+                },
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
+                    "data": "17-09-2024"
+                },
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
+                    "data": "18-09-2024"
+                },
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
+                    "data": "19-09-2024"
+                }
+            ],
             "identifier": "ponte"
         },
         {
             "identifier": "primaria",
-            "menuGionalieri": []
+            "menuGionalieri": [
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
+                    "data": "06-09-2024"
+                },
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
+                    "data": "07-09-2024"
+                },
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
+                    "data": "08-09-2024"
+                },
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
+                    "data": "09-09-2024"
+                },
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
+                    "data": "10-09-2024"
+                },
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
+                    "data": "11-09-2024"
+                },
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
+                    "data": "12-09-2024"
+                },
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
+                    "data": "13-09-2024"
+                },
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
+                    "data": "14-09-2024"
+                },
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
+                    "data": "15-09-2024"
+                },
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
+                    "data": "16-09-2024"
+                },
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
+                    "data": "17-09-2024"
+                },
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
+                    "data": "18-09-2024"
+                },
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
+                    "data": "19-09-2024"
+                }
+            ],
         },
         {
             "identifier": "secondaria",
-            "menuGionalieri": []
+            "menuGionalieri": [
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
+                    "data": "06-09-2024"
+                },
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
+                    "data": "07-09-2024"
+                },
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
+                    "data": "08-09-2024"
+                },
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
+                    "data": "09-09-2024"
+                },
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
+                    "data": "10-09-2024"
+                },
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
+                    "data": "11-09-2024"
+                },
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
+                    "data": "12-09-2024"
+                },
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
+                    "data": "13-09-2024"
+                },
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
+                    "data": "14-09-2024"
+                },
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
+                    "data": "15-09-2024"
+                },
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
+                    "data": "16-09-2024"
+                },
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
+                    "data": "17-09-2024"
+                },
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
+                    "data": "18-09-2024"
+                },
+                {
+                    "pranzo": [
+                        "Menu in aggiornamento"
+                    ],
+                    "data": "19-09-2024"
+                }
+            ],
         }
     ],
     "identifier": "municipioVIII"
