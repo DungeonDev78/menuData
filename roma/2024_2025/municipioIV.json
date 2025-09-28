@@ -1,9 +1,12 @@
 {
+  "identifier" : "municipioIV",
   "cicliScolastici" : [
     {
+      "identifier" : "infanzia",
       "menuGionalieri" : [
         {
           "spuntino" : "Cracker",
+          "merenda" : "Crostatina con marmellata di frutta",
           "data" : "15-09-2025",
           "pranzo" : [
             "Crema di verdure con pasta",
@@ -11,11 +14,11 @@
             "Fagiolini all'olio",
             "Pane",
             "Frutta"
-          ],
-          "merenda" : "Crostatina con marmellata di frutta"
+          ]
         },
         {
           "spuntino" : "Plumcake allo yogurt",
+          "merenda" : "Biscotti frollini al cacao + succo di frutta senza zuccheri agg.",
           "pranzo" : [
             "Pasta al trito vegetale",
             "Medaglioni di merluzzo al limone",
@@ -23,10 +26,10 @@
             "Pane",
             "Frutta"
           ],
-          "merenda" : "Biscotti frollini al cacao + succo di frutta senza zuccheri agg.",
           "data" : "16-09-2025"
         },
         {
+          "merenda" : "Panino all'olio con marmellata",
           "data" : "17-09-2025",
           "pranzo" : [
             "Riso alla parmigiana",
@@ -35,12 +38,11 @@
             "Pane integrale",
             "Frutta"
           ],
-          "spuntino" : "Schiacciatine",
-          "merenda" : "Panino all'olio con marmellata"
+          "spuntino" : "Schiacciatine"
         },
         {
+          "merenda" : "Focaccia bianca soffice",
           "data" : "18-09-2025",
-          "spuntino" : "Frutta di stagione",
           "pranzo" : [
             "Crema di fagioli con pasta",
             "Uova strapazzate\/Frittata",
@@ -48,11 +50,10 @@
             "Pane",
             "Gelato"
           ],
-          "merenda" : "Focaccia bianca soffice"
+          "spuntino" : "Frutta di stagione"
         },
         {
-          "spuntino" : "Banana",
-          "merenda" : "Ciambellone",
+          "data" : "19-09-2025",
           "pranzo" : [
             "Pizza rossa",
             "Mozzarella vaccina",
@@ -60,21 +61,23 @@
             "Pane",
             "Frutta"
           ],
-          "data" : "19-09-2025"
+          "merenda" : "Ciambellone",
+          "spuntino" : "Banana"
         },
         {
+          "spuntino" : "Plumcake allo yogurt",
           "merenda" : "Biscotti frollini al cacao + succo di frutta senza zuccheri agg.",
+          "data" : "22-09-2025",
           "pranzo" : [
             "Pasta con piselli",
             "Asiago",
             "Spinaci al burro e parmigiano",
             "Pane",
             "Frutta"
-          ],
-          "data" : "22-09-2025",
-          "spuntino" : "Plumcake allo yogurt"
+          ]
         },
         {
+          "data" : "23-09-2025",
           "pranzo" : [
             "Farro all'ortolana",
             "Fuso di pollo arrosto",
@@ -83,12 +86,11 @@
             "Gelato"
           ],
           "spuntino" : "Frutta di stagione",
-          "data" : "23-09-2025",
           "merenda" : "Focaccia bianca soffice"
         },
         {
-          "data" : "24-09-2025",
           "spuntino" : "Cracker",
+          "data" : "24-09-2025",
           "pranzo" : [
             "Pasta con zucchine",
             "Bastoncini di merluzzo della cuoca",
@@ -99,8 +101,7 @@
           "merenda" : "Crostatina con marmellata di frutta"
         },
         {
-          "data" : "25-09-2025",
-          "spuntino" : "Banana",
+          "merenda" : "Ciambellone",
           "pranzo" : [
             "Pasta al pomodoro e basilico",
             "Polpettone o polpette di bovino",
@@ -108,9 +109,12 @@
             "Pane",
             "Frutta"
           ],
-          "merenda" : "Ciambellone"
+          "data" : "25-09-2025",
+          "spuntino" : "Banana"
         },
         {
+          "data" : "26-09-2025",
+          "merenda" : "Panino all'olio con marmellata",
           "spuntino" : "Schiacciatine",
           "pranzo" : [
             "Insalata di pasta mediterranea",
@@ -118,25 +122,21 @@
             "Insalata mista",
             "Pane",
             "Frutta"
-          ],
-          "data" : "26-09-2025",
-          "merenda" : "Panino all'olio con marmellata"
+          ]
         },
         {
           "spuntino" : "Schiacciatine",
-          "data" : "29-09-2025",
-          "merenda" : "Panino all'olio con marmellata",
           "pranzo" : [
             "Risotto con zucchine",
             "Petto o bocconcini di pollo panato",
             "Insalata di pomodori",
             "Pane",
             "Frutta"
-          ]
+          ],
+          "merenda" : "Panino all'olio con marmellata",
+          "data" : "29-09-2025"
         },
         {
-          "data" : "30-09-2025",
-          "spuntino" : "Cracker",
           "pranzo" : [
             "Pasta al sugo di spigola",
             "Uova strapazzate\/Frittata",
@@ -144,10 +144,283 @@
             "Pane",
             "Frutta"
           ],
+          "merenda" : "Crostatina con marmellata di frutta",
+          "spuntino" : "Cracker",
+          "data" : "30-09-2025"
+        },
+        {
+          "merenda" : "Ciambellone",
+          "data" : "01-10-2025",
+          "spuntino" : "Banana",
+          "pranzo" : [
+            "Lasagna",
+            "Carote alla julienne",
+            "Pane",
+            "Gelato"
+          ]
+        },
+        {
+          "pranzo" : [
+            "Pasta al burro e parmigiano",
+            "Medaglioni di merluzzo",
+            "Patate all'olio",
+            "Pane",
+            "Frutta"
+          ],
+          "spuntino" : "Frutta di stagione",
+          "data" : "02-10-2025",
+          "merenda" : "Focaccia bianca soffice"
+        },
+        {
+          "spuntino" : "Plumcake allo yogurt",
+          "pranzo" : [
+            "Crema di fagioli con pasta",
+            "Ricotta",
+            "Zucchine gratinate",
+            "Pane",
+            "Frutta"
+          ],
+          "data" : "03-10-2025",
+          "merenda" : "Biscotti frollini al cacao + succo di frutta senza zuccheri agg."
+        },
+        {
+          "data" : "06-10-2025",
+          "pranzo" : [
+            "Riso alla parmigiana",
+            "Petto o bocconcini di pollo al limone",
+            "Spinaci all'olio",
+            "Pane",
+            "Frutta"
+          ],
+          "spuntino" : "Banana",
+          "merenda" : "Ciambellone"
+        },
+        {
+          "pranzo" : [
+            "Pasta al pomodoro e basilico",
+            "Tortino di limanda",
+            "Carote alla julienne",
+            "Pane",
+            "Frutta"
+          ],
+          "data" : "07-10-2025",
+          "merenda" : "Pannino all'olio con marmellata",
+          "spuntino" : "Schiacciatine"
+        },
+        {
+          "merenda" : "Biscotti frollini al cacao + succo di frutta senza zuccheri agg.",
+          "data" : "08-10-2025",
+          "pranzo" : [
+            "Pasta con piselli",
+            "Uova strapazzate\/Frittata",
+            "Zucchine gratinate",
+            "Pane",
+            "Frutta"
+          ],
+          "spuntino" : "Plumcake allo yogurt"
+        },
+        {
+          "spuntino" : "Frutta di stagione",
+          "merenda" : "Focaccia bianca soffice",
+          "data" : "09-10-2025",
+          "pranzo" : [
+            "Pasta all'ortolana",
+            "Caciotta dolce",
+            "Insalata mista",
+            "Pane",
+            "Gelato"
+          ]
+        },
+        {
+          "merenda" : "Crostatina con marmellata di frutta",
+          "data" : "10-10-2025",
+          "pranzo" : [
+            "Pasta al ragù di carne",
+            "Tortino di patate",
+            "Pane",
+            "Frutta"
+          ],
+          "spuntino" : "Cracker"
+        },
+        {
+          "spuntino" : "Plum cake allo yogurt",
+          "pranzo" : [
+            "Pasta al pomodoro e basilico",
+            "Uova strapazzate\/Frittata",
+            "Zucchine trifolate",
+            "Pane",
+            "Frutta"
+          ],
+          "data" : "13-10-2025",
+          "merenda" : "Biscotti frollini al cacao + succo di frutta senza zuccheri agg."
+        },
+        {
+          "merenda" : "Focaccia bianca soffice",
+          "data" : "14-10-2025",
+          "spuntino" : "Frutta di stagione",
+          "pranzo" : [
+            "Crema di fagioli con pasta",
+            "Straccetti di pollo cremolati",
+            "Spinaci all'olio",
+            "Pane",
+            "Gelato"
+          ]
+        },
+        {
+          "data" : "15-10-2025",
+          "spuntino" : "Schiacciatine",
+          "merenda" : "Panino all'olio con marmellata",
+          "pranzo" : [
+            "Agnolotti al pomodoro",
+            "Robiola",
+            "Insalata di pomodori",
+            "Pane",
+            "Frutta"
+          ]
+        },
+        {
+          "spuntino" : "Cracker",
+          "data" : "16-10-2025",
+          "merenda" : "Crostatina con marmellata di frutta",
+          "pranzo" : [
+            "Pasta con pesto di zucchine",
+            "Tortino di limanda",
+            "Carote alla julienne",
+            "Pane",
+            "Frutta"
+          ]
+        },
+        {
+          "pranzo" : [
+            "Risotto allo zafferano",
+            "Hamburger di bovino",
+            "Insalata verde",
+            "Pane",
+            "Frutta"
+          ],
+          "spuntino" : "Banana",
+          "data" : "17-10-2025",
+          "merenda" : "Ciambellone"
+        },
+        {
+          "pranzo" : [
+            "Pasta al pesto senza aglio",
+            "Bocconcini di maiale panati",
+            "Fagiolini all'olio",
+            "Pane",
+            "Frutta"
+          ],
+          "data" : "20-10-2025",
+          "merenda" : "Panino all'olio con marmellata",
+          "spuntino" : "Schiacciatine"
+        },
+        {
+          "pranzo" : [
+            "Crema di verdure con pasta",
+            "Montasio",
+            "Patate al tegame",
+            "Pane integrale",
+            "Frutta"
+          ],
+          "data" : "21-10-2025",
+          "merenda" : "Biscotti frollini al cacao + succo di frutta senza zuccheri agg.",
+          "spuntino" : "Plum cake allo yogurt"
+        },
+        {
+          "merenda" : "Crostatina con marmellata di frutta",
+          "pranzo" : [
+            "Riso con piselli",
+            "Petto o bocconcini di pollo al limone",
+            "Carote al tegame",
+            "Pane",
+            "Frutta"
+          ],
+          "data" : "22-10-2025",
+          "spuntino" : "Cracker"
+        },
+        {
+          "merenda" : "Ciambellone",
+          "spuntino" : "Banana",
+          "data" : "23-10-2025",
+          "pranzo" : [
+            "Pasta e patate",
+            "Uova strapazzate\/Frittata",
+            "Insalata verde",
+            "Pane",
+            "Frutta"
+          ]
+        },
+        {
+          "data" : "24-10-2025",
+          "merenda" : "Focaccia bianca soffice",
+          "spuntino" : "Frutta di stagione",
+          "pranzo" : [
+            "Pasta all'olio e parmigiano",
+            "Medaglioni di spigola",
+            "Zucchine trifolate",
+            "Pane",
+            "Gelato"
+          ]
+        },
+        {
+          "merenda" : "Focaccia bianca soffice",
+          "data" : "27-10-2025",
+          "pranzo" : [
+            "Pasta all'ortolana",
+            "Tortino di patate",
+            "Pane",
+            "Gelato"
+          ],
+          "spuntino" : "Frutta di stagione"
+        },
+        {
+          "data" : "28-10-2025",
+          "spuntino" : "Cracker",
+          "pranzo" : [
+            "Pasta al burro e parmigiano",
+            "Bastoncini di merluzzo della cuoca",
+            "Insalata verde",
+            "Pane",
+            "Frutta"
+          ],
           "merenda" : "Crostatina con marmellata di frutta"
+        },
+        {
+          "spuntino" : "Banana",
+          "pranzo" : [
+            "Pasta integrale al trito vegetale",
+            "Frittata con zucchine",
+            "Pane",
+            "Frutta"
+          ],
+          "data" : "29-10-2025",
+          "merenda" : "Ciambellone"
+        },
+        {
+          "merenda" : "Panino all'olio con marmellata",
+          "pranzo" : [
+            "Pasta al pesto senza aglio",
+            "Fuso di pollo arrosto",
+            "Carote al tegame",
+            "Pane",
+            "Frutta"
+          ],
+          "spuntino" : "Schiacciatine",
+          "data" : "30-10-2025"
+        },
+        {
+          "merenda" : "Biscotti frollini al cacao + succo di frutta senza zuccheri agg.",
+          "spuntino" : "Plumcake allo yogurt",
+          "pranzo" : [
+            "Farro con lenticchie",
+            "Crescenza",
+            "Fagiolini al pomodoro",
+            "Pane",
+            "Frutta"
+          ],
+          "data" : "31-10-2025"
         }
-      ],
-      "identifier" : "infanzia"
+      ]
     },
     {
       "identifier" : "nidoGrandi",
@@ -160,56 +433,550 @@
             "Pane"
           ],
           "spuntino" : "Frutta fresca",
-          "merenda" : "Polpa di frutta e Fette Biscottate",
-          "data" : "01-09-2025"
+          "data" : "01-09-2025",
+          "merenda" : "Polpa di frutta e Fette Biscottate"
         },
         {
-          "data" : "02-09-2025",
-          "spuntino" : "Frutta fresca",
           "pranzo" : [
             "Crema di ceci con pasta",
             "Uova strapazzate",
             "Carote stufate",
             "Pane"
           ],
-          "merenda" : "Yogurt e cereali"
+          "merenda" : "Yogurt e cereali",
+          "data" : "02-09-2025",
+          "spuntino" : "Frutta fresca"
         },
         {
-          "data" : "03-09-2025",
           "merenda" : "Pane (a fette) e pomodoro",
+          "spuntino" : "Frutta fresca",
+          "data" : "03-09-2025",
           "pranzo" : [
             "Pasta al pesto delicato",
             "Tortino di limanda",
             "Bieta all'olio",
             "Pane"
-          ],
-          "spuntino" : "Frutta fresca"
+          ]
         },
         {
+          "merenda" : "Latte e biscotti",
+          "data" : "04-09-2025",
           "pranzo" : [
             "Risotto al ragù di carne",
             "Ricotta",
             "Patate al forno",
             "Pane"
           ],
-          "spuntino" : "Frutta fresca",
-          "merenda" : "Latte e biscotti",
-          "data" : "04-09-2025"
+          "spuntino" : "Frutta fresca"
         },
         {
           "spuntino" : "Frutta fresca",
-          "data" : "05-09-2025",
           "pranzo" : [
             "Pasta all'ortolana",
             "Bocconcini di maiale al tegame",
             "Spinaci all'olio e parmigiano",
             "Pane"
           ],
-          "merenda" : "Frullato di banana con latte"
+          "merenda" : "Frullato di banana con latte",
+          "data" : "05-09-2025"
+        },
+        {
+          "data" : "08-09-2025",
+          "spuntino" : "Frutta fresca",
+          "merenda" : "Yogurt e cereali",
+          "pranzo" : [
+            "Pasta rosa",
+            "Uova strapazzate",
+            "Carote all'olio",
+            "Pane"
+          ]
+        },
+        {
+          "data" : "09-09-2025",
+          "merenda" : "Latte e Biscotti",
+          "pranzo" : [
+            "Risotto allo zafferano",
+            "Polpette di carne mista al pomodoro",
+            "Bieta all'olio",
+            "Pane"
+          ],
+          "spuntino" : "Frutta fresca"
+        },
+        {
+          "merenda" : "Focaccia bianca soffice",
+          "pranzo" : [
+            "Crema di lenticchie con pasta",
+            "Robiola",
+            "Insalata di pomodori",
+            "Pane"
+          ],
+          "data" : "10-09-2025",
+          "spuntino" : "Frutta fresca"
+        },
+        {
+          "merenda" : "Polpa di frutta e Fette Biscottate",
+          "data" : "11-09-2025",
+          "pranzo" : [
+            "Pasta all'ortolana",
+            "Bocconcini di tacchino",
+            "Fagiolini all'olio",
+            "Pane"
+          ],
+          "spuntino" : "Frutta fresca"
+        },
+        {
+          "data" : "12-09-2025",
+          "merenda" : "Gelato fior di latte",
+          "pranzo" : [
+            "Pasta con zucchine",
+            "Sformatino di platessa",
+            "Patate all'olio",
+            "Pane"
+          ],
+          "spuntino" : "Frutta fresca"
         },
         {
           "spuntino" : "Frutta fresca",
+          "merenda" : "Polpa di frutta e Fette Biscottate",
+          "pranzo" : [
+            "Crema di verdure con pasta",
+            "Arrosto di bovino",
+            "Fagiolini all'olio",
+            "Pane"
+          ],
+          "data" : "15-09-2025"
+        },
+        {
+          "spuntino" : "Frutta fresca",
+          "pranzo" : [
+            "Pasta al trito vegetale",
+            "Medaglioni di merluzzo al limone",
+            "Zucchine trifolate",
+            "Pane"
+          ],
+          "data" : "16-09-2025",
+          "merenda" : "Yogurt e cereali"
+        },
+        {
+          "spuntino" : "Frutta fresca",
+          "pranzo" : [
+            "Riso alla parmigiana",
+            "Straccetti di pollo cremolati",
+            "Patate al tegame",
+            "Pane"
+          ],
+          "data" : "17-09-2025",
+          "merenda" : "Frullato di banana con latte"
+        },
+        {
+          "pranzo" : [
+            "Crema di fagioli con pasta",
+            "Frittata con spinaci",
+            "Pane"
+          ],
+          "data" : "18-09-2025",
+          "spuntino" : "Frutta fresca",
+          "merenda" : "Focaccia bianca soffice"
+        },
+        {
+          "data" : "19-09-2025",
+          "spuntino" : "Frutta fresca",
+          "pranzo" : [
+            "Pasta (maccheroncini all'uovo) al pomodoro",
+            "Mozzarella",
+            "Bieta all'olio",
+            "Pane"
+          ],
+          "merenda" : "Latte e Biscotti"
+        },
+        {
+          "data" : "22-09-2025",
+          "spuntino" : "Frutta fresca",
           "merenda" : "Yogurt e cereali",
+          "pranzo" : [
+            "Crema di piselli con pasta",
+            "Caciotta dolce",
+            "Spinaci all'olio e parmigiano",
+            "Pane"
+          ]
+        },
+        {
+          "spuntino" : "Frutta fresca",
+          "data" : "23-09-2025",
+          "merenda" : "Frullato di banana con latte",
+          "pranzo" : [
+            "Farro all'ortolana",
+            "Arrosto di tacchino",
+            "Patate al forno",
+            "Pane"
+          ]
+        },
+        {
+          "pranzo" : [
+            "Pasta con zucchine",
+            "Tortino di limanda",
+            "Fagiolini all'olio",
+            "Pane"
+          ],
+          "spuntino" : "Frutta fresca",
+          "merenda" : "Gelato fior di latte",
+          "data" : "24-09-2025"
+        },
+        {
+          "merenda" : "Latte e Biscotti",
+          "pranzo" : [
+            "Pasta al pomodoro fresco e basilico",
+            "Polpettone di bovino",
+            "Zucchine trifolate",
+            "Pane"
+          ],
+          "spuntino" : "Frutta fresca",
+          "data" : "25-09-2025"
+        },
+        {
+          "pranzo" : [
+            "Crema di verdure con pasta",
+            "Uova strapazzate",
+            "Insalata cappuccina",
+            "Pane"
+          ],
+          "spuntino" : "Frutta fresca",
+          "data" : "26-09-2025",
+          "merenda" : "Pane (a fette) e pomodoro"
+        },
+        {
+          "pranzo" : [
+            "Risotto con zucchine",
+            "Straccetti di pollo cremolati",
+            "Insalata di pomodori",
+            "Pane"
+          ],
+          "merenda" : "Polpa di frutta e fette biscottate",
+          "spuntino" : "Frutta fresca",
+          "data" : "29-09-2025"
+        },
+        {
+          "pranzo" : [
+            "Pasta al sugo di spigola",
+            "Frittata",
+            "Spinacia all'olio",
+            "Pane"
+          ],
+          "data" : "30-09-2025",
+          "spuntino" : "Frutta fresca",
+          "merenda" : "Yogurt e cereali"
+        },
+        {
+          "spuntino" : "Frutta fresca",
+          "merenda" : "Focaccia bianca soffice",
+          "data" : "01-10-2025",
+          "pranzo" : [
+            "Timballo di pasta",
+            "Carote stufate",
+            "Pane"
+          ]
+        },
+        {
+          "merenda" : "Frullato di banana con latte",
+          "spuntino" : "Frutta fresca",
+          "data" : "02-10-2025",
+          "pranzo" : [
+            "Pasta al burro e parmigiano",
+            "Medaglioni di merluzzo",
+            "Patate all'olio",
+            "Pane"
+          ]
+        },
+        {
+          "data" : "03-10-2025",
+          "merenda" : "Latte e biscotti",
+          "pranzo" : [
+            "Crema di fagioli con pasta",
+            "Ricotta",
+            "Zucchine gratinate",
+            "Pane"
+          ],
+          "spuntino" : "Frutta fresca"
+        },
+        {
+          "pranzo" : [
+            "Riso alla parmigiana",
+            "Bocconcini di pollo al tegame",
+            "Spinaci all'olio",
+            "Pane"
+          ],
+          "data" : "06-10-2025",
+          "spuntino" : "Frutta fresca",
+          "merenda" : "Yogurt e cereali"
+        },
+        {
+          "pranzo" : [
+            "Pasta al pomodoro fresco e basilico",
+            "Tortino di limanda",
+            "Carote all'olio",
+            "Pane"
+          ],
+          "data" : "07-10-2025",
+          "merenda" : "Latte e biscotti",
+          "spuntino" : "Frutta fresca"
+        },
+        {
+          "data" : "08-10-2025",
+          "spuntino" : "Frutta fresca",
+          "pranzo" : [
+            "Crema di ceci con pasta",
+            "Uova strapazzate",
+            "Zucchine gratinate",
+            "Pane"
+          ],
+          "merenda" : "Frullato di banana con latte"
+        },
+        {
+          "merenda" : "Polpa di frutta e fette biscottate",
+          "data" : "09-10-2025",
+          "pranzo" : [
+            "Pasta all'ortolana",
+            "Caciotta dolce",
+            "Insalata cappuccina",
+            "Pane"
+          ],
+          "spuntino" : "Frutta fresca"
+        },
+        {
+          "data" : "10-10-2025",
+          "spuntino" : "Frutta fresca",
+          "pranzo" : [
+            "Pasta al ragù di carne",
+            "Tortino di patate",
+            "Pane"
+          ],
+          "merenda" : "Focaccia bianca soffice"
+        },
+        {
+          "spuntino" : "Frutta fresca",
+          "data" : "13-10-2025",
+          "pranzo" : [
+            "Pasta al pomodoro fresco e basilico",
+            "Frittata",
+            "Zucchine trifolate",
+            "Pane"
+          ],
+          "merenda" : "Latte e Biscotti"
+        },
+        {
+          "pranzo" : [
+            "Crocchette di patate e fagioli cannellini",
+            "Pasta all'olio e parmigiano",
+            "Pane"
+          ],
+          "spuntino" : "Frutta fresca",
+          "data" : "14-10-2025",
+          "merenda" : "Yogurt e cereali"
+        },
+        {
+          "spuntino" : "Frutta fresca",
+          "pranzo" : [
+            "Crema di verdure con pasta",
+            "Robiola",
+            "Insalata di pomodori",
+            "Pane"
+          ],
+          "merenda" : "Polpa di frutta e Fette Biscottate",
+          "data" : "15-10-2025"
+        },
+        {
+          "data" : "16-10-2025",
+          "pranzo" : [
+            "Pasta con zucchine",
+            "Sformatino di platessa",
+            "Carote stufate",
+            "Pane"
+          ],
+          "spuntino" : "Frutta fresca",
+          "merenda" : "Pane (a fette) e pomodoro"
+        },
+        {
+          "data" : "17-10-2025",
+          "merenda" : "Gelato fior di latte",
+          "pranzo" : [
+            "Risotto allo zafferano",
+            "Polpettone di bovino",
+            "Bieta all'olio",
+            "Pane"
+          ],
+          "spuntino" : "Frutta fresca"
+        },
+        {
+          "merenda" : "Focaccia bianca soffice",
+          "spuntino" : "Frutta fresca",
+          "data" : "20-10-2025",
+          "pranzo" : [
+            "Pasta al pesto delicato",
+            "Bocconcini di maiale al tegame",
+            "Fagiolini all'olio",
+            "Pane"
+          ]
+        },
+        {
+          "pranzo" : [
+            "Crema di verdure con pasta",
+            "Robiola",
+            "Patate al tegame",
+            "Pane"
+          ],
+          "spuntino" : "Frutta fresca",
+          "data" : "21-10-2025",
+          "merenda" : "Polpa di frutta e fette biscottate"
+        },
+        {
+          "data" : "22-10-2025",
+          "merenda" : "Yogurt e cereali",
+          "spuntino" : "Frutta fresca",
+          "pranzo" : [
+            "Risotto con crema di piselli",
+            "Bocconcini di pollo al tegame",
+            "Purea di carote",
+            "Pane"
+          ]
+        },
+        {
+          "merenda" : "Frullato di banana con latte",
+          "data" : "23-10-2025",
+          "spuntino" : "Frutta fresca",
+          "pranzo" : [
+            "Pasta e patate",
+            "Uova strapazzate",
+            "Bieta all'olio",
+            "Pane"
+          ]
+        },
+        {
+          "data" : "24-10-2025",
+          "spuntino" : "Frutta fresca",
+          "merenda" : "Latte e Biscotti",
+          "pranzo" : [
+            "Pasta all'olio e parmigiano",
+            "Medaglioni di spigola",
+            "Zucchine trifolate",
+            "Pane"
+          ]
+        },
+        {
+          "spuntino" : "Frutta fresca",
+          "data" : "27-10-2025",
+          "pranzo" : [
+            "Pasta all'ortolana",
+            "Tortino di patate",
+            "Pane"
+          ],
+          "merenda" : "Gelato fior di latte"
+        },
+        {
+          "pranzo" : [
+            "Medaglioni di merluzzo",
+            "Pasta al burro e parmigiano",
+            "Insalata cappuccina",
+            "Pane"
+          ],
+          "spuntino" : "Frutta fresca",
+          "data" : "28-10-2025",
+          "merenda" : "Latte e Biscotti"
+        },
+        {
+          "merenda" : "Polpa di frutta e Fette Biscottate",
+          "pranzo" : [
+            "Pasta al trito vegetale",
+            "Frittata con zucchine",
+            "Pane"
+          ],
+          "data" : "29-10-2025",
+          "spuntino" : "Frutta fresca"
+        },
+        {
+          "spuntino" : "Frutta fresca",
+          "merenda" : "Focaccia bianca soffice",
+          "pranzo" : [
+            "Pasta al pesto delicato",
+            "Straccetti di pollo cremolati",
+            "Carote all'olio",
+            "Pane"
+          ],
+          "data" : "30-10-2025"
+        },
+        {
+          "merenda" : "Yogurt e cereali",
+          "spuntino" : "Frutta fresca",
+          "pranzo" : [
+            "Crema di lenticchie con farro",
+            "Crescenza",
+            "Fagiolini all'olio",
+            "Pane"
+          ],
+          "data" : "31-10-2025"
+        }
+      ]
+    },
+    {
+      "identifier" : "nidoMedi",
+      "menuGionalieri" : [
+        {
+          "merenda" : "Polpa di frutta e Fette Biscottate",
+          "pranzo" : [
+            "Pasta all'olio e parmigiano",
+            "Fesa di tacchino al limone",
+            "Zucchine gratinate",
+            "Pane"
+          ],
+          "spuntino" : "Frutta fresca",
+          "data" : "01-09-2025"
+        },
+        {
+          "pranzo" : [
+            "Crema di ceci con pasta",
+            "Uova strapazzate",
+            "Carote stufate",
+            "Pane"
+          ],
+          "merenda" : "Yogurt e cereali",
+          "spuntino" : "Frutta fresca",
+          "data" : "02-09-2025"
+        },
+        {
+          "data" : "03-09-2025",
+          "merenda" : "Pane (a fette) e pomodoro",
+          "spuntino" : "Frutta fresca",
+          "pranzo" : [
+            "Pasta al pesto delicato",
+            "Tortino di limanda",
+            "Bieta all'olio",
+            "Pane"
+          ]
+        },
+        {
+          "spuntino" : "Frutta fresca",
+          "pranzo" : [
+            "Risotto al ragù di carne",
+            "Ricotta",
+            "Patate al forno",
+            "Pane"
+          ],
+          "data" : "04-09-2025",
+          "merenda" : "Latte e biscotti"
+        },
+        {
+          "pranzo" : [
+            "Pasta all'ortolana",
+            "Bocconcini di maiale al tegame",
+            "Spinaci all'olio e parmigiano",
+            "Pane"
+          ],
+          "merenda" : "Frullato di banana con latte",
+          "data" : "05-09-2025",
+          "spuntino" : "Frutta fresca"
+        },
+        {
+          "merenda" : "Yogurt e cereali",
+          "spuntino" : "Frutta fresca",
           "data" : "08-09-2025",
           "pranzo" : [
             "Pasta rosa",
@@ -219,15 +986,15 @@
           ]
         },
         {
-          "spuntino" : "Frutta fresca",
           "data" : "09-09-2025",
-          "merenda" : "Latte e Biscotti",
           "pranzo" : [
             "Risotto allo zafferano",
             "Polpette di carne mista al pomodoro",
             "Bieta all'olio",
             "Pane"
-          ]
+          ],
+          "spuntino" : "Frutta fresca",
+          "merenda" : "Latte e Biscotti"
         },
         {
           "data" : "10-09-2025",
@@ -235,13 +1002,12 @@
           "pranzo" : [
             "Crema di lenticchie con pasta",
             "Robiola",
-            "Insalata di pomodori",
+            "Zucchine gratinate",
             "Pane"
           ],
           "merenda" : "Focaccia bianca soffice"
         },
         {
-          "spuntino" : "Frutta fresca",
           "data" : "11-09-2025",
           "pranzo" : [
             "Pasta all'ortolana",
@@ -249,7 +1015,8 @@
             "Fagiolini all'olio",
             "Pane"
           ],
-          "merenda" : "Polpa di frutta e Fette Biscottate"
+          "merenda" : "Polpa di frutta e Fette Biscottate",
+          "spuntino" : "Frutta fresca"
         },
         {
           "pranzo" : [
@@ -258,267 +1025,23 @@
             "Patate all'olio",
             "Pane"
           ],
-          "merenda" : "Gelato fior di latte",
+          "spuntino" : "Frutta fresca",
           "data" : "12-09-2025",
-          "spuntino" : "Frutta fresca"
+          "merenda" : "Gelato fior di latte"
         },
         {
+          "spuntino" : "Frutta fresca",
           "pranzo" : [
             "Crema di verdure con pasta",
             "Arrosto di bovino",
             "Fagiolini all'olio",
             "Pane"
           ],
-          "merenda" : "Polpa di frutta e Fette Biscottate",
-          "spuntino" : "Frutta fresca",
-          "data" : "15-09-2025"
-        },
-        {
-          "merenda" : "Yogurt e cereali",
-          "spuntino" : "Frutta fresca",
-          "pranzo" : [
-            "Pasta al trito vegetale",
-            "Medaglioni di merluzzo al limone",
-            "Zucchine trifolate",
-            "Pane"
-          ],
-          "data" : "16-09-2025"
-        },
-        {
-          "merenda" : "Frullato di banana con latte",
-          "data" : "17-09-2025",
-          "pranzo" : [
-            "Riso alla parmigiana",
-            "Straccetti di pollo cremolati",
-            "Patate al tegame",
-            "Pane"
-          ],
-          "spuntino" : "Frutta fresca"
-        },
-        {
-          "spuntino" : "Frutta fresca",
-          "merenda" : "Focaccia bianca soffice",
-          "pranzo" : [
-            "Crema di fagioli con pasta",
-            "Frittata con spinaci",
-            "Pane"
-          ],
-          "data" : "18-09-2025"
-        },
-        {
-          "spuntino" : "Frutta fresca",
-          "merenda" : "Latte e Biscotti",
-          "pranzo" : [
-            "Pasta (maccheroncini all'uovo) al pomodoro",
-            "Mozzarella",
-            "Bieta all'olio",
-            "Pane"
-          ],
-          "data" : "19-09-2025"
-        },
-        {
-          "data" : "22-09-2025",
-          "spuntino" : "Frutta fresca",
-          "merenda" : "Yogurt e cereali",
-          "pranzo" : [
-            "Crema di piselli con pasta",
-            "Caciotta dolce",
-            "Spinaci all'olio e parmigiano",
-            "Pane"
-          ]
-        },
-        {
-          "merenda" : "Frullato di banana con latte",
-          "spuntino" : "Frutta fresca",
-          "data" : "23-09-2025",
-          "pranzo" : [
-            "Farro all'ortolana",
-            "Arrosto di tacchino",
-            "Patate al forno",
-            "Pane"
-          ]
-        },
-        {
-          "spuntino" : "Frutta fresca",
-          "pranzo" : [
-            "Pasta con zucchine",
-            "Tortino di limanda",
-            "Fagiolini all'olio",
-            "Pane"
-          ],
-          "data" : "24-09-2025",
-          "merenda" : "Gelato fior di latte"
-        },
-        {
-          "data" : "25-09-2025",
-          "spuntino" : "Frutta fresca",
-          "merenda" : "Latte e Biscotti",
-          "pranzo" : [
-            "Pasta al pomodoro fresco e basilico",
-            "Polpettone di bovino",
-            "Zucchine trifolate",
-            "Pane"
-          ]
-        },
-        {
-          "data" : "26-09-2025",
-          "pranzo" : [
-            "Crema di verdure con pasta",
-            "Uova strapazzate",
-            "Insalata cappuccina",
-            "Pane"
-          ],
-          "merenda" : "Pane (a fette) e pomodoro",
-          "spuntino" : "Frutta fresca"
-        },
-        {
-          "merenda" : "Polpa di frutta e fette biscottate",
-          "pranzo" : [
-            "Risotto con zucchine",
-            "Straccetti di pollo cremolati",
-            "Insalata di pomodori",
-            "Pane"
-          ],
-          "spuntino" : "Frutta fresca",
-          "data" : "29-09-2025"
-        },
-        {
-          "data" : "30-09-2025",
-          "spuntino" : "Frutta fresca",
-          "pranzo" : [
-            "Pasta al sugo di spigola",
-            "Frittata",
-            "Spinacia all'olio",
-            "Pane"
-          ],
-          "merenda" : "Yogurt e cereali"
-        }
-      ]
-    },
-    {
-      "menuGionalieri" : [
-        {
-          "pranzo" : [
-            "Pasta all'olio e parmigiano",
-            "Fesa di tacchino al limone",
-            "Zucchine gratinate",
-            "Pane"
-          ],
-          "data" : "01-09-2025",
-          "spuntino" : "Frutta fresca",
-          "merenda" : "Polpa di frutta e Fette Biscottate"
-        },
-        {
-          "merenda" : "Yogurt e cereali",
-          "spuntino" : "Frutta fresca",
-          "data" : "02-09-2025",
-          "pranzo" : [
-            "Crema di ceci con pasta",
-            "Uova strapazzate",
-            "Carote stufate",
-            "Pane"
-          ]
-        },
-        {
-          "merenda" : "Pane (a fette) e pomodoro",
-          "data" : "03-09-2025",
-          "spuntino" : "Frutta fresca",
-          "pranzo" : [
-            "Pasta al pesto delicato",
-            "Tortino di limanda",
-            "Bieta all'olio",
-            "Pane"
-          ]
-        },
-        {
-          "data" : "04-09-2025",
-          "merenda" : "Latte e biscotti",
-          "spuntino" : "Frutta fresca",
-          "pranzo" : [
-            "Risotto al ragù di carne",
-            "Ricotta",
-            "Patate al forno",
-            "Pane"
-          ]
-        },
-        {
-          "spuntino" : "Frutta fresca",
-          "data" : "05-09-2025",
-          "merenda" : "Frullato di banana con latte",
-          "pranzo" : [
-            "Pasta all'ortolana",
-            "Bocconcini di maiale al tegame",
-            "Spinaci all'olio e parmigiano",
-            "Pane"
-          ]
-        },
-        {
-          "spuntino" : "Frutta fresca",
-          "merenda" : "Yogurt e cereali",
-          "data" : "08-09-2025",
-          "pranzo" : [
-            "Pasta rosa",
-            "Uova strapazzate",
-            "Carote all'olio",
-            "Pane"
-          ]
-        },
-        {
-          "data" : "09-09-2025",
-          "merenda" : "Latte e Biscotti",
-          "spuntino" : "Frutta fresca",
-          "pranzo" : [
-            "Risotto allo zafferano",
-            "Polpette di carne mista al pomodoro",
-            "Bieta all'olio",
-            "Pane"
-          ]
-        },
-        {
-          "spuntino" : "Frutta fresca",
-          "pranzo" : [
-            "Crema di lenticchie con pasta",
-            "Robiola",
-            "Zucchine gratinate",
-            "Pane"
-          ],
-          "merenda" : "Focaccia bianca soffice",
-          "data" : "10-09-2025"
-        },
-        {
-          "merenda" : "Polpa di frutta e Fette Biscottate",
-          "data" : "11-09-2025",
-          "spuntino" : "Frutta fresca",
-          "pranzo" : [
-            "Pasta all'ortolana",
-            "Bocconcini di tacchino",
-            "Fagiolini all'olio",
-            "Pane"
-          ]
-        },
-        {
-          "spuntino" : "Frutta fresca",
-          "data" : "12-09-2025",
-          "pranzo" : [
-            "Pasta con zucchine",
-            "Sformatino di platessa",
-            "Patate all'olio",
-            "Pane"
-          ],
-          "merenda" : "Gelato fior di latte"
-        },
-        {
-          "pranzo" : [
-            "Crema di verdure con pasta",
-            "Arrosto di bovino",
-            "Fagiolini all'olio",
-            "Pane"
-          ],
-          "spuntino" : "Frutta fresca",
           "data" : "15-09-2025",
           "merenda" : "Polpa di frutta e Fette Biscottate"
         },
         {
+          "data" : "16-09-2025",
           "pranzo" : [
             "Pasta al trito vegetale",
             "Medaglioni di merluzzo al limone",
@@ -526,39 +1049,38 @@
             "Pane"
           ],
           "spuntino" : "Frutta fresca",
-          "merenda" : "Yogurt e cereali",
-          "data" : "16-09-2025"
+          "merenda" : "Yogurt e cereali"
         },
         {
-          "spuntino" : "Frutta fresca",
           "pranzo" : [
             "Riso alla parmigiana",
             "Straccetti di pollo cremolati",
             "Patate al tegame",
             "Pane"
           ],
-          "data" : "17-09-2025",
-          "merenda" : "Frullato di banana con latte"
+          "merenda" : "Frullato di banana con latte",
+          "spuntino" : "Frutta fresca",
+          "data" : "17-09-2025"
         },
         {
+          "data" : "18-09-2025",
           "merenda" : "Focaccia bianca soffice",
+          "spuntino" : "Frutta fresca",
           "pranzo" : [
             "Crema di fagioli con pasta",
             "Frittata con spinaci",
             "Pane"
-          ],
-          "spuntino" : "Frutta fresca",
-          "data" : "18-09-2025"
+          ]
         },
         {
-          "merenda" : "Latte e Biscotti",
+          "spuntino" : "Frutta fresca",
           "pranzo" : [
             "Pasta al pomodoro",
             "Robiola",
             "Bieta all'olio",
             "Pane"
           ],
-          "spuntino" : "Frutta fresca",
+          "merenda" : "Latte e Biscotti",
           "data" : "19-09-2025"
         },
         {
@@ -573,7 +1095,6 @@
           "spuntino" : "Frutta fresca"
         },
         {
-          "spuntino" : "Frutta fresca",
           "pranzo" : [
             "Farro all'ortolana",
             "Arrosto di tacchino",
@@ -581,10 +1102,11 @@
             "Pane"
           ],
           "merenda" : "Frullato di banana con latte",
+          "spuntino" : "Frutta fresca",
           "data" : "23-09-2025"
         },
         {
-          "data" : "24-09-2025",
+          "merenda" : "Gelato fior di latte",
           "spuntino" : "Frutta fresca",
           "pranzo" : [
             "Pasta con zucchine",
@@ -592,10 +1114,10 @@
             "Fagiolini all'olio",
             "Pane"
           ],
-          "merenda" : "Gelato fior di latte"
+          "data" : "24-09-2025"
         },
         {
-          "spuntino" : "Frutta fresca",
+          "merenda" : "Latte e Biscotti",
           "data" : "25-09-2025",
           "pranzo" : [
             "Pasta al pomodoro fresco e basilico",
@@ -603,23 +1125,23 @@
             "Zucchine trifolate",
             "Pane"
           ],
-          "merenda" : "Latte e Biscotti"
+          "spuntino" : "Frutta fresca"
         },
         {
           "merenda" : "Pane (a fette) e pomodoro",
+          "spuntino" : "Frutta fresca",
           "data" : "26-09-2025",
           "pranzo" : [
             "Crema di verdure con pasta",
             "Uova strapazzate",
             "Carote all'olio",
             "Pane"
-          ],
-          "spuntino" : "Frutta fresca"
+          ]
         },
         {
           "merenda" : "Polpa di frutta e fette biscottate",
-          "data" : "29-09-2025",
           "spuntino" : "Frutta fresca",
+          "data" : "29-09-2025",
           "pranzo" : [
             "Risotto con zucchine",
             "Straccetti di pollo cremolati",
@@ -628,37 +1150,282 @@
           ]
         },
         {
+          "spuntino" : "Frutta fresca",
+          "data" : "30-09-2025",
+          "merenda" : "Yogurt e cereali",
           "pranzo" : [
             "Pasta al sugo di spigola",
             "Frittata",
             "Spinacia all'olio",
             "Pane"
+          ]
+        },
+        {
+          "spuntino" : "Frutta fresca",
+          "merenda" : "Focaccia bianca soffice",
+          "data" : "01-10-2025",
+          "pranzo" : [
+            "Timballo di pasta",
+            "Carote stufate",
+            "Pane"
+          ]
+        },
+        {
+          "data" : "02-10-2025",
+          "spuntino" : "Frutta fresca",
+          "merenda" : "Frullato di banana con latte",
+          "pranzo" : [
+            "Pasta al burro e parmigiano",
+            "Medaglioni di merluzzo",
+            "Patate all'olio",
+            "Pane"
+          ]
+        },
+        {
+          "spuntino" : "Frutta fresca",
+          "pranzo" : [
+            "Crema di fagioli con pasta",
+            "Ricotta",
+            "Zucchine gratinate",
+            "Pane"
           ],
-          "data" : "30-09-2025",
+          "merenda" : "Latte e biscotti",
+          "data" : "03-10-2025"
+        },
+        {
+          "pranzo" : [
+            "Riso alla parmigiana",
+            "Bocconcini di pollo al tegame",
+            "Spinaci all'olio",
+            "Pane"
+          ],
+          "data" : "06-10-2025",
           "merenda" : "Yogurt e cereali",
           "spuntino" : "Frutta fresca"
+        },
+        {
+          "spuntino" : "Frutta fresca",
+          "data" : "07-10-2025",
+          "merenda" : "Latte e biscotti",
+          "pranzo" : [
+            "Pasta al pomodoro fresco e basilico",
+            "Tortino di limanda",
+            "Carote all'olio",
+            "Pane"
+          ]
+        },
+        {
+          "spuntino" : "Frutta fresca",
+          "pranzo" : [
+            "Crema di ceci con pasta",
+            "Uova strapazzate",
+            "Zucchine gratinate",
+            "Pane"
+          ],
+          "merenda" : "Frullato di banana con latte",
+          "data" : "08-10-2025"
+        },
+        {
+          "spuntino" : "Frutta fresca",
+          "pranzo" : [
+            "Pasta all'ortolana",
+            "Caciotta dolce",
+            "Fagiolini all'olio",
+            "Pane"
+          ],
+          "merenda" : "Polpa di frutta e fette biscottate",
+          "data" : "09-10-2025"
+        },
+        {
+          "data" : "10-10-2025",
+          "spuntino" : "Frutta fresca",
+          "merenda" : "Focaccia bianca soffice",
+          "pranzo" : [
+            "Pasta al ragù di carne",
+            "Tortino di patate",
+            "Pane"
+          ]
+        },
+        {
+          "merenda" : "Latte e Biscotti",
+          "data" : "13-10-2025",
+          "spuntino" : "Frutta fresca",
+          "pranzo" : [
+            "Pasta al pomodoro fresco e basilico",
+            "Frittata",
+            "Zucchine trifolate",
+            "Pane"
+          ]
+        },
+        {
+          "data" : "14-10-2025",
+          "pranzo" : [
+            "Pasta all'olio e parmigiano",
+            "Crocchette di patate e fagioli cannellini",
+            "Pane"
+          ],
+          "spuntino" : "Frutta fresca",
+          "merenda" : "Yogurt e cereali"
+        },
+        {
+          "data" : "15-10-2025",
+          "pranzo" : [
+            "Crema di verdure con pasta",
+            "Robiola",
+            "Spinaci all'olio",
+            "Pane"
+          ],
+          "merenda" : "Polpa di frutta e Fette Biscottate",
+          "spuntino" : "Frutta fresca"
+        },
+        {
+          "pranzo" : [
+            "Pasta con zucchine",
+            "Sformatino di platessa",
+            "Carote stufate",
+            "Pane"
+          ],
+          "merenda" : "Pane (a fette) e pomodoro",
+          "data" : "16-10-2025",
+          "spuntino" : "Frutta fresca"
+        },
+        {
+          "data" : "17-10-2025",
+          "pranzo" : [
+            "Risotto allo zafferano",
+            "Polpettone di bovino",
+            "Bieta all'olio",
+            "Pane"
+          ],
+          "merenda" : "Gelato fior di latte",
+          "spuntino" : "Frutta fresca"
+        },
+        {
+          "spuntino" : "Frutta fresca",
+          "pranzo" : [
+            "Pasta al pesto delicato",
+            "Bocconcini di maiale al tegame",
+            "Fagiolini all'olio",
+            "Pane"
+          ],
+          "data" : "20-10-2025",
+          "merenda" : "Focaccia bianca soffice"
+        },
+        {
+          "spuntino" : "Frutta fresca",
+          "data" : "21-10-2025",
+          "merenda" : "Polpa di frutta e fette biscottate",
+          "pranzo" : [
+            "Crema di verdure con pasta",
+            "Robiola",
+            "Patate al tegame",
+            "Pane"
+          ]
+        },
+        {
+          "pranzo" : [
+            "Risotto con crema di piselli",
+            "Bocconcini di pollo al tegame",
+            "Purea di carote",
+            "Pane"
+          ],
+          "merenda" : "Yogurt e cereali",
+          "data" : "22-10-2025",
+          "spuntino" : "Frutta fresca"
+        },
+        {
+          "data" : "23-10-2025",
+          "spuntino" : "Frutta fresca",
+          "pranzo" : [
+            "Pasta e patate",
+            "Uova strapazzate",
+            "Bieta all'olio",
+            "Pane"
+          ],
+          "merenda" : "Frullato di banana con latte"
+        },
+        {
+          "data" : "24-10-2025",
+          "spuntino" : "Frutta fresca",
+          "pranzo" : [
+            "Pasta all'olio e parmigiano",
+            "Medaglioni di spigola",
+            "Zucchine trifolate",
+            "Pane"
+          ],
+          "merenda" : "Latte e biscotti"
+        },
+        {
+          "merenda" : "Gelato fior di latte",
+          "data" : "27-10-2025",
+          "pranzo" : [
+            "Pasta all'ortolana",
+            "Tortino di patate",
+            "Pane"
+          ],
+          "spuntino" : "Frutta fresca"
+        },
+        {
+          "data" : "28-10-2025",
+          "merenda" : "Latte e Biscotti",
+          "pranzo" : [
+            "Pasta al burro e parmigiano",
+            "Medaglioni di merluzzo",
+            "Spinaci all'olio",
+            "Pane"
+          ],
+          "spuntino" : "Frutta fresca"
+        },
+        {
+          "spuntino" : "Frutta fresca",
+          "pranzo" : [
+            "Pasta al trito vegetale",
+            "Frittata con zucchine",
+            "Pane"
+          ],
+          "data" : "29-10-2025",
+          "merenda" : "Polpa di frutta e Fette Biscottate"
+        },
+        {
+          "pranzo" : [
+            "Pasta al pesto delicato",
+            "Straccetti di pollo cremolati",
+            "Carote all'olio",
+            "Pane"
+          ],
+          "data" : "30-10-2025",
+          "spuntino" : "Frutta fresca",
+          "merenda" : "Focaccia bianca soffice"
+        },
+        {
+          "merenda" : "Yogurt e cereali",
+          "data" : "31-10-2025",
+          "spuntino" : "Frutta fresca",
+          "pranzo" : [
+            "Crema di lenticchie con farro",
+            "Ricotta",
+            "Fagiolini all'olio",
+            "Pane"
+          ]
         }
-      ],
-      "identifier" : "nidoMedi"
+      ]
     },
     {
-      "identifier" : "ponte",
       "menuGionalieri" : [
         {
-          "spuntino" : "Cracker",
+          "merenda" : "Crostatina con marmellata di frutta",
           "data" : "15-09-2025",
+          "spuntino" : "Cracker",
           "pranzo" : [
             "Crema di verdure con pasta",
             "Scaloppina di bovino",
             "Fagiolini all'olio",
             "Pane",
             "Frutta"
-          ],
-          "merenda" : "Crostatina con marmellata di frutta"
+          ]
         },
         {
-          "data" : "16-09-2025",
-          "merenda" : "Biscotti frollini al cacao e succo di frutta senza zuccheri agg.",
+          "spuntino" : "Plumcake allo yogurt",
           "pranzo" : [
             "Pasta al trito vegetale",
             "Medaglioni di merluzzo al limone",
@@ -666,17 +1433,439 @@
             "Pane",
             "Frutta"
           ],
-          "spuntino" : "Plumcake allo yogurt"
+          "merenda" : "Biscotti frollini al cacao e succo di frutta senza zuccheri agg.",
+          "data" : "16-09-2025"
         },
         {
-          "spuntino" : "Schiacciatine",
-          "merenda" : "Panino all'olio con marmellata",
-          "data" : "17-09-2025",
           "pranzo" : [
             "Riso alla parmigiana",
             "Fuso di pollo arrosto",
             "Patate al tegame",
             "Pane",
+            "Frutta"
+          ],
+          "spuntino" : "Schiacciatine",
+          "merenda" : "Panino all'olio con marmellata",
+          "data" : "17-09-2025"
+        },
+        {
+          "data" : "18-09-2025",
+          "pranzo" : [
+            "Crema di fagioli con pasta",
+            "Uova strapazzate\/Frittata",
+            "Insalata di pomodori",
+            "Pane",
+            "Gelato"
+          ],
+          "spuntino" : "Frutta di stagione",
+          "merenda" : "Focaccia bianca soffice"
+        },
+        {
+          "data" : "19-09-2025",
+          "merenda" : "Ciambellone",
+          "pranzo" : [
+            "Pizza rossa",
+            "Mozzarella vaccina",
+            "Bieta all'olio",
+            "Frutta"
+          ],
+          "spuntino" : "Banana"
+        },
+        {
+          "merenda" : "Biscotti frollini al cacao e succo di frutta senza zuccheri agg.",
+          "spuntino" : "Plumcake allo yogurt",
+          "pranzo" : [
+            "Pasta con piselli",
+            "Asiago",
+            "Spinaci al burro e parmigiano",
+            "Pane",
+            "Frutta"
+          ],
+          "data" : "22-09-2025"
+        },
+        {
+          "merenda" : "Focaccia bianca soffice",
+          "spuntino" : "Frutta di stagione",
+          "pranzo" : [
+            "Farro all'ortolana",
+            "Fuso di pollo arrosto",
+            "Patate al tegame",
+            "Pane",
+            "Gelato"
+          ],
+          "data" : "23-09-2025"
+        },
+        {
+          "data" : "24-09-2025",
+          "pranzo" : [
+            "Pasta con zucchine",
+            "Bastoncini di merluzzo della cuoca",
+            "Fagiolini all'olio",
+            "Pane",
+            "Frutta"
+          ],
+          "spuntino" : "Cracker",
+          "merenda" : "Crostatina con marmellata di frutta"
+        },
+        {
+          "data" : "25-09-2025",
+          "pranzo" : [
+            "Pasta al pomodoro e basilico",
+            "Polpettone o polpette di bovino",
+            "Zucchine trifolate",
+            "Pane",
+            "Frutta"
+          ],
+          "merenda" : "Ciambellone",
+          "spuntino" : "Banana"
+        },
+        {
+          "spuntino" : "Schiacciatine",
+          "merenda" : "Panino all'olio con marmellata",
+          "data" : "26-09-2025",
+          "pranzo" : [
+            "Insalata di pasta mediterranea",
+            "Uova strapazzate\/Frittata",
+            "Insalata verde",
+            "Pane",
+            "Frutta"
+          ]
+        },
+        {
+          "pranzo" : [
+            "Risotto con zucchine",
+            "Petto o bocconcini di pollo panato",
+            "Insalata di pomodori",
+            "Pane",
+            "Frutta"
+          ],
+          "spuntino" : "Schiacciatine",
+          "data" : "29-09-2025",
+          "merenda" : "Panino all'olio con marmellata"
+        },
+        {
+          "spuntino" : "Cracker",
+          "data" : "30-09-2025",
+          "pranzo" : [
+            "Pasta al sugo di spigola",
+            "Uova strapazzate\/Frittata",
+            "Spinaci all'olio",
+            "Pane",
+            "Frutta"
+          ],
+          "merenda" : "Crostatina con marmellata di frutta"
+        },
+        {
+          "merenda" : "Ciambellone",
+          "data" : "01-10-2025",
+          "pranzo" : [
+            "Lasagna",
+            "Carote al tegame",
+            "Pane",
+            "Gelato"
+          ],
+          "spuntino" : "Banana"
+        },
+        {
+          "pranzo" : [
+            "Pasta al burro e parmigiano",
+            "Medaglioni di merluzzo",
+            "Patate all'olio",
+            "Pane",
+            "Frutta"
+          ],
+          "merenda" : "Focaccia bianca soffice",
+          "spuntino" : "Frutta di stagione",
+          "data" : "02-10-2025"
+        },
+        {
+          "data" : "03-10-2025",
+          "merenda" : "Biscotti frollini al cacao e succo di frutta senza zuccheri agg.",
+          "pranzo" : [
+            "Crema di fagioli con pasta",
+            "Ricotta",
+            "Zucchine gratinate",
+            "Pane",
+            "Frutta"
+          ],
+          "spuntino" : "Plumcake allo yogurt"
+        },
+        {
+          "data" : "06-10-2025",
+          "pranzo" : [
+            "Riso alla parmigiana",
+            "Petto o bocconcino di pollo al limone",
+            "Spinaci all'olio",
+            "Pane",
+            "Frutta"
+          ],
+          "merenda" : "Ciambellone",
+          "spuntino" : "Banana"
+        },
+        {
+          "data" : "07-10-2025",
+          "pranzo" : [
+            "Pasta al pomodoro e basilico",
+            "Tortino di limanda",
+            "Carote al tegame",
+            "Pane",
+            "Frutta"
+          ],
+          "spuntino" : "Schiacciatine",
+          "merenda" : "Panino all'olio con marmellata"
+        },
+        {
+          "pranzo" : [
+            "Pasta con piselli",
+            "Uova strapazzate\/Frittata",
+            "Zucchine gratinate",
+            "Pane",
+            "Frutta"
+          ],
+          "spuntino" : "Plumcake allo yogurt",
+          "data" : "08-10-2025",
+          "merenda" : "Biscotti frollini al cacao e succo di frutta senza zuccheri agg."
+        },
+        {
+          "spuntino" : "Frutta di stagione",
+          "pranzo" : [
+            "Pasta all'ortolana",
+            "Caciotta dolce",
+            "Insalata verde",
+            "Pane",
+            "Gelato"
+          ],
+          "merenda" : "Focaccia bianca soffice",
+          "data" : "09-10-2025"
+        },
+        {
+          "merenda" : "Crostatina con marmellata di frutta",
+          "spuntino" : "Cracker",
+          "data" : "10-10-2025",
+          "pranzo" : [
+            "Pasta al ragù di carne",
+            "Tortino di patate",
+            "Pane",
+            "Frutta"
+          ]
+        },
+        {
+          "data" : "13-10-2025",
+          "spuntino" : "Plumcake allo yogurt",
+          "pranzo" : [
+            "Pasta al pomodoro e basilico",
+            "Uova strapazzate\/Frittata",
+            "Zucchine trifolate",
+            "Pane",
+            "Frutta"
+          ],
+          "merenda" : "Biscotti frollini al cacao e succo di frutta senza zuccheri agg."
+        },
+        {
+          "data" : "14-10-2025",
+          "pranzo" : [
+            "Crema di fagioli con pasta",
+            "Straccetti di pollo cremolati",
+            "Spinaci all'olio",
+            "Pane",
+            "Gelato"
+          ],
+          "spuntino" : "Frutta di stagione",
+          "merenda" : "Focaccia bianca soffice"
+        },
+        {
+          "spuntino" : "Schiacciatine",
+          "merenda" : "Panino all'olio e marmellata",
+          "pranzo" : [
+            "Pasta al pomodoro",
+            "Robiola",
+            "Insalata di pomodori",
+            "Pane",
+            "Frutta"
+          ],
+          "data" : "15-10-2025"
+        },
+        {
+          "spuntino" : "Cracker",
+          "data" : "16-10-2025",
+          "pranzo" : [
+            "Pasta con zucchine",
+            "Tortino di limanda",
+            "Carote al tegame",
+            "Pane",
+            "Frutta"
+          ],
+          "merenda" : "Crostatina con marmellata di frutta"
+        },
+        {
+          "pranzo" : [
+            "Risotto allo zafferano",
+            "Hamburger di bovino",
+            "Insalata verde",
+            "Pane",
+            "Frutta"
+          ],
+          "spuntino" : "Banana",
+          "data" : "17-10-2025",
+          "merenda" : "Ciambellone"
+        },
+        {
+          "pranzo" : [
+            "Pasta al pesto senza aglio",
+            "Bocconcini di maiale panati",
+            "Fagiolini all'olio",
+            "Pane",
+            "Frutta"
+          ],
+          "data" : "20-10-2025",
+          "merenda" : "Panino all'olio con marmellata",
+          "spuntino" : "Schiacciatine"
+        },
+        {
+          "spuntino" : "Plumcake allo yogurt",
+          "data" : "21-10-2025",
+          "pranzo" : [
+            "Crema di verdure con pasta",
+            "Montasio",
+            "Patate al tegame",
+            "Pane",
+            "Frutta"
+          ],
+          "merenda" : "Biscotti frollini al cacao e succo di frutta senza zuccheri agg."
+        },
+        {
+          "data" : "22-10-2025",
+          "spuntino" : "Cracker",
+          "pranzo" : [
+            "Riso con piselli",
+            "Petto o bocconcini di pollo al limone",
+            "Carote al tegame",
+            "Pane",
+            "Frutta"
+          ],
+          "merenda" : "Crostatina con marmellata di frutta"
+        },
+        {
+          "merenda" : "Ciambellone",
+          "spuntino" : "Banana",
+          "data" : "23-10-2025",
+          "pranzo" : [
+            "Pasta e patate",
+            "Uova strapazzate\/Frittata",
+            "Insalata verde",
+            "Pane",
+            "Frutta"
+          ]
+        },
+        {
+          "pranzo" : [
+            "Pasta all'olio e parmigiano",
+            "Medaglioni di spigola",
+            "Zucchine trifolate",
+            "Pane",
+            "Gelato"
+          ],
+          "merenda" : "Focaccia bianca soffice",
+          "spuntino" : "Frutta di stagione",
+          "data" : "24-10-2025"
+        },
+        {
+          "data" : "27-10-2025",
+          "pranzo" : [
+            "Pasta all'ortolana",
+            "Tortino di patate",
+            "Pane",
+            "Gelato"
+          ],
+          "spuntino" : "Frutta di stagione",
+          "merenda" : "Focaccia bianca soffice"
+        },
+        {
+          "data" : "28-10-2025",
+          "pranzo" : [
+            "Pasta al burro e parmigiano",
+            "Bastoncini di merluzzo della cuoca",
+            "Insalata verde",
+            "Pane",
+            "Frutta"
+          ],
+          "merenda" : "Crostatina con marmellata di frutta",
+          "spuntino" : "Cracker"
+        },
+        {
+          "data" : "29-10-2025",
+          "pranzo" : [
+            "Pasta al trito vegetale",
+            "Frittata con zucchine",
+            "Pane",
+            "Frutta"
+          ],
+          "spuntino" : "Banana",
+          "merenda" : "Ciambellone"
+        },
+        {
+          "spuntino" : "Schiacciatine",
+          "merenda" : "Panino all'olio con marmellata",
+          "pranzo" : [
+            "Pasta al pesto senza aglio",
+            "Fuso di pollo arrosto",
+            "Carote al tegame",
+            "Pane",
+            "Frutta"
+          ],
+          "data" : "30-10-2025"
+        },
+        {
+          "merenda" : "Biscotti frollini al cacao e succo di frutta senza zuccheri agg.",
+          "pranzo" : [
+            "Farro con lenticchie",
+            "Crescenza",
+            "Fagiolini all'olio",
+            "Pane",
+            "Frutta"
+          ],
+          "data" : "31-10-2025",
+          "spuntino" : "Plumcake allo yogurt"
+        }
+      ],
+      "identifier" : "ponte"
+    },
+    {
+      "identifier" : "primaria",
+      "menuGionalieri" : [
+        {
+          "merenda" : "Crostatina con marmellata di frutta",
+          "spuntino" : "Cracker",
+          "pranzo" : [
+            "Crema di verdure con pasta",
+            "Scaloppina di bovino",
+            "Fagiolini all'olio",
+            "Pane",
+            "Frutta"
+          ],
+          "data" : "15-09-2025"
+        },
+        {
+          "merenda" : "Biscotti frollini al cacao e succo di frutta senza zuccheri agg.",
+          "data" : "16-09-2025",
+          "spuntino" : "Plumcake allo yogurt",
+          "pranzo" : [
+            "Pasta al trito vegetale",
+            "Medaglioni di merluzzo al limone",
+            "Zucchine trifolate",
+            "Pane",
+            "Frutta"
+          ]
+        },
+        {
+          "data" : "17-09-2025",
+          "spuntino" : "Schiacciatine",
+          "merenda" : "Panino all'olio con marmellata",
+          "pranzo" : [
+            "Riso alla parmigiana",
+            "Coscio di pollo arrosto",
+            "Patate al tegame",
+            "Pane integrale",
             "Frutta"
           ]
         },
@@ -693,17 +1882,19 @@
           "data" : "18-09-2025"
         },
         {
-          "spuntino" : "Banana",
+          "data" : "19-09-2025",
           "merenda" : "Ciambellone",
           "pranzo" : [
             "Pizza rossa",
             "Mozzarella vaccina",
             "Bieta all'olio",
+            "Pane",
             "Frutta"
           ],
-          "data" : "19-09-2025"
+          "spuntino" : "Banana"
         },
         {
+          "data" : "22-09-2025",
           "pranzo" : [
             "Pasta con piselli",
             "Asiago",
@@ -711,24 +1902,22 @@
             "Pane",
             "Frutta"
           ],
-          "data" : "22-09-2025",
           "spuntino" : "Plumcake allo yogurt",
           "merenda" : "Biscotti frollini al cacao e succo di frutta senza zuccheri agg."
         },
         {
-          "merenda" : "Focaccia bianca soffice",
-          "data" : "23-09-2025",
           "pranzo" : [
             "Farro all'ortolana",
-            "Fuso di pollo arrosto",
+            "Coscio di pollo arrosto",
             "Patate al tegame",
             "Pane",
             "Gelato"
           ],
+          "data" : "23-09-2025",
+          "merenda" : "Focaccia bianca soffice",
           "spuntino" : "Frutta di stagione"
         },
         {
-          "data" : "24-09-2025",
           "pranzo" : [
             "Pasta con zucchine",
             "Bastoncini di merluzzo della cuoca",
@@ -737,9 +1926,11 @@
             "Frutta"
           ],
           "spuntino" : "Cracker",
-          "merenda" : "Crostatina con marmellata di frutta"
+          "merenda" : "Crostatina con marmellata di frutta",
+          "data" : "24-09-2025"
         },
         {
+          "merenda" : "Ciambellone",
           "spuntino" : "Banana",
           "pranzo" : [
             "Pasta al pomodoro e basilico",
@@ -748,14 +1939,434 @@
             "Pane",
             "Frutta"
           ],
-          "data" : "25-09-2025",
+          "data" : "25-09-2025"
+        },
+        {
+          "data" : "26-09-2025",
+          "merenda" : "Panino all'olio con marmellata",
+          "spuntino" : "Schiacciatine",
+          "pranzo" : [
+            "Insalata di pasta mediterranea",
+            "Uova strapazzate\/Frittata",
+            "Insalata mista",
+            "Pane",
+            "Frutta"
+          ]
+        },
+        {
+          "data" : "29-09-2025",
+          "merenda" : "Panino all'olio con marmellata",
+          "pranzo" : [
+            "Risotto con zucchine",
+            "Petto o bocconcini di pollo panato",
+            "Insalata di pomodori",
+            "Pane",
+            "Frutta"
+          ],
+          "spuntino" : "Schiacciatine"
+        },
+        {
+          "spuntino" : "Cracker",
+          "pranzo" : [
+            "Pasta al sugo di spigola",
+            "Uova strapazzate\/Frittata",
+            "Spinaci all'olio",
+            "Pane",
+            "Frutta"
+          ],
+          "merenda" : "Crostatina con marmellata di frutta",
+          "data" : "30-09-2025"
+        },
+        {
+          "data" : "01-10-2025",
+          "merenda" : "Ciambellone",
+          "spuntino" : "Banana",
+          "pranzo" : [
+            "Lasagna",
+            "Carote alla julienne",
+            "Pane",
+            "Gelato"
+          ]
+        },
+        {
+          "pranzo" : [
+            "Pasta al burro e parmigiano",
+            "Medaglioni di merluzzo",
+            "Patate all'olio",
+            "Pane",
+            "Frutta"
+          ],
+          "data" : "02-10-2025",
+          "spuntino" : "Frutta di stagione",
+          "merenda" : "Focaccia bianca soffice"
+        },
+        {
+          "pranzo" : [
+            "Crema di fagioli con pasta",
+            "Ricotta",
+            "Zucchine gratinate",
+            "Pane",
+            "Frutta"
+          ],
+          "data" : "03-10-2025",
+          "merenda" : "Biscotti frollini al cacao e succo di frutta senza zuccheri agg.",
+          "spuntino" : "Plumcake allo yogurt"
+        },
+        {
+          "pranzo" : [
+            "Riso alla parmigiana",
+            "Petto o bocconcini di pollo al limone",
+            "Fiori di zucca alla romana",
+            "Pane integrale",
+            "Frutta"
+          ],
+          "data" : "06-10-2025",
+          "spuntino" : "Banana",
           "merenda" : "Ciambellone"
+        },
+        {
+          "spuntino" : "Schiacciatine",
+          "pranzo" : [
+            "Pasta al pomodoro e basilico",
+            "Tortino di limanda",
+            "Carote alla julienne",
+            "Pane",
+            "Frutta"
+          ],
+          "data" : "07-10-2025",
+          "merenda" : "Panino all'olio con marmellata"
+        },
+        {
+          "spuntino" : "Plumcake allo yogurt",
+          "pranzo" : [
+            "Pasta con piselli",
+            "Uova strapazzate\/Frittata",
+            "Zucchine gratinate",
+            "Pane",
+            "Frutta"
+          ],
+          "merenda" : "Biscotti frollini al cacao e succo di frutta senza zuccheri agg.",
+          "data" : "08-10-2025"
+        },
+        {
+          "merenda" : "Focaccia bianca soffice",
+          "data" : "09-10-2025",
+          "spuntino" : "Frutta di stagione",
+          "pranzo" : [
+            "Pasta all'ortolana",
+            "Caciotta dolce",
+            "Insalata mista",
+            "Pane",
+            "Gelato"
+          ]
+        },
+        {
+          "spuntino" : "Cracker",
+          "data" : "10-10-2025",
+          "pranzo" : [
+            "Pasta al ragù di carne",
+            "Tortino di patate",
+            "Pane",
+            "Frutta"
+          ],
+          "merenda" : "Crostatina con marmellata di frutta"
+        },
+        {
+          "merenda" : "Biscotti frollini al cacao e succo di frutta senza zuccheri agg.",
+          "pranzo" : [
+            "Pasta al tonno",
+            "Uova strapazzate\/Frittata",
+            "Zucchine trifolate",
+            "Pane",
+            "Frutta"
+          ],
+          "data" : "13-10-2025",
+          "spuntino" : "Plumcake allo yogurt"
+        },
+        {
+          "pranzo" : [
+            "Crema di fagioli con pasta",
+            "Straccetti di pollo cremolati",
+            "Spinaci all'olio",
+            "Pane",
+            "Gelato"
+          ],
+          "spuntino" : "Frutta di stagione",
+          "data" : "14-10-2025",
+          "merenda" : "Focaccia bianca soffice"
+        },
+        {
+          "merenda" : "Panino all'olio con marmellata",
+          "spuntino" : "Schiacciatine",
+          "pranzo" : [
+            "Agnolotti al pomodoro",
+            "Robiola",
+            "Insalata di pomodori",
+            "Pane",
+            "Frutta"
+          ],
+          "data" : "15-10-2025"
+        },
+        {
+          "data" : "16-10-2025",
+          "merenda" : "Crostatina con marmellata di frutta",
+          "spuntino" : "Cracker",
+          "pranzo" : [
+            "Pasta con pesto di zucchine",
+            "Filetti di limanda gratinati",
+            "Carote alla julienne",
+            "Pane",
+            "Frutta"
+          ]
+        },
+        {
+          "merenda" : "Ciambellone",
+          "data" : "17-10-2025",
+          "pranzo" : [
+            "Risotto allo zafferano",
+            "Hamburger di bovino",
+            "Insalata verde",
+            "Pane",
+            "Frutta"
+          ],
+          "spuntino" : "Banana"
+        },
+        {
+          "spuntino" : "Schiacciatine",
+          "pranzo" : [
+            "Pasta al pesto senza aglio",
+            "Cotoletta di maiale panata\/Bocconcini di maiale impanati",
+            "Fagiolini all'olio",
+            "Pane",
+            "Frutta"
+          ],
+          "data" : "20-10-2025",
+          "merenda" : "Panino all'olio con marmellata"
+        },
+        {
+          "pranzo" : [
+            "Crema di verdure con pasta",
+            "Montasio",
+            "Patate al tegame",
+            "Pane integrale",
+            "Frutta"
+          ],
+          "merenda" : "Biscotti frollini al cacao e succo di frutta senza zuccheri agg.",
+          "data" : "21-10-2025",
+          "spuntino" : "Plumcake allo yogurt"
+        },
+        {
+          "spuntino" : "Cracker",
+          "pranzo" : [
+            "Riso con piselli",
+            "Petto o bocconcini di pollo al limone",
+            "Carote al tegame",
+            "Pane",
+            "Frutta"
+          ],
+          "data" : "22-10-2025",
+          "merenda" : "Crostatina con marmellata di frutta"
+        },
+        {
+          "pranzo" : [
+            "Pasta e patate",
+            "Uova strapazzate\/Frittata",
+            "Insalata verde",
+            "Pane",
+            "Frutta"
+          ],
+          "merenda" : "Ciambellone",
+          "spuntino" : "Banana",
+          "data" : "23-10-2025"
+        },
+        {
+          "data" : "24-10-2025",
+          "merenda" : "Focaccia bianca soffice",
+          "pranzo" : [
+            "Pasta all'olio e parmigiano",
+            "Medaglioni di spigola",
+            "Zucchine trifolate",
+            "Pane",
+            "Gelato"
+          ],
+          "spuntino" : "Frutta di stagione"
+        },
+        {
+          "data" : "27-10-2025",
+          "spuntino" : "Frutta di stagione",
+          "pranzo" : [
+            "Pasta all'ortolana",
+            "Tortino di patate",
+            "Pane",
+            "Gelato"
+          ],
+          "merenda" : "Focaccia bianca soffice"
+        },
+        {
+          "merenda" : "Crostatina con marmellata di frutta",
+          "spuntino" : "Cracker",
+          "data" : "28-10-2025",
+          "pranzo" : [
+            "Pasta al burro e parmigiano",
+            "Bastoncini di merluzzo della cuoca",
+            "Insalata verde",
+            "Pane",
+            "Frutta"
+          ]
+        },
+        {
+          "pranzo" : [
+            "Pasta integrale al trito vegetale",
+            "Frittata con zucchine",
+            "Pane",
+            "Frutta"
+          ],
+          "data" : "29-10-2025",
+          "merenda" : "Ciambellone",
+          "spuntino" : "Banana"
+        },
+        {
+          "data" : "30-10-2025",
+          "pranzo" : [
+            "Pasta al pesto senza aglio",
+            "Coscio di pollo arrosto",
+            "Carote al tegame",
+            "Pane",
+            "Frutta"
+          ],
+          "spuntino" : "Schiacciatine",
+          "merenda" : "Panino all'olio con marmellata"
+        },
+        {
+          "data" : "31-10-2025",
+          "merenda" : "Biscotti frollini al cacao e succo di frutta senza zuccheri agg.",
+          "pranzo" : [
+            "Farro e lenticchie",
+            "Crescenza",
+            "Fagiolini al pomodoro",
+            "Pane",
+            "Frutta"
+          ],
+          "spuntino" : "Plumcake allo yogurt"
+        }
+      ]
+    },
+    {
+      "identifier" : "secondaria",
+      "menuGionalieri" : [
+        {
+          "merenda" : "Crostatina con marmellata di frutta",
+          "spuntino" : "Cracker",
+          "pranzo" : [
+            "Crema di verdure con pasta",
+            "Scaloppina di bovino",
+            "Fagiolini all'olio",
+            "Pane",
+            "Frutta"
+          ],
+          "data" : "15-09-2025"
+        },
+        {
+          "merenda" : "Biscotti frollini al cacao e succo di frutta senza zuccheri agg.",
+          "pranzo" : [
+            "Pasta al trito vegetale",
+            "Medaglioni di merluzzo al limone",
+            "Zucchine trifolate",
+            "Pane",
+            "Frutta"
+          ],
+          "spuntino" : "Plumcake allo yogurt",
+          "data" : "16-09-2025"
+        },
+        {
+          "data" : "17-09-2025",
+          "merenda" : "Panino all'olio con marmellata",
+          "pranzo" : [
+            "Riso alla parmigiana",
+            "Coscio di pollo arrosto",
+            "Patate al tegame",
+            "Pane integrale",
+            "Frutta"
+          ],
+          "spuntino" : "Schiacciatine"
+        },
+        {
+          "pranzo" : [
+            "Crema di fagioli con pasta",
+            "Uova strapazzate\/Frittata",
+            "Insalata di pomodori",
+            "Pane",
+            "Gelato"
+          ],
+          "data" : "18-09-2025",
+          "merenda" : "Focaccia bianca soffice",
+          "spuntino" : "Frutta di stagione"
+        },
+        {
+          "merenda" : "Ciambellone",
+          "spuntino" : "Banana",
+          "data" : "19-09-2025",
+          "pranzo" : [
+            "Pizza rossa",
+            "Mozzarella vaccina",
+            "Bieta all'olio",
+            "Pane",
+            "Frutta"
+          ]
+        },
+        {
+          "spuntino" : "Plumcake allo yogurt",
+          "merenda" : "Biscotti frollini al cacao e succo di frutta senza zuccheri agg.",
+          "data" : "22-09-2025",
+          "pranzo" : [
+            "Pasta con piselli",
+            "Asiago",
+            "Spinaci al burro e parmigiano",
+            "Pane",
+            "Frutta"
+          ]
+        },
+        {
+          "spuntino" : "Frutta di stagione",
+          "data" : "23-09-2025",
+          "merenda" : "Focaccia bianca soffice",
+          "pranzo" : [
+            "Farro all'ortolana",
+            "Coscio di pollo arrosto",
+            "Patate al tegame",
+            "Pane",
+            "Gelato"
+          ]
+        },
+        {
+          "merenda" : "Crostatina con marmellata di frutta",
+          "spuntino" : "Cracker",
+          "pranzo" : [
+            "Pasta con zucchine",
+            "Bastoncini di merluzzo della cuoca",
+            "Fagiolini all'olio",
+            "Pane",
+            "Frutta"
+          ],
+          "data" : "24-09-2025"
+        },
+        {
+          "pranzo" : [
+            "Pasta al pomodoro e basilico",
+            "Polpettone o polpette di bovino",
+            "Zucchine trifolate",
+            "Pane",
+            "Frutta"
+          ],
+          "merenda" : "Ciambellone",
+          "spuntino" : "Banana",
+          "data" : "25-09-2025"
         },
         {
           "pranzo" : [
             "Insalata di pasta mediterranea",
             "Uova strapazzate\/Frittata",
-            "Insalata verde",
+            "Insalata mista",
             "Pane",
             "Frutta"
           ],
@@ -764,6 +2375,8 @@
           "data" : "26-09-2025"
         },
         {
+          "data" : "29-09-2025",
+          "merenda" : "Panino all'olio con marmellata",
           "pranzo" : [
             "Risotto con zucchine",
             "Petto o bocconcini di pollo panato",
@@ -771,13 +2384,11 @@
             "Pane",
             "Frutta"
           ],
-          "merenda" : "Panino all'olio con marmellata",
-          "spuntino" : "Schiacciatine",
-          "data" : "29-09-2025"
+          "spuntino" : "Schiacciatine"
         },
         {
+          "spuntino" : "Cracker",
           "data" : "30-09-2025",
-          "merenda" : "Crostatina con marmellata di frutta",
           "pranzo" : [
             "Pasta al sugo di spigola",
             "Uova strapazzate\/Frittata",
@@ -785,308 +2396,281 @@
             "Pane",
             "Frutta"
           ],
-          "spuntino" : "Cracker"
-        }
-      ]
-    },
-    {
-      "identifier" : "primaria",
-      "menuGionalieri" : [
-        {
-          "pranzo" : [
-            "Crema di verdure con pasta",
-            "Scaloppina di bovino",
-            "Fagiolini all'olio",
-            "Pane",
-            "Frutta"
-          ],
-          "data" : "15-09-2025",
-          "merenda" : "Crostatina con marmellata di frutta",
-          "spuntino" : "Cracker"
+          "merenda" : "Crostatina con marmellata di frutta"
         },
         {
-          "spuntino" : "Plumcake allo yogurt",
-          "merenda" : "Biscotti frollini al cacao e succo di frutta senza zuccheri agg.",
-          "data" : "16-09-2025",
-          "pranzo" : [
-            "Pasta al trito vegetale",
-            "Medaglioni di merluzzo al limone",
-            "Zucchine trifolate",
-            "Pane",
-            "Frutta"
-          ]
-        },
-        {
-          "merenda" : "Panino all'olio con marmellata",
-          "data" : "17-09-2025",
-          "pranzo" : [
-            "Riso alla parmigiana",
-            "Coscio di pollo arrosto",
-            "Patate al tegame",
-            "Pane integrale",
-            "Frutta"
-          ],
-          "spuntino" : "Schiacciatine"
-        },
-        {
-          "spuntino" : "Frutta di stagione",
-          "merenda" : "Focaccia bianca soffice",
-          "data" : "18-09-2025",
-          "pranzo" : [
-            "Crema di fagioli con pasta",
-            "Uova strapazzate\/Frittata",
-            "Insalata di pomodori",
-            "Pane",
-            "Gelato"
-          ]
-        },
-        {
-          "spuntino" : "Banana",
           "merenda" : "Ciambellone",
+          "spuntino" : "Banana",
+          "data" : "01-10-2025",
           "pranzo" : [
-            "Pizza rossa",
-            "Mozzarella vaccina",
-            "Bieta all'olio",
+            "Lasagna",
+            "Carote alla julienne",
             "Pane",
-            "Frutta"
-          ],
-          "data" : "19-09-2025"
-        },
-        {
-          "spuntino" : "Plumcake allo yogurt",
-          "data" : "22-09-2025",
-          "merenda" : "Biscotti frollini al cacao e succo di frutta senza zuccheri agg.",
-          "pranzo" : [
-            "Pasta con piselli",
-            "Asiago",
-            "Spinaci al burro e parmigiano",
-            "Pane",
-            "Frutta"
+            "Gelato"
           ]
         },
         {
-          "pranzo" : [
-            "Farro all'ortolana",
-            "Coscio di pollo arrosto",
-            "Patate al tegame",
-            "Pane",
-            "Gelato"
-          ],
-          "data" : "23-09-2025",
           "spuntino" : "Frutta di stagione",
+          "pranzo" : [
+            "Pasta al burro e parmigiano",
+            "Medaglioni di merluzzo",
+            "Patate all'olio",
+            "Pane",
+            "Frutta"
+          ],
+          "data" : "02-10-2025",
           "merenda" : "Focaccia bianca soffice"
         },
         {
-          "data" : "24-09-2025",
-          "spuntino" : "Cracker",
-          "pranzo" : [
-            "Pasta con zucchine",
-            "Bastoncini di merluzzo della cuoca",
-            "Fagiolini all'olio",
-            "Pane",
-            "Frutta"
-          ],
-          "merenda" : "Crostatina con marmellata di frutta"
-        },
-        {
-          "spuntino" : "Banana",
-          "pranzo" : [
-            "Pasta al pomodoro e basilico",
-            "Polpettone o polpette di bovino",
-            "Zucchine trifolate",
-            "Pane",
-            "Frutta"
-          ],
-          "data" : "25-09-2025",
-          "merenda" : "Ciambellone"
-        },
-        {
-          "merenda" : "Panino all'olio con marmellata",
-          "data" : "26-09-2025",
-          "spuntino" : "Schiacciatine",
-          "pranzo" : [
-            "Insalata di pasta mediterranea",
-            "Uova strapazzate\/Frittata",
-            "Insalata mista",
-            "Pane",
-            "Frutta"
-          ]
-        },
-        {
-          "merenda" : "Panino all'olio con marmellata",
-          "pranzo" : [
-            "Risotto con zucchine",
-            "Petto o bocconcini di pollo panato",
-            "Insalata di pomodori",
-            "Pane",
-            "Frutta"
-          ],
-          "data" : "29-09-2025",
-          "spuntino" : "Schiacciatine"
-        },
-        {
-          "data" : "30-09-2025",
-          "spuntino" : "Cracker",
-          "pranzo" : [
-            "Pasta al sugo di spigola",
-            "Uova strapazzate\/Frittata",
-            "Spinaci all'olio",
-            "Pane",
-            "Frutta"
-          ],
-          "merenda" : "Crostatina con marmellata di frutta"
-        }
-      ]
-    },
-    {
-      "menuGionalieri" : [
-        {
-          "pranzo" : [
-            "Crema di verdure con pasta",
-            "Scaloppina di bovino",
-            "Fagiolini all'olio",
-            "Pane",
-            "Frutta"
-          ],
-          "merenda" : "Crostatina con marmellata di frutta",
-          "spuntino" : "Cracker",
-          "data" : "15-09-2025"
-        },
-        {
-          "spuntino" : "Plumcake allo yogurt",
-          "data" : "16-09-2025",
-          "merenda" : "Biscotti frollini al cacao e succo di frutta senza zuccheri agg.",
-          "pranzo" : [
-            "Pasta al trito vegetale",
-            "Medaglioni di merluzzo al limone",
-            "Zucchine trifolate",
-            "Pane",
-            "Frutta"
-          ]
-        },
-        {
-          "spuntino" : "Schiacciatine",
-          "pranzo" : [
-            "Riso alla parmigiana",
-            "Coscio di pollo arrosto",
-            "Patate al tegame",
-            "Pane integrale",
-            "Frutta"
-          ],
-          "data" : "17-09-2025",
-          "merenda" : "Panino all'olio con marmellata"
-        },
-        {
+          "data" : "03-10-2025",
           "pranzo" : [
             "Crema di fagioli con pasta",
-            "Uova strapazzate\/Frittata",
-            "Insalata di pomodori",
-            "Pane",
-            "Gelato"
-          ],
-          "data" : "18-09-2025",
-          "merenda" : "Focaccia bianca soffice",
-          "spuntino" : "Frutta di stagione"
-        },
-        {
-          "data" : "19-09-2025",
-          "pranzo" : [
-            "Pizza rossa",
-            "Mozzarella vaccina",
-            "Bieta all'olio",
+            "Ricotta",
+            "Zucchine gratinate",
             "Pane",
             "Frutta"
           ],
-          "spuntino" : "Banana",
-          "merenda" : "Ciambellone"
-        },
-        {
-          "pranzo" : [
-            "Pasta con piselli",
-            "Asiago",
-            "Spinaci al burro e parmigiano",
-            "Pane",
-            "Frutta"
-          ],
-          "data" : "22-09-2025",
           "spuntino" : "Plumcake allo yogurt",
           "merenda" : "Biscotti frollini al cacao e succo di frutta senza zuccheri agg."
         },
         {
-          "merenda" : "Focaccia bianca soffice",
-          "data" : "23-09-2025",
           "pranzo" : [
-            "Farro all'ortolana",
-            "Coscio di pollo arrosto",
-            "Patate al tegame",
-            "Pane",
-            "Gelato"
-          ],
-          "spuntino" : "Frutta di stagione"
-        },
-        {
-          "data" : "24-09-2025",
-          "pranzo" : [
-            "Pasta con zucchine",
-            "Bastoncini di merluzzo della cuoca",
-            "Fagiolini all'olio",
-            "Pane",
+            "Riso alla parmigiana",
+            "Petto o bocconcini di pollo al limone",
+            "Fiori di zucca alla romana",
+            "Pane integrale",
             "Frutta"
           ],
-          "spuntino" : "Cracker",
-          "merenda" : "Crostatina con marmellata di frutta"
+          "data" : "06-10-2025",
+          "spuntino" : "Banana",
+          "merenda" : "Ciambellone"
         },
         {
-          "merenda" : "Ciambellone",
-          "data" : "25-09-2025",
+          "merenda" : "Panino all'olio con marmellata",
+          "data" : "07-10-2025",
           "pranzo" : [
             "Pasta al pomodoro e basilico",
-            "Polpettone o polpette di bovino",
-            "Zucchine trifolate",
-            "Pane",
-            "Frutta"
-          ],
-          "spuntino" : "Banana"
-        },
-        {
-          "pranzo" : [
-            "Insalata di pasta mediterranea",
-            "Uova strapazzate\/Frittata",
-            "Insalata mista",
-            "Pane",
-            "Frutta"
-          ],
-          "spuntino" : "Schiacciatine",
-          "data" : "26-09-2025",
-          "merenda" : "Panino all'olio con marmellata"
-        },
-        {
-          "data" : "29-09-2025",
-          "merenda" : "Panino all'olio con marmellata",
-          "pranzo" : [
-            "Risotto con zucchine",
-            "Petto o bocconcini di pollo panato",
-            "Insalata di pomodori",
+            "Tortino di limanda",
+            "Carote alla julienne",
             "Pane",
             "Frutta"
           ],
           "spuntino" : "Schiacciatine"
         },
         {
+          "merenda" : "Biscotti frollini al cacao e succo di frutta senza zuccheri agg.",
+          "data" : "08-10-2025",
+          "spuntino" : "Plumcake allo yogurt",
+          "pranzo" : [
+            "Pasta con piselli",
+            "Uova strapazzate\/Frittata",
+            "Zucchine gratinate",
+            "Pane",
+            "Frutta"
+          ]
+        },
+        {
+          "spuntino" : "Frutta di stagione",
+          "data" : "09-10-2025",
+          "merenda" : "Focaccia bianca soffice",
+          "pranzo" : [
+            "Pasta all'ortolana",
+            "Caciotta dolce",
+            "Insalata mista",
+            "Pane",
+            "Gelato"
+          ]
+        },
+        {
+          "pranzo" : [
+            "Pasta al ragù di carne",
+            "Tortino di patate",
+            "Pane",
+            "Frutta"
+          ],
+          "data" : "10-10-2025",
           "spuntino" : "Cracker",
-          "data" : "30-09-2025",
+          "merenda" : "Crostatina con marmellata di frutta"
+        },
+        {
+          "spuntino" : "Plumcake allo yogurt",
+          "data" : "13-10-2025",
+          "pranzo" : [
+            "Pasta al tonno",
+            "Uova strapazzate\/Frittata",
+            "Zucchine trifolate",
+            "Pane",
+            "Frutta"
+          ],
+          "merenda" : "Biscotti frollini al cacao e succo di frutta senza zuccheri agg."
+        },
+        {
+          "pranzo" : [
+            "Crema di fagioli con pasta",
+            "Straccetti di pollo cremolati",
+            "Spinaci all'olio",
+            "Pane",
+            "Gelato"
+          ],
+          "data" : "14-10-2025",
+          "spuntino" : "Frutta di stagione",
+          "merenda" : "Focaccia bianca soffice"
+        },
+        {
+          "spuntino" : "Schiacciatine",
+          "pranzo" : [
+            "Agnolotti al pomodoro",
+            "Robiola",
+            "Insalata di pomodori",
+            "Pane",
+            "Frutta"
+          ],
+          "merenda" : "Panino all'olio con marmellata",
+          "data" : "15-10-2025"
+        },
+        {
+          "spuntino" : "Cracker",
+          "data" : "16-10-2025",
           "merenda" : "Crostatina con marmellata di frutta",
           "pranzo" : [
-            "Pasta al sugo di spigola",
+            "Pasta con pesto di zucchine",
+            "Filetti di limanda gratinati",
+            "Carote alla julienne",
+            "Pane",
+            "Frutta"
+          ]
+        },
+        {
+          "merenda" : "Ciambellone",
+          "pranzo" : [
+            "Risotto allo zafferano",
+            "Hamburger di bovino",
+            "Insalata verde",
+            "Pane",
+            "Frutta"
+          ],
+          "spuntino" : "Banana",
+          "data" : "17-10-2025"
+        },
+        {
+          "data" : "20-10-2025",
+          "pranzo" : [
+            "Pasta al pesto senza aglio",
+            "Cotoletta di maiale panata\/Bocconcini di maiale impanati",
+            "Fagiolini all'olio",
+            "Pane",
+            "Frutta"
+          ],
+          "merenda" : "Panino all'olio con marmellata",
+          "spuntino" : "Schiacciatine"
+        },
+        {
+          "merenda" : "Biscotti frollini al cacao e succo di frutta senza zuccheri agg.",
+          "spuntino" : "Plumcake allo yogurt",
+          "pranzo" : [
+            "Crema di verdure con pasta",
+            "Montasio",
+            "Patate al tegame",
+            "Pane integrale",
+            "Frutta"
+          ],
+          "data" : "21-10-2025"
+        },
+        {
+          "pranzo" : [
+            "Riso con piselli",
+            "Petto o bocconcini di pollo al limone",
+            "Carote al tegame",
+            "Pane",
+            "Frutta"
+          ],
+          "spuntino" : "Cracker",
+          "data" : "22-10-2025",
+          "merenda" : "Crostatina con marmellata di frutta"
+        },
+        {
+          "data" : "23-10-2025",
+          "spuntino" : "Banana",
+          "merenda" : "Ciambellone",
+          "pranzo" : [
+            "Pasta e patate",
             "Uova strapazzate\/Frittata",
-            "Spinaci all'olio",
+            "Insalata verde",
+            "Pane",
+            "Frutta"
+          ]
+        },
+        {
+          "pranzo" : [
+            "Pasta all'olio e parmigiano",
+            "Medaglioni di spigola",
+            "Zucchine trifolate",
+            "Pane",
+            "Gelato"
+          ],
+          "spuntino" : "Frutta di stagione",
+          "data" : "24-10-2025",
+          "merenda" : "Focaccia bianca soffice"
+        },
+        {
+          "data" : "27-10-2025",
+          "spuntino" : "Frutta di stagione",
+          "merenda" : "Focaccia bianca soffice",
+          "pranzo" : [
+            "Pasta all'ortolana",
+            "Tortino di patate",
+            "Pane",
+            "Gelato"
+          ]
+        },
+        {
+          "merenda" : "Crostatina con marmellata di frutta",
+          "spuntino" : "Cracker",
+          "pranzo" : [
+            "Pasta al burro e parmigiano",
+            "Bastoncini di merluzzo della cuoca",
+            "Insalata verde",
+            "Pane",
+            "Frutta"
+          ],
+          "data" : "28-10-2025"
+        },
+        {
+          "spuntino" : "Banana",
+          "pranzo" : [
+            "Pasta integrale al trito vegetale",
+            "Frittata con zucchine",
+            "Pane",
+            "Frutta"
+          ],
+          "merenda" : "Ciambellone",
+          "data" : "29-10-2025"
+        },
+        {
+          "spuntino" : "Schiacciatine",
+          "merenda" : "Panino all'olio con marmellata",
+          "pranzo" : [
+            "Pasta al pesto senza aglio",
+            "Coscio di pollo arrosto",
+            "Carote al tegame",
+            "Pane",
+            "Frutta"
+          ],
+          "data" : "30-10-2025"
+        },
+        {
+          "spuntino" : "Plumcake allo yogurt",
+          "merenda" : "Biscotti frollini al cacao e succo di frutta senza zuccheri agg.",
+          "data" : "31-10-2025",
+          "pranzo" : [
+            "Farro e lenticchie",
+            "Crescenza",
+            "Fagiolini al pomodoro",
             "Pane",
             "Frutta"
           ]
         }
-      ],
-      "identifier" : "secondaria"
+      ]
     }
-  ],
-  "identifier" : "municipioIV"
+  ]
 }
