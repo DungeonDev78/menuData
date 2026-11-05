@@ -100,7 +100,7 @@
         },
         {
           "data" : "25-09-2026",
-          "merenda" : "Biscotti frollini al cacao + succo di frutta senza zuccheri agg.",
+          "merenda" : "Biscotti frollini al cacao e succo di frutta senza zuccheri agg.",
           "pranzo" : [
             "Crema di fagioli con pasta",
             "Ricotta",
@@ -124,11 +124,11 @@
         },
         {
           "data" : "29-09-2026",
-          "merenda" : "Pannino all'olio con marmellata",
+          "merenda" : "Panino all'olio con marmellata",
           "pranzo" : [
             "Pasta al pomodoro e basilico",
             "Tortino di limanda",
-            "Carote alla julienne",
+            "Carote alla Julienne",
             "Pane",
             "Frutta"
           ],
@@ -136,7 +136,7 @@
         },
         {
           "data" : "30-09-2026",
-          "merenda" : "Biscotti frollini al cacao + succo di frutta senza zuccheri agg.",
+          "merenda" : "Biscotti frollini al cacao e succo di frutta senza zuccheri agg.",
           "pranzo" : [
             "Pasta con piselli",
             "Uova strapazzate/Frittata",
@@ -171,7 +171,7 @@
         },
         {
           "data" : "05-10-2026",
-          "merenda" : "Biscotti frollini al cacao + succo di frutta senza zuccheri agg.",
+          "merenda" : "Biscotti frollini al cacao e succo di frutta senza zuccheri agg.",
           "pranzo" : [
             "Pasta al pomodoro e basilico",
             "Uova strapazzate/Frittata",
@@ -179,7 +179,7 @@
             "Pane",
             "Frutta"
           ],
-          "spuntino" : "Plum cake allo yogurt"
+          "spuntino" : "Plumcake allo yogurt"
         },
         {
           "data" : "06-10-2026",
@@ -211,7 +211,7 @@
           "pranzo" : [
             "Pasta con pesto di zucchine",
             "Tortino di limanda",
-            "Carote alla julienne",
+            "Carote alla Julienne",
             "Pane",
             "Frutta"
           ],
@@ -243,15 +243,15 @@
         },
         {
           "data" : "13-10-2026",
-          "merenda" : "Biscotti frollini al cacao + succo di frutta senza zuccheri agg.",
+          "merenda" : "Biscotti frollini al cacao e succo di frutta senza zuccheri agg.",
           "pranzo" : [
             "Crema di verdure con pasta",
-            "Montasio",
+            "Asiago",
             "Patate al tegame",
             "Pane integrale",
             "Frutta"
           ],
-          "spuntino" : "Plum cake allo yogurt"
+          "spuntino" : "Plumcake allo yogurt"
         },
         {
           "data" : "14-10-2026",
@@ -337,11 +337,11 @@
         },
         {
           "data" : "23-10-2026",
-          "merenda" : "Biscotti frollini al cacao + succo di frutta senza zuccheri agg.",
+          "merenda" : "Biscotti frollini al cacao e succo di frutta senza zuccheri agg.",
           "pranzo" : [
             "Farro con lenticchie",
             "Crescenza",
-            "Fagiolini al pomodoro",
+            "Fagiolini all'olio",
             "Pane",
             "Frutta"
           ],
@@ -385,12 +385,12 @@
         },
         {
           "data" : "29-10-2026",
-          "merenda" : "Biscotti frollini al cacao + succo di frutta senza zuccheri agg.",
+          "merenda" : "Biscotti frollini al cacao e succo di frutta senza zuccheri agg.",
           "pranzo" : [
             "Risotto al ragù di carne",
-            "Mozzarella vaccina",
+            "Mozzarella di vaccina",
             "Patate al forno",
-            "Pane integrale",
+            "Pane",
             "Frutta"
           ],
           "spuntino" : "Plumcake allo yogurt"
@@ -423,12 +423,12 @@
           "merenda" : "Frutta di stagione",
           "pranzo" : [
             "Risotto allo zafferano con crema di ceci",
-            "Montasio",
+            "Asiago",
             "Broccoli romaneschi all'olio",
             "Pane",
             "Frutta"
           ],
-          "spuntino" : "Fette biscottate con cioccolato al latte/fondente"
+          "spuntino" : "Fette biscottate con cioccolata al latte/fondente"
         },
         {
           "data" : "04-11-2026",
@@ -471,12 +471,12 @@
           "merenda" : "Frutta di stagione",
           "pranzo" : [
             "Pasta al pomodoro",
-            "Arrosto di maiale/Bocconcini di maiale impanati",
+            "Arrosto di maiale/Bocconcini di maiale impanato",
             "Insalata verde",
             "Pane",
             "Frutta"
           ],
-          "spuntino" : "Fette biscottate con cioccolato al latte/fondente"
+          "spuntino" : "Fette biscottate con cioccolata al latte/fondente"
         },
         {
           "data" : "10-11-2026",
@@ -495,7 +495,7 @@
           "merenda" : "Ciambellone",
           "pranzo" : [
             "Risotto al pomodoro",
-            "Sformatino di platessa",
+            "Sformato di platessa",
             "Fagiolini all'olio",
             "Pane",
             "Frutta"
@@ -516,7 +516,7 @@
         },
         {
           "data" : "13-11-2026",
-          "merenda" : "Frutta di stagione + biscotto frollino al cacao",
+          "merenda" : "Frutta di stagione con biscotti frollini al cacao",
           "pranzo" : [
             "Pasta al sugo di spigola",
             "Uova strapazzate/Frittata",
@@ -552,7 +552,7 @@
           "data" : "18-11-2026",
           "merenda" : "Focaccia bianca",
           "pranzo" : [
-            "Pasta con piselli",
+            "Pasta e piselli",
             "Fuso di pollo arrosto",
             "Finocchi al tegame",
             "Pane",
@@ -582,7 +582,7 @@
             "Pane",
             "Frutta"
           ],
-          "spuntino" : "Fette biscottate con cioccolato al latte/fondente"
+          "spuntino" : "Fette biscottate con cioccolata al latte/fondente"
         },
         {
           "data" : "23-11-2026",
@@ -610,7 +610,7 @@
         },
         {
           "data" : "25-11-2026",
-          "merenda" : "Frutta di stagione + biscotto frollino al cacao",
+          "merenda" : "Frutta di stagione con biscotti frollini al cacao",
           "pranzo" : [
             "Pasta al ragù di carne di agnello",
             "Tortino di patate",
@@ -629,7 +629,7 @@
             "Pane",
             "Frutta"
           ],
-          "spuntino" : "Fette biscottate con cioccolato al latte/fondente"
+          "spuntino" : "Fette biscottate con cioccolata al latte/fondente"
         },
         {
           "data" : "27-11-2026",
@@ -645,7 +645,7 @@
         },
         {
           "data" : "30-11-2026",
-          "merenda" : "Frutta di stagione + biscotto frollino al cacao",
+          "merenda" : "Frutta di stagione con biscotti frollini al cacao",
           "pranzo" : [
             "Pasta al pomodoro",
             "Uova strapazzate/Frittata",
@@ -665,7 +665,7 @@
             "Pane",
             "Frutta"
           ],
-          "spuntino" : "Fette biscottate con cioccolato al latte/fondente"
+          "spuntino" : "Fette biscottate con cioccolata al latte/fondente"
         },
         {
           "data" : "02-12-2026",
@@ -712,7 +712,7 @@
             "Pane",
             "Frutta"
           ],
-          "spuntino" : "Fette biscottate con cioccolato al latte/fondente"
+          "spuntino" : "Fette biscottate con cioccolata al latte/fondente"
         },
         {
           "data" : "09-12-2026",
@@ -788,7 +788,7 @@
         },
         {
           "data" : "17-12-2026",
-          "merenda" : "Frutta di stagione + biscotto frollino al cacao",
+          "merenda" : "Frutta di stagiole con biscotti frollini al cacao",
           "pranzo" : [
             "Pasta al cavolfiore bianco",
             "Medaglioni di limanda",
@@ -808,7 +808,7 @@
             "Pane",
             "Frutta"
           ],
-          "spuntino" : "Fette biscottate con cioccolato al latte/fondente"
+          "spuntino" : "Fette biscottate con cioccolata al latte/fondente"
         },
         {
           "data" : "21-12-2026",
@@ -826,7 +826,7 @@
           "data" : "22-12-2026",
           "merenda" : "Focaccia bianca",
           "pranzo" : [
-            "Pasta con lenticchie",
+            "Pasta e lenticchie",
             "Uova strapazzate/Frittata",
             "Fagiolini all'olio",
             "Pane",
@@ -874,12 +874,12 @@
           "merenda" : "Frutta di stagione",
           "pranzo" : [
             "Risotto allo zafferano con crema di ceci",
-            "Montasio",
+            "Asiago",
             "Broccoli romaneschi all'olio",
             "Pane",
             "Frutta"
           ],
-          "spuntino" : "Fette biscottate con cioccolato al latte/fondente"
+          "spuntino" : "Fette biscottate con cioccolata al latte/fondente"
         },
         {
           "data" : "13-01-2027",
@@ -922,12 +922,12 @@
           "merenda" : "Frutta di stagione",
           "pranzo" : [
             "Pasta al pomodoro",
-            "Arrosto di maiale/Bocconcini di maiale impanati",
+            "Arrosto di maiale/Bocconcini di maiale impanato",
             "Insalata verde",
             "Pane",
             "Frutta"
           ],
-          "spuntino" : "Fette biscottate con cioccolato al latte/fondente"
+          "spuntino" : "Fette biscottate con cioccolata al latte/fondente"
         },
         {
           "data" : "19-01-2027",
@@ -946,7 +946,7 @@
           "merenda" : "Ciambellone",
           "pranzo" : [
             "Risotto al pomodoro",
-            "Sformatino di platessa",
+            "Sformato di platessa",
             "Fagiolini all'olio",
             "Pane",
             "Frutta"
@@ -967,7 +967,7 @@
         },
         {
           "data" : "22-01-2027",
-          "merenda" : "Frutta di stagione + biscotto frollino al cacao",
+          "merenda" : "Frutta di stagione con biscotti frollini al cacao",
           "pranzo" : [
             "Pasta al sugo di spigola",
             "Uova strapazzate/Frittata",
@@ -1003,7 +1003,7 @@
           "data" : "27-01-2027",
           "merenda" : "Focaccia bianca",
           "pranzo" : [
-            "Pasta con piselli",
+            "Pasta e piselli",
             "Fuso di pollo arrosto",
             "Finocchi al tegame",
             "Pane",
@@ -1033,7 +1033,7 @@
             "Pane",
             "Frutta"
           ],
-          "spuntino" : "Fette biscottate con cioccolato al latte/fondente"
+          "spuntino" : "Fette biscottate con cioccolata al latte/fondente"
         },
         {
           "data" : "01-02-2027",
@@ -1061,7 +1061,7 @@
         },
         {
           "data" : "03-02-2027",
-          "merenda" : "Frutta di stagione + biscotto frollino al cacao",
+          "merenda" : "Frutta di stagione con biscotti frollini al cacao",
           "pranzo" : [
             "Pasta al ragù di carne di agnello",
             "Tortino di patate",
@@ -1080,7 +1080,7 @@
             "Pane",
             "Frutta"
           ],
-          "spuntino" : "Fette biscottate con cioccolato al latte/fondente"
+          "spuntino" : "Fette biscottate con cioccolata al latte/fondente"
         },
         {
           "data" : "05-02-2027",
@@ -1096,7 +1096,7 @@
         },
         {
           "data" : "08-02-2027",
-          "merenda" : "Frutta di stagione + biscotto frollino al cacao",
+          "merenda" : "Frutta di stagione con biscotti frollini al cacao",
           "pranzo" : [
             "Pasta al pomodoro",
             "Uova strapazzate/Frittata",
@@ -1116,7 +1116,7 @@
             "Pane",
             "Frutta"
           ],
-          "spuntino" : "Fette biscottate con cioccolato al latte/fondente"
+          "spuntino" : "Fette biscottate con cioccolata al latte/fondente"
         },
         {
           "data" : "10-02-2027",
@@ -1163,7 +1163,7 @@
             "Pane",
             "Frutta"
           ],
-          "spuntino" : "Fette biscottate con cioccolato al latte/fondente"
+          "spuntino" : "Fette biscottate con cioccolata al latte/fondente"
         },
         {
           "data" : "16-02-2027",
@@ -1251,7 +1251,7 @@
         },
         {
           "data" : "25-02-2027",
-          "merenda" : "Frutta di stagione + biscotto frollino al cacao",
+          "merenda" : "Frutta di stagiole con biscotti frollini al cacao",
           "pranzo" : [
             "Pasta al cavolfiore bianco",
             "Medaglioni di limanda",
@@ -1271,7 +1271,7 @@
             "Pane",
             "Frutta"
           ],
-          "spuntino" : "Fette biscottate con cioccolato al latte/fondente"
+          "spuntino" : "Fette biscottate con cioccolata al latte/fondente"
         },
         {
           "data" : "01-03-2027",
@@ -1289,7 +1289,7 @@
           "data" : "02-03-2027",
           "merenda" : "Focaccia bianca",
           "pranzo" : [
-            "Pasta con lenticchie",
+            "Pasta e lenticchie",
             "Uova strapazzate/Frittata",
             "Fagiolini all'olio",
             "Pane",
@@ -1318,7 +1318,7 @@
             "Pane",
             "Frutta"
           ],
-          "spuntino" : "Fette biscottate con cioccolato al latte/fondente"
+          "spuntino" : "Fette biscottate con cioccolata al latte/fondente"
         },
         {
           "data" : "05-03-2027",
@@ -1336,7 +1336,7 @@
           "data" : "08-03-2027",
           "merenda" : "Focaccia rossa soffice",
           "pranzo" : [
-            "Pasta con piselli",
+            "Pasta e piselli",
             "Caciotta dolce",
             "Finocchi gratinati",
             "Pane",
@@ -1346,12 +1346,12 @@
         },
         {
           "data" : "09-03-2027",
-          "merenda" : "Frutta di stagione + biscotto frollino al cacao",
+          "merenda" : "Frutta di stagione con biscotti frollini al cacao",
           "pranzo" : [
             "Pasta al pomodoro",
             "Petto o bocconcini di pollo panato",
             "Spinaci all'olio",
-            "Pane",
+            "Pane integrale",
             "Spremuta di arancia"
           ],
           "spuntino" : "Cracker"
@@ -1366,7 +1366,7 @@
             "Pane",
             "Frutta"
           ],
-          "spuntino" : "Fette biscottate con cioccolato al latte/fondente"
+          "spuntino" : "Fette biscottate con cioccolata al latte/fondente"
         },
         {
           "data" : "11-03-2027",
@@ -1408,12 +1408,12 @@
           "merenda" : "Frutta di stagione",
           "pranzo" : [
             "Risotto allo zafferano con crema di ceci",
-            "Montasio",
+            "Asiago",
             "Broccoli romaneschi all'olio",
             "Pane",
             "Frutta"
           ],
-          "spuntino" : "Fette biscottate con cioccolato al latte/fondente"
+          "spuntino" : "Fette biscottate con cioccolata al latte/fondente"
         },
         {
           "data" : "17-03-2027",
@@ -1456,12 +1456,12 @@
           "merenda" : "Frutta di stagione",
           "pranzo" : [
             "Pasta al pomodoro",
-            "Arrosto di maiale/Bocconcini di maiale impanati",
+            "Arrosto di maiale/Bocconcini di maiale impanato",
             "Insalata verde",
             "Pane",
             "Frutta"
           ],
-          "spuntino" : "Fette biscottate con cioccolato al latte/fondente"
+          "spuntino" : "Fette biscottate con cioccolata al latte/fondente"
         },
         {
           "data" : "23-03-2027",
@@ -1480,7 +1480,7 @@
           "merenda" : "Ciambellone",
           "pranzo" : [
             "Risotto al pomodoro",
-            "Sformatino di platessa",
+            "Sformato di platessa",
             "Fagiolini all'olio",
             "Pane",
             "Frutta"
@@ -1491,7 +1491,7 @@
           "data" : "31-03-2027",
           "merenda" : "Focaccia bianca",
           "pranzo" : [
-            "Pasta con piselli",
+            "Pasta e piselli",
             "Fuso di pollo arrosto",
             "Finocchi al tegame",
             "Pane",
@@ -1572,7 +1572,7 @@
         },
         {
           "data" : "09-04-2027",
-          "merenda" : "Biscotti frollini al cacao + succo di frutta senza zuccheri agg.",
+          "merenda" : "Biscotti frollini al cacao e succo di frutta senza zuccheri agg.",
           "pranzo" : [
             "Crema di fagioli con pasta",
             "Ricotta",
@@ -1596,11 +1596,11 @@
         },
         {
           "data" : "13-04-2027",
-          "merenda" : "Pannino all'olio con marmellata",
+          "merenda" : "Panino all'olio con marmellata",
           "pranzo" : [
             "Pasta al pomodoro e basilico",
             "Tortino di limanda",
-            "Carote alla julienne",
+            "Carote alla Julienne",
             "Pane",
             "Frutta"
           ],
@@ -1608,7 +1608,7 @@
         },
         {
           "data" : "14-04-2027",
-          "merenda" : "Biscotti frollini al cacao + succo di frutta senza zuccheri agg.",
+          "merenda" : "Biscotti frollini al cacao e succo di frutta senza zuccheri agg.",
           "pranzo" : [
             "Pasta con piselli",
             "Uova strapazzate/Frittata",
@@ -1643,7 +1643,7 @@
         },
         {
           "data" : "19-04-2027",
-          "merenda" : "Biscotti frollini al cacao + succo di frutta senza zuccheri agg.",
+          "merenda" : "Biscotti frollini al cacao e succo di frutta senza zuccheri agg.",
           "pranzo" : [
             "Pasta al pomodoro e basilico",
             "Uova strapazzate/Frittata",
@@ -1651,7 +1651,7 @@
             "Pane",
             "Frutta"
           ],
-          "spuntino" : "Plum cake allo yogurt"
+          "spuntino" : "Plumcake allo yogurt"
         },
         {
           "data" : "20-04-2027",
@@ -1683,7 +1683,7 @@
           "pranzo" : [
             "Pasta con pesto di zucchine",
             "Tortino di limanda",
-            "Carote alla julienne",
+            "Carote alla Julienne",
             "Pane",
             "Frutta"
           ],
@@ -1715,15 +1715,15 @@
         },
         {
           "data" : "27-04-2027",
-          "merenda" : "Biscotti frollini al cacao + succo di frutta senza zuccheri agg.",
+          "merenda" : "Biscotti frollini al cacao e succo di frutta senza zuccheri agg.",
           "pranzo" : [
             "Crema di verdure con pasta",
-            "Montasio",
+            "Asiago",
             "Patate al tegame",
             "Pane integrale",
             "Frutta"
           ],
-          "spuntino" : "Plum cake allo yogurt"
+          "spuntino" : "Plumcake allo yogurt"
         },
         {
           "data" : "28-04-2027",
@@ -1809,11 +1809,11 @@
         },
         {
           "data" : "07-05-2027",
-          "merenda" : "Biscotti frollini al cacao + succo di frutta senza zuccheri agg.",
+          "merenda" : "Biscotti frollini al cacao e succo di frutta senza zuccheri agg.",
           "pranzo" : [
             "Farro con lenticchie",
             "Crescenza",
-            "Fagiolini al pomodoro",
+            "Fagiolini all'olio",
             "Pane",
             "Frutta"
           ],
@@ -1857,12 +1857,12 @@
         },
         {
           "data" : "13-05-2027",
-          "merenda" : "Biscotti frollini al cacao + succo di frutta senza zuccheri agg.",
+          "merenda" : "Biscotti frollini al cacao e succo di frutta senza zuccheri agg.",
           "pranzo" : [
             "Risotto al ragù di carne",
-            "Mozzarella vaccina",
+            "Mozzarella di vaccina",
             "Patate al forno",
-            "Pane integrale",
+            "Pane",
             "Frutta"
           ],
           "spuntino" : "Plumcake allo yogurt"
@@ -1905,7 +1905,7 @@
         },
         {
           "data" : "19-05-2027",
-          "merenda" : "Biscotti frollini al cacao + succo di frutta senza zuccheri agg.",
+          "merenda" : "Biscotti frollini al cacao e succo di frutta senza zuccheri agg.",
           "pranzo" : [
             "Pasta con lenticchie",
             "Robiola",
@@ -1953,11 +1953,11 @@
         },
         {
           "data" : "25-05-2027",
-          "merenda" : "Biscotti frollini al cacao + succo di frutta senza zuccheri agg.",
+          "merenda" : "Biscotti frollini al cacao e succo di frutta senza zuccheri agg.",
           "pranzo" : [
             "Pasta al trito vegetale",
             "Medaglioni di merluzzo al limone",
-            "Zucchine trifolate",
+            "zucchine trifolate",
             "Pane",
             "Frutta"
           ],
@@ -1994,14 +1994,13 @@
             "Pizza rossa",
             "Mozzarella vaccina",
             "Bieta all'olio",
-            "Pane",
             "Frutta"
           ],
           "spuntino" : "Banana"
         },
         {
           "data" : "31-05-2027",
-          "merenda" : "Biscotti frollini al cacao + succo di frutta senza zuccheri agg.",
+          "merenda" : "Biscotti frollini al cacao e succo di frutta senza zuccheri agg.",
           "pranzo" : [
             "Pasta con piselli",
             "Asiago",
@@ -2096,7 +2095,7 @@
         },
         {
           "data" : "11-06-2027",
-          "merenda" : "Biscotti frollini al cacao + succo di frutta senza zuccheri agg.",
+          "merenda" : "Biscotti frollini al cacao e succo di frutta senza zuccheri agg.",
           "pranzo" : [
             "Crema di fagioli con pasta",
             "Ricotta",
@@ -2120,11 +2119,11 @@
         },
         {
           "data" : "15-06-2027",
-          "merenda" : "Pannino all'olio con marmellata",
+          "merenda" : "Panino all'olio con marmellata",
           "pranzo" : [
             "Pasta al pomodoro e basilico",
             "Tortino di limanda",
-            "Carote alla julienne",
+            "Carote alla Julienne",
             "Pane",
             "Frutta"
           ],
@@ -2132,7 +2131,7 @@
         },
         {
           "data" : "16-06-2027",
-          "merenda" : "Biscotti frollini al cacao + succo di frutta senza zuccheri agg.",
+          "merenda" : "Biscotti frollini al cacao e succo di frutta senza zuccheri agg.",
           "pranzo" : [
             "Pasta con piselli",
             "Uova strapazzate/Frittata",
@@ -2167,7 +2166,7 @@
         },
         {
           "data" : "21-06-2027",
-          "merenda" : "Biscotti frollini al cacao + succo di frutta senza zuccheri agg.",
+          "merenda" : "Biscotti frollini al cacao e succo di frutta senza zuccheri agg.",
           "pranzo" : [
             "Pasta al pomodoro e basilico",
             "Uova strapazzate/Frittata",
@@ -2175,7 +2174,7 @@
             "Pane",
             "Frutta"
           ],
-          "spuntino" : "Plum cake allo yogurt"
+          "spuntino" : "Plumcake allo yogurt"
         },
         {
           "data" : "22-06-2027",
@@ -2207,7 +2206,7 @@
           "pranzo" : [
             "Pasta con pesto di zucchine",
             "Tortino di limanda",
-            "Carote alla julienne",
+            "Carote alla Julienne",
             "Pane",
             "Frutta"
           ],
@@ -7176,7 +7175,7 @@
           "merenda" : "Ciambellone",
           "pranzo" : [
             "Riso alla parmigiana",
-            "Petto o bocconcino di pollo al limone",
+            "Petto o bocconcini di pollo al limone",
             "Spinaci all'olio",
             "Pane",
             "Frutta"
@@ -7189,7 +7188,7 @@
           "pranzo" : [
             "Pasta al pomodoro e basilico",
             "Tortino di limanda",
-            "Carote al tegame",
+            "Carote alla Julienne",
             "Pane",
             "Frutta"
           ],
@@ -7256,9 +7255,9 @@
         },
         {
           "data" : "07-10-2026",
-          "merenda" : "Panino all'olio e marmellata",
+          "merenda" : "Panino all'olio con marmellata",
           "pranzo" : [
-            "Pasta al pomodoro",
+            "Pasta al pomodoro e basilico",
             "Robiola",
             "Insalata di pomodori",
             "Pane",
@@ -7270,7 +7269,7 @@
           "data" : "08-10-2026",
           "merenda" : "Crostatina con marmellata di frutta",
           "pranzo" : [
-            "Pasta con zucchine",
+            "Pasta con pesto di zucchine",
             "Tortino di limanda",
             "Carote al tegame",
             "Pane",
@@ -7307,7 +7306,7 @@
           "merenda" : "Biscotti frollini al cacao e succo di frutta senza zuccheri agg.",
           "pranzo" : [
             "Crema di verdure con pasta",
-            "Montasio",
+            "Asiago",
             "Patate al tegame",
             "Pane",
             "Frutta"
@@ -7377,7 +7376,7 @@
           "data" : "21-10-2026",
           "merenda" : "Ciambellone",
           "pranzo" : [
-            "Pasta al trito vegetale",
+            "Pasta integrale al trito vegetale",
             "Frittata con zucchine",
             "Pane",
             "Frutta"
@@ -7426,7 +7425,7 @@
           "pranzo" : [
             "Crema di ceci con pasta",
             "Uova strapazzate/Frittata",
-            "Carote al tegame",
+            "Carote alla julienne",
             "Pane",
             "Frutta"
           ],
@@ -7449,7 +7448,7 @@
           "merenda" : "Biscotti frollini al cacao e succo di frutta senza zuccheri agg.",
           "pranzo" : [
             "Risotto al ragù di carne",
-            "Mozzarella vaccina",
+            "Mozzarella di vaccina",
             "Patate al forno",
             "Pane",
             "Frutta"
@@ -7461,7 +7460,7 @@
           "merenda" : "Panino all'olio con marmellata",
           "pranzo" : [
             "Pasta all'ortolana",
-            "Arrosto di maiale/Bocconcini di maiale impanati",
+            "Arrosto di maiale/Bocconcini di maiale impanato",
             "Spinaci al burro e parmigiano",
             "Pane",
             "Frutta"
@@ -7484,12 +7483,12 @@
           "merenda" : "Polpa di frutta",
           "pranzo" : [
             "Risotto allo zafferano con crema di ceci",
-            "Montasio",
+            "Asiago",
             "Broccoli romaneschi all'olio",
             "Pane",
             "Frutta"
           ],
-          "spuntino" : "Fette biscottate con cioccolato al latte/fondente"
+          "spuntino" : "Fette biscottate con cioccolata al latte/fondente"
         },
         {
           "data" : "04-11-2026",
@@ -7532,12 +7531,12 @@
           "merenda" : "Polpa di frutta",
           "pranzo" : [
             "Pasta al pomodoro",
-            "Arrosto di maiale/Bocconcini di maiale impanati",
+            "Arrosto di maiale/Bocconcini di maiale impanato",
             "Insalata verde",
             "Pane",
             "Frutta"
           ],
-          "spuntino" : "Fette biscottate con cioccolato al latte/fondente"
+          "spuntino" : "Fette biscottate con cioccolata al latte/fondente"
         },
         {
           "data" : "10-11-2026",
@@ -7556,7 +7555,7 @@
           "merenda" : "Ciambellone",
           "pranzo" : [
             "Risotto al pomodoro",
-            "Sformatino di platessa",
+            "Sformato di platessa",
             "Fagiolini all'olio",
             "Pane",
             "Frutta"
@@ -7577,7 +7576,7 @@
         },
         {
           "data" : "13-11-2026",
-          "merenda" : "Frutta di stagione + biscotto frollino al cacao",
+          "merenda" : "Frutta di stagione con biscotti frollini al cacao",
           "pranzo" : [
             "Pasta al sugo di spigola",
             "Uova strapazzate/Frittata",
@@ -7613,7 +7612,7 @@
           "data" : "18-11-2026",
           "merenda" : "Focaccia bianca",
           "pranzo" : [
-            "Pasta con piselli",
+            "Pasta e piselli",
             "Fuso di pollo arrosto",
             "Finocchi al tegame",
             "Pane",
@@ -7643,7 +7642,7 @@
             "Pane",
             "Frutta"
           ],
-          "spuntino" : "Fette biscottate con cioccolato al latte/fondente"
+          "spuntino" : "Fette biscottate con cioccolata al latte/fondente"
         },
         {
           "data" : "23-11-2026",
@@ -7671,7 +7670,7 @@
         },
         {
           "data" : "25-11-2026",
-          "merenda" : "Frutta di stagione + biscotto frollino al cacao",
+          "merenda" : "Frutta di stagione con biscotti frollini al cacao",
           "pranzo" : [
             "Pasta al ragù di carne di agnello",
             "Tortino di patate",
@@ -7690,7 +7689,7 @@
             "Pane",
             "Frutta"
           ],
-          "spuntino" : "Fette biscottate con cioccolato al latte/fondente"
+          "spuntino" : "Fette biscottate con cioccolata al latte/fondente"
         },
         {
           "data" : "27-11-2026",
@@ -7706,7 +7705,7 @@
         },
         {
           "data" : "30-11-2026",
-          "merenda" : "Frutta di stagione + biscotto frollino al cacao",
+          "merenda" : "Frutta di stagione con biscotti frollini al cacao",
           "pranzo" : [
             "Pasta al pomodoro",
             "Uova strapazzate/Frittata",
@@ -7722,11 +7721,11 @@
           "pranzo" : [
             "Pasta al cavolfiore bianco",
             "Straccetti di bovino",
-            "Finocchi gratinati",
+            "Finocchi al tegame",
             "Pane",
             "Frutta"
           ],
-          "spuntino" : "Fette biscottate con cioccolato al latte/fondente"
+          "spuntino" : "Fette biscottate con cioccolata al latte/fondente"
         },
         {
           "data" : "02-12-2026",
@@ -7773,7 +7772,7 @@
             "Pane",
             "Frutta"
           ],
-          "spuntino" : "Fette biscottate con cioccolato al latte/fondente"
+          "spuntino" : "Fette biscottate con cioccolata al latte/fondente"
         },
         {
           "data" : "09-12-2026",
@@ -7818,7 +7817,7 @@
             "Risotto allo zafferano",
             "Straccetti di pollo cremolati",
             "Patate al forno",
-            "Pane",
+            "Pane integrale",
             "Frutta"
           ],
           "spuntino" : "Plum cake allo yogurt"
@@ -7833,7 +7832,7 @@
             "Pane",
             "Frutta"
           ],
-          "spuntino" : "Schiaciatine"
+          "spuntino" : "Schiacciatine"
         },
         {
           "data" : "16-12-2026",
@@ -7849,13 +7848,13 @@
         },
         {
           "data" : "17-12-2026",
-          "merenda" : "Frutta di stagione + biscotti frollini al cacao",
+          "merenda" : "Frutta di stagiole con biscotti frollini al cacao",
           "pranzo" : [
             "Pasta al cavolfiore bianco",
             "Medaglioni di limanda",
             "Insalata verde",
             "Pane",
-            "Spremta di arancia"
+            "Spremuta di arancia"
           ],
           "spuntino" : "Cracker"
         },
@@ -7869,7 +7868,7 @@
             "Pane",
             "Frutta"
           ],
-          "spuntino" : "Fette biscottate con cioccolato al latte/fondente"
+          "spuntino" : "Fette biscottate con cioccolata al latte/fondente"
         },
         {
           "data" : "21-12-2026",
@@ -7887,7 +7886,7 @@
           "data" : "22-12-2026",
           "merenda" : "Focaccia bianca",
           "pranzo" : [
-            "Pasta con lenticchie",
+            "Pasta e lenticchie",
             "Uova strapazzate/Frittata",
             "Fagiolini all'olio",
             "Pane",
@@ -7935,12 +7934,12 @@
           "merenda" : "Polpa di frutta",
           "pranzo" : [
             "Risotto allo zafferano con crema di ceci",
-            "Montasio",
+            "Asiago",
             "Broccoli romaneschi all'olio",
             "Pane",
             "Frutta"
           ],
-          "spuntino" : "Fette biscottate con cioccolato al latte/fondente"
+          "spuntino" : "Fette biscottate con cioccolata al latte/fondente"
         },
         {
           "data" : "13-01-2027",
@@ -7983,12 +7982,12 @@
           "merenda" : "Polpa di frutta",
           "pranzo" : [
             "Pasta al pomodoro",
-            "Arrosto di maiale/Bocconcini di maiale impanati",
+            "Arrosto di maiale/Bocconcini di maiale impanato",
             "Insalata verde",
             "Pane",
             "Frutta"
           ],
-          "spuntino" : "Fette biscottate con cioccolato al latte/fondente"
+          "spuntino" : "Fette biscottate con cioccolata al latte/fondente"
         },
         {
           "data" : "19-01-2027",
@@ -8007,7 +8006,7 @@
           "merenda" : "Ciambellone",
           "pranzo" : [
             "Risotto al pomodoro",
-            "Sformatino di platessa",
+            "Sformato di platessa",
             "Fagiolini all'olio",
             "Pane",
             "Frutta"
@@ -8028,7 +8027,7 @@
         },
         {
           "data" : "22-01-2027",
-          "merenda" : "Frutta di stagione + biscotto frollino al cacao",
+          "merenda" : "Frutta di stagione con biscotti frollini al cacao",
           "pranzo" : [
             "Pasta al sugo di spigola",
             "Uova strapazzate/Frittata",
@@ -8064,7 +8063,7 @@
           "data" : "27-01-2027",
           "merenda" : "Focaccia bianca",
           "pranzo" : [
-            "Pasta con piselli",
+            "Pasta e piselli",
             "Fuso di pollo arrosto",
             "Finocchi al tegame",
             "Pane",
@@ -8094,7 +8093,7 @@
             "Pane",
             "Frutta"
           ],
-          "spuntino" : "Fette biscottate con cioccolato al latte/fondente"
+          "spuntino" : "Fette biscottate con cioccolata al latte/fondente"
         },
         {
           "data" : "01-02-2027",
@@ -8122,7 +8121,7 @@
         },
         {
           "data" : "03-02-2027",
-          "merenda" : "Frutta di stagione + biscotto frollino al cacao",
+          "merenda" : "Frutta di stagione con biscotti frollini al cacao",
           "pranzo" : [
             "Pasta al ragù di carne di agnello",
             "Tortino di patate",
@@ -8141,7 +8140,7 @@
             "Pane",
             "Frutta"
           ],
-          "spuntino" : "Fette biscottate con cioccolato al latte/fondente"
+          "spuntino" : "Fette biscottate con cioccolata al latte/fondente"
         },
         {
           "data" : "05-02-2027",
@@ -8157,7 +8156,7 @@
         },
         {
           "data" : "08-02-2027",
-          "merenda" : "Frutta di stagione + biscotto frollino al cacao",
+          "merenda" : "Frutta di stagione con biscotti frollini al cacao",
           "pranzo" : [
             "Pasta al pomodoro",
             "Uova strapazzate/Frittata",
@@ -8173,11 +8172,11 @@
           "pranzo" : [
             "Pasta al cavolfiore bianco",
             "Straccetti di bovino",
-            "Finocchi gratinati",
+            "Finocchi al tegame",
             "Pane",
             "Frutta"
           ],
-          "spuntino" : "Fette biscottate con cioccolato al latte/fondente"
+          "spuntino" : "Fette biscottate con cioccolata al latte/fondente"
         },
         {
           "data" : "10-02-2027",
@@ -8224,7 +8223,7 @@
             "Pane",
             "Frutta"
           ],
-          "spuntino" : "Fette biscottate con cioccolato al latte/fondente"
+          "spuntino" : "Fette biscottate con cioccolata al latte/fondente"
         },
         {
           "data" : "16-02-2027",
@@ -8281,7 +8280,7 @@
             "Risotto allo zafferano",
             "Straccetti di pollo cremolati",
             "Patate al forno",
-            "Pane",
+            "Pane integrale",
             "Frutta"
           ],
           "spuntino" : "Plum cake allo yogurt"
@@ -8296,7 +8295,7 @@
             "Pane",
             "Frutta"
           ],
-          "spuntino" : "Schiaciatine"
+          "spuntino" : "Schiacciatine"
         },
         {
           "data" : "24-02-2027",
@@ -8312,13 +8311,13 @@
         },
         {
           "data" : "25-02-2027",
-          "merenda" : "Frutta di stagione + biscotti frollini al cacao",
+          "merenda" : "Frutta di stagiole con biscotti frollini al cacao",
           "pranzo" : [
             "Pasta al cavolfiore bianco",
             "Medaglioni di limanda",
             "Insalata verde",
             "Pane",
-            "Spremta di arancia"
+            "Spremuta di arancia"
           ],
           "spuntino" : "Cracker"
         },
@@ -8332,7 +8331,7 @@
             "Pane",
             "Frutta"
           ],
-          "spuntino" : "Fette biscottate con cioccolato al latte/fondente"
+          "spuntino" : "Fette biscottate con cioccolata al latte/fondente"
         },
         {
           "data" : "01-03-2027",
@@ -8350,7 +8349,7 @@
           "data" : "02-03-2027",
           "merenda" : "Focaccia bianca",
           "pranzo" : [
-            "Pasta con lenticchie",
+            "Pasta e lenticchie",
             "Uova strapazzate/Frittata",
             "Fagiolini all'olio",
             "Pane",
@@ -8379,7 +8378,7 @@
             "Pane",
             "Frutta"
           ],
-          "spuntino" : "Fette biscottate con cioccolato al latte/fondente"
+          "spuntino" : "Fette biscottate con cioccolata al latte/fondente"
         },
         {
           "data" : "05-03-2027",
@@ -8397,7 +8396,7 @@
           "data" : "08-03-2027",
           "merenda" : "Focaccia rossa soffice",
           "pranzo" : [
-            "Pasta con piselli",
+            "Pasta e piselli",
             "Caciotta dolce",
             "Finocchi gratinati",
             "Pane",
@@ -8407,12 +8406,12 @@
         },
         {
           "data" : "09-03-2027",
-          "merenda" : "Frutta di stagione + biscotto frollino al cacao",
+          "merenda" : "Frutta di stagione con biscotti frollini al cacao",
           "pranzo" : [
             "Pasta al pomodoro",
             "Petto o bocconcini di pollo panato",
             "Spinaci all'olio",
-            "Pane",
+            "Pane integrale",
             "Spremuta di arancia"
           ],
           "spuntino" : "Cracker"
@@ -8423,11 +8422,11 @@
           "pranzo" : [
             "Pasta e patate",
             "Arrosto di bovino/Straccetti di bovino",
-            "Cavolfiore all'olio",
+            "Cavolfiori all'olio",
             "Pane",
             "Frutta"
           ],
-          "spuntino" : "Fette biscottate con cioccolato al latte/fondente"
+          "spuntino" : "Fette biscottate con cioccolata al latte/fondente"
         },
         {
           "data" : "11-03-2027",
@@ -8469,12 +8468,12 @@
           "merenda" : "Polpa di frutta",
           "pranzo" : [
             "Risotto allo zafferano con crema di ceci",
-            "Montasio",
+            "Asiago",
             "Broccoli romaneschi all'olio",
             "Pane",
             "Frutta"
           ],
-          "spuntino" : "Fette biscottate con cioccolato al latte/fondente"
+          "spuntino" : "Fette biscottate con cioccolata al latte/fondente"
         },
         {
           "data" : "17-03-2027",
@@ -8517,12 +8516,12 @@
           "merenda" : "Polpa di frutta",
           "pranzo" : [
             "Pasta al pomodoro",
-            "Arrosto di maiale/Bocconcini di maiale impanati",
+            "Arrosto di maiale/Bocconcini di maiale impanato",
             "Insalata verde",
             "Pane",
             "Frutta"
           ],
-          "spuntino" : "Fette biscottate con cioccolato al latte/fondente"
+          "spuntino" : "Fette biscottate con cioccolata al latte/fondente"
         },
         {
           "data" : "23-03-2027",
@@ -8541,7 +8540,7 @@
           "merenda" : "Ciambellone",
           "pranzo" : [
             "Risotto al pomodoro",
-            "Sformatino di platessa",
+            "Sformato di platessa",
             "Fagiolini all'olio",
             "Pane",
             "Frutta"
@@ -8552,7 +8551,7 @@
           "data" : "31-03-2027",
           "merenda" : "Focaccia bianca",
           "pranzo" : [
-            "Pasta con piselli",
+            "Pasta e piselli",
             "Fuso di pollo arrosto",
             "Finocchi al tegame",
             "Pane",
@@ -8648,7 +8647,7 @@
           "merenda" : "Ciambellone",
           "pranzo" : [
             "Riso alla parmigiana",
-            "Petto o bocconcino di pollo al limone",
+            "Petto o bocconcini di pollo al limone",
             "Spinaci all'olio",
             "Pane",
             "Frutta"
@@ -8661,7 +8660,7 @@
           "pranzo" : [
             "Pasta al pomodoro e basilico",
             "Tortino di limanda",
-            "Carote al tegame",
+            "Carote alla Julienne",
             "Pane",
             "Frutta"
           ],
@@ -8728,9 +8727,9 @@
         },
         {
           "data" : "21-04-2027",
-          "merenda" : "Panino all'olio e marmellata",
+          "merenda" : "Panino all'olio con marmellata",
           "pranzo" : [
-            "Pasta al pomodoro",
+            "Pasta al pomodoro e basilico",
             "Robiola",
             "Insalata di pomodori",
             "Pane",
@@ -8742,7 +8741,7 @@
           "data" : "22-04-2027",
           "merenda" : "Crostatina con marmellata di frutta",
           "pranzo" : [
-            "Pasta con zucchine",
+            "Pasta con pesto di zucchine",
             "Tortino di limanda",
             "Carote al tegame",
             "Pane",
@@ -8779,7 +8778,7 @@
           "merenda" : "Biscotti frollini al cacao e succo di frutta senza zuccheri agg.",
           "pranzo" : [
             "Crema di verdure con pasta",
-            "Montasio",
+            "Asiago",
             "Patate al tegame",
             "Pane",
             "Frutta"
@@ -8849,7 +8848,7 @@
           "data" : "05-05-2027",
           "merenda" : "Ciambellone",
           "pranzo" : [
-            "Pasta al trito vegetale",
+            "Pasta integrale al trito vegetale",
             "Frittata con zucchine",
             "Pane",
             "Frutta"
@@ -8898,7 +8897,7 @@
           "pranzo" : [
             "Crema di ceci con pasta",
             "Uova strapazzate/Frittata",
-            "Carote al tegame",
+            "Carote alla julienne",
             "Pane",
             "Frutta"
           ],
@@ -8921,7 +8920,7 @@
           "merenda" : "Biscotti frollini al cacao e succo di frutta senza zuccheri agg.",
           "pranzo" : [
             "Risotto al ragù di carne",
-            "Mozzarella vaccina",
+            "Mozzarella di vaccina",
             "Patate al forno",
             "Pane",
             "Frutta"
@@ -8933,7 +8932,7 @@
           "merenda" : "Panino all'olio con marmellata",
           "pranzo" : [
             "Pasta all'ortolana",
-            "Arrosto di maiale/Bocconcini di maiale impanati",
+            "Arrosto di maiale/Bocconcini di maiale impanato",
             "Spinaci al burro e parmigiano",
             "Pane",
             "Frutta"
@@ -9171,7 +9170,7 @@
           "merenda" : "Ciambellone",
           "pranzo" : [
             "Riso alla parmigiana",
-            "Petto o bocconcino di pollo al limone",
+            "Petto o bocconcini di pollo al limone",
             "Spinaci all'olio",
             "Pane",
             "Frutta"
@@ -9184,7 +9183,7 @@
           "pranzo" : [
             "Pasta al pomodoro e basilico",
             "Tortino di limanda",
-            "Carote al tegame",
+            "Carote alla Julienne",
             "Pane",
             "Frutta"
           ],
@@ -9251,9 +9250,9 @@
         },
         {
           "data" : "23-06-2027",
-          "merenda" : "Panino all'olio e marmellata",
+          "merenda" : "Panino all'olio con marmellata",
           "pranzo" : [
-            "Pasta al pomodoro",
+            "Pasta al pomodoro e basilico",
             "Robiola",
             "Insalata di pomodori",
             "Pane",
@@ -9265,7 +9264,7 @@
           "data" : "24-06-2027",
           "merenda" : "Crostatina con marmellata di frutta",
           "pranzo" : [
-            "Pasta con zucchine",
+            "Pasta con pesto di zucchine",
             "Tortino di limanda",
             "Carote al tegame",
             "Pane",
@@ -9427,7 +9426,7 @@
           "pranzo" : [
             "Riso alla parmigiana",
             "Petto o bocconcini di pollo al limone",
-            "Fiori di zucca alla romana",
+            "Spinaci all'olio",
             "Pane integrale",
             "Frutta"
           ],
@@ -9439,7 +9438,7 @@
           "pranzo" : [
             "Pasta al pomodoro e basilico",
             "Tortino di limanda",
-            "Carote alla julienne",
+            "Carote alla Julienne",
             "Pane",
             "Frutta"
           ],
@@ -9484,7 +9483,7 @@
           "data" : "05-10-2026",
           "merenda" : "Biscotti frollini al cacao e succo di frutta senza zuccheri agg.",
           "pranzo" : [
-            "Pasta al tonno",
+            "Pasta (spaghetti) al tonno",
             "Uova strapazzate/Frittata",
             "Zucchine trifolate",
             "Pane",
@@ -9522,7 +9521,7 @@
           "pranzo" : [
             "Pasta con pesto di zucchine",
             "Filetti di limanda gratinati",
-            "Carote alla julienne",
+            "Carote alla Julienne",
             "Pane",
             "Frutta"
           ],
@@ -9545,7 +9544,7 @@
           "merenda" : "Panino all'olio con marmellata",
           "pranzo" : [
             "Pasta al pesto senza aglio",
-            "Cotoletta di maiale panata/Bocconcini di maiale impanati",
+            "Bocconcini di maiale panati/Cotoletta di maiale panata",
             "Fagiolini all'olio",
             "Pane",
             "Frutta"
@@ -9557,7 +9556,7 @@
           "merenda" : "Biscotti frollini al cacao e succo di frutta senza zuccheri agg.",
           "pranzo" : [
             "Crema di verdure con pasta",
-            "Montasio",
+            "Asiago",
             "Patate al tegame",
             "Pane integrale",
             "Frutta"
@@ -9650,9 +9649,9 @@
           "data" : "23-10-2026",
           "merenda" : "Biscotti frollini al cacao e succo di frutta senza zuccheri agg.",
           "pranzo" : [
-            "Farro e lenticchie",
+            "Farro con lenticchie",
             "Crescenza",
-            "Fagiolini al pomodoro",
+            "Fagiolini all'olio",
             "Pane",
             "Frutta"
           ],
@@ -9711,7 +9710,7 @@
           "merenda" : "Panino all'olio con marmellata",
           "pranzo" : [
             "Pasta all'ortolana",
-            "Arrosto di maiale/Bocconcini di maiale impanati",
+            "Arrosto di maiale/Bocconcini di maiale impanato",
             "Spinaci al burro e parmigiano",
             "Pane",
             "Frutta"
@@ -9734,12 +9733,12 @@
           "merenda" : "Frutta di stagione",
           "pranzo" : [
             "Risotto allo zafferano con crema di ceci",
-            "Montasio",
+            "Asiago",
             "Broccoli romaneschi all'olio",
             "Pane",
             "Frutta"
           ],
-          "spuntino" : "Fette biscottate con cioccolato al latte/fondente"
+          "spuntino" : "Fette biscottate con cioccolata al latte/fondente"
         },
         {
           "data" : "04-11-2026",
@@ -9782,12 +9781,12 @@
           "merenda" : "Frutta di stagione",
           "pranzo" : [
             "Pasta alla amatriciana",
-            "Arrosto di maiale/Bocconcini di maiale impanati",
+            "Arrosto di maiale/Bocconcini di maiale impanato",
             "Insalata verde",
             "Pane",
             "Frutta"
           ],
-          "spuntino" : "Fette biscottate con cioccolato al latte/fondente"
+          "spuntino" : "Fette biscottate con cioccolata al latte/fondente"
         },
         {
           "data" : "10-11-2026",
@@ -9827,7 +9826,7 @@
         },
         {
           "data" : "13-11-2026",
-          "merenda" : "Frutta di stagione + biscotto frollino al cacao",
+          "merenda" : "Frutta di stagione con biscotti frollini al cacao",
           "pranzo" : [
             "Pasta al sugo di spigola",
             "Uova strapazzate/Frittata",
@@ -9863,7 +9862,7 @@
           "data" : "18-11-2026",
           "merenda" : "Focaccia bianca",
           "pranzo" : [
-            "Pasta con piselli",
+            "Pasta e piselli",
             "Coscio di pollo arrosto",
             "Finocchi al tegame",
             "Pane",
@@ -9893,7 +9892,7 @@
             "Pane",
             "Frutta"
           ],
-          "spuntino" : "Fette biscottate con cioccolato al latte/fondente"
+          "spuntino" : "Fette biscottate con cioccolata al latte/fondente"
         },
         {
           "data" : "23-11-2026",
@@ -9921,7 +9920,7 @@
         },
         {
           "data" : "25-11-2026",
-          "merenda" : "Frutta di stagione + biscotto frollino al cacao",
+          "merenda" : "Frutta di stagione con biscotti frollini al cacao",
           "pranzo" : [
             "Pasta al ragù di carne di agnello",
             "Tortino di patate",
@@ -9940,7 +9939,7 @@
             "Pane",
             "Frutta"
           ],
-          "spuntino" : "Fette biscottate con cioccolato al latte/fondente"
+          "spuntino" : "Fette biscottate con cioccolata al latte/fondente"
         },
         {
           "data" : "27-11-2026",
@@ -9956,7 +9955,7 @@
         },
         {
           "data" : "30-11-2026",
-          "merenda" : "Frutta di stagione + biscotto frollino al cacao",
+          "merenda" : "Frutta di stagione con biscotti frollini al cacao",
           "pranzo" : [
             "Pasta al tonno",
             "Uova strapazzate/Frittata",
@@ -9976,7 +9975,7 @@
             "Pane",
             "Frutta"
           ],
-          "spuntino" : "Fette biscottate con cioccolato al latte/fondente"
+          "spuntino" : "Fette biscottate con cioccolata al latte/fondente"
         },
         {
           "data" : "02-12-2026",
@@ -10023,7 +10022,7 @@
             "Pane",
             "Frutta"
           ],
-          "spuntino" : "Fette biscottate con cioccolato al latte/fondente"
+          "spuntino" : "Fette biscottate con cioccolata al latte/fondente"
         },
         {
           "data" : "09-12-2026",
@@ -10099,7 +10098,7 @@
         },
         {
           "data" : "17-12-2026",
-          "merenda" : "Frutta di stagione + biscotto frollino al cacao",
+          "merenda" : "Frutta di stagiole con biscotti frollini al cacao",
           "pranzo" : [
             "Pasta al cavolfiore bianco",
             "Medaglioni di limanda",
@@ -10119,7 +10118,7 @@
             "Pane",
             "Frutta"
           ],
-          "spuntino" : "Fette biscottate con cioccolato al latte/fondente"
+          "spuntino" : "Fette biscottate con cioccolata al latte/fondente"
         },
         {
           "data" : "21-12-2026",
@@ -10137,7 +10136,7 @@
           "data" : "22-12-2026",
           "merenda" : "Focaccia bianca",
           "pranzo" : [
-            "Pasta con lenticchie",
+            "Pasta e lenticchie",
             "Uova strapazzate/Frittata",
             "Fagiolini all'olio",
             "Pane",
@@ -10185,12 +10184,12 @@
           "merenda" : "Frutta di stagione",
           "pranzo" : [
             "Risotto allo zafferano con crema di ceci",
-            "Montasio",
+            "Asiago",
             "Broccoli romaneschi all'olio",
             "Pane",
             "Frutta"
           ],
-          "spuntino" : "Fette biscottate con cioccolato al latte/fondente"
+          "spuntino" : "Fette biscottate con cioccolata al latte/fondente"
         },
         {
           "data" : "13-01-2027",
@@ -10233,12 +10232,12 @@
           "merenda" : "Frutta di stagione",
           "pranzo" : [
             "Pasta alla amatriciana",
-            "Arrosto di maiale/Bocconcini di maiale impanati",
+            "Arrosto di maiale/Bocconcini di maiale impanato",
             "Insalata verde",
             "Pane",
             "Frutta"
           ],
-          "spuntino" : "Fette biscottate con cioccolato al latte/fondente"
+          "spuntino" : "Fette biscottate con cioccolata al latte/fondente"
         },
         {
           "data" : "19-01-2027",
@@ -10278,7 +10277,7 @@
         },
         {
           "data" : "22-01-2027",
-          "merenda" : "Frutta di stagione + biscotto frollino al cacao",
+          "merenda" : "Frutta di stagione con biscotti frollini al cacao",
           "pranzo" : [
             "Pasta al sugo di spigola",
             "Uova strapazzate/Frittata",
@@ -10314,7 +10313,7 @@
           "data" : "27-01-2027",
           "merenda" : "Focaccia bianca",
           "pranzo" : [
-            "Pasta con piselli",
+            "Pasta e piselli",
             "Coscio di pollo arrosto",
             "Finocchi al tegame",
             "Pane",
@@ -10344,7 +10343,7 @@
             "Pane",
             "Frutta"
           ],
-          "spuntino" : "Fette biscottate con cioccolato al latte/fondente"
+          "spuntino" : "Fette biscottate con cioccolata al latte/fondente"
         },
         {
           "data" : "01-02-2027",
@@ -10372,7 +10371,7 @@
         },
         {
           "data" : "03-02-2027",
-          "merenda" : "Frutta di stagione + biscotto frollino al cacao",
+          "merenda" : "Frutta di stagione con biscotti frollini al cacao",
           "pranzo" : [
             "Pasta al ragù di carne di agnello",
             "Tortino di patate",
@@ -10391,7 +10390,7 @@
             "Pane",
             "Frutta"
           ],
-          "spuntino" : "Fette biscottate con cioccolato al latte/fondente"
+          "spuntino" : "Fette biscottate con cioccolata al latte/fondente"
         },
         {
           "data" : "05-02-2027",
@@ -10407,7 +10406,7 @@
         },
         {
           "data" : "08-02-2027",
-          "merenda" : "Frutta di stagione + biscotto frollino al cacao",
+          "merenda" : "Frutta di stagione con biscotti frollini al cacao",
           "pranzo" : [
             "Pasta al tonno",
             "Uova strapazzate/Frittata",
@@ -10427,7 +10426,7 @@
             "Pane",
             "Frutta"
           ],
-          "spuntino" : "Fette biscottate con cioccolato al latte/fondente"
+          "spuntino" : "Fette biscottate con cioccolata al latte/fondente"
         },
         {
           "data" : "10-02-2027",
@@ -10474,7 +10473,7 @@
             "Pane",
             "Frutta"
           ],
-          "spuntino" : "Fette biscottate con cioccolato al latte/fondente"
+          "spuntino" : "Fette biscottate con cioccolata al latte/fondente"
         },
         {
           "data" : "16-02-2027",
@@ -10562,7 +10561,7 @@
         },
         {
           "data" : "25-02-2027",
-          "merenda" : "Frutta di stagione + biscotto frollino al cacao",
+          "merenda" : "Frutta di stagiole con biscotti frollini al cacao",
           "pranzo" : [
             "Pasta al cavolfiore bianco",
             "Medaglioni di limanda",
@@ -10582,7 +10581,7 @@
             "Pane",
             "Frutta"
           ],
-          "spuntino" : "Fette biscottate con cioccolato al latte/fondente"
+          "spuntino" : "Fette biscottate con cioccolata al latte/fondente"
         },
         {
           "data" : "01-03-2027",
@@ -10600,7 +10599,7 @@
           "data" : "02-03-2027",
           "merenda" : "Focaccia bianca",
           "pranzo" : [
-            "Pasta con lenticchie",
+            "Pasta e lenticchie",
             "Uova strapazzate/Frittata",
             "Fagiolini all'olio",
             "Pane",
@@ -10629,7 +10628,7 @@
             "Pane",
             "Frutta"
           ],
-          "spuntino" : "Fette biscottate con cioccolato al latte/fondente"
+          "spuntino" : "Fette biscottate con cioccolata al latte/fondente"
         },
         {
           "data" : "05-03-2027",
@@ -10647,7 +10646,7 @@
           "data" : "08-03-2027",
           "merenda" : "Focaccia rossa soffice",
           "pranzo" : [
-            "Pasta con piselli",
+            "Pasta e piselli",
             "Caciotta dolce",
             "Insalata di finocchi",
             "Pane",
@@ -10657,7 +10656,7 @@
         },
         {
           "data" : "09-03-2027",
-          "merenda" : "Frutta di stagione + biscotto frollino al cacao",
+          "merenda" : "Frutta di stagione con biscotti frollini al cacao",
           "pranzo" : [
             "Pasta al pomodoro",
             "Petto o bocconcini di pollo panato",
@@ -10677,7 +10676,7 @@
             "Pane",
             "Frutta"
           ],
-          "spuntino" : "Fette biscottate con cioccolato al latte/fondente"
+          "spuntino" : "Fette biscottate con cioccolata al latte/fondente"
         },
         {
           "data" : "11-03-2027",
@@ -10719,12 +10718,12 @@
           "merenda" : "Frutta di stagione",
           "pranzo" : [
             "Risotto allo zafferano con crema di ceci",
-            "Montasio",
+            "Asiago",
             "Broccoli romaneschi all'olio",
             "Pane",
             "Frutta"
           ],
-          "spuntino" : "Fette biscottate con cioccolato al latte/fondente"
+          "spuntino" : "Fette biscottate con cioccolata al latte/fondente"
         },
         {
           "data" : "17-03-2027",
@@ -10767,12 +10766,12 @@
           "merenda" : "Frutta di stagione",
           "pranzo" : [
             "Pasta alla amatriciana",
-            "Arrosto di maiale/Bocconcini di maiale impanati",
+            "Arrosto di maiale/Bocconcini di maiale impanato",
             "Insalata verde",
             "Pane",
             "Frutta"
           ],
-          "spuntino" : "Fette biscottate con cioccolato al latte/fondente"
+          "spuntino" : "Fette biscottate con cioccolata al latte/fondente"
         },
         {
           "data" : "23-03-2027",
@@ -10802,7 +10801,7 @@
           "data" : "31-03-2027",
           "merenda" : "Focaccia bianca",
           "pranzo" : [
-            "Pasta con piselli",
+            "Pasta e piselli",
             "Coscio di pollo arrosto",
             "Finocchi al tegame",
             "Pane",
@@ -10899,7 +10898,7 @@
           "pranzo" : [
             "Riso alla parmigiana",
             "Petto o bocconcini di pollo al limone",
-            "Fiori di zucca alla romana",
+            "Spinaci all'olio",
             "Pane integrale",
             "Frutta"
           ],
@@ -10911,7 +10910,7 @@
           "pranzo" : [
             "Pasta al pomodoro e basilico",
             "Tortino di limanda",
-            "Carote alla julienne",
+            "Carote alla Julienne",
             "Pane",
             "Frutta"
           ],
@@ -10956,7 +10955,7 @@
           "data" : "19-04-2027",
           "merenda" : "Biscotti frollini al cacao e succo di frutta senza zuccheri agg.",
           "pranzo" : [
-            "Pasta al tonno",
+            "Pasta (spaghetti) al tonno",
             "Uova strapazzate/Frittata",
             "Zucchine trifolate",
             "Pane",
@@ -10994,7 +10993,7 @@
           "pranzo" : [
             "Pasta con pesto di zucchine",
             "Filetti di limanda gratinati",
-            "Carote alla julienne",
+            "Carote alla Julienne",
             "Pane",
             "Frutta"
           ],
@@ -11017,7 +11016,7 @@
           "merenda" : "Panino all'olio con marmellata",
           "pranzo" : [
             "Pasta al pesto senza aglio",
-            "Cotoletta di maiale panata/Bocconcini di maiale impanati",
+            "Bocconcini di maiale panati/Cotoletta di maiale panata",
             "Fagiolini all'olio",
             "Pane",
             "Frutta"
@@ -11029,7 +11028,7 @@
           "merenda" : "Biscotti frollini al cacao e succo di frutta senza zuccheri agg.",
           "pranzo" : [
             "Crema di verdure con pasta",
-            "Montasio",
+            "Asiago",
             "Patate al tegame",
             "Pane integrale",
             "Frutta"
@@ -11122,9 +11121,9 @@
           "data" : "07-05-2027",
           "merenda" : "Biscotti frollini al cacao e succo di frutta senza zuccheri agg.",
           "pranzo" : [
-            "Farro e lenticchie",
+            "Farro con lenticchie",
             "Crescenza",
-            "Fagiolini al pomodoro",
+            "Fagiolini all'olio",
             "Pane",
             "Frutta"
           ],
@@ -11183,7 +11182,7 @@
           "merenda" : "Panino all'olio con marmellata",
           "pranzo" : [
             "Pasta all'ortolana",
-            "Arrosto di maiale/Bocconcini di maiale impanati",
+            "Arrosto di maiale/Bocconcini di maiale impanato",
             "Spinaci al burro e parmigiano",
             "Pane",
             "Frutta"
@@ -11245,7 +11244,7 @@
             "Pasta con zucchine",
             "Filetti di limanda gratinati",
             "Patate all'olio",
-            "Pane integrale",
+            "Pane",
             "Gelato"
           ],
           "spuntino" : "Frutta di stagione"
@@ -11268,7 +11267,7 @@
           "pranzo" : [
             "Pasta al trito vegetale",
             "Medaglioni di merluzzo al limone",
-            "Zucchine trifolate",
+            "zucchine trifolate",
             "Pane",
             "Frutta"
           ],
@@ -11305,7 +11304,6 @@
             "Pizza rossa",
             "Mozzarella vaccina",
             "Bieta all'olio",
-            "Pane",
             "Frutta"
           ],
           "spuntino" : "Banana"
@@ -11500,7 +11498,7 @@
           "pranzo" : [
             "Riso alla parmigiana",
             "Petto o bocconcini di pollo al limone",
-            "Fiori di zucca alla romana",
+            "Spinaci all'olio",
             "Pane integrale",
             "Frutta"
           ],
@@ -11512,7 +11510,7 @@
           "pranzo" : [
             "Pasta al pomodoro e basilico",
             "Tortino di limanda",
-            "Carote alla julienne",
+            "Carote alla Julienne",
             "Pane",
             "Frutta"
           ],
@@ -11557,7 +11555,7 @@
           "data" : "05-10-2026",
           "merenda" : "Biscotti frollini al cacao e succo di frutta senza zuccheri agg.",
           "pranzo" : [
-            "Pasta al tonno",
+            "Pasta (spaghetti) al tonno",
             "Uova strapazzate/Frittata",
             "Zucchine trifolate",
             "Pane",
@@ -11595,7 +11593,7 @@
           "pranzo" : [
             "Pasta con pesto di zucchine",
             "Filetti di limanda gratinati",
-            "Carote alla julienne",
+            "Carote alla Julienne",
             "Pane",
             "Frutta"
           ],
@@ -11618,7 +11616,7 @@
           "merenda" : "Panino all'olio con marmellata",
           "pranzo" : [
             "Pasta al pesto senza aglio",
-            "Cotoletta di maiale panata/Bocconcini di maiale impanati",
+            "Bocconcini di maiale panati/Cotoletta di maiale panata",
             "Fagiolini all'olio",
             "Pane",
             "Frutta"
@@ -11630,7 +11628,7 @@
           "merenda" : "Biscotti frollini al cacao e succo di frutta senza zuccheri agg.",
           "pranzo" : [
             "Crema di verdure con pasta",
-            "Montasio",
+            "Asiago",
             "Patate al tegame",
             "Pane integrale",
             "Frutta"
@@ -11723,9 +11721,9 @@
           "data" : "23-10-2026",
           "merenda" : "Biscotti frollini al cacao e succo di frutta senza zuccheri agg.",
           "pranzo" : [
-            "Farro e lenticchie",
+            "Farro con lenticchie",
             "Crescenza",
-            "Fagiolini al pomodoro",
+            "Fagiolini all'olio",
             "Pane",
             "Frutta"
           ],
@@ -11784,7 +11782,7 @@
           "merenda" : "Panino all'olio con marmellata",
           "pranzo" : [
             "Pasta all'ortolana",
-            "Arrosto di maiale/Bocconcini di maiale impanati",
+            "Arrosto di maiale/Bocconcini di maiale impanato",
             "Spinaci al burro e parmigiano",
             "Pane",
             "Frutta"
@@ -11807,12 +11805,12 @@
           "merenda" : "Frutta di stagione",
           "pranzo" : [
             "Risotto allo zafferano con crema di ceci",
-            "Montasio",
+            "Asiago",
             "Broccoli romaneschi all'olio",
             "Pane",
             "Frutta"
           ],
-          "spuntino" : "Fette biscottate con cioccolato al latte/fondente"
+          "spuntino" : "Fette biscottate con cioccolata al latte/fondente"
         },
         {
           "data" : "04-11-2026",
@@ -11855,12 +11853,12 @@
           "merenda" : "Frutta di stagione",
           "pranzo" : [
             "Pasta alla amatriciana",
-            "Arrosto di maiale/Bocconcini di maiale impanati",
+            "Arrosto di maiale/Bocconcini di maiale impanato",
             "Insalata verde",
             "Pane",
             "Frutta"
           ],
-          "spuntino" : "Fette biscottate con cioccolato al latte/fondente"
+          "spuntino" : "Fette biscottate con cioccolata al latte/fondente"
         },
         {
           "data" : "10-11-2026",
@@ -11900,7 +11898,7 @@
         },
         {
           "data" : "13-11-2026",
-          "merenda" : "Frutta di stagione + biscotto frollino al cacao",
+          "merenda" : "Frutta di stagione con biscotti frollini al cacao",
           "pranzo" : [
             "Pasta al sugo di spigola",
             "Uova strapazzate/Frittata",
@@ -11936,7 +11934,7 @@
           "data" : "18-11-2026",
           "merenda" : "Focaccia bianca",
           "pranzo" : [
-            "Pasta con piselli",
+            "Pasta e piselli",
             "Coscio di pollo arrosto",
             "Finocchi al tegame",
             "Pane",
@@ -11966,7 +11964,7 @@
             "Pane",
             "Frutta"
           ],
-          "spuntino" : "Fette biscottate con cioccolato al latte/fondente"
+          "spuntino" : "Fette biscottate con cioccolata al latte/fondente"
         },
         {
           "data" : "23-11-2026",
@@ -11994,7 +11992,7 @@
         },
         {
           "data" : "25-11-2026",
-          "merenda" : "Frutta di stagione + biscotto frollino al cacao",
+          "merenda" : "Frutta di stagione con biscotti frollini al cacao",
           "pranzo" : [
             "Pasta al ragù di carne di agnello",
             "Tortino di patate",
@@ -12013,7 +12011,7 @@
             "Pane",
             "Frutta"
           ],
-          "spuntino" : "Fette biscottate con cioccolato al latte/fondente"
+          "spuntino" : "Fette biscottate con cioccolata al latte/fondente"
         },
         {
           "data" : "27-11-2026",
@@ -12029,7 +12027,7 @@
         },
         {
           "data" : "30-11-2026",
-          "merenda" : "Frutta di stagione + biscotto frollino al cacao",
+          "merenda" : "Frutta di stagione con biscotti frollini al cacao",
           "pranzo" : [
             "Pasta al tonno",
             "Uova strapazzate/Frittata",
@@ -12049,7 +12047,7 @@
             "Pane",
             "Frutta"
           ],
-          "spuntino" : "Fette biscottate con cioccolato al latte/fondente"
+          "spuntino" : "Fette biscottate con cioccolata al latte/fondente"
         },
         {
           "data" : "02-12-2026",
@@ -12096,7 +12094,7 @@
             "Pane",
             "Frutta"
           ],
-          "spuntino" : "Fette biscottate con cioccolato al latte/fondente"
+          "spuntino" : "Fette biscottate con cioccolata al latte/fondente"
         },
         {
           "data" : "09-12-2026",
@@ -12172,7 +12170,7 @@
         },
         {
           "data" : "17-12-2026",
-          "merenda" : "Frutta di stagione + biscotto frollino al cacao",
+          "merenda" : "Frutta di stagiole con biscotti frollini al cacao",
           "pranzo" : [
             "Pasta al cavolfiore bianco",
             "Medaglioni di limanda",
@@ -12192,7 +12190,7 @@
             "Pane",
             "Frutta"
           ],
-          "spuntino" : "Fette biscottate con cioccolato al latte/fondente"
+          "spuntino" : "Fette biscottate con cioccolata al latte/fondente"
         },
         {
           "data" : "21-12-2026",
@@ -12210,7 +12208,7 @@
           "data" : "22-12-2026",
           "merenda" : "Focaccia bianca",
           "pranzo" : [
-            "Pasta con lenticchie",
+            "Pasta e lenticchie",
             "Uova strapazzate/Frittata",
             "Fagiolini all'olio",
             "Pane",
@@ -12258,12 +12256,12 @@
           "merenda" : "Frutta di stagione",
           "pranzo" : [
             "Risotto allo zafferano con crema di ceci",
-            "Montasio",
+            "Asiago",
             "Broccoli romaneschi all'olio",
             "Pane",
             "Frutta"
           ],
-          "spuntino" : "Fette biscottate con cioccolato al latte/fondente"
+          "spuntino" : "Fette biscottate con cioccolata al latte/fondente"
         },
         {
           "data" : "13-01-2027",
@@ -12306,12 +12304,12 @@
           "merenda" : "Frutta di stagione",
           "pranzo" : [
             "Pasta alla amatriciana",
-            "Arrosto di maiale/Bocconcini di maiale impanati",
+            "Arrosto di maiale/Bocconcini di maiale impanato",
             "Insalata verde",
             "Pane",
             "Frutta"
           ],
-          "spuntino" : "Fette biscottate con cioccolato al latte/fondente"
+          "spuntino" : "Fette biscottate con cioccolata al latte/fondente"
         },
         {
           "data" : "19-01-2027",
@@ -12351,7 +12349,7 @@
         },
         {
           "data" : "22-01-2027",
-          "merenda" : "Frutta di stagione + biscotto frollino al cacao",
+          "merenda" : "Frutta di stagione con biscotti frollini al cacao",
           "pranzo" : [
             "Pasta al sugo di spigola",
             "Uova strapazzate/Frittata",
@@ -12387,7 +12385,7 @@
           "data" : "27-01-2027",
           "merenda" : "Focaccia bianca",
           "pranzo" : [
-            "Pasta con piselli",
+            "Pasta e piselli",
             "Coscio di pollo arrosto",
             "Finocchi al tegame",
             "Pane",
@@ -12417,7 +12415,7 @@
             "Pane",
             "Frutta"
           ],
-          "spuntino" : "Fette biscottate con cioccolato al latte/fondente"
+          "spuntino" : "Fette biscottate con cioccolata al latte/fondente"
         },
         {
           "data" : "01-02-2027",
@@ -12445,7 +12443,7 @@
         },
         {
           "data" : "03-02-2027",
-          "merenda" : "Frutta di stagione + biscotto frollino al cacao",
+          "merenda" : "Frutta di stagione con biscotti frollini al cacao",
           "pranzo" : [
             "Pasta al ragù di carne di agnello",
             "Tortino di patate",
@@ -12464,7 +12462,7 @@
             "Pane",
             "Frutta"
           ],
-          "spuntino" : "Fette biscottate con cioccolato al latte/fondente"
+          "spuntino" : "Fette biscottate con cioccolata al latte/fondente"
         },
         {
           "data" : "05-02-2027",
@@ -12480,7 +12478,7 @@
         },
         {
           "data" : "08-02-2027",
-          "merenda" : "Frutta di stagione + biscotto frollino al cacao",
+          "merenda" : "Frutta di stagione con biscotti frollini al cacao",
           "pranzo" : [
             "Pasta al tonno",
             "Uova strapazzate/Frittata",
@@ -12500,7 +12498,7 @@
             "Pane",
             "Frutta"
           ],
-          "spuntino" : "Fette biscottate con cioccolato al latte/fondente"
+          "spuntino" : "Fette biscottate con cioccolata al latte/fondente"
         },
         {
           "data" : "10-02-2027",
@@ -12547,7 +12545,7 @@
             "Pane",
             "Frutta"
           ],
-          "spuntino" : "Fette biscottate con cioccolato al latte/fondente"
+          "spuntino" : "Fette biscottate con cioccolata al latte/fondente"
         },
         {
           "data" : "16-02-2027",
@@ -12635,7 +12633,7 @@
         },
         {
           "data" : "25-02-2027",
-          "merenda" : "Frutta di stagione + biscotto frollino al cacao",
+          "merenda" : "Frutta di stagiole con biscotti frollini al cacao",
           "pranzo" : [
             "Pasta al cavolfiore bianco",
             "Medaglioni di limanda",
@@ -12655,7 +12653,7 @@
             "Pane",
             "Frutta"
           ],
-          "spuntino" : "Fette biscottate con cioccolato al latte/fondente"
+          "spuntino" : "Fette biscottate con cioccolata al latte/fondente"
         },
         {
           "data" : "01-03-2027",
@@ -12673,7 +12671,7 @@
           "data" : "02-03-2027",
           "merenda" : "Focaccia bianca",
           "pranzo" : [
-            "Pasta con lenticchie",
+            "Pasta e lenticchie",
             "Uova strapazzate/Frittata",
             "Fagiolini all'olio",
             "Pane",
@@ -12702,7 +12700,7 @@
             "Pane",
             "Frutta"
           ],
-          "spuntino" : "Fette biscottate con cioccolato al latte/fondente"
+          "spuntino" : "Fette biscottate con cioccolata al latte/fondente"
         },
         {
           "data" : "05-03-2027",
@@ -12720,7 +12718,7 @@
           "data" : "08-03-2027",
           "merenda" : "Focaccia rossa soffice",
           "pranzo" : [
-            "Pasta con piselli",
+            "Pasta e piselli",
             "Caciotta dolce",
             "Insalata di finocchi",
             "Pane",
@@ -12730,7 +12728,7 @@
         },
         {
           "data" : "09-03-2027",
-          "merenda" : "Frutta di stagione + biscotto frollino al cacao",
+          "merenda" : "Frutta di stagione con biscotti frollini al cacao",
           "pranzo" : [
             "Pasta al pomodoro",
             "Petto o bocconcini di pollo panato",
@@ -12750,7 +12748,7 @@
             "Pane",
             "Frutta"
           ],
-          "spuntino" : "Fette biscottate con cioccolato al latte/fondente"
+          "spuntino" : "Fette biscottate con cioccolata al latte/fondente"
         },
         {
           "data" : "11-03-2027",
@@ -12792,12 +12790,12 @@
           "merenda" : "Frutta di stagione",
           "pranzo" : [
             "Risotto allo zafferano con crema di ceci",
-            "Montasio",
+            "Asiago",
             "Broccoli romaneschi all'olio",
             "Pane",
             "Frutta"
           ],
-          "spuntino" : "Fette biscottate con cioccolato al latte/fondente"
+          "spuntino" : "Fette biscottate con cioccolata al latte/fondente"
         },
         {
           "data" : "17-03-2027",
@@ -12840,12 +12838,12 @@
           "merenda" : "Frutta di stagione",
           "pranzo" : [
             "Pasta alla amatriciana",
-            "Arrosto di maiale/Bocconcini di maiale impanati",
+            "Arrosto di maiale/Bocconcini di maiale impanato",
             "Insalata verde",
             "Pane",
             "Frutta"
           ],
-          "spuntino" : "Fette biscottate con cioccolato al latte/fondente"
+          "spuntino" : "Fette biscottate con cioccolata al latte/fondente"
         },
         {
           "data" : "23-03-2027",
@@ -12875,7 +12873,7 @@
           "data" : "31-03-2027",
           "merenda" : "Focaccia bianca",
           "pranzo" : [
-            "Pasta con piselli",
+            "Pasta e piselli",
             "Coscio di pollo arrosto",
             "Finocchi al tegame",
             "Pane",
@@ -12972,7 +12970,7 @@
           "pranzo" : [
             "Riso alla parmigiana",
             "Petto o bocconcini di pollo al limone",
-            "Fiori di zucca alla romana",
+            "Spinaci all'olio",
             "Pane integrale",
             "Frutta"
           ],
@@ -12984,7 +12982,7 @@
           "pranzo" : [
             "Pasta al pomodoro e basilico",
             "Tortino di limanda",
-            "Carote alla julienne",
+            "Carote alla Julienne",
             "Pane",
             "Frutta"
           ],
@@ -13029,7 +13027,7 @@
           "data" : "19-04-2027",
           "merenda" : "Biscotti frollini al cacao e succo di frutta senza zuccheri agg.",
           "pranzo" : [
-            "Pasta al tonno",
+            "Pasta (spaghetti) al tonno",
             "Uova strapazzate/Frittata",
             "Zucchine trifolate",
             "Pane",
@@ -13067,7 +13065,7 @@
           "pranzo" : [
             "Pasta con pesto di zucchine",
             "Filetti di limanda gratinati",
-            "Carote alla julienne",
+            "Carote alla Julienne",
             "Pane",
             "Frutta"
           ],
@@ -13090,7 +13088,7 @@
           "merenda" : "Panino all'olio con marmellata",
           "pranzo" : [
             "Pasta al pesto senza aglio",
-            "Cotoletta di maiale panata/Bocconcini di maiale impanati",
+            "Bocconcini di maiale panati/Cotoletta di maiale panata",
             "Fagiolini all'olio",
             "Pane",
             "Frutta"
@@ -13102,7 +13100,7 @@
           "merenda" : "Biscotti frollini al cacao e succo di frutta senza zuccheri agg.",
           "pranzo" : [
             "Crema di verdure con pasta",
-            "Montasio",
+            "Asiago",
             "Patate al tegame",
             "Pane integrale",
             "Frutta"
@@ -13195,9 +13193,9 @@
           "data" : "07-05-2027",
           "merenda" : "Biscotti frollini al cacao e succo di frutta senza zuccheri agg.",
           "pranzo" : [
-            "Farro e lenticchie",
+            "Farro con lenticchie",
             "Crescenza",
-            "Fagiolini al pomodoro",
+            "Fagiolini all'olio",
             "Pane",
             "Frutta"
           ],
@@ -13256,7 +13254,7 @@
           "merenda" : "Panino all'olio con marmellata",
           "pranzo" : [
             "Pasta all'ortolana",
-            "Arrosto di maiale/Bocconcini di maiale impanati",
+            "Arrosto di maiale/Bocconcini di maiale impanato",
             "Spinaci al burro e parmigiano",
             "Pane",
             "Frutta"
@@ -13318,7 +13316,7 @@
             "Pasta con zucchine",
             "Filetti di limanda gratinati",
             "Patate all'olio",
-            "Pane integrale",
+            "Pane",
             "Gelato"
           ],
           "spuntino" : "Frutta di stagione"
@@ -13341,7 +13339,7 @@
           "pranzo" : [
             "Pasta al trito vegetale",
             "Medaglioni di merluzzo al limone",
-            "Zucchine trifolate",
+            "zucchine trifolate",
             "Pane",
             "Frutta"
           ],
@@ -13378,7 +13376,6 @@
             "Pizza rossa",
             "Mozzarella vaccina",
             "Bieta all'olio",
-            "Pane",
             "Frutta"
           ],
           "spuntino" : "Banana"
