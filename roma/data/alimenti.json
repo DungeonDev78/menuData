@@ -1,5 +1,5 @@
 {
-  "versione": "1.0.0",
+  "versione": "1.1.0",
   "annoRiferimento": "2024_2025",
   "cicli": [
     "nidoMedi",
@@ -4327,6 +4327,239 @@
         "sale": 0.08
       },
       "note": "Frutta non specificata.",
+      "variante": true
+    },
+    "Frutta di stagione con biscotti frollini al cacao": {
+      "nomeVisualizzato": "Frutta di stagione + biscotto frollino al cacao",
+      "categoria": "merenda",
+      "tipoPorzione": "merendaFruttaBiscotto",
+      "gruppo": "frutta",
+      "dieta": "vegetariano",
+      "allergeni": [
+        "glutine",
+        "latte",
+        "uova"
+      ],
+      "affidabilita": "media",
+      "per100g": {
+        "kcal": 89,
+        "proteine": 1.2,
+        "carboidrati": 17.0,
+        "zuccheri": 12.5,
+        "grassi": 1.8,
+        "grassiSaturi": 0.9,
+        "fibre": 1.8,
+        "sale": 0.08
+      },
+      "note": "Frutta non specificata.",
+      "variante": true
+    },
+    "Frutta di stagiole con biscotti frollini al cacao": {
+      "nomeVisualizzato": "Frutta di stagione + biscotto frollino al cacao",
+      "categoria": "merenda",
+      "tipoPorzione": "merendaFruttaBiscotto",
+      "gruppo": "frutta",
+      "dieta": "vegetariano",
+      "allergeni": [
+        "glutine",
+        "latte",
+        "uova"
+      ],
+      "affidabilita": "media",
+      "per100g": {
+        "kcal": 89,
+        "proteine": 1.2,
+        "carboidrati": 17.0,
+        "zuccheri": 12.5,
+        "grassi": 1.8,
+        "grassiSaturi": 0.9,
+        "fibre": 1.8,
+        "sale": 0.08
+      },
+      "note": "Frutta non specificata.",
+      "variante": true
+    },
+    "Fette biscottate con cioccolata al latte/fondente": {
+      "nomeVisualizzato": "Fette biscottate con cioccolato al latte/fondente",
+      "categoria": "spuntino",
+      "tipoPorzione": "merendaDolce",
+      "gruppo": "dolce",
+      "dieta": "vegetariano",
+      "allergeni": [
+        "glutine",
+        "latte",
+        "soia"
+      ],
+      "affidabilita": "media",
+      "per100g": {
+        "kcal": 450,
+        "proteine": 8.0,
+        "carboidrati": 65.0,
+        "zuccheri": 25.0,
+        "grassi": 17.0,
+        "grassiSaturi": 8.0,
+        "fibre": 3.0,
+        "sale": 0.6
+      },
+      "note": "Cioccolato al latte o fondente.",
+      "variante": true
+    },
+    "Bocconcini di maiale panati/Cotoletta di maiale panata": {
+      "nomeVisualizzato": "Cotoletta di maiale panata/Bocconcini di maiale impanati",
+      "categoria": "secondo",
+      "tipoPorzione": "secondoCarneImpanato",
+      "gruppo": "carneRossa",
+      "dieta": "onnivoro",
+      "allergeni": [
+        "glutine",
+        "uova"
+      ],
+      "affidabilita": "bassa",
+      "per100g": {
+        "kcal": 250,
+        "proteine": 19.5,
+        "carboidrati": 13.5,
+        "zuccheri": 0.8,
+        "grassi": 13.5,
+        "grassiSaturi": 3.8,
+        "fibre": 0.9,
+        "sale": 0.78
+      },
+      "note": "Due preparazioni alternative.",
+      "variante": true
+    },
+    "Mozzarella di vaccina": {
+      "nomeVisualizzato": "Mozzarella vaccina",
+      "categoria": "secondo",
+      "tipoPorzione": "secondoFormaggioFresco",
+      "gruppo": "formaggio",
+      "dieta": "vegetariano",
+      "allergeni": [
+        "latte"
+      ],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 250,
+        "proteine": 18.5,
+        "carboidrati": 1.0,
+        "zuccheri": 1.0,
+        "grassi": 19.5,
+        "grassiSaturi": 12.0,
+        "fibre": 0.0,
+        "sale": 0.6
+      },
+      "variante": true
+    },
+    "Pasta (spaghetti) al tonno": {
+      "nomeVisualizzato": "Pasta al tonno",
+      "categoria": "primo",
+      "tipoPorzione": "primoAsciutto",
+      "gruppo": "pesce",
+      "dieta": "onnivoro",
+      "allergeni": [
+        "glutine",
+        "pesce"
+      ],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 150,
+        "proteine": 6.5,
+        "carboidrati": 21.0,
+        "zuccheri": 2.0,
+        "grassi": 4.4,
+        "grassiSaturi": 0.8,
+        "fibre": 1.3,
+        "sale": 0.4
+      },
+      "variante": true
+    },
+    "Pasta e lenticchie": {
+      "nomeVisualizzato": "Pasta con lenticchie",
+      "categoria": "primo",
+      "tipoPorzione": "minestra",
+      "gruppo": "legumi",
+      "dieta": "vegano",
+      "allergeni": [
+        "glutine"
+      ],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 108,
+        "proteine": 5.0,
+        "carboidrati": 16.5,
+        "zuccheri": 1.2,
+        "grassi": 2.4,
+        "grassiSaturi": 0.35,
+        "fibre": 3.2,
+        "sale": 0.3
+      },
+      "variante": true
+    },
+    "Pasta e piselli": {
+      "nomeVisualizzato": "Pasta con piselli",
+      "categoria": "primo",
+      "tipoPorzione": "primoAsciutto",
+      "gruppo": "legumi",
+      "dieta": "vegano",
+      "allergeni": [
+        "glutine"
+      ],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 135,
+        "proteine": 5.2,
+        "carboidrati": 21.0,
+        "zuccheri": 2.0,
+        "grassi": 3.2,
+        "grassiSaturi": 0.5,
+        "fibre": 2.6,
+        "sale": 0.3
+      },
+      "variante": true
+    },
+    "Sformato di platessa": {
+      "nomeVisualizzato": "Sformatino di platessa",
+      "categoria": "secondo",
+      "tipoPorzione": "secondoPesce",
+      "gruppo": "pesce",
+      "dieta": "onnivoro",
+      "allergeni": [
+        "pesce",
+        "glutine",
+        "uova",
+        "latte"
+      ],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 140,
+        "proteine": 14.0,
+        "carboidrati": 7.5,
+        "zuccheri": 0.8,
+        "grassi": 5.8,
+        "grassiSaturi": 1.4,
+        "fibre": 0.6,
+        "sale": 0.6
+      },
+      "variante": true
+    },
+    "Carote alla Julienne": {
+      "nomeVisualizzato": "Carote alla julienne",
+      "categoria": "contorno",
+      "tipoPorzione": "contornoCrudo",
+      "gruppo": "verdura",
+      "dieta": "vegano",
+      "allergeni": [],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 55,
+        "proteine": 0.8,
+        "carboidrati": 6.5,
+        "zuccheri": 5.5,
+        "grassi": 3.0,
+        "grassiSaturi": 0.45,
+        "fibre": 3.0,
+        "sale": 0.15
+      },
       "variante": true
     }
   }
