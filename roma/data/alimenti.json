@@ -1,0 +1,4333 @@
+{
+  "versione": "1.0.0",
+  "annoRiferimento": "2024_2025",
+  "cicli": [
+    "nidoMedi",
+    "nidoGrandi",
+    "ponte",
+    "infanzia",
+    "primaria",
+    "secondaria"
+  ],
+  "avvertenza": "Valori indicativi, calcolati su ricette standard e sulle grammature della ristorazione scolastica. Non sostituiscono le tabelle dietetiche ufficiali né il parere di un professionista. Per le allergie fare sempre riferimento alla scuola e alla ditta di ristorazione.",
+  "fonti": {
+    "composizione": "Valori di composizione su base CREA - Tabelle di composizione degli alimenti",
+    "grammature": "Grammature standard ristorazione scolastica per fascia d'età (da verificare sul capitolato di Roma Capitale)",
+    "fabbisogni": "LARN - SINU, revisione 2014"
+  },
+  "unita": {
+    "per100g": "valori per 100 g di prodotto come servito; macronutrienti e sale in grammi",
+    "porzioni": "grammi di prodotto come servito, per tipoPorzione e ciclo scolastico"
+  },
+  "fabbisognoGiornalieroKcal": {
+    "nidoMedi": 1000,
+    "nidoGrandi": 1150,
+    "ponte": 1250,
+    "infanzia": 1400,
+    "primaria": 1800,
+    "secondaria": 2150
+  },
+  "quotePasto": {
+    "pranzo": 0.35,
+    "spuntino": 0.05,
+    "merenda": 0.1
+  },
+  "porzioni": {
+    "primoAsciutto": {
+      "nidoMedi": 120,
+      "nidoGrandi": 140,
+      "ponte": 155,
+      "infanzia": 175,
+      "primaria": 210,
+      "secondaria": 250
+    },
+    "primoRipieno": {
+      "nidoMedi": 110,
+      "nidoGrandi": 125,
+      "ponte": 140,
+      "infanzia": 155,
+      "primaria": 185,
+      "secondaria": 220
+    },
+    "minestra": {
+      "nidoMedi": 180,
+      "nidoGrandi": 200,
+      "ponte": 220,
+      "infanzia": 245,
+      "primaria": 285,
+      "secondaria": 330
+    },
+    "polenta": {
+      "nidoMedi": 150,
+      "nidoGrandi": 170,
+      "ponte": 185,
+      "infanzia": 205,
+      "primaria": 240,
+      "secondaria": 285
+    },
+    "pizza": {
+      "nidoMedi": 60,
+      "nidoGrandi": 70,
+      "ponte": 75,
+      "infanzia": 90,
+      "primaria": 110,
+      "secondaria": 135
+    },
+    "secondoCarne": {
+      "nidoMedi": 40,
+      "nidoGrandi": 50,
+      "ponte": 55,
+      "infanzia": 65,
+      "primaria": 80,
+      "secondaria": 100
+    },
+    "secondoCarneImpanato": {
+      "nidoMedi": 45,
+      "nidoGrandi": 55,
+      "ponte": 60,
+      "infanzia": 75,
+      "primaria": 90,
+      "secondaria": 110
+    },
+    "secondoPesce": {
+      "nidoMedi": 50,
+      "nidoGrandi": 60,
+      "ponte": 65,
+      "infanzia": 80,
+      "primaria": 100,
+      "secondaria": 120
+    },
+    "secondoUova": {
+      "nidoMedi": 45,
+      "nidoGrandi": 55,
+      "ponte": 60,
+      "infanzia": 70,
+      "primaria": 90,
+      "secondaria": 110
+    },
+    "secondoFormaggioFresco": {
+      "nidoMedi": 30,
+      "nidoGrandi": 40,
+      "ponte": 45,
+      "infanzia": 50,
+      "primaria": 60,
+      "secondaria": 80
+    },
+    "secondoFormaggioStagionato": {
+      "nidoMedi": 20,
+      "nidoGrandi": 25,
+      "ponte": 28,
+      "infanzia": 30,
+      "primaria": 40,
+      "secondaria": 50
+    },
+    "secondoVegetale": {
+      "nidoMedi": 90,
+      "nidoGrandi": 110,
+      "ponte": 120,
+      "infanzia": 140,
+      "primaria": 170,
+      "secondaria": 200
+    },
+    "contornoCotto": {
+      "nidoMedi": 70,
+      "nidoGrandi": 90,
+      "ponte": 100,
+      "infanzia": 120,
+      "primaria": 150,
+      "secondaria": 180
+    },
+    "contornoCrudo": {
+      "nidoMedi": 40,
+      "nidoGrandi": 50,
+      "ponte": 55,
+      "infanzia": 60,
+      "primaria": 80,
+      "secondaria": 100
+    },
+    "pane": {
+      "nidoMedi": 20,
+      "nidoGrandi": 25,
+      "ponte": 26,
+      "infanzia": 30,
+      "primaria": 40,
+      "secondaria": 50
+    },
+    "frutta": {
+      "nidoMedi": 100,
+      "nidoGrandi": 120,
+      "ponte": 130,
+      "infanzia": 150,
+      "primaria": 150,
+      "secondaria": 200
+    },
+    "gelato": {
+      "nidoMedi": 50,
+      "nidoGrandi": 60,
+      "ponte": 60,
+      "infanzia": 70,
+      "primaria": 80,
+      "secondaria": 100
+    },
+    "spremuta": {
+      "nidoMedi": 100,
+      "nidoGrandi": 120,
+      "ponte": 130,
+      "infanzia": 150,
+      "primaria": 180,
+      "secondaria": 200
+    },
+    "spuntinoSecco": {
+      "nidoMedi": 15,
+      "nidoGrandi": 20,
+      "ponte": 20,
+      "infanzia": 25,
+      "primaria": 30,
+      "secondaria": 30
+    },
+    "merendaDolce": {
+      "nidoMedi": 35,
+      "nidoGrandi": 40,
+      "ponte": 45,
+      "infanzia": 50,
+      "primaria": 60,
+      "secondaria": 70
+    },
+    "merendaPanino": {
+      "nidoMedi": 45,
+      "nidoGrandi": 55,
+      "ponte": 60,
+      "infanzia": 70,
+      "primaria": 80,
+      "secondaria": 100
+    },
+    "merendaYogurt": {
+      "nidoMedi": 60,
+      "nidoGrandi": 80,
+      "ponte": 90,
+      "infanzia": 100,
+      "primaria": 125,
+      "secondaria": 125
+    },
+    "merendaYogurtCereali": {
+      "nidoMedi": 70,
+      "nidoGrandi": 90,
+      "ponte": 100,
+      "infanzia": 110,
+      "primaria": 135,
+      "secondaria": 140
+    },
+    "merendaFrullato": {
+      "nidoMedi": 120,
+      "nidoGrandi": 150,
+      "ponte": 160,
+      "infanzia": 180,
+      "primaria": 200,
+      "secondaria": 200
+    },
+    "polpaFrutta": {
+      "nidoMedi": 80,
+      "nidoGrandi": 90,
+      "ponte": 100,
+      "infanzia": 100,
+      "primaria": 100,
+      "secondaria": 100
+    },
+    "merendaLatteBiscotti": {
+      "nidoMedi": 100,
+      "nidoGrandi": 120,
+      "ponte": 135,
+      "infanzia": 150,
+      "primaria": 170,
+      "secondaria": 190
+    },
+    "merendaBiscottiSucco": {
+      "nidoMedi": 100,
+      "nidoGrandi": 130,
+      "ponte": 145,
+      "infanzia": 160,
+      "primaria": 175,
+      "secondaria": 190
+    },
+    "merendaFruttaBiscotto": {
+      "nidoMedi": 95,
+      "nidoGrandi": 115,
+      "ponte": 130,
+      "infanzia": 150,
+      "primaria": 165,
+      "secondaria": 190
+    },
+    "merendaPolpaFette": {
+      "nidoMedi": 70,
+      "nidoGrandi": 85,
+      "ponte": 95,
+      "infanzia": 110,
+      "primaria": 120,
+      "secondaria": 135
+    },
+    "merendaSpremutaDolce": {
+      "nidoMedi": 115,
+      "nidoGrandi": 140,
+      "ponte": 155,
+      "infanzia": 175,
+      "primaria": 200,
+      "secondaria": 225
+    },
+    "merendaSpremutaFette": {
+      "nidoMedi": 110,
+      "nidoGrandi": 135,
+      "ponte": 150,
+      "infanzia": 170,
+      "primaria": 190,
+      "secondaria": 215
+    }
+  },
+  "piatti": {
+    "Pasta al pomodoro": {
+      "nomeVisualizzato": "Pasta al pomodoro",
+      "categoria": "primo",
+      "tipoPorzione": "primoAsciutto",
+      "gruppo": "cereali",
+      "dieta": "vegano",
+      "allergeni": [
+        "glutine"
+      ],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 128,
+        "proteine": 4.0,
+        "carboidrati": 22.0,
+        "zuccheri": 2.2,
+        "grassi": 2.6,
+        "grassiSaturi": 0.4,
+        "fibre": 1.5,
+        "sale": 0.3
+      }
+    },
+    "Pasta al pomodoro e basilico": {
+      "nomeVisualizzato": "Pasta al pomodoro e basilico",
+      "categoria": "primo",
+      "tipoPorzione": "primoAsciutto",
+      "gruppo": "cereali",
+      "dieta": "vegano",
+      "allergeni": [
+        "glutine"
+      ],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 128,
+        "proteine": 4.0,
+        "carboidrati": 22.0,
+        "zuccheri": 2.2,
+        "grassi": 2.6,
+        "grassiSaturi": 0.4,
+        "fibre": 1.5,
+        "sale": 0.3
+      }
+    },
+    "Pasta al pomodoro fresco e basilico": {
+      "nomeVisualizzato": "Pasta al pomodoro fresco e basilico",
+      "categoria": "primo",
+      "tipoPorzione": "primoAsciutto",
+      "gruppo": "cereali",
+      "dieta": "vegano",
+      "allergeni": [
+        "glutine"
+      ],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 122,
+        "proteine": 3.9,
+        "carboidrati": 21.0,
+        "zuccheri": 2.4,
+        "grassi": 2.5,
+        "grassiSaturi": 0.4,
+        "fibre": 1.5,
+        "sale": 0.28
+      }
+    },
+    "Pasta al burro e parmigiano": {
+      "nomeVisualizzato": "Pasta al burro e parmigiano",
+      "categoria": "primo",
+      "tipoPorzione": "primoAsciutto",
+      "gruppo": "cereali",
+      "dieta": "vegetariano",
+      "allergeni": [
+        "glutine",
+        "latte"
+      ],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 175,
+        "proteine": 5.8,
+        "carboidrati": 23.0,
+        "zuccheri": 0.9,
+        "grassi": 6.5,
+        "grassiSaturi": 4.0,
+        "fibre": 1.0,
+        "sale": 0.35
+      }
+    },
+    "Pasta all'olio e parmigiano": {
+      "nomeVisualizzato": "Pasta all'olio e parmigiano",
+      "categoria": "primo",
+      "tipoPorzione": "primoAsciutto",
+      "gruppo": "cereali",
+      "dieta": "vegetariano",
+      "allergeni": [
+        "glutine",
+        "latte"
+      ],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 172,
+        "proteine": 5.6,
+        "carboidrati": 23.5,
+        "zuccheri": 0.8,
+        "grassi": 6.2,
+        "grassiSaturi": 2.2,
+        "fibre": 1.0,
+        "sale": 0.32
+      }
+    },
+    "Pasta all'ortolana": {
+      "nomeVisualizzato": "Pasta all'ortolana",
+      "categoria": "primo",
+      "tipoPorzione": "primoAsciutto",
+      "gruppo": "cereali",
+      "dieta": "vegano",
+      "allergeni": [
+        "glutine"
+      ],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 130,
+        "proteine": 4.0,
+        "carboidrati": 21.0,
+        "zuccheri": 2.5,
+        "grassi": 3.2,
+        "grassiSaturi": 0.5,
+        "fibre": 2.0,
+        "sale": 0.3
+      }
+    },
+    "Pasta al trito vegetale": {
+      "nomeVisualizzato": "Pasta al trito vegetale",
+      "categoria": "primo",
+      "tipoPorzione": "primoAsciutto",
+      "gruppo": "cereali",
+      "dieta": "vegano",
+      "allergeni": [
+        "glutine"
+      ],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 128,
+        "proteine": 4.0,
+        "carboidrati": 21.0,
+        "zuccheri": 2.3,
+        "grassi": 3.0,
+        "grassiSaturi": 0.5,
+        "fibre": 2.0,
+        "sale": 0.3
+      }
+    },
+    "Pasta integrale al trito vegetale": {
+      "nomeVisualizzato": "Pasta integrale al trito vegetale",
+      "categoria": "primo",
+      "tipoPorzione": "primoAsciutto",
+      "gruppo": "cereali",
+      "dieta": "vegano",
+      "allergeni": [
+        "glutine"
+      ],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 120,
+        "proteine": 4.4,
+        "carboidrati": 19.5,
+        "zuccheri": 2.2,
+        "grassi": 3.0,
+        "grassiSaturi": 0.5,
+        "fibre": 3.5,
+        "sale": 0.3
+      }
+    },
+    "Pasta rosa": {
+      "nomeVisualizzato": "Pasta rosa",
+      "categoria": "primo",
+      "tipoPorzione": "primoAsciutto",
+      "gruppo": "cereali",
+      "dieta": "vegetariano",
+      "allergeni": [
+        "glutine",
+        "latte"
+      ],
+      "affidabilita": "media",
+      "per100g": {
+        "kcal": 150,
+        "proteine": 4.8,
+        "carboidrati": 22.0,
+        "zuccheri": 2.5,
+        "grassi": 4.6,
+        "grassiSaturi": 2.4,
+        "fibre": 1.3,
+        "sale": 0.35
+      },
+      "note": "Pomodoro e besciamella/panna: ricetta variabile."
+    },
+    "Pasta al pesto senza aglio": {
+      "nomeVisualizzato": "Pasta al pesto senza aglio",
+      "categoria": "primo",
+      "tipoPorzione": "primoAsciutto",
+      "gruppo": "cereali",
+      "dieta": "vegetariano",
+      "allergeni": [
+        "glutine",
+        "latte",
+        "fruttaAGuscio"
+      ],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 195,
+        "proteine": 5.8,
+        "carboidrati": 22.0,
+        "zuccheri": 1.0,
+        "grassi": 9.0,
+        "grassiSaturi": 2.0,
+        "fibre": 1.4,
+        "sale": 0.35
+      }
+    },
+    "Pasta al pesto delicato": {
+      "nomeVisualizzato": "Pasta al pesto delicato",
+      "categoria": "primo",
+      "tipoPorzione": "primoAsciutto",
+      "gruppo": "cereali",
+      "dieta": "vegetariano",
+      "allergeni": [
+        "glutine",
+        "latte",
+        "fruttaAGuscio"
+      ],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 190,
+        "proteine": 5.7,
+        "carboidrati": 22.0,
+        "zuccheri": 1.0,
+        "grassi": 8.6,
+        "grassiSaturi": 2.0,
+        "fibre": 1.4,
+        "sale": 0.35
+      }
+    },
+    "Pasta con pesto di zucchine": {
+      "nomeVisualizzato": "Pasta con pesto di zucchine",
+      "categoria": "primo",
+      "tipoPorzione": "primoAsciutto",
+      "gruppo": "cereali",
+      "dieta": "vegetariano",
+      "allergeni": [
+        "glutine",
+        "latte"
+      ],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 165,
+        "proteine": 4.8,
+        "carboidrati": 21.0,
+        "zuccheri": 1.5,
+        "grassi": 6.8,
+        "grassiSaturi": 1.5,
+        "fibre": 1.6,
+        "sale": 0.32
+      }
+    },
+    "Pasta con zucchine": {
+      "nomeVisualizzato": "Pasta con zucchine",
+      "categoria": "primo",
+      "tipoPorzione": "primoAsciutto",
+      "gruppo": "cereali",
+      "dieta": "vegano",
+      "allergeni": [
+        "glutine"
+      ],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 135,
+        "proteine": 4.2,
+        "carboidrati": 21.5,
+        "zuccheri": 1.8,
+        "grassi": 3.6,
+        "grassiSaturi": 0.6,
+        "fibre": 1.6,
+        "sale": 0.3
+      }
+    },
+    "Pasta con zucca": {
+      "nomeVisualizzato": "Pasta con zucca",
+      "categoria": "primo",
+      "tipoPorzione": "primoAsciutto",
+      "gruppo": "cereali",
+      "dieta": "vegano",
+      "allergeni": [
+        "glutine"
+      ],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 130,
+        "proteine": 3.9,
+        "carboidrati": 21.0,
+        "zuccheri": 2.6,
+        "grassi": 3.4,
+        "grassiSaturi": 0.5,
+        "fibre": 1.8,
+        "sale": 0.3
+      }
+    },
+    "Pasta al cavolfiore bianco": {
+      "nomeVisualizzato": "Pasta al cavolfiore bianco",
+      "categoria": "primo",
+      "tipoPorzione": "primoAsciutto",
+      "gruppo": "cereali",
+      "dieta": "vegano",
+      "allergeni": [
+        "glutine"
+      ],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 128,
+        "proteine": 4.2,
+        "carboidrati": 20.5,
+        "zuccheri": 1.6,
+        "grassi": 3.4,
+        "grassiSaturi": 0.5,
+        "fibre": 2.0,
+        "sale": 0.3
+      }
+    },
+    "Pasta alla pizzaiola": {
+      "nomeVisualizzato": "Pasta alla pizzaiola",
+      "categoria": "primo",
+      "tipoPorzione": "primoAsciutto",
+      "gruppo": "cereali",
+      "dieta": "vegetariano",
+      "allergeni": [
+        "glutine",
+        "latte"
+      ],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 140,
+        "proteine": 5.0,
+        "carboidrati": 21.0,
+        "zuccheri": 2.4,
+        "grassi": 3.8,
+        "grassiSaturi": 1.6,
+        "fibre": 1.5,
+        "sale": 0.45
+      }
+    },
+    "Pasta alla amatriciana": {
+      "nomeVisualizzato": "Pasta alla amatriciana",
+      "categoria": "primo",
+      "tipoPorzione": "primoAsciutto",
+      "gruppo": "carneRossa",
+      "dieta": "onnivoro",
+      "allergeni": [
+        "glutine",
+        "latte"
+      ],
+      "affidabilita": "media",
+      "per100g": {
+        "kcal": 170,
+        "proteine": 6.0,
+        "carboidrati": 21.5,
+        "zuccheri": 2.4,
+        "grassi": 6.5,
+        "grassiSaturi": 2.4,
+        "fibre": 1.4,
+        "sale": 0.55
+      },
+      "note": "Con guanciale/pancetta di maiale."
+    },
+    "Pasta al tonno": {
+      "nomeVisualizzato": "Pasta al tonno",
+      "categoria": "primo",
+      "tipoPorzione": "primoAsciutto",
+      "gruppo": "pesce",
+      "dieta": "onnivoro",
+      "allergeni": [
+        "glutine",
+        "pesce"
+      ],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 150,
+        "proteine": 6.5,
+        "carboidrati": 21.0,
+        "zuccheri": 2.0,
+        "grassi": 4.4,
+        "grassiSaturi": 0.8,
+        "fibre": 1.3,
+        "sale": 0.4
+      }
+    },
+    "Pasta al sugo di spigola": {
+      "nomeVisualizzato": "Pasta al sugo di spigola",
+      "categoria": "primo",
+      "tipoPorzione": "primoAsciutto",
+      "gruppo": "pesce",
+      "dieta": "onnivoro",
+      "allergeni": [
+        "glutine",
+        "pesce"
+      ],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 145,
+        "proteine": 6.2,
+        "carboidrati": 21.0,
+        "zuccheri": 2.0,
+        "grassi": 4.0,
+        "grassiSaturi": 0.7,
+        "fibre": 1.3,
+        "sale": 0.38
+      }
+    },
+    "Pasta al ragù di carne": {
+      "nomeVisualizzato": "Pasta al ragù di carne",
+      "categoria": "primo",
+      "tipoPorzione": "primoAsciutto",
+      "gruppo": "carneRossa",
+      "dieta": "onnivoro",
+      "allergeni": [
+        "glutine"
+      ],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 160,
+        "proteine": 6.5,
+        "carboidrati": 21.0,
+        "zuccheri": 2.2,
+        "grassi": 5.2,
+        "grassiSaturi": 1.8,
+        "fibre": 1.4,
+        "sale": 0.4
+      }
+    },
+    "Pasta al ragù di carne di agnello": {
+      "nomeVisualizzato": "Pasta al ragù di carne di agnello",
+      "categoria": "primo",
+      "tipoPorzione": "primoAsciutto",
+      "gruppo": "carneRossa",
+      "dieta": "onnivoro",
+      "allergeni": [
+        "glutine"
+      ],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 165,
+        "proteine": 6.6,
+        "carboidrati": 21.0,
+        "zuccheri": 2.2,
+        "grassi": 5.6,
+        "grassiSaturi": 2.2,
+        "fibre": 1.4,
+        "sale": 0.4
+      }
+    },
+    "Pasta (maccheroncini all'uovo) al pomodoro": {
+      "nomeVisualizzato": "Pasta (maccheroncini all'uovo) al pomodoro",
+      "categoria": "primo",
+      "tipoPorzione": "primoAsciutto",
+      "gruppo": "cereali",
+      "dieta": "vegetariano",
+      "allergeni": [
+        "glutine",
+        "uova"
+      ],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 140,
+        "proteine": 5.0,
+        "carboidrati": 22.5,
+        "zuccheri": 2.2,
+        "grassi": 3.0,
+        "grassiSaturi": 0.7,
+        "fibre": 1.4,
+        "sale": 0.3
+      }
+    },
+    "Pasta con piselli": {
+      "nomeVisualizzato": "Pasta con piselli",
+      "categoria": "primo",
+      "tipoPorzione": "primoAsciutto",
+      "gruppo": "legumi",
+      "dieta": "vegano",
+      "allergeni": [
+        "glutine"
+      ],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 135,
+        "proteine": 5.2,
+        "carboidrati": 21.0,
+        "zuccheri": 2.0,
+        "grassi": 3.2,
+        "grassiSaturi": 0.5,
+        "fibre": 2.6,
+        "sale": 0.3
+      }
+    },
+    "Insalata di pasta mediterranea": {
+      "nomeVisualizzato": "Insalata di pasta mediterranea",
+      "categoria": "primo",
+      "tipoPorzione": "primoAsciutto",
+      "gruppo": "cereali",
+      "dieta": "vegetariano",
+      "allergeni": [
+        "glutine",
+        "latte"
+      ],
+      "affidabilita": "media",
+      "per100g": {
+        "kcal": 165,
+        "proteine": 5.0,
+        "carboidrati": 21.5,
+        "zuccheri": 1.8,
+        "grassi": 6.5,
+        "grassiSaturi": 1.5,
+        "fibre": 1.5,
+        "sale": 0.45
+      },
+      "note": "Ingredienti variabili."
+    },
+    "Riso alla parmigiana": {
+      "nomeVisualizzato": "Riso alla parmigiana",
+      "categoria": "primo",
+      "tipoPorzione": "primoAsciutto",
+      "gruppo": "cereali",
+      "dieta": "vegetariano",
+      "allergeni": [
+        "latte"
+      ],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 150,
+        "proteine": 4.5,
+        "carboidrati": 24.0,
+        "zuccheri": 0.6,
+        "grassi": 4.2,
+        "grassiSaturi": 2.5,
+        "fibre": 0.8,
+        "sale": 0.35
+      }
+    },
+    "Risotto allo zafferano": {
+      "nomeVisualizzato": "Risotto allo zafferano",
+      "categoria": "primo",
+      "tipoPorzione": "primoAsciutto",
+      "gruppo": "cereali",
+      "dieta": "vegetariano",
+      "allergeni": [
+        "latte"
+      ],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 155,
+        "proteine": 4.0,
+        "carboidrati": 24.0,
+        "zuccheri": 0.6,
+        "grassi": 4.8,
+        "grassiSaturi": 2.6,
+        "fibre": 0.6,
+        "sale": 0.4
+      }
+    },
+    "Risotto allo zafferano con crema di ceci": {
+      "nomeVisualizzato": "Risotto allo zafferano con crema di ceci",
+      "categoria": "primo",
+      "tipoPorzione": "primoAsciutto",
+      "gruppo": "legumi",
+      "dieta": "vegetariano",
+      "allergeni": [
+        "latte"
+      ],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 150,
+        "proteine": 5.0,
+        "carboidrati": 23.0,
+        "zuccheri": 0.8,
+        "grassi": 4.4,
+        "grassiSaturi": 2.0,
+        "fibre": 1.6,
+        "sale": 0.38
+      }
+    },
+    "Risotto al pomodoro": {
+      "nomeVisualizzato": "Risotto al pomodoro",
+      "categoria": "primo",
+      "tipoPorzione": "primoAsciutto",
+      "gruppo": "cereali",
+      "dieta": "vegetariano",
+      "allergeni": [
+        "latte"
+      ],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 135,
+        "proteine": 3.5,
+        "carboidrati": 23.0,
+        "zuccheri": 1.8,
+        "grassi": 3.2,
+        "grassiSaturi": 1.4,
+        "fibre": 0.9,
+        "sale": 0.35
+      }
+    },
+    "Risotto con zucca": {
+      "nomeVisualizzato": "Risotto con zucca",
+      "categoria": "primo",
+      "tipoPorzione": "primoAsciutto",
+      "gruppo": "cereali",
+      "dieta": "vegetariano",
+      "allergeni": [
+        "latte"
+      ],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 140,
+        "proteine": 3.6,
+        "carboidrati": 23.0,
+        "zuccheri": 2.2,
+        "grassi": 3.6,
+        "grassiSaturi": 1.6,
+        "fibre": 1.2,
+        "sale": 0.35
+      }
+    },
+    "Risotto con zucchine": {
+      "nomeVisualizzato": "Risotto con zucchine",
+      "categoria": "primo",
+      "tipoPorzione": "primoAsciutto",
+      "gruppo": "cereali",
+      "dieta": "vegetariano",
+      "allergeni": [
+        "latte"
+      ],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 138,
+        "proteine": 3.8,
+        "carboidrati": 22.5,
+        "zuccheri": 1.5,
+        "grassi": 3.6,
+        "grassiSaturi": 1.6,
+        "fibre": 1.1,
+        "sale": 0.35
+      }
+    },
+    "Risotto con crema di piselli": {
+      "nomeVisualizzato": "Risotto con crema di piselli",
+      "categoria": "primo",
+      "tipoPorzione": "primoAsciutto",
+      "gruppo": "legumi",
+      "dieta": "vegetariano",
+      "allergeni": [
+        "latte"
+      ],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 145,
+        "proteine": 4.6,
+        "carboidrati": 23.0,
+        "zuccheri": 1.8,
+        "grassi": 3.8,
+        "grassiSaturi": 1.6,
+        "fibre": 1.8,
+        "sale": 0.35
+      }
+    },
+    "Risotto al ragù di carne": {
+      "nomeVisualizzato": "Risotto al ragù di carne",
+      "categoria": "primo",
+      "tipoPorzione": "primoAsciutto",
+      "gruppo": "carneRossa",
+      "dieta": "onnivoro",
+      "allergeni": [
+        "latte"
+      ],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 165,
+        "proteine": 6.0,
+        "carboidrati": 23.0,
+        "zuccheri": 1.8,
+        "grassi": 5.0,
+        "grassiSaturi": 2.0,
+        "fibre": 1.0,
+        "sale": 0.4
+      }
+    },
+    "Riso con piselli": {
+      "nomeVisualizzato": "Riso con piselli",
+      "categoria": "primo",
+      "tipoPorzione": "primoAsciutto",
+      "gruppo": "legumi",
+      "dieta": "vegano",
+      "allergeni": [],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 140,
+        "proteine": 4.6,
+        "carboidrati": 23.0,
+        "zuccheri": 1.6,
+        "grassi": 3.2,
+        "grassiSaturi": 1.0,
+        "fibre": 1.9,
+        "sale": 0.32
+      }
+    },
+    "Farro all'ortolana": {
+      "nomeVisualizzato": "Farro all'ortolana",
+      "categoria": "primo",
+      "tipoPorzione": "primoAsciutto",
+      "gruppo": "cereali",
+      "dieta": "vegano",
+      "allergeni": [
+        "glutine"
+      ],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 135,
+        "proteine": 4.5,
+        "carboidrati": 22.0,
+        "zuccheri": 2.0,
+        "grassi": 3.2,
+        "grassiSaturi": 0.5,
+        "fibre": 2.8,
+        "sale": 0.3
+      }
+    },
+    "Polenta al ragù di carne": {
+      "nomeVisualizzato": "Polenta al ragù di carne",
+      "categoria": "primo",
+      "tipoPorzione": "polenta",
+      "gruppo": "carneRossa",
+      "dieta": "onnivoro",
+      "allergeni": [],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 130,
+        "proteine": 4.5,
+        "carboidrati": 18.0,
+        "zuccheri": 1.6,
+        "grassi": 4.2,
+        "grassiSaturi": 1.6,
+        "fibre": 1.4,
+        "sale": 0.38
+      }
+    },
+    "Lasagna": {
+      "nomeVisualizzato": "Lasagna",
+      "categoria": "primo",
+      "tipoPorzione": "primoRipieno",
+      "gruppo": "carneRossa",
+      "dieta": "onnivoro",
+      "allergeni": [
+        "glutine",
+        "latte",
+        "uova"
+      ],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 175,
+        "proteine": 8.0,
+        "carboidrati": 16.5,
+        "zuccheri": 2.4,
+        "grassi": 8.5,
+        "grassiSaturi": 4.2,
+        "fibre": 1.1,
+        "sale": 0.5
+      }
+    },
+    "Timballo di pasta": {
+      "nomeVisualizzato": "Timballo di pasta",
+      "categoria": "primo",
+      "tipoPorzione": "primoRipieno",
+      "gruppo": "cereali",
+      "dieta": "vegetariano",
+      "allergeni": [
+        "glutine",
+        "latte",
+        "uova"
+      ],
+      "affidabilita": "media",
+      "per100g": {
+        "kcal": 165,
+        "proteine": 7.0,
+        "carboidrati": 18.0,
+        "zuccheri": 2.2,
+        "grassi": 7.2,
+        "grassiSaturi": 3.4,
+        "fibre": 1.2,
+        "sale": 0.48
+      },
+      "note": "Ripieno variabile."
+    },
+    "Agnolotti al pomodoro": {
+      "nomeVisualizzato": "Agnolotti al pomodoro",
+      "categoria": "primo",
+      "tipoPorzione": "primoRipieno",
+      "gruppo": "cereali",
+      "dieta": "vegetariano",
+      "allergeni": [
+        "glutine",
+        "uova",
+        "latte"
+      ],
+      "affidabilita": "bassa",
+      "per100g": {
+        "kcal": 170,
+        "proteine": 6.5,
+        "carboidrati": 22.0,
+        "zuccheri": 2.2,
+        "grassi": 5.6,
+        "grassiSaturi": 2.4,
+        "fibre": 1.2,
+        "sale": 0.45
+      },
+      "note": "Il ripieno può essere di carne o di magro."
+    },
+    "Ravioli ricotta e spinaci burro e salvia": {
+      "nomeVisualizzato": "Ravioli ricotta e spinaci burro e salvia",
+      "categoria": "primo",
+      "tipoPorzione": "primoRipieno",
+      "gruppo": "cereali",
+      "dieta": "vegetariano",
+      "allergeni": [
+        "glutine",
+        "uova",
+        "latte"
+      ],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 200,
+        "proteine": 7.5,
+        "carboidrati": 21.0,
+        "zuccheri": 1.6,
+        "grassi": 9.5,
+        "grassiSaturi": 5.0,
+        "fibre": 1.4,
+        "sale": 0.45
+      }
+    },
+    "Tortellini al burro e parmigiano": {
+      "nomeVisualizzato": "Tortellini al burro e parmigiano",
+      "categoria": "primo",
+      "tipoPorzione": "primoRipieno",
+      "gruppo": "carneRossa",
+      "dieta": "onnivoro",
+      "allergeni": [
+        "glutine",
+        "uova",
+        "latte"
+      ],
+      "affidabilita": "media",
+      "per100g": {
+        "kcal": 230,
+        "proteine": 9.0,
+        "carboidrati": 23.0,
+        "zuccheri": 1.2,
+        "grassi": 11.0,
+        "grassiSaturi": 5.6,
+        "fibre": 1.2,
+        "sale": 0.6
+      },
+      "note": "Ripieno tipicamente di carne."
+    },
+    "Pizza rossa": {
+      "nomeVisualizzato": "Pizza rossa",
+      "categoria": "primo",
+      "tipoPorzione": "pizza",
+      "gruppo": "cereali",
+      "dieta": "vegano",
+      "allergeni": [
+        "glutine"
+      ],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 270,
+        "proteine": 7.0,
+        "carboidrati": 42.0,
+        "zuccheri": 2.5,
+        "grassi": 8.0,
+        "grassiSaturi": 1.2,
+        "fibre": 2.0,
+        "sale": 1.1
+      }
+    },
+    "Crema di verdure con pasta": {
+      "nomeVisualizzato": "Crema di verdure con pasta",
+      "categoria": "primo",
+      "tipoPorzione": "minestra",
+      "gruppo": "verdura",
+      "dieta": "vegano",
+      "allergeni": [
+        "glutine"
+      ],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 70,
+        "proteine": 2.4,
+        "carboidrati": 10.5,
+        "zuccheri": 1.6,
+        "grassi": 2.0,
+        "grassiSaturi": 0.3,
+        "fibre": 1.8,
+        "sale": 0.28
+      }
+    },
+    "Crema di fagioli con pasta": {
+      "nomeVisualizzato": "Crema di fagioli con pasta",
+      "categoria": "primo",
+      "tipoPorzione": "minestra",
+      "gruppo": "legumi",
+      "dieta": "vegano",
+      "allergeni": [
+        "glutine"
+      ],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 95,
+        "proteine": 4.4,
+        "carboidrati": 14.5,
+        "zuccheri": 1.0,
+        "grassi": 2.2,
+        "grassiSaturi": 0.3,
+        "fibre": 3.2,
+        "sale": 0.3
+      }
+    },
+    "Crema di ceci con pasta": {
+      "nomeVisualizzato": "Crema di ceci con pasta",
+      "categoria": "primo",
+      "tipoPorzione": "minestra",
+      "gruppo": "legumi",
+      "dieta": "vegano",
+      "allergeni": [
+        "glutine"
+      ],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 100,
+        "proteine": 4.4,
+        "carboidrati": 14.5,
+        "zuccheri": 1.0,
+        "grassi": 2.8,
+        "grassiSaturi": 0.4,
+        "fibre": 3.0,
+        "sale": 0.3
+      }
+    },
+    "Crema di lenticchie con pasta": {
+      "nomeVisualizzato": "Crema di lenticchie con pasta",
+      "categoria": "primo",
+      "tipoPorzione": "minestra",
+      "gruppo": "legumi",
+      "dieta": "vegano",
+      "allergeni": [
+        "glutine"
+      ],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 95,
+        "proteine": 4.8,
+        "carboidrati": 14.5,
+        "zuccheri": 1.0,
+        "grassi": 2.0,
+        "grassiSaturi": 0.3,
+        "fibre": 3.2,
+        "sale": 0.3
+      }
+    },
+    "Crema di lenticchie con farro": {
+      "nomeVisualizzato": "Crema di lenticchie con farro",
+      "categoria": "primo",
+      "tipoPorzione": "minestra",
+      "gruppo": "legumi",
+      "dieta": "vegano",
+      "allergeni": [
+        "glutine"
+      ],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 95,
+        "proteine": 4.6,
+        "carboidrati": 14.8,
+        "zuccheri": 1.0,
+        "grassi": 2.0,
+        "grassiSaturi": 0.3,
+        "fibre": 3.4,
+        "sale": 0.3
+      }
+    },
+    "Crema di piselli con pasta": {
+      "nomeVisualizzato": "Crema di piselli con pasta",
+      "categoria": "primo",
+      "tipoPorzione": "minestra",
+      "gruppo": "legumi",
+      "dieta": "vegano",
+      "allergeni": [
+        "glutine"
+      ],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 85,
+        "proteine": 3.8,
+        "carboidrati": 13.0,
+        "zuccheri": 1.6,
+        "grassi": 2.0,
+        "grassiSaturi": 0.3,
+        "fibre": 2.6,
+        "sale": 0.28
+      }
+    },
+    "Crema di carote con pasta": {
+      "nomeVisualizzato": "Crema di carote con pasta",
+      "categoria": "primo",
+      "tipoPorzione": "minestra",
+      "gruppo": "verdura",
+      "dieta": "vegano",
+      "allergeni": [
+        "glutine"
+      ],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 65,
+        "proteine": 2.0,
+        "carboidrati": 10.5,
+        "zuccheri": 2.2,
+        "grassi": 1.8,
+        "grassiSaturi": 0.3,
+        "fibre": 1.8,
+        "sale": 0.26
+      }
+    },
+    "Crema di zucca con pasta": {
+      "nomeVisualizzato": "Crema di zucca con pasta",
+      "categoria": "primo",
+      "tipoPorzione": "minestra",
+      "gruppo": "verdura",
+      "dieta": "vegano",
+      "allergeni": [
+        "glutine"
+      ],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 65,
+        "proteine": 2.0,
+        "carboidrati": 10.5,
+        "zuccheri": 2.4,
+        "grassi": 1.8,
+        "grassiSaturi": 0.3,
+        "fibre": 1.6,
+        "sale": 0.26
+      }
+    },
+    "Crema di cavolfiore bianco con pasta": {
+      "nomeVisualizzato": "Crema di cavolfiore bianco con pasta",
+      "categoria": "primo",
+      "tipoPorzione": "minestra",
+      "gruppo": "verdura",
+      "dieta": "vegano",
+      "allergeni": [
+        "glutine"
+      ],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 68,
+        "proteine": 2.6,
+        "carboidrati": 10.0,
+        "zuccheri": 1.4,
+        "grassi": 1.9,
+        "grassiSaturi": 0.3,
+        "fibre": 1.8,
+        "sale": 0.26
+      }
+    },
+    "Pasta e patate": {
+      "nomeVisualizzato": "Pasta e patate",
+      "categoria": "primo",
+      "tipoPorzione": "minestra",
+      "gruppo": "patate",
+      "dieta": "vegano",
+      "allergeni": [
+        "glutine"
+      ],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 105,
+        "proteine": 3.4,
+        "carboidrati": 17.5,
+        "zuccheri": 1.2,
+        "grassi": 2.6,
+        "grassiSaturi": 0.4,
+        "fibre": 1.6,
+        "sale": 0.3
+      }
+    },
+    "Pasta con fagioli": {
+      "nomeVisualizzato": "Pasta con fagioli",
+      "categoria": "primo",
+      "tipoPorzione": "minestra",
+      "gruppo": "legumi",
+      "dieta": "vegano",
+      "allergeni": [
+        "glutine"
+      ],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 110,
+        "proteine": 4.8,
+        "carboidrati": 16.5,
+        "zuccheri": 1.2,
+        "grassi": 2.6,
+        "grassiSaturi": 0.4,
+        "fibre": 3.2,
+        "sale": 0.3
+      }
+    },
+    "Pasta con lenticchie": {
+      "nomeVisualizzato": "Pasta con lenticchie",
+      "categoria": "primo",
+      "tipoPorzione": "minestra",
+      "gruppo": "legumi",
+      "dieta": "vegano",
+      "allergeni": [
+        "glutine"
+      ],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 108,
+        "proteine": 5.0,
+        "carboidrati": 16.5,
+        "zuccheri": 1.2,
+        "grassi": 2.4,
+        "grassiSaturi": 0.35,
+        "fibre": 3.2,
+        "sale": 0.3
+      }
+    },
+    "Pasta con legumi misti": {
+      "nomeVisualizzato": "Pasta con legumi misti",
+      "categoria": "primo",
+      "tipoPorzione": "minestra",
+      "gruppo": "legumi",
+      "dieta": "vegano",
+      "allergeni": [
+        "glutine"
+      ],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 110,
+        "proteine": 4.9,
+        "carboidrati": 16.5,
+        "zuccheri": 1.2,
+        "grassi": 2.6,
+        "grassiSaturi": 0.4,
+        "fibre": 3.2,
+        "sale": 0.3
+      }
+    },
+    "Farro e lenticchie": {
+      "nomeVisualizzato": "Farro e lenticchie",
+      "categoria": "primo",
+      "tipoPorzione": "minestra",
+      "gruppo": "legumi",
+      "dieta": "vegano",
+      "allergeni": [
+        "glutine"
+      ],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 110,
+        "proteine": 5.5,
+        "carboidrati": 16.5,
+        "zuccheri": 1.4,
+        "grassi": 2.6,
+        "grassiSaturi": 0.4,
+        "fibre": 3.2,
+        "sale": 0.3
+      }
+    },
+    "Straccetti di pollo cremolati": {
+      "nomeVisualizzato": "Straccetti di pollo cremolati",
+      "categoria": "secondo",
+      "tipoPorzione": "secondoCarne",
+      "gruppo": "carneBianca",
+      "dieta": "onnivoro",
+      "allergeni": [
+        "latte"
+      ],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 165,
+        "proteine": 20.0,
+        "carboidrati": 3.0,
+        "zuccheri": 1.0,
+        "grassi": 7.5,
+        "grassiSaturi": 2.6,
+        "fibre": 0.2,
+        "sale": 0.55
+      }
+    },
+    "Bocconcini di tacchino": {
+      "nomeVisualizzato": "Bocconcini di tacchino",
+      "categoria": "secondo",
+      "tipoPorzione": "secondoCarne",
+      "gruppo": "carneBianca",
+      "dieta": "onnivoro",
+      "allergeni": [],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 145,
+        "proteine": 22.0,
+        "carboidrati": 1.5,
+        "zuccheri": 0.3,
+        "grassi": 5.5,
+        "grassiSaturi": 1.2,
+        "fibre": 0.1,
+        "sale": 0.45
+      }
+    },
+    "Bocconcini di pollo al tegame": {
+      "nomeVisualizzato": "Bocconcini di pollo al tegame",
+      "categoria": "secondo",
+      "tipoPorzione": "secondoCarne",
+      "gruppo": "carneBianca",
+      "dieta": "onnivoro",
+      "allergeni": [],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 150,
+        "proteine": 21.5,
+        "carboidrati": 1.5,
+        "zuccheri": 0.3,
+        "grassi": 6.0,
+        "grassiSaturi": 1.4,
+        "fibre": 0.1,
+        "sale": 0.45
+      }
+    },
+    "Petto o bocconcini di pollo al limone": {
+      "nomeVisualizzato": "Petto o bocconcini di pollo al limone",
+      "categoria": "secondo",
+      "tipoPorzione": "secondoCarne",
+      "gruppo": "carneBianca",
+      "dieta": "onnivoro",
+      "allergeni": [],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 145,
+        "proteine": 22.0,
+        "carboidrati": 1.2,
+        "zuccheri": 0.4,
+        "grassi": 5.5,
+        "grassiSaturi": 1.2,
+        "fibre": 0.1,
+        "sale": 0.45
+      }
+    },
+    "Petto o bocconcini di pollo panato": {
+      "nomeVisualizzato": "Petto o bocconcini di pollo panato",
+      "categoria": "secondo",
+      "tipoPorzione": "secondoCarneImpanato",
+      "gruppo": "carneBianca",
+      "dieta": "onnivoro",
+      "allergeni": [
+        "glutine",
+        "uova"
+      ],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 215,
+        "proteine": 18.5,
+        "carboidrati": 12.0,
+        "zuccheri": 0.8,
+        "grassi": 10.5,
+        "grassiSaturi": 2.0,
+        "fibre": 0.8,
+        "sale": 0.7
+      }
+    },
+    "Fuso di pollo arrosto": {
+      "nomeVisualizzato": "Fuso di pollo arrosto",
+      "categoria": "secondo",
+      "tipoPorzione": "secondoCarne",
+      "gruppo": "carneBianca",
+      "dieta": "onnivoro",
+      "allergeni": [],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 185,
+        "proteine": 20.0,
+        "carboidrati": 0.5,
+        "zuccheri": 0.0,
+        "grassi": 11.5,
+        "grassiSaturi": 3.2,
+        "fibre": 0.0,
+        "sale": 0.45
+      }
+    },
+    "Coscio di pollo arrosto": {
+      "nomeVisualizzato": "Coscio di pollo arrosto",
+      "categoria": "secondo",
+      "tipoPorzione": "secondoCarne",
+      "gruppo": "carneBianca",
+      "dieta": "onnivoro",
+      "allergeni": [],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 190,
+        "proteine": 19.5,
+        "carboidrati": 0.5,
+        "zuccheri": 0.0,
+        "grassi": 12.0,
+        "grassiSaturi": 3.4,
+        "fibre": 0.0,
+        "sale": 0.45
+      }
+    },
+    "Arrosto di tacchino": {
+      "nomeVisualizzato": "Arrosto di tacchino",
+      "categoria": "secondo",
+      "tipoPorzione": "secondoCarne",
+      "gruppo": "carneBianca",
+      "dieta": "onnivoro",
+      "allergeni": [],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 140,
+        "proteine": 23.0,
+        "carboidrati": 0.6,
+        "zuccheri": 0.2,
+        "grassi": 5.0,
+        "grassiSaturi": 1.2,
+        "fibre": 0.1,
+        "sale": 0.5
+      }
+    },
+    "Fesa di tacchino al tegame": {
+      "nomeVisualizzato": "Fesa di tacchino al tegame",
+      "categoria": "secondo",
+      "tipoPorzione": "secondoCarne",
+      "gruppo": "carneBianca",
+      "dieta": "onnivoro",
+      "allergeni": [],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 135,
+        "proteine": 23.5,
+        "carboidrati": 0.5,
+        "zuccheri": 0.2,
+        "grassi": 4.2,
+        "grassiSaturi": 1.0,
+        "fibre": 0.1,
+        "sale": 0.48
+      }
+    },
+    "Fesa di tacchino al limone": {
+      "nomeVisualizzato": "Fesa di tacchino al limone",
+      "categoria": "secondo",
+      "tipoPorzione": "secondoCarne",
+      "gruppo": "carneBianca",
+      "dieta": "onnivoro",
+      "allergeni": [],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 135,
+        "proteine": 23.0,
+        "carboidrati": 0.8,
+        "zuccheri": 0.4,
+        "grassi": 4.2,
+        "grassiSaturi": 1.0,
+        "fibre": 0.1,
+        "sale": 0.48
+      }
+    },
+    "Fesa di tacchino al tegame/Bocconcini di tacchino": {
+      "nomeVisualizzato": "Fesa di tacchino al tegame/Bocconcini di tacchino",
+      "categoria": "secondo",
+      "tipoPorzione": "secondoCarne",
+      "gruppo": "carneBianca",
+      "dieta": "onnivoro",
+      "allergeni": [],
+      "affidabilita": "bassa",
+      "per100g": {
+        "kcal": 138,
+        "proteine": 23.0,
+        "carboidrati": 0.6,
+        "zuccheri": 0.2,
+        "grassi": 4.6,
+        "grassiSaturi": 1.1,
+        "fibre": 0.1,
+        "sale": 0.48
+      },
+      "note": "Due preparazioni alternative."
+    },
+    "Arrosto di tacchino/Bocconcini di tacchino al limone": {
+      "nomeVisualizzato": "Arrosto di tacchino/Bocconcini di tacchino al limone",
+      "categoria": "secondo",
+      "tipoPorzione": "secondoCarne",
+      "gruppo": "carneBianca",
+      "dieta": "onnivoro",
+      "allergeni": [],
+      "affidabilita": "bassa",
+      "per100g": {
+        "kcal": 140,
+        "proteine": 23.0,
+        "carboidrati": 0.8,
+        "zuccheri": 0.3,
+        "grassi": 4.8,
+        "grassiSaturi": 1.1,
+        "fibre": 0.1,
+        "sale": 0.48
+      },
+      "note": "Due preparazioni alternative."
+    },
+    "Arrosto di bovino": {
+      "nomeVisualizzato": "Arrosto di bovino",
+      "categoria": "secondo",
+      "tipoPorzione": "secondoCarne",
+      "gruppo": "carneRossa",
+      "dieta": "onnivoro",
+      "allergeni": [],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 175,
+        "proteine": 25.0,
+        "carboidrati": 0.5,
+        "zuccheri": 0.0,
+        "grassi": 8.0,
+        "grassiSaturi": 3.0,
+        "fibre": 0.0,
+        "sale": 0.5
+      }
+    },
+    "Arrosto di bovino/Straccetti di bovino": {
+      "nomeVisualizzato": "Arrosto di bovino/Straccetti di bovino",
+      "categoria": "secondo",
+      "tipoPorzione": "secondoCarne",
+      "gruppo": "carneRossa",
+      "dieta": "onnivoro",
+      "allergeni": [],
+      "affidabilita": "bassa",
+      "per100g": {
+        "kcal": 178,
+        "proteine": 24.5,
+        "carboidrati": 0.8,
+        "zuccheri": 0.2,
+        "grassi": 8.4,
+        "grassiSaturi": 3.2,
+        "fibre": 0.1,
+        "sale": 0.52
+      },
+      "note": "Due preparazioni alternative."
+    },
+    "Straccetti di bovino": {
+      "nomeVisualizzato": "Straccetti di bovino",
+      "categoria": "secondo",
+      "tipoPorzione": "secondoCarne",
+      "gruppo": "carneRossa",
+      "dieta": "onnivoro",
+      "allergeni": [],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 180,
+        "proteine": 24.0,
+        "carboidrati": 1.0,
+        "zuccheri": 0.2,
+        "grassi": 8.8,
+        "grassiSaturi": 3.4,
+        "fibre": 0.1,
+        "sale": 0.52
+      }
+    },
+    "Scaloppina di bovino": {
+      "nomeVisualizzato": "Scaloppina di bovino",
+      "categoria": "secondo",
+      "tipoPorzione": "secondoCarne",
+      "gruppo": "carneRossa",
+      "dieta": "onnivoro",
+      "allergeni": [
+        "glutine"
+      ],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 175,
+        "proteine": 23.0,
+        "carboidrati": 3.5,
+        "zuccheri": 0.3,
+        "grassi": 7.5,
+        "grassiSaturi": 3.0,
+        "fibre": 0.2,
+        "sale": 0.55
+      }
+    },
+    "Hamburger di bovino": {
+      "nomeVisualizzato": "Hamburger di bovino",
+      "categoria": "secondo",
+      "tipoPorzione": "secondoCarne",
+      "gruppo": "carneRossa",
+      "dieta": "onnivoro",
+      "allergeni": [],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 215,
+        "proteine": 20.0,
+        "carboidrati": 1.5,
+        "zuccheri": 0.3,
+        "grassi": 14.5,
+        "grassiSaturi": 6.0,
+        "fibre": 0.1,
+        "sale": 0.55
+      }
+    },
+    "Polpettone di bovino": {
+      "nomeVisualizzato": "Polpettone di bovino",
+      "categoria": "secondo",
+      "tipoPorzione": "secondoCarneImpanato",
+      "gruppo": "carneRossa",
+      "dieta": "onnivoro",
+      "allergeni": [
+        "glutine",
+        "uova",
+        "latte"
+      ],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 195,
+        "proteine": 18.5,
+        "carboidrati": 6.0,
+        "zuccheri": 1.0,
+        "grassi": 10.5,
+        "grassiSaturi": 4.2,
+        "fibre": 0.5,
+        "sale": 0.65
+      }
+    },
+    "Polpettone goloso di bovino": {
+      "nomeVisualizzato": "Polpettone goloso di bovino",
+      "categoria": "secondo",
+      "tipoPorzione": "secondoCarneImpanato",
+      "gruppo": "carneRossa",
+      "dieta": "onnivoro",
+      "allergeni": [
+        "glutine",
+        "uova",
+        "latte"
+      ],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 205,
+        "proteine": 18.0,
+        "carboidrati": 7.0,
+        "zuccheri": 1.2,
+        "grassi": 11.5,
+        "grassiSaturi": 4.6,
+        "fibre": 0.6,
+        "sale": 0.7
+      }
+    },
+    "Polpettone o polpette di bovino": {
+      "nomeVisualizzato": "Polpettone o polpette di bovino",
+      "categoria": "secondo",
+      "tipoPorzione": "secondoCarneImpanato",
+      "gruppo": "carneRossa",
+      "dieta": "onnivoro",
+      "allergeni": [
+        "glutine",
+        "uova",
+        "latte"
+      ],
+      "affidabilita": "media",
+      "per100g": {
+        "kcal": 198,
+        "proteine": 18.5,
+        "carboidrati": 6.5,
+        "zuccheri": 1.0,
+        "grassi": 11.0,
+        "grassiSaturi": 4.4,
+        "fibre": 0.5,
+        "sale": 0.66
+      },
+      "note": "Due preparazioni alternative."
+    },
+    "Polpette di carne mista al pomodoro": {
+      "nomeVisualizzato": "Polpette di carne mista al pomodoro",
+      "categoria": "secondo",
+      "tipoPorzione": "secondoCarneImpanato",
+      "gruppo": "carneRossa",
+      "dieta": "onnivoro",
+      "allergeni": [
+        "glutine",
+        "uova",
+        "latte"
+      ],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 190,
+        "proteine": 16.5,
+        "carboidrati": 7.0,
+        "zuccheri": 1.8,
+        "grassi": 10.5,
+        "grassiSaturi": 4.0,
+        "fibre": 0.8,
+        "sale": 0.65
+      }
+    },
+    "Polpettone di agnello": {
+      "nomeVisualizzato": "Polpettone di agnello",
+      "categoria": "secondo",
+      "tipoPorzione": "secondoCarneImpanato",
+      "gruppo": "carneRossa",
+      "dieta": "onnivoro",
+      "allergeni": [
+        "glutine",
+        "uova",
+        "latte"
+      ],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 210,
+        "proteine": 17.5,
+        "carboidrati": 6.0,
+        "zuccheri": 1.0,
+        "grassi": 13.0,
+        "grassiSaturi": 5.5,
+        "fibre": 0.5,
+        "sale": 0.65
+      }
+    },
+    "Arrosto di maiale": {
+      "nomeVisualizzato": "Arrosto di maiale",
+      "categoria": "secondo",
+      "tipoPorzione": "secondoCarne",
+      "gruppo": "carneRossa",
+      "dieta": "onnivoro",
+      "allergeni": [],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 195,
+        "proteine": 24.0,
+        "carboidrati": 0.5,
+        "zuccheri": 0.0,
+        "grassi": 10.5,
+        "grassiSaturi": 3.8,
+        "fibre": 0.0,
+        "sale": 0.5
+      }
+    },
+    "Bocconcini di maiale al tegame": {
+      "nomeVisualizzato": "Bocconcini di maiale al tegame",
+      "categoria": "secondo",
+      "tipoPorzione": "secondoCarne",
+      "gruppo": "carneRossa",
+      "dieta": "onnivoro",
+      "allergeni": [],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 190,
+        "proteine": 23.0,
+        "carboidrati": 1.0,
+        "zuccheri": 0.2,
+        "grassi": 10.0,
+        "grassiSaturi": 3.6,
+        "fibre": 0.1,
+        "sale": 0.5
+      }
+    },
+    "Bocconcini di maiale panati": {
+      "nomeVisualizzato": "Bocconcini di maiale panati",
+      "categoria": "secondo",
+      "tipoPorzione": "secondoCarneImpanato",
+      "gruppo": "carneRossa",
+      "dieta": "onnivoro",
+      "allergeni": [
+        "glutine",
+        "uova"
+      ],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 245,
+        "proteine": 19.0,
+        "carboidrati": 13.0,
+        "zuccheri": 0.8,
+        "grassi": 13.0,
+        "grassiSaturi": 3.6,
+        "fibre": 0.8,
+        "sale": 0.75
+      }
+    },
+    "Arrosto di maiale/Bocconcini di maiale impanati": {
+      "nomeVisualizzato": "Arrosto di maiale/Bocconcini di maiale impanati",
+      "categoria": "secondo",
+      "tipoPorzione": "secondoCarneImpanato",
+      "gruppo": "carneRossa",
+      "dieta": "onnivoro",
+      "allergeni": [
+        "glutine",
+        "uova"
+      ],
+      "affidabilita": "bassa",
+      "per100g": {
+        "kcal": 220,
+        "proteine": 21.0,
+        "carboidrati": 7.0,
+        "zuccheri": 0.5,
+        "grassi": 12.0,
+        "grassiSaturi": 3.7,
+        "fibre": 0.5,
+        "sale": 0.62
+      },
+      "note": "Due preparazioni alternative: panata o no."
+    },
+    "Cotoletta di maiale panata/Bocconcini di maiale impanati": {
+      "nomeVisualizzato": "Cotoletta di maiale panata/Bocconcini di maiale impanati",
+      "categoria": "secondo",
+      "tipoPorzione": "secondoCarneImpanato",
+      "gruppo": "carneRossa",
+      "dieta": "onnivoro",
+      "allergeni": [
+        "glutine",
+        "uova"
+      ],
+      "affidabilita": "bassa",
+      "per100g": {
+        "kcal": 250,
+        "proteine": 19.5,
+        "carboidrati": 13.5,
+        "zuccheri": 0.8,
+        "grassi": 13.5,
+        "grassiSaturi": 3.8,
+        "fibre": 0.9,
+        "sale": 0.78
+      },
+      "note": "Due preparazioni alternative."
+    },
+    "Medaglioni di merluzzo": {
+      "nomeVisualizzato": "Medaglioni di merluzzo",
+      "categoria": "secondo",
+      "tipoPorzione": "secondoPesce",
+      "gruppo": "pesce",
+      "dieta": "onnivoro",
+      "allergeni": [
+        "pesce",
+        "glutine"
+      ],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 130,
+        "proteine": 14.0,
+        "carboidrati": 8.0,
+        "zuccheri": 0.6,
+        "grassi": 4.5,
+        "grassiSaturi": 0.9,
+        "fibre": 0.5,
+        "sale": 0.6
+      }
+    },
+    "Medaglioni di merluzzo al limone": {
+      "nomeVisualizzato": "Medaglioni di merluzzo al limone",
+      "categoria": "secondo",
+      "tipoPorzione": "secondoPesce",
+      "gruppo": "pesce",
+      "dieta": "onnivoro",
+      "allergeni": [
+        "pesce",
+        "glutine"
+      ],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 130,
+        "proteine": 14.0,
+        "carboidrati": 8.0,
+        "zuccheri": 0.7,
+        "grassi": 4.5,
+        "grassiSaturi": 0.9,
+        "fibre": 0.5,
+        "sale": 0.6
+      }
+    },
+    "Bastoncini di merluzzo della cuoca": {
+      "nomeVisualizzato": "Bastoncini di merluzzo della cuoca",
+      "categoria": "secondo",
+      "tipoPorzione": "secondoPesce",
+      "gruppo": "pesce",
+      "dieta": "onnivoro",
+      "allergeni": [
+        "pesce",
+        "glutine",
+        "uova"
+      ],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 200,
+        "proteine": 13.0,
+        "carboidrati": 17.0,
+        "zuccheri": 1.0,
+        "grassi": 9.0,
+        "grassiSaturi": 1.2,
+        "fibre": 1.0,
+        "sale": 0.75
+      }
+    },
+    "Medaglioni di spigola": {
+      "nomeVisualizzato": "Medaglioni di spigola",
+      "categoria": "secondo",
+      "tipoPorzione": "secondoPesce",
+      "gruppo": "pesce",
+      "dieta": "onnivoro",
+      "allergeni": [
+        "pesce",
+        "glutine"
+      ],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 135,
+        "proteine": 14.5,
+        "carboidrati": 7.5,
+        "zuccheri": 0.6,
+        "grassi": 5.0,
+        "grassiSaturi": 1.0,
+        "fibre": 0.5,
+        "sale": 0.6
+      }
+    },
+    "Medaglioni di limanda": {
+      "nomeVisualizzato": "Medaglioni di limanda",
+      "categoria": "secondo",
+      "tipoPorzione": "secondoPesce",
+      "gruppo": "pesce",
+      "dieta": "onnivoro",
+      "allergeni": [
+        "pesce",
+        "glutine"
+      ],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 130,
+        "proteine": 14.0,
+        "carboidrati": 7.5,
+        "zuccheri": 0.6,
+        "grassi": 4.8,
+        "grassiSaturi": 1.0,
+        "fibre": 0.5,
+        "sale": 0.6
+      }
+    },
+    "Filetti di limanda gratinati": {
+      "nomeVisualizzato": "Filetti di limanda gratinati",
+      "categoria": "secondo",
+      "tipoPorzione": "secondoPesce",
+      "gruppo": "pesce",
+      "dieta": "onnivoro",
+      "allergeni": [
+        "pesce",
+        "glutine",
+        "latte"
+      ],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 145,
+        "proteine": 16.0,
+        "carboidrati": 6.0,
+        "zuccheri": 0.5,
+        "grassi": 6.0,
+        "grassiSaturi": 1.2,
+        "fibre": 0.5,
+        "sale": 0.62
+      }
+    },
+    "Tortino di limanda": {
+      "nomeVisualizzato": "Tortino di limanda",
+      "categoria": "secondo",
+      "tipoPorzione": "secondoPesce",
+      "gruppo": "pesce",
+      "dieta": "onnivoro",
+      "allergeni": [
+        "pesce",
+        "glutine",
+        "uova",
+        "latte"
+      ],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 140,
+        "proteine": 14.5,
+        "carboidrati": 7.0,
+        "zuccheri": 0.7,
+        "grassi": 5.8,
+        "grassiSaturi": 1.3,
+        "fibre": 0.6,
+        "sale": 0.6
+      }
+    },
+    "Sformatino di platessa": {
+      "nomeVisualizzato": "Sformatino di platessa",
+      "categoria": "secondo",
+      "tipoPorzione": "secondoPesce",
+      "gruppo": "pesce",
+      "dieta": "onnivoro",
+      "allergeni": [
+        "pesce",
+        "glutine",
+        "uova",
+        "latte"
+      ],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 140,
+        "proteine": 14.0,
+        "carboidrati": 7.5,
+        "zuccheri": 0.8,
+        "grassi": 5.8,
+        "grassiSaturi": 1.4,
+        "fibre": 0.6,
+        "sale": 0.6
+      }
+    },
+    "Filetti di platessa panati": {
+      "nomeVisualizzato": "Filetti di platessa panati",
+      "categoria": "secondo",
+      "tipoPorzione": "secondoPesce",
+      "gruppo": "pesce",
+      "dieta": "onnivoro",
+      "allergeni": [
+        "pesce",
+        "glutine",
+        "uova"
+      ],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 195,
+        "proteine": 13.5,
+        "carboidrati": 15.5,
+        "zuccheri": 0.9,
+        "grassi": 9.0,
+        "grassiSaturi": 1.3,
+        "fibre": 0.9,
+        "sale": 0.72
+      }
+    },
+    "Tonno all'olio di oliva": {
+      "nomeVisualizzato": "Tonno all'olio di oliva",
+      "categoria": "secondo",
+      "tipoPorzione": "secondoPesce",
+      "gruppo": "pesce",
+      "dieta": "onnivoro",
+      "allergeni": [
+        "pesce"
+      ],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 190,
+        "proteine": 25.0,
+        "carboidrati": 0.0,
+        "zuccheri": 0.0,
+        "grassi": 10.0,
+        "grassiSaturi": 1.8,
+        "fibre": 0.0,
+        "sale": 0.8
+      }
+    },
+    "Uova strapazzate": {
+      "nomeVisualizzato": "Uova strapazzate",
+      "categoria": "secondo",
+      "tipoPorzione": "secondoUova",
+      "gruppo": "uova",
+      "dieta": "vegetariano",
+      "allergeni": [
+        "uova",
+        "latte"
+      ],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 160,
+        "proteine": 12.5,
+        "carboidrati": 1.0,
+        "zuccheri": 0.8,
+        "grassi": 11.5,
+        "grassiSaturi": 3.4,
+        "fibre": 0.0,
+        "sale": 0.6
+      }
+    },
+    "Frittata": {
+      "nomeVisualizzato": "Frittata",
+      "categoria": "secondo",
+      "tipoPorzione": "secondoUova",
+      "gruppo": "uova",
+      "dieta": "vegetariano",
+      "allergeni": [
+        "uova",
+        "latte"
+      ],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 165,
+        "proteine": 12.0,
+        "carboidrati": 1.5,
+        "zuccheri": 0.9,
+        "grassi": 12.0,
+        "grassiSaturi": 3.5,
+        "fibre": 0.0,
+        "sale": 0.62
+      }
+    },
+    "Uova strapazzate/Frittata": {
+      "nomeVisualizzato": "Uova strapazzate/Frittata",
+      "categoria": "secondo",
+      "tipoPorzione": "secondoUova",
+      "gruppo": "uova",
+      "dieta": "vegetariano",
+      "allergeni": [
+        "uova",
+        "latte"
+      ],
+      "affidabilita": "bassa",
+      "per100g": {
+        "kcal": 162,
+        "proteine": 12.2,
+        "carboidrati": 1.2,
+        "zuccheri": 0.9,
+        "grassi": 11.8,
+        "grassiSaturi": 3.4,
+        "fibre": 0.0,
+        "sale": 0.61
+      },
+      "note": "Due preparazioni alternative."
+    },
+    "Frittata con zucchine": {
+      "nomeVisualizzato": "Frittata con zucchine",
+      "categoria": "secondo",
+      "tipoPorzione": "secondoUova",
+      "gruppo": "uova",
+      "dieta": "vegetariano",
+      "allergeni": [
+        "uova",
+        "latte"
+      ],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 140,
+        "proteine": 10.0,
+        "carboidrati": 2.0,
+        "zuccheri": 1.2,
+        "grassi": 10.0,
+        "grassiSaturi": 2.8,
+        "fibre": 0.6,
+        "sale": 0.55
+      }
+    },
+    "Frittata con patate": {
+      "nomeVisualizzato": "Frittata con patate",
+      "categoria": "secondo",
+      "tipoPorzione": "secondoUova",
+      "gruppo": "uova",
+      "dieta": "vegetariano",
+      "allergeni": [
+        "uova",
+        "latte"
+      ],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 155,
+        "proteine": 9.5,
+        "carboidrati": 7.0,
+        "zuccheri": 0.8,
+        "grassi": 10.0,
+        "grassiSaturi": 2.8,
+        "fibre": 0.8,
+        "sale": 0.55
+      }
+    },
+    "Frittata con spinaci": {
+      "nomeVisualizzato": "Frittata con spinaci",
+      "categoria": "secondo",
+      "tipoPorzione": "secondoUova",
+      "gruppo": "uova",
+      "dieta": "vegetariano",
+      "allergeni": [
+        "uova",
+        "latte"
+      ],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 138,
+        "proteine": 10.5,
+        "carboidrati": 1.8,
+        "zuccheri": 0.8,
+        "grassi": 9.8,
+        "grassiSaturi": 2.8,
+        "fibre": 1.0,
+        "sale": 0.58
+      }
+    },
+    "Ricotta": {
+      "nomeVisualizzato": "Ricotta",
+      "categoria": "secondo",
+      "tipoPorzione": "secondoFormaggioFresco",
+      "gruppo": "formaggio",
+      "dieta": "vegetariano",
+      "allergeni": [
+        "latte"
+      ],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 145,
+        "proteine": 9.0,
+        "carboidrati": 3.5,
+        "zuccheri": 3.5,
+        "grassi": 10.5,
+        "grassiSaturi": 6.8,
+        "fibre": 0.0,
+        "sale": 0.25
+      }
+    },
+    "Caciotta dolce": {
+      "nomeVisualizzato": "Caciotta dolce",
+      "categoria": "secondo",
+      "tipoPorzione": "secondoFormaggioStagionato",
+      "gruppo": "formaggio",
+      "dieta": "vegetariano",
+      "allergeni": [
+        "latte"
+      ],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 330,
+        "proteine": 22.0,
+        "carboidrati": 1.5,
+        "zuccheri": 1.0,
+        "grassi": 26.0,
+        "grassiSaturi": 16.5,
+        "fibre": 0.0,
+        "sale": 1.3
+      }
+    },
+    "Mozzarella vaccina": {
+      "nomeVisualizzato": "Mozzarella vaccina",
+      "categoria": "secondo",
+      "tipoPorzione": "secondoFormaggioFresco",
+      "gruppo": "formaggio",
+      "dieta": "vegetariano",
+      "allergeni": [
+        "latte"
+      ],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 250,
+        "proteine": 18.5,
+        "carboidrati": 1.0,
+        "zuccheri": 1.0,
+        "grassi": 19.5,
+        "grassiSaturi": 12.0,
+        "fibre": 0.0,
+        "sale": 0.6
+      }
+    },
+    "Crescenza": {
+      "nomeVisualizzato": "Crescenza",
+      "categoria": "secondo",
+      "tipoPorzione": "secondoFormaggioFresco",
+      "gruppo": "formaggio",
+      "dieta": "vegetariano",
+      "allergeni": [
+        "latte"
+      ],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 285,
+        "proteine": 14.0,
+        "carboidrati": 2.0,
+        "zuccheri": 2.0,
+        "grassi": 24.5,
+        "grassiSaturi": 15.5,
+        "fibre": 0.0,
+        "sale": 0.8
+      }
+    },
+    "Robiola": {
+      "nomeVisualizzato": "Robiola",
+      "categoria": "secondo",
+      "tipoPorzione": "secondoFormaggioFresco",
+      "gruppo": "formaggio",
+      "dieta": "vegetariano",
+      "allergeni": [
+        "latte"
+      ],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 300,
+        "proteine": 13.0,
+        "carboidrati": 2.5,
+        "zuccheri": 2.5,
+        "grassi": 26.5,
+        "grassiSaturi": 17.0,
+        "fibre": 0.0,
+        "sale": 0.85
+      }
+    },
+    "Montasio": {
+      "nomeVisualizzato": "Montasio",
+      "categoria": "secondo",
+      "tipoPorzione": "secondoFormaggioStagionato",
+      "gruppo": "formaggio",
+      "dieta": "vegetariano",
+      "allergeni": [
+        "latte"
+      ],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 380,
+        "proteine": 25.0,
+        "carboidrati": 1.0,
+        "zuccheri": 1.0,
+        "grassi": 31.0,
+        "grassiSaturi": 19.5,
+        "fibre": 0.0,
+        "sale": 1.5
+      }
+    },
+    "Asiago": {
+      "nomeVisualizzato": "Asiago",
+      "categoria": "secondo",
+      "tipoPorzione": "secondoFormaggioStagionato",
+      "gruppo": "formaggio",
+      "dieta": "vegetariano",
+      "allergeni": [
+        "latte"
+      ],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 375,
+        "proteine": 24.0,
+        "carboidrati": 1.5,
+        "zuccheri": 1.5,
+        "grassi": 30.0,
+        "grassiSaturi": 19.0,
+        "fibre": 0.0,
+        "sale": 1.6
+      }
+    },
+    "Provolone dolce": {
+      "nomeVisualizzato": "Provolone dolce",
+      "categoria": "secondo",
+      "tipoPorzione": "secondoFormaggioStagionato",
+      "gruppo": "formaggio",
+      "dieta": "vegetariano",
+      "allergeni": [
+        "latte"
+      ],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 355,
+        "proteine": 25.0,
+        "carboidrati": 1.0,
+        "zuccheri": 1.0,
+        "grassi": 28.0,
+        "grassiSaturi": 18.0,
+        "fibre": 0.0,
+        "sale": 1.7
+      }
+    },
+    "Tortino di patate": {
+      "nomeVisualizzato": "Tortino di patate",
+      "categoria": "secondo",
+      "tipoPorzione": "secondoVegetale",
+      "gruppo": "patate",
+      "dieta": "vegetariano",
+      "allergeni": [
+        "latte",
+        "uova"
+      ],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 130,
+        "proteine": 4.5,
+        "carboidrati": 15.0,
+        "zuccheri": 1.2,
+        "grassi": 5.8,
+        "grassiSaturi": 2.6,
+        "fibre": 1.6,
+        "sale": 0.5
+      }
+    },
+    "Crocchette di patate e fagioli cannellini": {
+      "nomeVisualizzato": "Crocchette di patate e fagioli cannellini",
+      "categoria": "secondo",
+      "tipoPorzione": "secondoVegetale",
+      "gruppo": "legumi",
+      "dieta": "vegetariano",
+      "allergeni": [
+        "glutine",
+        "latte"
+      ],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 165,
+        "proteine": 5.5,
+        "carboidrati": 20.0,
+        "zuccheri": 1.2,
+        "grassi": 6.8,
+        "grassiSaturi": 1.6,
+        "fibre": 3.0,
+        "sale": 0.55
+      }
+    },
+    "Fagiolini all'olio": {
+      "nomeVisualizzato": "Fagiolini all'olio",
+      "categoria": "contorno",
+      "tipoPorzione": "contornoCotto",
+      "gruppo": "verdura",
+      "dieta": "vegano",
+      "allergeni": [],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 55,
+        "proteine": 2.0,
+        "carboidrati": 4.0,
+        "zuccheri": 2.0,
+        "grassi": 3.2,
+        "grassiSaturi": 0.5,
+        "fibre": 2.9,
+        "sale": 0.2
+      }
+    },
+    "Fagiolini al pomodoro": {
+      "nomeVisualizzato": "Fagiolini al pomodoro",
+      "categoria": "contorno",
+      "tipoPorzione": "contornoCotto",
+      "gruppo": "verdura",
+      "dieta": "vegano",
+      "allergeni": [],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 55,
+        "proteine": 2.0,
+        "carboidrati": 4.5,
+        "zuccheri": 2.4,
+        "grassi": 3.0,
+        "grassiSaturi": 0.5,
+        "fibre": 2.9,
+        "sale": 0.25
+      }
+    },
+    "Spinaci all'olio": {
+      "nomeVisualizzato": "Spinaci all'olio",
+      "categoria": "contorno",
+      "tipoPorzione": "contornoCotto",
+      "gruppo": "verdura",
+      "dieta": "vegano",
+      "allergeni": [],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 60,
+        "proteine": 3.0,
+        "carboidrati": 1.5,
+        "zuccheri": 0.4,
+        "grassi": 4.2,
+        "grassiSaturi": 0.6,
+        "fibre": 2.2,
+        "sale": 0.28
+      }
+    },
+    "Spinaci all'olio e parmigiano": {
+      "nomeVisualizzato": "Spinaci all'olio e parmigiano",
+      "categoria": "contorno",
+      "tipoPorzione": "contornoCotto",
+      "gruppo": "verdura",
+      "dieta": "vegetariano",
+      "allergeni": [
+        "latte"
+      ],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 85,
+        "proteine": 4.8,
+        "carboidrati": 1.6,
+        "zuccheri": 0.5,
+        "grassi": 6.4,
+        "grassiSaturi": 1.8,
+        "fibre": 2.2,
+        "sale": 0.42
+      }
+    },
+    "Spinaci al burro e parmigiano": {
+      "nomeVisualizzato": "Spinaci al burro e parmigiano",
+      "categoria": "contorno",
+      "tipoPorzione": "contornoCotto",
+      "gruppo": "verdura",
+      "dieta": "vegetariano",
+      "allergeni": [
+        "latte"
+      ],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 105,
+        "proteine": 4.8,
+        "carboidrati": 1.6,
+        "zuccheri": 0.5,
+        "grassi": 8.6,
+        "grassiSaturi": 4.2,
+        "fibre": 2.2,
+        "sale": 0.45
+      }
+    },
+    "Bieta all'olio": {
+      "nomeVisualizzato": "Bieta all'olio",
+      "categoria": "contorno",
+      "tipoPorzione": "contornoCotto",
+      "gruppo": "verdura",
+      "dieta": "vegano",
+      "allergeni": [],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 50,
+        "proteine": 2.0,
+        "carboidrati": 2.0,
+        "zuccheri": 0.6,
+        "grassi": 3.6,
+        "grassiSaturi": 0.5,
+        "fibre": 2.0,
+        "sale": 0.3
+      }
+    },
+    "Bieta al pomodoro": {
+      "nomeVisualizzato": "Bieta al pomodoro",
+      "categoria": "contorno",
+      "tipoPorzione": "contornoCotto",
+      "gruppo": "verdura",
+      "dieta": "vegano",
+      "allergeni": [],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 48,
+        "proteine": 1.9,
+        "carboidrati": 2.4,
+        "zuccheri": 1.0,
+        "grassi": 3.2,
+        "grassiSaturi": 0.5,
+        "fibre": 2.0,
+        "sale": 0.3
+      }
+    },
+    "Carote al tegame": {
+      "nomeVisualizzato": "Carote al tegame",
+      "categoria": "contorno",
+      "tipoPorzione": "contornoCotto",
+      "gruppo": "verdura",
+      "dieta": "vegano",
+      "allergeni": [],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 62,
+        "proteine": 0.9,
+        "carboidrati": 7.0,
+        "zuccheri": 5.5,
+        "grassi": 3.2,
+        "grassiSaturi": 0.5,
+        "fibre": 3.0,
+        "sale": 0.2
+      }
+    },
+    "Carote all'olio": {
+      "nomeVisualizzato": "Carote all'olio",
+      "categoria": "contorno",
+      "tipoPorzione": "contornoCotto",
+      "gruppo": "verdura",
+      "dieta": "vegano",
+      "allergeni": [],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 60,
+        "proteine": 0.9,
+        "carboidrati": 7.0,
+        "zuccheri": 5.5,
+        "grassi": 3.2,
+        "grassiSaturi": 0.5,
+        "fibre": 3.0,
+        "sale": 0.2
+      }
+    },
+    "Carote stufate": {
+      "nomeVisualizzato": "Carote stufate",
+      "categoria": "contorno",
+      "tipoPorzione": "contornoCotto",
+      "gruppo": "verdura",
+      "dieta": "vegano",
+      "allergeni": [],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 60,
+        "proteine": 0.9,
+        "carboidrati": 7.0,
+        "zuccheri": 5.5,
+        "grassi": 3.0,
+        "grassiSaturi": 0.5,
+        "fibre": 3.0,
+        "sale": 0.2
+      }
+    },
+    "Carote alla julienne": {
+      "nomeVisualizzato": "Carote alla julienne",
+      "categoria": "contorno",
+      "tipoPorzione": "contornoCrudo",
+      "gruppo": "verdura",
+      "dieta": "vegano",
+      "allergeni": [],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 55,
+        "proteine": 0.8,
+        "carboidrati": 6.5,
+        "zuccheri": 5.5,
+        "grassi": 3.0,
+        "grassiSaturi": 0.45,
+        "fibre": 3.0,
+        "sale": 0.15
+      }
+    },
+    "Purea di carote": {
+      "nomeVisualizzato": "Purea di carote",
+      "categoria": "contorno",
+      "tipoPorzione": "contornoCotto",
+      "gruppo": "verdura",
+      "dieta": "vegano",
+      "allergeni": [],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 65,
+        "proteine": 1.0,
+        "carboidrati": 7.5,
+        "zuccheri": 5.5,
+        "grassi": 3.4,
+        "grassiSaturi": 0.6,
+        "fibre": 3.0,
+        "sale": 0.22
+      }
+    },
+    "Zucchine trifolate": {
+      "nomeVisualizzato": "Zucchine trifolate",
+      "categoria": "contorno",
+      "tipoPorzione": "contornoCotto",
+      "gruppo": "verdura",
+      "dieta": "vegano",
+      "allergeni": [],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 55,
+        "proteine": 1.4,
+        "carboidrati": 2.5,
+        "zuccheri": 2.0,
+        "grassi": 4.2,
+        "grassiSaturi": 0.6,
+        "fibre": 1.2,
+        "sale": 0.22
+      }
+    },
+    "Zucchine gratinate": {
+      "nomeVisualizzato": "Zucchine gratinate",
+      "categoria": "contorno",
+      "tipoPorzione": "contornoCotto",
+      "gruppo": "verdura",
+      "dieta": "vegetariano",
+      "allergeni": [
+        "glutine",
+        "latte"
+      ],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 95,
+        "proteine": 3.5,
+        "carboidrati": 5.0,
+        "zuccheri": 2.2,
+        "grassi": 6.2,
+        "grassiSaturi": 2.0,
+        "fibre": 1.4,
+        "sale": 0.42
+      }
+    },
+    "Patate all'olio": {
+      "nomeVisualizzato": "Patate all'olio",
+      "categoria": "contorno",
+      "tipoPorzione": "contornoCotto",
+      "gruppo": "patate",
+      "dieta": "vegano",
+      "allergeni": [],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 105,
+        "proteine": 2.0,
+        "carboidrati": 17.0,
+        "zuccheri": 0.8,
+        "grassi": 3.5,
+        "grassiSaturi": 0.5,
+        "fibre": 1.6,
+        "sale": 0.25
+      }
+    },
+    "Patate al tegame": {
+      "nomeVisualizzato": "Patate al tegame",
+      "categoria": "contorno",
+      "tipoPorzione": "contornoCotto",
+      "gruppo": "patate",
+      "dieta": "vegano",
+      "allergeni": [],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 110,
+        "proteine": 2.0,
+        "carboidrati": 17.5,
+        "zuccheri": 0.8,
+        "grassi": 3.8,
+        "grassiSaturi": 0.5,
+        "fibre": 1.6,
+        "sale": 0.25
+      }
+    },
+    "Patate al forno": {
+      "nomeVisualizzato": "Patate al forno",
+      "categoria": "contorno",
+      "tipoPorzione": "contornoCotto",
+      "gruppo": "patate",
+      "dieta": "vegano",
+      "allergeni": [],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 120,
+        "proteine": 2.2,
+        "carboidrati": 18.5,
+        "zuccheri": 0.9,
+        "grassi": 4.2,
+        "grassiSaturi": 0.6,
+        "fibre": 1.8,
+        "sale": 0.28
+      }
+    },
+    "Purea di patate": {
+      "nomeVisualizzato": "Purea di patate",
+      "categoria": "contorno",
+      "tipoPorzione": "contornoCotto",
+      "gruppo": "patate",
+      "dieta": "vegetariano",
+      "allergeni": [
+        "latte"
+      ],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 95,
+        "proteine": 2.4,
+        "carboidrati": 13.5,
+        "zuccheri": 1.2,
+        "grassi": 3.6,
+        "grassiSaturi": 1.8,
+        "fibre": 1.3,
+        "sale": 0.35
+      }
+    },
+    "Insalata verde": {
+      "nomeVisualizzato": "Insalata verde",
+      "categoria": "contorno",
+      "tipoPorzione": "contornoCrudo",
+      "gruppo": "verdura",
+      "dieta": "vegano",
+      "allergeni": [],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 30,
+        "proteine": 1.0,
+        "carboidrati": 1.5,
+        "zuccheri": 1.0,
+        "grassi": 2.4,
+        "grassiSaturi": 0.35,
+        "fibre": 1.3,
+        "sale": 0.12
+      }
+    },
+    "Insalata mista": {
+      "nomeVisualizzato": "Insalata mista",
+      "categoria": "contorno",
+      "tipoPorzione": "contornoCrudo",
+      "gruppo": "verdura",
+      "dieta": "vegano",
+      "allergeni": [],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 35,
+        "proteine": 1.0,
+        "carboidrati": 2.5,
+        "zuccheri": 1.8,
+        "grassi": 2.4,
+        "grassiSaturi": 0.35,
+        "fibre": 1.4,
+        "sale": 0.14
+      }
+    },
+    "Insalata cappuccina": {
+      "nomeVisualizzato": "Insalata cappuccina",
+      "categoria": "contorno",
+      "tipoPorzione": "contornoCrudo",
+      "gruppo": "verdura",
+      "dieta": "vegano",
+      "allergeni": [],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 32,
+        "proteine": 1.0,
+        "carboidrati": 2.0,
+        "zuccheri": 1.4,
+        "grassi": 2.4,
+        "grassiSaturi": 0.35,
+        "fibre": 1.3,
+        "sale": 0.13
+      }
+    },
+    "Insalata di pomodori": {
+      "nomeVisualizzato": "Insalata di pomodori",
+      "categoria": "contorno",
+      "tipoPorzione": "contornoCrudo",
+      "gruppo": "verdura",
+      "dieta": "vegano",
+      "allergeni": [],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 40,
+        "proteine": 1.0,
+        "carboidrati": 3.5,
+        "zuccheri": 3.0,
+        "grassi": 2.5,
+        "grassiSaturi": 0.4,
+        "fibre": 1.2,
+        "sale": 0.15
+      }
+    },
+    "Insalata di finocchi": {
+      "nomeVisualizzato": "Insalata di finocchi",
+      "categoria": "contorno",
+      "tipoPorzione": "contornoCrudo",
+      "gruppo": "verdura",
+      "dieta": "vegano",
+      "allergeni": [],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 32,
+        "proteine": 1.0,
+        "carboidrati": 2.0,
+        "zuccheri": 1.6,
+        "grassi": 2.4,
+        "grassiSaturi": 0.35,
+        "fibre": 2.0,
+        "sale": 0.15
+      }
+    },
+    "Finocchi al tegame": {
+      "nomeVisualizzato": "Finocchi al tegame",
+      "categoria": "contorno",
+      "tipoPorzione": "contornoCotto",
+      "gruppo": "verdura",
+      "dieta": "vegano",
+      "allergeni": [],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 45,
+        "proteine": 1.2,
+        "carboidrati": 2.5,
+        "zuccheri": 2.0,
+        "grassi": 3.2,
+        "grassiSaturi": 0.5,
+        "fibre": 2.2,
+        "sale": 0.2
+      }
+    },
+    "Finocchi gratinati": {
+      "nomeVisualizzato": "Finocchi gratinati",
+      "categoria": "contorno",
+      "tipoPorzione": "contornoCotto",
+      "gruppo": "verdura",
+      "dieta": "vegetariano",
+      "allergeni": [
+        "glutine",
+        "latte"
+      ],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 85,
+        "proteine": 3.0,
+        "carboidrati": 4.5,
+        "zuccheri": 2.2,
+        "grassi": 6.0,
+        "grassiSaturi": 2.0,
+        "fibre": 2.2,
+        "sale": 0.4
+      }
+    },
+    "Broccoli romaneschi all'olio": {
+      "nomeVisualizzato": "Broccoli romaneschi all'olio",
+      "categoria": "contorno",
+      "tipoPorzione": "contornoCotto",
+      "gruppo": "verdura",
+      "dieta": "vegano",
+      "allergeni": [],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 60,
+        "proteine": 3.0,
+        "carboidrati": 3.0,
+        "zuccheri": 1.6,
+        "grassi": 3.8,
+        "grassiSaturi": 0.55,
+        "fibre": 2.8,
+        "sale": 0.22
+      }
+    },
+    "Cavolfiori all'olio": {
+      "nomeVisualizzato": "Cavolfiori all'olio",
+      "categoria": "contorno",
+      "tipoPorzione": "contornoCotto",
+      "gruppo": "verdura",
+      "dieta": "vegano",
+      "allergeni": [],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 55,
+        "proteine": 2.4,
+        "carboidrati": 3.0,
+        "zuccheri": 1.8,
+        "grassi": 3.6,
+        "grassiSaturi": 0.5,
+        "fibre": 2.4,
+        "sale": 0.22
+      }
+    },
+    "Cavolfiori gratinati": {
+      "nomeVisualizzato": "Cavolfiori gratinati",
+      "categoria": "contorno",
+      "tipoPorzione": "contornoCotto",
+      "gruppo": "verdura",
+      "dieta": "vegetariano",
+      "allergeni": [
+        "glutine",
+        "latte"
+      ],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 95,
+        "proteine": 4.0,
+        "carboidrati": 5.0,
+        "zuccheri": 2.0,
+        "grassi": 6.2,
+        "grassiSaturi": 2.2,
+        "fibre": 2.4,
+        "sale": 0.42
+      }
+    },
+    "Zucca al tegame": {
+      "nomeVisualizzato": "Zucca al tegame",
+      "categoria": "contorno",
+      "tipoPorzione": "contornoCotto",
+      "gruppo": "verdura",
+      "dieta": "vegano",
+      "allergeni": [],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 50,
+        "proteine": 1.0,
+        "carboidrati": 5.5,
+        "zuccheri": 4.0,
+        "grassi": 2.8,
+        "grassiSaturi": 0.4,
+        "fibre": 1.4,
+        "sale": 0.2
+      }
+    },
+    "Zucca gratinata": {
+      "nomeVisualizzato": "Zucca gratinata",
+      "categoria": "contorno",
+      "tipoPorzione": "contornoCotto",
+      "gruppo": "verdura",
+      "dieta": "vegetariano",
+      "allergeni": [
+        "glutine",
+        "latte"
+      ],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 90,
+        "proteine": 3.0,
+        "carboidrati": 7.0,
+        "zuccheri": 4.2,
+        "grassi": 5.4,
+        "grassiSaturi": 1.9,
+        "fibre": 1.6,
+        "sale": 0.4
+      }
+    },
+    "Fiori di zucca alla romana": {
+      "nomeVisualizzato": "Fiori di zucca alla romana",
+      "categoria": "contorno",
+      "tipoPorzione": "contornoCotto",
+      "gruppo": "verdura",
+      "dieta": "vegetariano",
+      "allergeni": [
+        "glutine",
+        "uova",
+        "latte"
+      ],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 145,
+        "proteine": 4.5,
+        "carboidrati": 10.0,
+        "zuccheri": 1.5,
+        "grassi": 9.5,
+        "grassiSaturi": 2.2,
+        "fibre": 1.0,
+        "sale": 0.45
+      }
+    },
+    "Pane": {
+      "nomeVisualizzato": "Pane",
+      "categoria": "pane",
+      "tipoPorzione": "pane",
+      "gruppo": "pane",
+      "dieta": "vegano",
+      "allergeni": [
+        "glutine"
+      ],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 275,
+        "proteine": 8.5,
+        "carboidrati": 55.0,
+        "zuccheri": 1.5,
+        "grassi": 1.0,
+        "grassiSaturi": 0.2,
+        "fibre": 2.7,
+        "sale": 1.2
+      }
+    },
+    "Pane integrale": {
+      "nomeVisualizzato": "Pane integrale",
+      "categoria": "pane",
+      "tipoPorzione": "pane",
+      "gruppo": "pane",
+      "dieta": "vegano",
+      "allergeni": [
+        "glutine"
+      ],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 240,
+        "proteine": 9.0,
+        "carboidrati": 45.0,
+        "zuccheri": 1.8,
+        "grassi": 1.5,
+        "grassiSaturi": 0.3,
+        "fibre": 6.5,
+        "sale": 1.2
+      }
+    },
+    "Frutta": {
+      "nomeVisualizzato": "Frutta",
+      "categoria": "fruttaDessert",
+      "tipoPorzione": "frutta",
+      "gruppo": "frutta",
+      "dieta": "vegano",
+      "allergeni": [],
+      "affidabilita": "bassa",
+      "per100g": {
+        "kcal": 52,
+        "proteine": 0.7,
+        "carboidrati": 11.5,
+        "zuccheri": 10.5,
+        "grassi": 0.3,
+        "grassiSaturi": 0.05,
+        "fibre": 1.8,
+        "sale": 0.0
+      },
+      "note": "Frutta non specificata: valore medio."
+    },
+    "Frutta fresca": {
+      "nomeVisualizzato": "Frutta fresca",
+      "categoria": "fruttaDessert",
+      "tipoPorzione": "frutta",
+      "gruppo": "frutta",
+      "dieta": "vegano",
+      "allergeni": [],
+      "affidabilita": "bassa",
+      "per100g": {
+        "kcal": 52,
+        "proteine": 0.7,
+        "carboidrati": 11.5,
+        "zuccheri": 10.5,
+        "grassi": 0.3,
+        "grassiSaturi": 0.05,
+        "fibre": 1.8,
+        "sale": 0.0
+      },
+      "note": "Frutta non specificata: valore medio."
+    },
+    "Frutta di stagione": {
+      "nomeVisualizzato": "Frutta di stagione",
+      "categoria": "fruttaDessert",
+      "tipoPorzione": "frutta",
+      "gruppo": "frutta",
+      "dieta": "vegano",
+      "allergeni": [],
+      "affidabilita": "bassa",
+      "per100g": {
+        "kcal": 52,
+        "proteine": 0.7,
+        "carboidrati": 11.5,
+        "zuccheri": 10.5,
+        "grassi": 0.3,
+        "grassiSaturi": 0.05,
+        "fibre": 1.8,
+        "sale": 0.0
+      },
+      "note": "Frutta non specificata: valore medio."
+    },
+    "Banana": {
+      "nomeVisualizzato": "Banana",
+      "categoria": "fruttaDessert",
+      "tipoPorzione": "frutta",
+      "gruppo": "frutta",
+      "dieta": "vegano",
+      "allergeni": [],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 89,
+        "proteine": 1.1,
+        "carboidrati": 20.0,
+        "zuccheri": 15.5,
+        "grassi": 0.3,
+        "grassiSaturi": 0.1,
+        "fibre": 1.8,
+        "sale": 0.0
+      }
+    },
+    "Gelato": {
+      "nomeVisualizzato": "Gelato",
+      "categoria": "fruttaDessert",
+      "tipoPorzione": "gelato",
+      "gruppo": "dolce",
+      "dieta": "vegetariano",
+      "allergeni": [
+        "latte",
+        "uova"
+      ],
+      "affidabilita": "media",
+      "per100g": {
+        "kcal": 200,
+        "proteine": 3.5,
+        "carboidrati": 25.0,
+        "zuccheri": 22.0,
+        "grassi": 9.5,
+        "grassiSaturi": 6.0,
+        "fibre": 0.2,
+        "sale": 0.12
+      },
+      "note": "Gusto non specificato."
+    },
+    "Gelato fior di latte": {
+      "nomeVisualizzato": "Gelato fior di latte",
+      "categoria": "fruttaDessert",
+      "tipoPorzione": "gelato",
+      "gruppo": "dolce",
+      "dieta": "vegetariano",
+      "allergeni": [
+        "latte"
+      ],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 205,
+        "proteine": 3.8,
+        "carboidrati": 24.0,
+        "zuccheri": 22.0,
+        "grassi": 10.0,
+        "grassiSaturi": 6.5,
+        "fibre": 0.0,
+        "sale": 0.12
+      }
+    },
+    "Spremuta di arancia": {
+      "nomeVisualizzato": "Spremuta di arancia",
+      "categoria": "fruttaDessert",
+      "tipoPorzione": "spremuta",
+      "gruppo": "frutta",
+      "dieta": "vegano",
+      "allergeni": [],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 45,
+        "proteine": 0.7,
+        "carboidrati": 9.0,
+        "zuccheri": 8.5,
+        "grassi": 0.2,
+        "grassiSaturi": 0.03,
+        "fibre": 0.2,
+        "sale": 0.0
+      }
+    },
+    "Polpa di frutta": {
+      "nomeVisualizzato": "Polpa di frutta",
+      "categoria": "merenda",
+      "tipoPorzione": "polpaFrutta",
+      "gruppo": "frutta",
+      "dieta": "vegano",
+      "allergeni": [],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 60,
+        "proteine": 0.4,
+        "carboidrati": 14.0,
+        "zuccheri": 13.0,
+        "grassi": 0.1,
+        "grassiSaturi": 0.02,
+        "fibre": 1.0,
+        "sale": 0.0
+      }
+    },
+    "Cracker": {
+      "nomeVisualizzato": "Cracker",
+      "categoria": "spuntino",
+      "tipoPorzione": "spuntinoSecco",
+      "gruppo": "dolce",
+      "dieta": "vegano",
+      "allergeni": [
+        "glutine"
+      ],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 430,
+        "proteine": 10.0,
+        "carboidrati": 70.0,
+        "zuccheri": 2.0,
+        "grassi": 12.0,
+        "grassiSaturi": 1.5,
+        "fibre": 3.0,
+        "sale": 1.6
+      }
+    },
+    "Schiacciatine": {
+      "nomeVisualizzato": "Schiacciatine",
+      "categoria": "spuntino",
+      "tipoPorzione": "spuntinoSecco",
+      "gruppo": "dolce",
+      "dieta": "vegano",
+      "allergeni": [
+        "glutine"
+      ],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 450,
+        "proteine": 9.5,
+        "carboidrati": 68.0,
+        "zuccheri": 2.5,
+        "grassi": 15.0,
+        "grassiSaturi": 2.0,
+        "fibre": 3.0,
+        "sale": 1.5
+      }
+    },
+    "Plum cake allo yogurt": {
+      "nomeVisualizzato": "Plum cake allo yogurt",
+      "categoria": "spuntino",
+      "tipoPorzione": "merendaDolce",
+      "gruppo": "dolce",
+      "dieta": "vegetariano",
+      "allergeni": [
+        "glutine",
+        "uova",
+        "latte"
+      ],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 380,
+        "proteine": 6.5,
+        "carboidrati": 50.0,
+        "zuccheri": 26.0,
+        "grassi": 16.5,
+        "grassiSaturi": 4.0,
+        "fibre": 1.2,
+        "sale": 0.5
+      }
+    },
+    "Yogurt": {
+      "nomeVisualizzato": "Yogurt",
+      "categoria": "spuntino",
+      "tipoPorzione": "merendaYogurt",
+      "gruppo": "latte",
+      "dieta": "vegetariano",
+      "allergeni": [
+        "latte"
+      ],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 66,
+        "proteine": 3.5,
+        "carboidrati": 5.0,
+        "zuccheri": 5.0,
+        "grassi": 3.4,
+        "grassiSaturi": 2.2,
+        "fibre": 0.0,
+        "sale": 0.12
+      }
+    },
+    "Yogurt e cereali": {
+      "nomeVisualizzato": "Yogurt e cereali",
+      "categoria": "spuntino",
+      "tipoPorzione": "merendaYogurtCereali",
+      "gruppo": "latte",
+      "dieta": "vegetariano",
+      "allergeni": [
+        "latte",
+        "glutine"
+      ],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 120,
+        "proteine": 4.2,
+        "carboidrati": 17.0,
+        "zuccheri": 9.0,
+        "grassi": 3.4,
+        "grassiSaturi": 1.8,
+        "fibre": 1.0,
+        "sale": 0.2
+      }
+    },
+    "Fette biscottate con cioccolato al latte/fondente": {
+      "nomeVisualizzato": "Fette biscottate con cioccolato al latte/fondente",
+      "categoria": "spuntino",
+      "tipoPorzione": "merendaDolce",
+      "gruppo": "dolce",
+      "dieta": "vegetariano",
+      "allergeni": [
+        "glutine",
+        "latte",
+        "soia"
+      ],
+      "affidabilita": "media",
+      "per100g": {
+        "kcal": 450,
+        "proteine": 8.0,
+        "carboidrati": 65.0,
+        "zuccheri": 25.0,
+        "grassi": 17.0,
+        "grassiSaturi": 8.0,
+        "fibre": 3.0,
+        "sale": 0.6
+      },
+      "note": "Cioccolato al latte o fondente."
+    },
+    "Ciambellone": {
+      "nomeVisualizzato": "Ciambellone",
+      "categoria": "merenda",
+      "tipoPorzione": "merendaDolce",
+      "gruppo": "dolce",
+      "dieta": "vegetariano",
+      "allergeni": [
+        "glutine",
+        "uova",
+        "latte"
+      ],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 370,
+        "proteine": 6.0,
+        "carboidrati": 52.0,
+        "zuccheri": 25.0,
+        "grassi": 14.5,
+        "grassiSaturi": 3.5,
+        "fibre": 1.2,
+        "sale": 0.45
+      }
+    },
+    "Crostatina con marmellata di frutta": {
+      "nomeVisualizzato": "Crostatina con marmellata di frutta",
+      "categoria": "merenda",
+      "tipoPorzione": "merendaDolce",
+      "gruppo": "dolce",
+      "dieta": "vegetariano",
+      "allergeni": [
+        "glutine",
+        "uova",
+        "latte"
+      ],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 390,
+        "proteine": 5.0,
+        "carboidrati": 58.0,
+        "zuccheri": 28.0,
+        "grassi": 14.5,
+        "grassiSaturi": 4.0,
+        "fibre": 1.5,
+        "sale": 0.35
+      }
+    },
+    "Focaccia bianca soffice": {
+      "nomeVisualizzato": "Focaccia bianca soffice",
+      "categoria": "merenda",
+      "tipoPorzione": "merendaPanino",
+      "gruppo": "pane",
+      "dieta": "vegano",
+      "allergeni": [
+        "glutine"
+      ],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 300,
+        "proteine": 7.5,
+        "carboidrati": 45.0,
+        "zuccheri": 2.0,
+        "grassi": 9.5,
+        "grassiSaturi": 1.5,
+        "fibre": 2.0,
+        "sale": 1.1
+      }
+    },
+    "Focaccia bianca": {
+      "nomeVisualizzato": "Focaccia bianca",
+      "categoria": "merenda",
+      "tipoPorzione": "merendaPanino",
+      "gruppo": "pane",
+      "dieta": "vegano",
+      "allergeni": [
+        "glutine"
+      ],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 300,
+        "proteine": 7.5,
+        "carboidrati": 45.0,
+        "zuccheri": 2.0,
+        "grassi": 9.5,
+        "grassiSaturi": 1.5,
+        "fibre": 2.0,
+        "sale": 1.1
+      }
+    },
+    "Focaccia rossa soffice": {
+      "nomeVisualizzato": "Focaccia rossa soffice",
+      "categoria": "merenda",
+      "tipoPorzione": "merendaPanino",
+      "gruppo": "pane",
+      "dieta": "vegano",
+      "allergeni": [
+        "glutine"
+      ],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 265,
+        "proteine": 6.5,
+        "carboidrati": 42.0,
+        "zuccheri": 3.0,
+        "grassi": 8.0,
+        "grassiSaturi": 1.2,
+        "fibre": 2.2,
+        "sale": 1.05
+      }
+    },
+    "Panino all'olio con marmellata": {
+      "nomeVisualizzato": "Panino all'olio con marmellata",
+      "categoria": "merenda",
+      "tipoPorzione": "merendaPanino",
+      "gruppo": "dolce",
+      "dieta": "vegano",
+      "allergeni": [
+        "glutine"
+      ],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 310,
+        "proteine": 7.0,
+        "carboidrati": 55.0,
+        "zuccheri": 14.0,
+        "grassi": 6.5,
+        "grassiSaturi": 1.0,
+        "fibre": 2.2,
+        "sale": 0.8
+      }
+    },
+    "Pane (a fette) e olio": {
+      "nomeVisualizzato": "Pane (a fette) e olio",
+      "categoria": "merenda",
+      "tipoPorzione": "merendaPanino",
+      "gruppo": "pane",
+      "dieta": "vegano",
+      "allergeni": [
+        "glutine"
+      ],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 350,
+        "proteine": 7.5,
+        "carboidrati": 48.0,
+        "zuccheri": 1.4,
+        "grassi": 14.0,
+        "grassiSaturi": 2.0,
+        "fibre": 2.4,
+        "sale": 1.05
+      }
+    },
+    "Pane (a fette) e pomodoro": {
+      "nomeVisualizzato": "Pane (a fette) e pomodoro",
+      "categoria": "merenda",
+      "tipoPorzione": "merendaPanino",
+      "gruppo": "pane",
+      "dieta": "vegano",
+      "allergeni": [
+        "glutine"
+      ],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 300,
+        "proteine": 7.0,
+        "carboidrati": 47.0,
+        "zuccheri": 2.2,
+        "grassi": 9.5,
+        "grassiSaturi": 1.4,
+        "fibre": 2.6,
+        "sale": 1.0
+      }
+    },
+    "Latte e biscotti": {
+      "nomeVisualizzato": "Latte e biscotti",
+      "categoria": "merenda",
+      "tipoPorzione": "merendaLatteBiscotti",
+      "gruppo": "latte",
+      "dieta": "vegetariano",
+      "allergeni": [
+        "latte",
+        "glutine",
+        "uova"
+      ],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 94,
+        "proteine": 3.4,
+        "carboidrati": 12.0,
+        "zuccheri": 7.0,
+        "grassi": 3.6,
+        "grassiSaturi": 1.9,
+        "fibre": 0.4,
+        "sale": 0.15
+      }
+    },
+    "Frullato di banana con latte": {
+      "nomeVisualizzato": "Frullato di banana con latte",
+      "categoria": "merenda",
+      "tipoPorzione": "merendaFrullato",
+      "gruppo": "latte",
+      "dieta": "vegetariano",
+      "allergeni": [
+        "latte"
+      ],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 85,
+        "proteine": 3.0,
+        "carboidrati": 12.5,
+        "zuccheri": 10.5,
+        "grassi": 2.2,
+        "grassiSaturi": 1.3,
+        "fibre": 0.8,
+        "sale": 0.1
+      }
+    },
+    "Biscotti frollini al cacao e succo di frutta senza zuccheri agg.": {
+      "nomeVisualizzato": "Biscotti frollini al cacao e succo di frutta senza zuccheri agg.",
+      "categoria": "merenda",
+      "tipoPorzione": "merendaBiscottiSucco",
+      "gruppo": "dolce",
+      "dieta": "vegetariano",
+      "allergeni": [
+        "glutine",
+        "latte",
+        "uova"
+      ],
+      "affidabilita": "media",
+      "per100g": {
+        "kcal": 104,
+        "proteine": 1.5,
+        "carboidrati": 18.5,
+        "zuccheri": 10.0,
+        "grassi": 2.8,
+        "grassiSaturi": 1.4,
+        "fibre": 0.6,
+        "sale": 0.1
+      },
+      "note": "Biscotti + succo: proporzione stimata."
+    },
+    "Succo di frutta senza zuccheri aggiunti e biscotti frollini al miele": {
+      "nomeVisualizzato": "Succo di frutta senza zuccheri aggiunti e biscotti frollini al miele",
+      "categoria": "merenda",
+      "tipoPorzione": "merendaBiscottiSucco",
+      "gruppo": "dolce",
+      "dieta": "vegetariano",
+      "allergeni": [
+        "glutine",
+        "latte",
+        "uova"
+      ],
+      "affidabilita": "media",
+      "per100g": {
+        "kcal": 104,
+        "proteine": 1.5,
+        "carboidrati": 18.5,
+        "zuccheri": 10.0,
+        "grassi": 2.8,
+        "grassiSaturi": 1.4,
+        "fibre": 0.6,
+        "sale": 0.1
+      },
+      "note": "Biscotti + succo: proporzione stimata."
+    },
+    "Frutta di stagione + biscotto frollino al cacao": {
+      "nomeVisualizzato": "Frutta di stagione + biscotto frollino al cacao",
+      "categoria": "merenda",
+      "tipoPorzione": "merendaFruttaBiscotto",
+      "gruppo": "frutta",
+      "dieta": "vegetariano",
+      "allergeni": [
+        "glutine",
+        "latte",
+        "uova"
+      ],
+      "affidabilita": "media",
+      "per100g": {
+        "kcal": 89,
+        "proteine": 1.2,
+        "carboidrati": 17.0,
+        "zuccheri": 12.5,
+        "grassi": 1.8,
+        "grassiSaturi": 0.9,
+        "fibre": 1.8,
+        "sale": 0.08
+      },
+      "note": "Frutta non specificata."
+    },
+    "Polpa di frutta e fette biscottate": {
+      "nomeVisualizzato": "Polpa di frutta e fette biscottate",
+      "categoria": "merenda",
+      "tipoPorzione": "merendaPolpaFette",
+      "gruppo": "frutta",
+      "dieta": "vegano",
+      "allergeni": [
+        "glutine"
+      ],
+      "affidabilita": "media",
+      "per100g": {
+        "kcal": 118,
+        "proteine": 2.0,
+        "carboidrati": 25.0,
+        "zuccheri": 12.0,
+        "grassi": 1.2,
+        "grassiSaturi": 0.3,
+        "fibre": 1.4,
+        "sale": 0.2
+      }
+    },
+    "Spremuta di arancia e ciambellone": {
+      "nomeVisualizzato": "Spremuta di arancia e ciambellone",
+      "categoria": "merenda",
+      "tipoPorzione": "merendaSpremutaDolce",
+      "gruppo": "dolce",
+      "dieta": "vegetariano",
+      "allergeni": [
+        "glutine",
+        "uova",
+        "latte"
+      ],
+      "affidabilita": "media",
+      "per100g": {
+        "kcal": 126,
+        "proteine": 2.0,
+        "carboidrati": 21.5,
+        "zuccheri": 14.0,
+        "grassi": 3.8,
+        "grassiSaturi": 0.9,
+        "fibre": 0.5,
+        "sale": 0.12
+      }
+    },
+    "Spremuta di arancia e fette biscottate con confettura di frutta": {
+      "nomeVisualizzato": "Spremuta di arancia e fette biscottate con confettura di frutta",
+      "categoria": "merenda",
+      "tipoPorzione": "merendaSpremutaFette",
+      "gruppo": "dolce",
+      "dieta": "vegano",
+      "allergeni": [
+        "glutine"
+      ],
+      "affidabilita": "media",
+      "per100g": {
+        "kcal": 105,
+        "proteine": 1.6,
+        "carboidrati": 21.0,
+        "zuccheri": 13.0,
+        "grassi": 1.2,
+        "grassiSaturi": 0.25,
+        "fibre": 0.8,
+        "sale": 0.25
+      }
+    },
+    "Banana ": {
+      "nomeVisualizzato": "Banana",
+      "categoria": "fruttaDessert",
+      "tipoPorzione": "frutta",
+      "gruppo": "frutta",
+      "dieta": "vegano",
+      "allergeni": [],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 89,
+        "proteine": 1.1,
+        "carboidrati": 20.0,
+        "zuccheri": 15.5,
+        "grassi": 0.3,
+        "grassiSaturi": 0.1,
+        "fibre": 1.8,
+        "sale": 0.0
+      },
+      "variante": true
+    },
+    "Latte e Biscotti": {
+      "nomeVisualizzato": "Latte e biscotti",
+      "categoria": "merenda",
+      "tipoPorzione": "merendaLatteBiscotti",
+      "gruppo": "latte",
+      "dieta": "vegetariano",
+      "allergeni": [
+        "latte",
+        "glutine",
+        "uova"
+      ],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 94,
+        "proteine": 3.4,
+        "carboidrati": 12.0,
+        "zuccheri": 7.0,
+        "grassi": 3.6,
+        "grassiSaturi": 1.9,
+        "fibre": 0.4,
+        "sale": 0.15
+      },
+      "variante": true
+    },
+    "Latte e Biscotti ": {
+      "nomeVisualizzato": "Latte e biscotti",
+      "categoria": "merenda",
+      "tipoPorzione": "merendaLatteBiscotti",
+      "gruppo": "latte",
+      "dieta": "vegetariano",
+      "allergeni": [
+        "latte",
+        "glutine",
+        "uova"
+      ],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 94,
+        "proteine": 3.4,
+        "carboidrati": 12.0,
+        "zuccheri": 7.0,
+        "grassi": 3.6,
+        "grassiSaturi": 1.9,
+        "fibre": 0.4,
+        "sale": 0.15
+      },
+      "variante": true
+    },
+    "Pane ( a fette) e olio": {
+      "nomeVisualizzato": "Pane (a fette) e olio",
+      "categoria": "merenda",
+      "tipoPorzione": "merendaPanino",
+      "gruppo": "pane",
+      "dieta": "vegano",
+      "allergeni": [
+        "glutine"
+      ],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 350,
+        "proteine": 7.5,
+        "carboidrati": 48.0,
+        "zuccheri": 1.4,
+        "grassi": 14.0,
+        "grassiSaturi": 2.0,
+        "fibre": 2.4,
+        "sale": 1.05
+      },
+      "variante": true
+    },
+    "Plumcake allo yogurt": {
+      "nomeVisualizzato": "Plum cake allo yogurt",
+      "categoria": "spuntino",
+      "tipoPorzione": "merendaDolce",
+      "gruppo": "dolce",
+      "dieta": "vegetariano",
+      "allergeni": [
+        "glutine",
+        "uova",
+        "latte"
+      ],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 380,
+        "proteine": 6.5,
+        "carboidrati": 50.0,
+        "zuccheri": 26.0,
+        "grassi": 16.5,
+        "grassiSaturi": 4.0,
+        "fibre": 1.2,
+        "sale": 0.5
+      },
+      "variante": true
+    },
+    "Polpa di frutta e Fette Biscottate": {
+      "nomeVisualizzato": "Polpa di frutta e fette biscottate",
+      "categoria": "merenda",
+      "tipoPorzione": "merendaPolpaFette",
+      "gruppo": "frutta",
+      "dieta": "vegano",
+      "allergeni": [
+        "glutine"
+      ],
+      "affidabilita": "media",
+      "per100g": {
+        "kcal": 118,
+        "proteine": 2.0,
+        "carboidrati": 25.0,
+        "zuccheri": 12.0,
+        "grassi": 1.2,
+        "grassiSaturi": 0.3,
+        "fibre": 1.4,
+        "sale": 0.2
+      },
+      "variante": true
+    },
+    "zucchine trifolate": {
+      "nomeVisualizzato": "Zucchine trifolate",
+      "categoria": "contorno",
+      "tipoPorzione": "contornoCotto",
+      "gruppo": "verdura",
+      "dieta": "vegano",
+      "allergeni": [],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 55,
+        "proteine": 1.4,
+        "carboidrati": 2.5,
+        "zuccheri": 2.0,
+        "grassi": 4.2,
+        "grassiSaturi": 0.6,
+        "fibre": 1.2,
+        "sale": 0.22
+      },
+      "variante": true
+    },
+    "Pannino all'olio con marmellata": {
+      "nomeVisualizzato": "Panino all'olio con marmellata",
+      "categoria": "merenda",
+      "tipoPorzione": "merendaPanino",
+      "gruppo": "dolce",
+      "dieta": "vegano",
+      "allergeni": [
+        "glutine"
+      ],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 310,
+        "proteine": 7.0,
+        "carboidrati": 55.0,
+        "zuccheri": 14.0,
+        "grassi": 6.5,
+        "grassiSaturi": 1.0,
+        "fibre": 2.2,
+        "sale": 0.8
+      },
+      "variante": true
+    },
+    "Panino all'olio e marmellata": {
+      "nomeVisualizzato": "Panino all'olio con marmellata",
+      "categoria": "merenda",
+      "tipoPorzione": "merendaPanino",
+      "gruppo": "dolce",
+      "dieta": "vegano",
+      "allergeni": [
+        "glutine"
+      ],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 310,
+        "proteine": 7.0,
+        "carboidrati": 55.0,
+        "zuccheri": 14.0,
+        "grassi": 6.5,
+        "grassiSaturi": 1.0,
+        "fibre": 2.2,
+        "sale": 0.8
+      },
+      "variante": true
+    },
+    "Bococncini di pollo al tegame": {
+      "nomeVisualizzato": "Bocconcini di pollo al tegame",
+      "categoria": "secondo",
+      "tipoPorzione": "secondoCarne",
+      "gruppo": "carneBianca",
+      "dieta": "onnivoro",
+      "allergeni": [],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 150,
+        "proteine": 21.5,
+        "carboidrati": 1.5,
+        "zuccheri": 0.3,
+        "grassi": 6.0,
+        "grassiSaturi": 1.4,
+        "fibre": 0.1,
+        "sale": 0.45
+      },
+      "variante": true
+    },
+    "Schiaciatine": {
+      "nomeVisualizzato": "Schiacciatine",
+      "categoria": "spuntino",
+      "tipoPorzione": "spuntinoSecco",
+      "gruppo": "dolce",
+      "dieta": "vegano",
+      "allergeni": [
+        "glutine"
+      ],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 450,
+        "proteine": 9.5,
+        "carboidrati": 68.0,
+        "zuccheri": 2.5,
+        "grassi": 15.0,
+        "grassiSaturi": 2.0,
+        "fibre": 3.0,
+        "sale": 1.5
+      },
+      "variante": true
+    },
+    "Spremta di arancia": {
+      "nomeVisualizzato": "Spremuta di arancia",
+      "categoria": "fruttaDessert",
+      "tipoPorzione": "spremuta",
+      "gruppo": "frutta",
+      "dieta": "vegano",
+      "allergeni": [],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 45,
+        "proteine": 0.7,
+        "carboidrati": 9.0,
+        "zuccheri": 8.5,
+        "grassi": 0.2,
+        "grassiSaturi": 0.03,
+        "fibre": 0.2,
+        "sale": 0.0
+      },
+      "variante": true
+    },
+    "Spinacia all'olio": {
+      "nomeVisualizzato": "Spinaci all'olio",
+      "categoria": "contorno",
+      "tipoPorzione": "contornoCotto",
+      "gruppo": "verdura",
+      "dieta": "vegano",
+      "allergeni": [],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 60,
+        "proteine": 3.0,
+        "carboidrati": 1.5,
+        "zuccheri": 0.4,
+        "grassi": 4.2,
+        "grassiSaturi": 0.6,
+        "fibre": 2.2,
+        "sale": 0.28
+      },
+      "variante": true
+    },
+    "Cavolfiore all'olio": {
+      "nomeVisualizzato": "Cavolfiori all'olio",
+      "categoria": "contorno",
+      "tipoPorzione": "contornoCotto",
+      "gruppo": "verdura",
+      "dieta": "vegano",
+      "allergeni": [],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 55,
+        "proteine": 2.4,
+        "carboidrati": 3.0,
+        "zuccheri": 1.8,
+        "grassi": 3.6,
+        "grassiSaturi": 0.5,
+        "fibre": 2.4,
+        "sale": 0.22
+      },
+      "variante": true
+    },
+    "Mozzarella": {
+      "nomeVisualizzato": "Mozzarella vaccina",
+      "categoria": "secondo",
+      "tipoPorzione": "secondoFormaggioFresco",
+      "gruppo": "formaggio",
+      "dieta": "vegetariano",
+      "allergeni": [
+        "latte"
+      ],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 250,
+        "proteine": 18.5,
+        "carboidrati": 1.0,
+        "zuccheri": 1.0,
+        "grassi": 19.5,
+        "grassiSaturi": 12.0,
+        "fibre": 0.0,
+        "sale": 0.6
+      },
+      "variante": true
+    },
+    "Petto o bocconcino di pollo al limone": {
+      "nomeVisualizzato": "Petto o bocconcini di pollo al limone",
+      "categoria": "secondo",
+      "tipoPorzione": "secondoCarne",
+      "gruppo": "carneBianca",
+      "dieta": "onnivoro",
+      "allergeni": [],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 145,
+        "proteine": 22.0,
+        "carboidrati": 1.2,
+        "zuccheri": 0.4,
+        "grassi": 5.5,
+        "grassiSaturi": 1.2,
+        "fibre": 0.1,
+        "sale": 0.45
+      },
+      "variante": true
+    },
+    "Farro con lenticchie": {
+      "nomeVisualizzato": "Farro e lenticchie",
+      "categoria": "primo",
+      "tipoPorzione": "minestra",
+      "gruppo": "legumi",
+      "dieta": "vegano",
+      "allergeni": [
+        "glutine"
+      ],
+      "affidabilita": "alta",
+      "per100g": {
+        "kcal": 110,
+        "proteine": 5.5,
+        "carboidrati": 16.5,
+        "zuccheri": 1.4,
+        "grassi": 2.6,
+        "grassiSaturi": 0.4,
+        "fibre": 3.2,
+        "sale": 0.3
+      },
+      "variante": true
+    },
+    "Arrosto di maiale/Bocconcini di maiale impanato": {
+      "nomeVisualizzato": "Arrosto di maiale/Bocconcini di maiale impanati",
+      "categoria": "secondo",
+      "tipoPorzione": "secondoCarneImpanato",
+      "gruppo": "carneRossa",
+      "dieta": "onnivoro",
+      "allergeni": [
+        "glutine",
+        "uova"
+      ],
+      "affidabilita": "bassa",
+      "per100g": {
+        "kcal": 220,
+        "proteine": 21.0,
+        "carboidrati": 7.0,
+        "zuccheri": 0.5,
+        "grassi": 12.0,
+        "grassiSaturi": 3.7,
+        "fibre": 0.5,
+        "sale": 0.62
+      },
+      "note": "Due preparazioni alternative: panata o no.",
+      "variante": true
+    },
+    "Biscotti frollini al cacao + succo di frutta senza zuccheri agg.": {
+      "nomeVisualizzato": "Biscotti frollini al cacao e succo di frutta senza zuccheri agg.",
+      "categoria": "merenda",
+      "tipoPorzione": "merendaBiscottiSucco",
+      "gruppo": "dolce",
+      "dieta": "vegetariano",
+      "allergeni": [
+        "glutine",
+        "latte",
+        "uova"
+      ],
+      "affidabilita": "media",
+      "per100g": {
+        "kcal": 104,
+        "proteine": 1.5,
+        "carboidrati": 18.5,
+        "zuccheri": 10.0,
+        "grassi": 2.8,
+        "grassiSaturi": 1.4,
+        "fibre": 0.6,
+        "sale": 0.1
+      },
+      "note": "Biscotti + succo: proporzione stimata.",
+      "variante": true
+    },
+    "Frutta di stagione + biscotti frollini al cacao": {
+      "nomeVisualizzato": "Frutta di stagione + biscotto frollino al cacao",
+      "categoria": "merenda",
+      "tipoPorzione": "merendaFruttaBiscotto",
+      "gruppo": "frutta",
+      "dieta": "vegetariano",
+      "allergeni": [
+        "glutine",
+        "latte",
+        "uova"
+      ],
+      "affidabilita": "media",
+      "per100g": {
+        "kcal": 89,
+        "proteine": 1.2,
+        "carboidrati": 17.0,
+        "zuccheri": 12.5,
+        "grassi": 1.8,
+        "grassiSaturi": 0.9,
+        "fibre": 1.8,
+        "sale": 0.08
+      },
+      "note": "Frutta non specificata.",
+      "variante": true
+    }
+  }
+}
