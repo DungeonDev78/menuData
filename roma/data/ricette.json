@@ -1,0 +1,2839 @@
+{
+  "versione": "1.0.0",
+  "aggiornato": "2026-11-06",
+  "avvertenza": "Ricette indicative per la cena in famiglia. Le dosi sono stime per una porzione da adulto e una da bambino in età da scuola primaria: per bambini più piccoli o più grandi regolale a occhio. Gli allergeni elencati si riferiscono agli ingredienti della ricetta: controlla sempre le etichette dei prodotti che usi.",
+  "porzioni": {
+    "adulto": "porzione per un adulto",
+    "bambino": "porzione per un bambino di 6–10 anni, circa due terzi di quella da adulto"
+  },
+  "regoleQuantita": {
+    "perPersona": "Se un ingrediente ha `adulto` e `bambino`, la quantità totale è adulto × numero di adulti + bambino × numero di bambini.",
+    "perRicetta": "Se un ingrediente ha `perRicetta`, la quantità non cambia con il numero di persone (vale da 2 a 6 persone).",
+    "arrotondamento": {
+      "g": "a 5 g; sopra i 100 g a 10 g",
+      "ml": "come i grammi",
+      "cucchiaio": "al mezzo cucchiaio",
+      "cucchiaino": "al mezzo cucchiaino",
+      "pz": "all'intero più vicino, minimo 1",
+      "spicchio": "all'intero più vicino, minimo 1",
+      "foglia": "all'intero più vicino, minimo 1",
+      "rametto": "all'intero più vicino, minimo 1"
+    },
+    "qb": "Quanto basta: nessuna quantità."
+  },
+  "unita": {
+    "g": "grammi",
+    "ml": "millilitri",
+    "pz": "pezzi",
+    "cucchiaio": "cucchiai (circa 10 g di olio)",
+    "cucchiaino": "cucchiaini",
+    "spicchio": "spicchi",
+    "foglia": "foglie",
+    "rametto": "rametti",
+    "qb": "quanto basta"
+  },
+  "tempi": "In minuti, per 4 persone. tempoRiposo è l'attesa (marinatura, frigorifero, riposo) da aggiungere a preparazione e cottura.",
+  "valori": {
+    "portata": [
+      "primo",
+      "secondo"
+    ],
+    "gruppo": "GruppoAlimentare (rawValue)",
+    "difficolta": [
+      "moltoFacile",
+      "facile",
+      "media"
+    ],
+    "allergeni": "Allergene (rawValue); quelli degli ingredienti facoltativi stanno sull'ingrediente"
+  },
+  "ricette": [
+    {
+      "id": "passato-di-verdure",
+      "nome": "Passato di verdure",
+      "portata": "primo",
+      "gruppo": "verdura",
+      "difficolta": "facile",
+      "tempoPreparazione": 15,
+      "tempoCottura": 40,
+      "allergeni": [
+        "sedano"
+      ],
+      "ingredienti": [
+        {
+          "nome": "Patate",
+          "adulto": 80,
+          "bambino": 50,
+          "unita": "g"
+        },
+        {
+          "nome": "Carote",
+          "adulto": 50,
+          "bambino": 35,
+          "unita": "g"
+        },
+        {
+          "nome": "Zucchine",
+          "adulto": 60,
+          "bambino": 40,
+          "unita": "g"
+        },
+        {
+          "nome": "Sedano",
+          "adulto": 20,
+          "bambino": 15,
+          "unita": "g"
+        },
+        {
+          "nome": "Cipolla",
+          "adulto": 20,
+          "bambino": 15,
+          "unita": "g"
+        },
+        {
+          "nome": "Piselli surgelati",
+          "adulto": 30,
+          "bambino": 20,
+          "unita": "g"
+        },
+        {
+          "nome": "Spinaci o bieta",
+          "adulto": 30,
+          "bambino": 20,
+          "unita": "g",
+          "nota": "anche surgelati"
+        },
+        {
+          "nome": "Acqua",
+          "adulto": 300,
+          "bambino": 200,
+          "unita": "ml"
+        },
+        {
+          "nome": "Olio extravergine d'oliva",
+          "adulto": 1,
+          "bambino": 0.5,
+          "unita": "cucchiaio"
+        },
+        {
+          "nome": "Sale",
+          "unita": "qb"
+        },
+        {
+          "nome": "Parmigiano Reggiano grattugiato",
+          "adulto": 5,
+          "bambino": 5,
+          "unita": "g",
+          "nota": "da aggiungere nel piatto",
+          "facoltativo": true,
+          "allergeni": [
+            "latte"
+          ]
+        }
+      ],
+      "passaggi": [
+        "Lava e pela le verdure, poi tagliale a pezzi di grandezza simile così cuociono nello stesso tempo.",
+        "In una pentola scalda metà dell'olio e fai appassire la cipolla tritata per 3 minuti a fuoco basso.",
+        "Aggiungi tutte le altre verdure, copri con l'acqua e porta a bollore.",
+        "Abbassa la fiamma, metti il coperchio e cuoci 35–40 minuti, finché le patate si sfaldano.",
+        "Frulla con il frullatore a immersione fino a ottenere una crema liscia. Se è troppo densa, allunga con poca acqua calda.",
+        "Sala e servi con l'olio rimasto a crudo."
+      ],
+      "consigli": [
+        "Con il passaverdure al posto del frullatore il passato viene più leggero e senza fili."
+      ],
+      "conservazione": "2 giorni in frigorifero in un contenitore chiuso; si può congelare in porzioni.",
+      "riferimento": "https://www.cucchiaio.it/ricetta/passato-di-verdure/"
+    },
+    {
+      "id": "minestrone-di-verdure",
+      "nome": "Minestrone di verdure",
+      "portata": "primo",
+      "gruppo": "verdura",
+      "difficolta": "facile",
+      "tempoPreparazione": 20,
+      "tempoCottura": 45,
+      "allergeni": [
+        "sedano"
+      ],
+      "ingredienti": [
+        {
+          "nome": "Patate",
+          "adulto": 70,
+          "bambino": 50,
+          "unita": "g"
+        },
+        {
+          "nome": "Carote",
+          "adulto": 40,
+          "bambino": 30,
+          "unita": "g"
+        },
+        {
+          "nome": "Zucchine",
+          "adulto": 50,
+          "bambino": 35,
+          "unita": "g"
+        },
+        {
+          "nome": "Sedano",
+          "adulto": 20,
+          "bambino": 15,
+          "unita": "g"
+        },
+        {
+          "nome": "Cipolla",
+          "adulto": 20,
+          "bambino": 15,
+          "unita": "g"
+        },
+        {
+          "nome": "Fagiolini",
+          "adulto": 30,
+          "bambino": 20,
+          "unita": "g"
+        },
+        {
+          "nome": "Piselli surgelati",
+          "adulto": 25,
+          "bambino": 20,
+          "unita": "g"
+        },
+        {
+          "nome": "Bieta",
+          "adulto": 30,
+          "bambino": 20,
+          "unita": "g"
+        },
+        {
+          "nome": "Pomodori pelati",
+          "adulto": 40,
+          "bambino": 30,
+          "unita": "g"
+        },
+        {
+          "nome": "Acqua",
+          "adulto": 300,
+          "bambino": 200,
+          "unita": "ml"
+        },
+        {
+          "nome": "Olio extravergine d'oliva",
+          "adulto": 1,
+          "bambino": 0.5,
+          "unita": "cucchiaio"
+        },
+        {
+          "nome": "Sale",
+          "unita": "qb"
+        },
+        {
+          "nome": "Crosta di parmigiano",
+          "perRicetta": 1,
+          "unita": "pz",
+          "nota": "ben pulita e raschiata",
+          "facoltativo": true,
+          "allergeni": [
+            "latte"
+          ]
+        },
+        {
+          "nome": "Pastina o riso",
+          "adulto": 20,
+          "bambino": 15,
+          "unita": "g",
+          "nota": "per un minestrone più sostanzioso",
+          "facoltativo": true,
+          "allergeni": [
+            "glutine"
+          ]
+        }
+      ],
+      "passaggi": [
+        "Taglia tutte le verdure a dadini piccoli, di circa 1 cm: i bambini le mangiano più volentieri.",
+        "In una pentola capiente scalda metà dell'olio e fai insaporire cipolla, sedano e carota per 5 minuti a fuoco basso.",
+        "Aggiungi patate, zucchine, fagiolini, piselli, i pelati spezzettati e l'eventuale crosta di parmigiano. Copri con l'acqua.",
+        "Porta a bollore, abbassa la fiamma e cuoci con il coperchio per 35 minuti.",
+        "Unisci la bieta tagliata a striscioline (e la pastina, se la usi) e cuoci altri 10 minuti.",
+        "Togli la crosta, sala e servi con l'olio rimasto a crudo."
+      ],
+      "consigli": [
+        "Il minestrone è più buono se riposa 10 minuti prima di servirlo."
+      ],
+      "conservazione": "2–3 giorni in frigorifero; senza pastina si congela bene.",
+      "riferimento": "https://www.fattoincasadabenedetta.it/ricetta/minestrone-di-verdure/"
+    },
+    {
+      "id": "vellutata-di-zucca",
+      "nome": "Vellutata di zucca",
+      "portata": "primo",
+      "gruppo": "verdura",
+      "difficolta": "facile",
+      "tempoPreparazione": 15,
+      "tempoCottura": 25,
+      "allergeni": [],
+      "ingredienti": [
+        {
+          "nome": "Zucca pulita",
+          "adulto": 200,
+          "bambino": 130,
+          "unita": "g",
+          "nota": "delica o mantovana, più dolci e meno acquose"
+        },
+        {
+          "nome": "Patate",
+          "adulto": 50,
+          "bambino": 35,
+          "unita": "g"
+        },
+        {
+          "nome": "Cipolla",
+          "adulto": 15,
+          "bambino": 10,
+          "unita": "g"
+        },
+        {
+          "nome": "Acqua calda",
+          "adulto": 200,
+          "bambino": 130,
+          "unita": "ml"
+        },
+        {
+          "nome": "Olio extravergine d'oliva",
+          "adulto": 1,
+          "bambino": 0.5,
+          "unita": "cucchiaio"
+        },
+        {
+          "nome": "Sale",
+          "unita": "qb"
+        },
+        {
+          "nome": "Rosmarino",
+          "perRicetta": 1,
+          "unita": "rametto",
+          "facoltativo": true
+        },
+        {
+          "nome": "Parmigiano Reggiano grattugiato",
+          "adulto": 5,
+          "bambino": 5,
+          "unita": "g",
+          "nota": "da aggiungere nel piatto",
+          "facoltativo": true,
+          "allergeni": [
+            "latte"
+          ]
+        }
+      ],
+      "passaggi": [
+        "Togli buccia e semi alla zucca e tagliala a cubetti; pela e taglia a cubetti anche la patata.",
+        "In una pentola scalda metà dell'olio e fai appassire la cipolla tritata per 3 minuti.",
+        "Aggiungi zucca, patata e l'eventuale rametto di rosmarino, mescola e lascia insaporire 2 minuti.",
+        "Copri con l'acqua calda e cuoci con il coperchio per 20 minuti, finché la zucca è morbida.",
+        "Togli il rosmarino e frulla fino a ottenere una crema liscia.",
+        "Sala e servi con l'olio rimasto a crudo."
+      ],
+      "consigli": [
+        "Se la vuoi più cremosa, frullala con un cucchiaio di ricotta (aggiunge latte tra gli allergeni)."
+      ],
+      "conservazione": "2 giorni in frigorifero; si può congelare.",
+      "riferimento": "https://www.fattoincasadabenedetta.it/ricetta/vellutata-zucca/"
+    },
+    {
+      "id": "crema-di-zucchine",
+      "nome": "Crema di zucchine",
+      "portata": "primo",
+      "gruppo": "verdura",
+      "difficolta": "facile",
+      "tempoPreparazione": 10,
+      "tempoCottura": 20,
+      "allergeni": [],
+      "ingredienti": [
+        {
+          "nome": "Zucchine",
+          "adulto": 200,
+          "bambino": 130,
+          "unita": "g"
+        },
+        {
+          "nome": "Patate",
+          "adulto": 50,
+          "bambino": 35,
+          "unita": "g",
+          "nota": "rendono la crema vellutata senza panna"
+        },
+        {
+          "nome": "Cipollotto",
+          "adulto": 15,
+          "bambino": 10,
+          "unita": "g"
+        },
+        {
+          "nome": "Acqua calda",
+          "adulto": 150,
+          "bambino": 100,
+          "unita": "ml"
+        },
+        {
+          "nome": "Olio extravergine d'oliva",
+          "adulto": 1,
+          "bambino": 0.5,
+          "unita": "cucchiaio"
+        },
+        {
+          "nome": "Sale",
+          "unita": "qb"
+        },
+        {
+          "nome": "Basilico",
+          "adulto": 2,
+          "bambino": 1,
+          "unita": "foglia"
+        },
+        {
+          "nome": "Parmigiano Reggiano grattugiato",
+          "adulto": 5,
+          "bambino": 5,
+          "unita": "g",
+          "nota": "da aggiungere nel piatto",
+          "facoltativo": true,
+          "allergeni": [
+            "latte"
+          ]
+        }
+      ],
+      "passaggi": [
+        "Spunta le zucchine e tagliale a rondelle; pela la patata e tagliala a cubetti piccoli.",
+        "In una pentola scalda metà dell'olio e fai appassire il cipollotto affettato per 3 minuti.",
+        "Aggiungi zucchine e patata, lascia insaporire 2 minuti, poi copri con l'acqua calda.",
+        "Cuoci con il coperchio per 15 minuti, finché la patata è morbida.",
+        "Unisci il basilico e frulla fino a ottenere una crema liscia.",
+        "Sala e servi con l'olio rimasto a crudo."
+      ],
+      "conservazione": "1–2 giorni in frigorifero.",
+      "riferimento": "https://www.fattoincasadabenedetta.it/ricetta/crema-di-zucchine/"
+    },
+    {
+      "id": "crema-di-carote",
+      "nome": "Crema di carote",
+      "portata": "primo",
+      "gruppo": "verdura",
+      "difficolta": "facile",
+      "tempoPreparazione": 15,
+      "tempoCottura": 30,
+      "allergeni": [],
+      "ingredienti": [
+        {
+          "nome": "Carote",
+          "adulto": 200,
+          "bambino": 130,
+          "unita": "g"
+        },
+        {
+          "nome": "Patate",
+          "adulto": 60,
+          "bambino": 40,
+          "unita": "g"
+        },
+        {
+          "nome": "Cipolla",
+          "adulto": 15,
+          "bambino": 10,
+          "unita": "g"
+        },
+        {
+          "nome": "Acqua calda",
+          "adulto": 200,
+          "bambino": 140,
+          "unita": "ml"
+        },
+        {
+          "nome": "Olio extravergine d'oliva",
+          "adulto": 1,
+          "bambino": 0.5,
+          "unita": "cucchiaio"
+        },
+        {
+          "nome": "Sale",
+          "unita": "qb"
+        },
+        {
+          "nome": "Maggiorana o timo",
+          "unita": "qb",
+          "facoltativo": true
+        },
+        {
+          "nome": "Parmigiano Reggiano grattugiato",
+          "adulto": 5,
+          "bambino": 5,
+          "unita": "g",
+          "nota": "da aggiungere nel piatto",
+          "facoltativo": true,
+          "allergeni": [
+            "latte"
+          ]
+        }
+      ],
+      "passaggi": [
+        "Pela carote e patata e tagliale a rondelle sottili: più sono sottili, prima cuociono.",
+        "In una pentola scalda metà dell'olio e fai appassire la cipolla tritata per 3 minuti.",
+        "Aggiungi carote e patata, lascia insaporire 2 minuti, poi copri con l'acqua calda.",
+        "Cuoci con il coperchio per 25 minuti, finché le carote si schiacciano con una forchetta.",
+        "Frulla fino a ottenere una crema liscia; se è troppo densa, aggiungi poca acqua calda.",
+        "Sala, profuma con le erbe e servi con l'olio rimasto a crudo."
+      ],
+      "conservazione": "2 giorni in frigorifero; si può congelare.",
+      "riferimento": "https://www.misya.info/ricetta/vellutata-di-carote.htm"
+    },
+    {
+      "id": "vellutata-di-patate-e-porri",
+      "nome": "Vellutata di patate e porri",
+      "portata": "primo",
+      "gruppo": "verdura",
+      "difficolta": "facile",
+      "tempoPreparazione": 10,
+      "tempoCottura": 30,
+      "allergeni": [],
+      "ingredienti": [
+        {
+          "nome": "Patate",
+          "adulto": 150,
+          "bambino": 100,
+          "unita": "g"
+        },
+        {
+          "nome": "Porro (parte bianca)",
+          "adulto": 60,
+          "bambino": 40,
+          "unita": "g"
+        },
+        {
+          "nome": "Acqua calda",
+          "adulto": 200,
+          "bambino": 140,
+          "unita": "ml"
+        },
+        {
+          "nome": "Olio extravergine d'oliva",
+          "adulto": 1,
+          "bambino": 0.5,
+          "unita": "cucchiaio"
+        },
+        {
+          "nome": "Sale",
+          "unita": "qb"
+        },
+        {
+          "nome": "Erba cipollina",
+          "unita": "qb",
+          "facoltativo": true
+        },
+        {
+          "nome": "Parmigiano Reggiano grattugiato",
+          "adulto": 5,
+          "bambino": 5,
+          "unita": "g",
+          "nota": "da aggiungere nel piatto",
+          "facoltativo": true,
+          "allergeni": [
+            "latte"
+          ]
+        }
+      ],
+      "passaggi": [
+        "Elimina le radici e la parte verde più dura del porro, taglialo a rondelle e sciacquale bene per togliere la terra.",
+        "Pela le patate e tagliale a cubetti.",
+        "In una pentola scalda metà dell'olio e stufa il porro a fuoco basso per 5 minuti, senza farlo colorire.",
+        "Aggiungi le patate, copri con l'acqua calda e cuoci con il coperchio per 25 minuti.",
+        "Frulla fino a ottenere una crema liscia, sala e servi con l'olio rimasto e l'erba cipollina."
+      ],
+      "consigli": [
+        "La parte verde del porro non si butta: va bene per un brodo vegetale."
+      ],
+      "conservazione": "2 giorni in frigorifero.",
+      "riferimento": "https://www.fattoincasadabenedetta.it/ricetta/vellutata-di-porri-e-patate/"
+    },
+    {
+      "id": "crema-di-broccoli",
+      "nome": "Crema di broccoli",
+      "portata": "primo",
+      "gruppo": "verdura",
+      "difficolta": "facile",
+      "tempoPreparazione": 15,
+      "tempoCottura": 25,
+      "allergeni": [],
+      "ingredienti": [
+        {
+          "nome": "Broccoli (cimette)",
+          "adulto": 150,
+          "bambino": 100,
+          "unita": "g"
+        },
+        {
+          "nome": "Patate",
+          "adulto": 70,
+          "bambino": 50,
+          "unita": "g"
+        },
+        {
+          "nome": "Cipolla",
+          "adulto": 15,
+          "bambino": 10,
+          "unita": "g"
+        },
+        {
+          "nome": "Acqua calda",
+          "adulto": 180,
+          "bambino": 120,
+          "unita": "ml"
+        },
+        {
+          "nome": "Olio extravergine d'oliva",
+          "adulto": 1,
+          "bambino": 0.5,
+          "unita": "cucchiaio"
+        },
+        {
+          "nome": "Sale",
+          "unita": "qb"
+        },
+        {
+          "nome": "Parmigiano Reggiano grattugiato",
+          "adulto": 5,
+          "bambino": 5,
+          "unita": "g",
+          "nota": "da aggiungere nel piatto",
+          "facoltativo": true,
+          "allergeni": [
+            "latte"
+          ]
+        }
+      ],
+      "passaggi": [
+        "Dividi il broccolo in cimette e sciacquale; pela la patata e tagliala a cubetti.",
+        "In una pentola scalda metà dell'olio e fai appassire la cipolla tritata per 3 minuti.",
+        "Aggiungi patate e broccoli, mescola e lascia insaporire 2 minuti.",
+        "Copri con l'acqua calda e cuoci con il coperchio per 20 minuti.",
+        "Frulla fino a ottenere una crema liscia, sala e servi con l'olio rimasto a crudo."
+      ],
+      "consigli": [
+        "Anche il gambo pelato si può usare: tagliato a rondelle cuoce come le cimette."
+      ],
+      "conservazione": "1–2 giorni in frigorifero.",
+      "riferimento": "https://www.fattoincasadabenedetta.it/ricetta/crema-di-broccoli/"
+    },
+    {
+      "id": "passato-di-lenticchie",
+      "nome": "Passato di lenticchie",
+      "portata": "primo",
+      "gruppo": "legumi",
+      "difficolta": "facile",
+      "tempoPreparazione": 10,
+      "tempoCottura": 30,
+      "allergeni": [
+        "sedano"
+      ],
+      "ingredienti": [
+        {
+          "nome": "Lenticchie rosse decorticate (secche)",
+          "adulto": 50,
+          "bambino": 35,
+          "unita": "g",
+          "nota": "non serve l'ammollo"
+        },
+        {
+          "nome": "Patate",
+          "adulto": 50,
+          "bambino": 35,
+          "unita": "g"
+        },
+        {
+          "nome": "Carote",
+          "adulto": 30,
+          "bambino": 20,
+          "unita": "g"
+        },
+        {
+          "nome": "Sedano",
+          "adulto": 15,
+          "bambino": 10,
+          "unita": "g"
+        },
+        {
+          "nome": "Cipolla",
+          "adulto": 15,
+          "bambino": 10,
+          "unita": "g"
+        },
+        {
+          "nome": "Acqua",
+          "adulto": 300,
+          "bambino": 200,
+          "unita": "ml"
+        },
+        {
+          "nome": "Alloro",
+          "perRicetta": 1,
+          "unita": "foglia"
+        },
+        {
+          "nome": "Olio extravergine d'oliva",
+          "adulto": 1,
+          "bambino": 0.5,
+          "unita": "cucchiaio"
+        },
+        {
+          "nome": "Sale",
+          "unita": "qb"
+        }
+      ],
+      "passaggi": [
+        "Sciacqua le lenticchie in un colino sotto l'acqua corrente finché l'acqua esce limpida.",
+        "Trita cipolla, carota e sedano; pela la patata e tagliala a cubetti.",
+        "In una pentola scalda metà dell'olio e fai appassire il trito per 5 minuti a fuoco basso.",
+        "Aggiungi lenticchie, patata, alloro e acqua. Porta a bollore e cuoci con il coperchio per 25 minuti, mescolando ogni tanto.",
+        "Togli l'alloro e frulla fino a ottenere una crema liscia.",
+        "Sala e servi con l'olio rimasto a crudo."
+      ],
+      "consigli": [
+        "Le lenticchie rosse decorticate non hanno la buccia: sono più digeribili e cuociono in metà tempo."
+      ],
+      "conservazione": "2 giorni in frigorifero; addensa raffreddandosi, allungalo con acqua quando lo scaldi.",
+      "riferimento": "https://www.fattoincasadabenedetta.it/ricetta/vellutata-di-lenticchie-rosse/"
+    },
+    {
+      "id": "vellutata-di-piselli",
+      "nome": "Vellutata di piselli",
+      "portata": "primo",
+      "gruppo": "legumi",
+      "difficolta": "facile",
+      "tempoPreparazione": 10,
+      "tempoCottura": 20,
+      "allergeni": [],
+      "ingredienti": [
+        {
+          "nome": "Piselli surgelati",
+          "adulto": 120,
+          "bambino": 80,
+          "unita": "g"
+        },
+        {
+          "nome": "Patate",
+          "adulto": 50,
+          "bambino": 35,
+          "unita": "g"
+        },
+        {
+          "nome": "Cipollotto",
+          "adulto": 15,
+          "bambino": 10,
+          "unita": "g"
+        },
+        {
+          "nome": "Acqua calda",
+          "adulto": 180,
+          "bambino": 120,
+          "unita": "ml"
+        },
+        {
+          "nome": "Olio extravergine d'oliva",
+          "adulto": 1,
+          "bambino": 0.5,
+          "unita": "cucchiaio"
+        },
+        {
+          "nome": "Sale",
+          "unita": "qb"
+        },
+        {
+          "nome": "Menta o basilico",
+          "unita": "qb",
+          "facoltativo": true
+        },
+        {
+          "nome": "Parmigiano Reggiano grattugiato",
+          "adulto": 5,
+          "bambino": 5,
+          "unita": "g",
+          "nota": "da aggiungere nel piatto",
+          "facoltativo": true,
+          "allergeni": [
+            "latte"
+          ]
+        }
+      ],
+      "passaggi": [
+        "Pela la patata e tagliala a cubetti piccoli.",
+        "In una pentola scalda metà dell'olio e fai appassire il cipollotto affettato per 3 minuti.",
+        "Aggiungi patata e piselli ancora surgelati, mescola e copri con l'acqua calda.",
+        "Cuoci con il coperchio per 15 minuti.",
+        "Frulla fino a ottenere una crema liscia, aggiungendo le foglie di menta o basilico.",
+        "Sala e servi con l'olio rimasto a crudo."
+      ],
+      "consigli": [
+        "Per una crema più liscia, passala al colino dopo averla frullata: trattiene le bucce dei piselli."
+      ],
+      "conservazione": "1–2 giorni in frigorifero.",
+      "riferimento": "https://www.fattoincasadabenedetta.it/ricetta/vellutata-di-piselli/"
+    },
+    {
+      "id": "crema-di-ceci",
+      "nome": "Crema di ceci",
+      "portata": "primo",
+      "gruppo": "legumi",
+      "difficolta": "facile",
+      "tempoPreparazione": 10,
+      "tempoCottura": 15,
+      "allergeni": [],
+      "ingredienti": [
+        {
+          "nome": "Ceci lessati",
+          "adulto": 150,
+          "bambino": 100,
+          "unita": "g",
+          "nota": "in scatola, sciacquati; 50 g di ceci secchi danno circa 150 g di ceci lessati"
+        },
+        {
+          "nome": "Acqua calda",
+          "adulto": 150,
+          "bambino": 100,
+          "unita": "ml"
+        },
+        {
+          "nome": "Rosmarino",
+          "perRicetta": 1,
+          "unita": "rametto"
+        },
+        {
+          "nome": "Aglio",
+          "perRicetta": 1,
+          "unita": "spicchio",
+          "nota": "intero, da togliere prima di frullare",
+          "facoltativo": true
+        },
+        {
+          "nome": "Olio extravergine d'oliva",
+          "adulto": 1,
+          "bambino": 0.5,
+          "unita": "cucchiaio"
+        },
+        {
+          "nome": "Sale",
+          "unita": "qb"
+        },
+        {
+          "nome": "Crostini di pane",
+          "adulto": 20,
+          "bambino": 15,
+          "unita": "g",
+          "facoltativo": true,
+          "allergeni": [
+            "glutine"
+          ]
+        }
+      ],
+      "passaggi": [
+        "In una pentola scalda metà dell'olio con il rosmarino e l'eventuale spicchio d'aglio schiacciato, per 2 minuti a fuoco basso.",
+        "Aggiungi i ceci scolati, mescola e copri con l'acqua calda.",
+        "Cuoci per 10 minuti a fuoco medio.",
+        "Togli rosmarino e aglio e frulla fino a ottenere una crema densa e liscia; regola la consistenza con altra acqua calda.",
+        "Sala e servi con l'olio rimasto a crudo e, se vuoi, i crostini."
+      ],
+      "consigli": [
+        "Per i più piccoli passa la crema al passaverdure: elimina le bucce dei ceci."
+      ],
+      "conservazione": "2 giorni in frigorifero.",
+      "riferimento": "https://www.cucchiaio.it/ricetta/crema-ceci/"
+    },
+    {
+      "id": "pastina-in-brodo-vegetale",
+      "nome": "Pastina in brodo vegetale",
+      "portata": "primo",
+      "gruppo": "cereali",
+      "difficolta": "facile",
+      "tempoPreparazione": 10,
+      "tempoCottura": 50,
+      "allergeni": [
+        "glutine",
+        "sedano"
+      ],
+      "ingredienti": [
+        {
+          "nome": "Pastina",
+          "adulto": 40,
+          "bambino": 30,
+          "unita": "g"
+        },
+        {
+          "nome": "Acqua fredda",
+          "adulto": 350,
+          "bambino": 250,
+          "unita": "ml",
+          "nota": "una parte evapora durante la cottura"
+        },
+        {
+          "nome": "Carote",
+          "adulto": 40,
+          "bambino": 30,
+          "unita": "g"
+        },
+        {
+          "nome": "Sedano",
+          "adulto": 20,
+          "bambino": 15,
+          "unita": "g"
+        },
+        {
+          "nome": "Cipolla",
+          "adulto": 20,
+          "bambino": 15,
+          "unita": "g"
+        },
+        {
+          "nome": "Patate",
+          "adulto": 40,
+          "bambino": 30,
+          "unita": "g"
+        },
+        {
+          "nome": "Pomodorino",
+          "adulto": 20,
+          "bambino": 15,
+          "unita": "g",
+          "facoltativo": true
+        },
+        {
+          "nome": "Olio extravergine d'oliva",
+          "adulto": 0.5,
+          "bambino": 0.5,
+          "unita": "cucchiaio"
+        },
+        {
+          "nome": "Sale",
+          "unita": "qb"
+        },
+        {
+          "nome": "Parmigiano Reggiano grattugiato",
+          "adulto": 5,
+          "bambino": 5,
+          "unita": "g",
+          "nota": "da aggiungere nel piatto",
+          "facoltativo": true,
+          "allergeni": [
+            "latte"
+          ]
+        }
+      ],
+      "passaggi": [
+        "Lava e pela le verdure e tagliale a pezzi grandi.",
+        "Mettile in una pentola con l'acqua fredda: partire da freddo rende il brodo più saporito.",
+        "Porta a bollore, abbassa la fiamma al minimo e cuoci 45 minuti con il coperchio appena sollevato.",
+        "Filtra il brodo e salalo.",
+        "Riportalo a bollore, versa la pastina e cuocila per il tempo indicato sulla confezione, mescolando ogni tanto.",
+        "Servi con un filo d'olio a crudo."
+      ],
+      "consigli": [
+        "Le verdure del brodo non si buttano: schiacciate con una forchetta e condite con olio diventano un contorno.",
+        "Il brodo si può preparare in anticipo e congelare in porzioni."
+      ],
+      "conservazione": "Il brodo si conserva 2 giorni in frigorifero; la pastina va cotta al momento.",
+      "riferimento": "https://www.fattoincasadabenedetta.it/consigli-furbi/come-fare-il-brodo-vegetale/"
+    },
+    {
+      "id": "pasta-al-pomodoro-e-basilico",
+      "nome": "Pasta al pomodoro e basilico",
+      "portata": "primo",
+      "gruppo": "cereali",
+      "difficolta": "facile",
+      "tempoPreparazione": 5,
+      "tempoCottura": 20,
+      "allergeni": [
+        "glutine"
+      ],
+      "ingredienti": [
+        {
+          "nome": "Pasta",
+          "adulto": 80,
+          "bambino": 60,
+          "unita": "g"
+        },
+        {
+          "nome": "Passata di pomodoro",
+          "adulto": 100,
+          "bambino": 70,
+          "unita": "g"
+        },
+        {
+          "nome": "Aglio",
+          "perRicetta": 1,
+          "unita": "spicchio",
+          "nota": "intero, da togliere",
+          "facoltativo": true
+        },
+        {
+          "nome": "Basilico",
+          "adulto": 3,
+          "bambino": 2,
+          "unita": "foglia"
+        },
+        {
+          "nome": "Olio extravergine d'oliva",
+          "adulto": 1,
+          "bambino": 0.5,
+          "unita": "cucchiaio"
+        },
+        {
+          "nome": "Sale",
+          "unita": "qb"
+        },
+        {
+          "nome": "Parmigiano Reggiano grattugiato",
+          "adulto": 5,
+          "bambino": 5,
+          "unita": "g",
+          "nota": "da aggiungere nel piatto",
+          "facoltativo": true,
+          "allergeni": [
+            "latte"
+          ]
+        }
+      ],
+      "passaggi": [
+        "In una padella scalda l'olio con l'eventuale spicchio d'aglio schiacciato per 1–2 minuti a fuoco basso, senza farlo scurire.",
+        "Togli l'aglio, versa la passata, sala e cuoci a fuoco basso per 15 minuti, finché il sugo si addensa.",
+        "Intanto cuoci la pasta in abbondante acqua salata e scolala un minuto prima del tempo indicato, tenendo da parte un mestolo di acqua di cottura.",
+        "Versa la pasta nel sugo, aggiungi poca acqua di cottura e mescola a fuoco vivace per un minuto.",
+        "Spegni e completa con il basilico spezzettato a mano."
+      ],
+      "consigli": [
+        "Se il pomodoro è acido, un pizzico di zucchero nel sugo lo addolcisce."
+      ],
+      "riferimento": "https://www.misya.info/ricetta/pasta-al-pomodoro.htm"
+    },
+    {
+      "id": "pasta-con-le-zucchine",
+      "nome": "Pasta con le zucchine",
+      "portata": "primo",
+      "gruppo": "cereali",
+      "difficolta": "facile",
+      "tempoPreparazione": 10,
+      "tempoCottura": 20,
+      "allergeni": [
+        "glutine"
+      ],
+      "ingredienti": [
+        {
+          "nome": "Pasta corta",
+          "adulto": 80,
+          "bambino": 60,
+          "unita": "g"
+        },
+        {
+          "nome": "Zucchine",
+          "adulto": 150,
+          "bambino": 100,
+          "unita": "g"
+        },
+        {
+          "nome": "Cipollotto",
+          "adulto": 15,
+          "bambino": 10,
+          "unita": "g"
+        },
+        {
+          "nome": "Olio extravergine d'oliva",
+          "adulto": 1,
+          "bambino": 0.5,
+          "unita": "cucchiaio"
+        },
+        {
+          "nome": "Sale",
+          "unita": "qb"
+        },
+        {
+          "nome": "Basilico o menta",
+          "unita": "qb"
+        },
+        {
+          "nome": "Parmigiano Reggiano grattugiato",
+          "adulto": 10,
+          "bambino": 5,
+          "unita": "g",
+          "facoltativo": true,
+          "allergeni": [
+            "latte"
+          ]
+        }
+      ],
+      "passaggi": [
+        "Taglia le zucchine a cubetti piccoli e il cipollotto a rondelle sottili.",
+        "In una padella scalda l'olio e fai appassire il cipollotto per 2 minuti.",
+        "Aggiungi le zucchine, sala, unisci mezzo bicchiere d'acqua e cuoci con il coperchio per 10–12 minuti, finché sono morbide.",
+        "Frulla metà delle zucchine con un po' di acqua di cottura della pasta: diventa la crema che lega il condimento.",
+        "Cuoci la pasta in acqua salata, scolala al dente e saltala in padella con la crema e i cubetti rimasti.",
+        "Completa con basilico o menta e, se vuoi, il parmigiano."
+      ],
+      "riferimento": "https://www.cucchiaio.it/ricetta/pasta-con-zucchine/"
+    },
+    {
+      "id": "pasta-con-i-broccoli",
+      "nome": "Pasta con i broccoli",
+      "portata": "primo",
+      "gruppo": "cereali",
+      "difficolta": "facile",
+      "tempoPreparazione": 10,
+      "tempoCottura": 20,
+      "allergeni": [
+        "glutine"
+      ],
+      "ingredienti": [
+        {
+          "nome": "Pasta corta o orecchiette",
+          "adulto": 80,
+          "bambino": 60,
+          "unita": "g"
+        },
+        {
+          "nome": "Broccoli (cimette)",
+          "adulto": 150,
+          "bambino": 100,
+          "unita": "g"
+        },
+        {
+          "nome": "Aglio",
+          "perRicetta": 1,
+          "unita": "spicchio",
+          "nota": "intero, da togliere",
+          "facoltativo": true
+        },
+        {
+          "nome": "Olio extravergine d'oliva",
+          "adulto": 1.5,
+          "bambino": 1,
+          "unita": "cucchiaio"
+        },
+        {
+          "nome": "Sale",
+          "unita": "qb"
+        },
+        {
+          "nome": "Parmigiano Reggiano grattugiato",
+          "adulto": 5,
+          "bambino": 5,
+          "unita": "g",
+          "nota": "da aggiungere nel piatto",
+          "facoltativo": true,
+          "allergeni": [
+            "latte"
+          ]
+        }
+      ],
+      "passaggi": [
+        "Porta a bollore una pentola d'acqua salata e cuoci le cimette per 5–6 minuti.",
+        "Recuperale con una schiumarola e, nella stessa acqua, cuoci la pasta: prende il sapore del broccolo.",
+        "Intanto scalda l'olio in padella con l'eventuale aglio schiacciato per un minuto, poi toglilo.",
+        "Aggiungi i broccoli e schiacciali con una forchetta, con un mestolo di acqua di cottura, fino a ottenere una crema grossolana.",
+        "Scola la pasta al dente, versala in padella e mescola a fuoco vivace per un minuto."
+      ],
+      "consigli": [
+        "Niente peperoncino né acciughe per i bambini: gli adulti possono aggiungerli nel proprio piatto."
+      ],
+      "riferimento": "https://www.misya.info/ricetta/pasta-con-i-broccoli.htm"
+    },
+    {
+      "id": "pasta-al-pesto",
+      "nome": "Pasta al pesto",
+      "portata": "primo",
+      "gruppo": "cereali",
+      "difficolta": "facile",
+      "tempoPreparazione": 15,
+      "tempoCottura": 10,
+      "allergeni": [
+        "glutine",
+        "latte",
+        "fruttaAGuscio"
+      ],
+      "ingredienti": [
+        {
+          "nome": "Pasta (trofie, trenette o fusilli)",
+          "adulto": 80,
+          "bambino": 60,
+          "unita": "g"
+        },
+        {
+          "nome": "Basilico (foglie)",
+          "adulto": 10,
+          "bambino": 7,
+          "unita": "g"
+        },
+        {
+          "nome": "Parmigiano Reggiano grattugiato",
+          "adulto": 12,
+          "bambino": 8,
+          "unita": "g"
+        },
+        {
+          "nome": "Pinoli",
+          "adulto": 5,
+          "bambino": 3,
+          "unita": "g"
+        },
+        {
+          "nome": "Olio extravergine d'oliva",
+          "adulto": 2,
+          "bambino": 1.5,
+          "unita": "cucchiaio"
+        },
+        {
+          "nome": "Aglio",
+          "perRicetta": 1,
+          "unita": "spicchio",
+          "nota": "per i bambini meglio mezzo o niente",
+          "facoltativo": true
+        },
+        {
+          "nome": "Sale grosso",
+          "unita": "qb",
+          "nota": "un pizzico"
+        }
+      ],
+      "passaggi": [
+        "Lava le foglie di basilico e asciugale benissimo, tamponandole con un canovaccio: l'acqua rovina il pesto.",
+        "Metti il bicchiere del mixer in freezer per 10 minuti: il basilico non si scalda e resta verde.",
+        "Frulla a scatti brevi pinoli, aglio e sale, poi aggiungi il basilico e l'olio a filo, sempre a scatti.",
+        "Trasferisci in una ciotola e incorpora il parmigiano con un cucchiaio.",
+        "Cuoci la pasta in acqua salata; prima di scolarla, diluisci il pesto con 1–2 cucchiai di acqua di cottura.",
+        "Condisci la pasta fuori dal fuoco: il pesto non va scaldato."
+      ],
+      "conservazione": "Il pesto si conserva 3 giorni in frigorifero coperto da un velo d'olio, o in freezer in piccole porzioni.",
+      "riferimento": "https://www.fattoincasadabenedetta.it/ricetta/pasta-al-pesto/"
+    },
+    {
+      "id": "pasta-e-patate",
+      "nome": "Pasta e patate",
+      "portata": "primo",
+      "gruppo": "cereali",
+      "difficolta": "facile",
+      "tempoPreparazione": 15,
+      "tempoCottura": 30,
+      "allergeni": [
+        "glutine"
+      ],
+      "ingredienti": [
+        {
+          "nome": "Pasta mista o corta",
+          "adulto": 60,
+          "bambino": 40,
+          "unita": "g"
+        },
+        {
+          "nome": "Patate",
+          "adulto": 150,
+          "bambino": 100,
+          "unita": "g"
+        },
+        {
+          "nome": "Cipolla",
+          "adulto": 20,
+          "bambino": 15,
+          "unita": "g"
+        },
+        {
+          "nome": "Carote",
+          "adulto": 20,
+          "bambino": 15,
+          "unita": "g"
+        },
+        {
+          "nome": "Passata di pomodoro",
+          "adulto": 20,
+          "bambino": 15,
+          "unita": "g",
+          "facoltativo": true
+        },
+        {
+          "nome": "Acqua calda",
+          "adulto": 250,
+          "bambino": 170,
+          "unita": "ml"
+        },
+        {
+          "nome": "Olio extravergine d'oliva",
+          "adulto": 1,
+          "bambino": 0.5,
+          "unita": "cucchiaio"
+        },
+        {
+          "nome": "Sale",
+          "unita": "qb"
+        },
+        {
+          "nome": "Crosta di parmigiano",
+          "perRicetta": 1,
+          "unita": "pz",
+          "nota": "ben pulita e raschiata",
+          "facoltativo": true,
+          "allergeni": [
+            "latte"
+          ]
+        },
+        {
+          "nome": "Parmigiano Reggiano grattugiato",
+          "adulto": 10,
+          "bambino": 5,
+          "unita": "g",
+          "facoltativo": true,
+          "allergeni": [
+            "latte"
+          ]
+        }
+      ],
+      "passaggi": [
+        "Trita finemente cipolla e carota; pela le patate e tagliale a cubetti di 1 cm.",
+        "In una pentola dal fondo spesso scalda l'olio e fai appassire il trito per 5 minuti a fuoco basso.",
+        "Aggiungi le patate e lasciale insaporire 2 minuti, poi unisci l'acqua calda, l'eventuale passata e la crosta di parmigiano.",
+        "Cuoci 15 minuti, finché le patate sono morbide; schiacciane qualcuna con il mestolo per addensare.",
+        "Sala, versa la pasta e cuocila direttamente nella pentola, mescolando spesso e aggiungendo acqua calda se serve.",
+        "Deve risultare cremosa, non brodosa. Togli la crosta, spegni e lascia riposare 2 minuti; completa con il parmigiano."
+      ],
+      "consigli": [
+        "Gli adulti possono aggiungere nel piatto un cubetto di provola, che fila col calore."
+      ],
+      "riferimento": "https://www.cucchiaio.it/ricetta/pasta-e-patate/"
+    },
+    {
+      "id": "pasta-e-ceci",
+      "nome": "Pasta e ceci",
+      "portata": "primo",
+      "gruppo": "legumi",
+      "difficolta": "facile",
+      "tempoPreparazione": 10,
+      "tempoCottura": 30,
+      "allergeni": [
+        "glutine"
+      ],
+      "ingredienti": [
+        {
+          "nome": "Pasta corta (ditalini)",
+          "adulto": 60,
+          "bambino": 40,
+          "unita": "g"
+        },
+        {
+          "nome": "Ceci lessati",
+          "adulto": 120,
+          "bambino": 80,
+          "unita": "g",
+          "nota": "in scatola, sciacquati"
+        },
+        {
+          "nome": "Cipolla",
+          "adulto": 15,
+          "bambino": 10,
+          "unita": "g"
+        },
+        {
+          "nome": "Carote",
+          "adulto": 15,
+          "bambino": 10,
+          "unita": "g"
+        },
+        {
+          "nome": "Passata di pomodoro",
+          "adulto": 20,
+          "bambino": 15,
+          "unita": "g",
+          "facoltativo": true
+        },
+        {
+          "nome": "Acqua calda",
+          "adulto": 250,
+          "bambino": 170,
+          "unita": "ml"
+        },
+        {
+          "nome": "Rosmarino",
+          "perRicetta": 1,
+          "unita": "rametto"
+        },
+        {
+          "nome": "Olio extravergine d'oliva",
+          "adulto": 1,
+          "bambino": 0.5,
+          "unita": "cucchiaio"
+        },
+        {
+          "nome": "Sale",
+          "unita": "qb"
+        }
+      ],
+      "passaggi": [
+        "Trita finemente cipolla e carota e falle appassire nell'olio per 5 minuti a fuoco basso.",
+        "Aggiungi i ceci scolati, il rosmarino e l'eventuale passata; lascia insaporire 2 minuti.",
+        "Copri con l'acqua calda e cuoci 15 minuti.",
+        "Togli il rosmarino e frulla circa metà dei ceci direttamente nella pentola: il piatto diventa cremoso.",
+        "Sala, versa la pasta e cuocila nella pentola mescolando spesso, aggiungendo acqua calda se si asciuga troppo.",
+        "Spegni, lascia riposare 2 minuti e servi con un filo d'olio a crudo."
+      ],
+      "riferimento": "https://www.cucchiaio.it/ricetta/pasta-e-ceci/"
+    },
+    {
+      "id": "pasta-e-fagioli",
+      "nome": "Pasta e fagioli",
+      "portata": "primo",
+      "gruppo": "legumi",
+      "difficolta": "facile",
+      "tempoPreparazione": 10,
+      "tempoCottura": 30,
+      "allergeni": [
+        "glutine",
+        "sedano"
+      ],
+      "ingredienti": [
+        {
+          "nome": "Pasta corta (ditalini o pasta mista)",
+          "adulto": 60,
+          "bambino": 40,
+          "unita": "g"
+        },
+        {
+          "nome": "Fagioli borlotti lessati",
+          "adulto": 120,
+          "bambino": 80,
+          "unita": "g",
+          "nota": "in scatola, sciacquati"
+        },
+        {
+          "nome": "Cipolla",
+          "adulto": 15,
+          "bambino": 10,
+          "unita": "g"
+        },
+        {
+          "nome": "Carote",
+          "adulto": 15,
+          "bambino": 10,
+          "unita": "g"
+        },
+        {
+          "nome": "Sedano",
+          "adulto": 15,
+          "bambino": 10,
+          "unita": "g"
+        },
+        {
+          "nome": "Passata di pomodoro",
+          "adulto": 40,
+          "bambino": 30,
+          "unita": "g"
+        },
+        {
+          "nome": "Acqua calda",
+          "adulto": 250,
+          "bambino": 170,
+          "unita": "ml"
+        },
+        {
+          "nome": "Rosmarino",
+          "perRicetta": 1,
+          "unita": "rametto"
+        },
+        {
+          "nome": "Olio extravergine d'oliva",
+          "adulto": 1,
+          "bambino": 0.5,
+          "unita": "cucchiaio"
+        },
+        {
+          "nome": "Sale",
+          "unita": "qb"
+        }
+      ],
+      "passaggi": [
+        "Trita finemente cipolla, carota e sedano e falli appassire nell'olio per 5 minuti a fuoco basso.",
+        "Aggiungi la passata e il rosmarino e cuoci 5 minuti.",
+        "Unisci i fagioli scolati, copri con l'acqua calda e cuoci 15 minuti.",
+        "Togli il rosmarino e frulla metà dei fagioli direttamente nella pentola.",
+        "Sala, versa la pasta e cuocila nella pentola mescolando spesso, aggiungendo acqua calda se serve.",
+        "Spegni, lascia riposare 2 minuti e servi con un filo d'olio a crudo."
+      ],
+      "consigli": [
+        "Senza cotiche né pancetta resta leggera e adatta ai bambini; il sapore lo danno il soffritto e il rosmarino."
+      ],
+      "conservazione": "1–2 giorni in frigorifero; la pasta assorbe il liquido, allungala con acqua calda quando la scaldi.",
+      "riferimento": "https://www.cucchiaio.it/ricetta/ricetta-pasta-fagioli/"
+    },
+    {
+      "id": "pasta-e-piselli",
+      "nome": "Pasta e piselli",
+      "portata": "primo",
+      "gruppo": "legumi",
+      "difficolta": "facile",
+      "tempoPreparazione": 10,
+      "tempoCottura": 25,
+      "allergeni": [
+        "glutine"
+      ],
+      "ingredienti": [
+        {
+          "nome": "Pasta corta (ditalini o pasta mista)",
+          "adulto": 70,
+          "bambino": 50,
+          "unita": "g"
+        },
+        {
+          "nome": "Piselli surgelati",
+          "adulto": 100,
+          "bambino": 70,
+          "unita": "g"
+        },
+        {
+          "nome": "Cipolla",
+          "adulto": 20,
+          "bambino": 15,
+          "unita": "g"
+        },
+        {
+          "nome": "Acqua calda",
+          "adulto": 200,
+          "bambino": 140,
+          "unita": "ml"
+        },
+        {
+          "nome": "Olio extravergine d'oliva",
+          "adulto": 1,
+          "bambino": 0.5,
+          "unita": "cucchiaio"
+        },
+        {
+          "nome": "Sale",
+          "unita": "qb"
+        },
+        {
+          "nome": "Parmigiano Reggiano grattugiato",
+          "adulto": 10,
+          "bambino": 5,
+          "unita": "g",
+          "facoltativo": true,
+          "allergeni": [
+            "latte"
+          ]
+        }
+      ],
+      "passaggi": [
+        "Trita finemente la cipolla e falla appassire nell'olio con un goccio d'acqua per 5 minuti a fuoco basso.",
+        "Aggiungi i piselli ancora surgelati e lasciali insaporire 2 minuti.",
+        "Versa metà dell'acqua calda e cuoci 10 minuti.",
+        "Sala, unisci la pasta e cuocila come un risotto, aggiungendo il resto dell'acqua calda poco alla volta.",
+        "Quando la pasta è al dente e il fondo è cremoso, spegni e manteca con il parmigiano."
+      ],
+      "riferimento": "https://www.fattoincasadabenedetta.it/ricetta/pasta-con-i-piselli/"
+    },
+    {
+      "id": "risotto-alla-zucca",
+      "nome": "Risotto alla zucca",
+      "portata": "primo",
+      "gruppo": "cereali",
+      "difficolta": "media",
+      "tempoPreparazione": 15,
+      "tempoCottura": 30,
+      "allergeni": [
+        "latte"
+      ],
+      "ingredienti": [
+        {
+          "nome": "Riso Carnaroli o Arborio",
+          "adulto": 80,
+          "bambino": 60,
+          "unita": "g"
+        },
+        {
+          "nome": "Zucca pulita",
+          "adulto": 120,
+          "bambino": 80,
+          "unita": "g"
+        },
+        {
+          "nome": "Cipolla",
+          "adulto": 15,
+          "bambino": 10,
+          "unita": "g"
+        },
+        {
+          "nome": "Brodo vegetale caldo",
+          "adulto": 300,
+          "bambino": 220,
+          "unita": "ml",
+          "nota": "fatto in casa con carota, cipolla e patata, senza sedano; se usi il dado, controlla l'etichetta"
+        },
+        {
+          "nome": "Burro",
+          "adulto": 10,
+          "bambino": 5,
+          "unita": "g"
+        },
+        {
+          "nome": "Parmigiano Reggiano grattugiato",
+          "adulto": 15,
+          "bambino": 10,
+          "unita": "g"
+        },
+        {
+          "nome": "Olio extravergine d'oliva",
+          "adulto": 0.5,
+          "bambino": 0.5,
+          "unita": "cucchiaio"
+        },
+        {
+          "nome": "Sale",
+          "unita": "qb"
+        }
+      ],
+      "passaggi": [
+        "Taglia la zucca a cubetti piccoli e trita finemente la cipolla. Tieni il brodo caldo su un fornello vicino.",
+        "In una casseruola scalda l'olio e fai appassire la cipolla per 3 minuti a fuoco basso.",
+        "Aggiungi la zucca e un mestolo di brodo e cuoci 10 minuti, finché inizia a sfaldarsi.",
+        "Versa il riso e tostalo 2 minuti mescolando.",
+        "Aggiungi il brodo un mestolo alla volta, aspettando che venga assorbito, per 16–18 minuti. Assaggia e sala.",
+        "Spegni, manteca con burro e parmigiano, copri e lascia riposare 2 minuti prima di servire."
+      ],
+      "consigli": [
+        "Senza vino, a differenza del risotto classico: la zucca basta a dare sapore."
+      ],
+      "riferimento": "https://www.fattoincasadabenedetta.it/ricetta/risotto-alla-zucca/"
+    },
+    {
+      "id": "risotto-alla-parmigiana",
+      "nome": "Risotto alla parmigiana",
+      "portata": "primo",
+      "gruppo": "cereali",
+      "difficolta": "media",
+      "tempoPreparazione": 5,
+      "tempoCottura": 20,
+      "allergeni": [
+        "latte"
+      ],
+      "ingredienti": [
+        {
+          "nome": "Riso Carnaroli o Arborio",
+          "adulto": 80,
+          "bambino": 60,
+          "unita": "g"
+        },
+        {
+          "nome": "Cipolla",
+          "adulto": 15,
+          "bambino": 10,
+          "unita": "g"
+        },
+        {
+          "nome": "Brodo vegetale caldo",
+          "adulto": 300,
+          "bambino": 220,
+          "unita": "ml",
+          "nota": "fatto in casa con carota, cipolla e patata, senza sedano; se usi il dado, controlla l'etichetta"
+        },
+        {
+          "nome": "Burro",
+          "adulto": 15,
+          "bambino": 10,
+          "unita": "g"
+        },
+        {
+          "nome": "Parmigiano Reggiano grattugiato",
+          "adulto": 20,
+          "bambino": 15,
+          "unita": "g"
+        },
+        {
+          "nome": "Olio extravergine d'oliva",
+          "adulto": 0.5,
+          "bambino": 0.5,
+          "unita": "cucchiaio"
+        },
+        {
+          "nome": "Sale",
+          "unita": "qb"
+        }
+      ],
+      "passaggi": [
+        "Trita finemente la cipolla e tieni il brodo caldo su un fornello vicino.",
+        "In una casseruola scalda l'olio con metà del burro e fai appassire la cipolla per 3 minuti a fuoco basso.",
+        "Versa il riso e tostalo 2 minuti mescolando, finché i chicchi diventano lucidi.",
+        "Aggiungi il brodo un mestolo alla volta, aspettando che venga assorbito, per 16–18 minuti. Assaggia e sala.",
+        "Spegni, manteca con il burro rimasto e il parmigiano, copri e lascia riposare 2 minuti."
+      ],
+      "riferimento": "https://www.misya.info/ricetta/risotto-alla-parmigiana.htm"
+    },
+    {
+      "id": "merluzzo-al-forno",
+      "nome": "Merluzzo al forno",
+      "portata": "secondo",
+      "gruppo": "pesce",
+      "difficolta": "facile",
+      "tempoPreparazione": 10,
+      "tempoCottura": 20,
+      "allergeni": [
+        "pesce"
+      ],
+      "ingredienti": [
+        {
+          "nome": "Filetti di merluzzo",
+          "adulto": 150,
+          "bambino": 100,
+          "unita": "g",
+          "nota": "freschi, o surgelati scongelati in frigorifero e asciugati"
+        },
+        {
+          "nome": "Pomodorini",
+          "adulto": 50,
+          "bambino": 30,
+          "unita": "g",
+          "facoltativo": true
+        },
+        {
+          "nome": "Succo di limone",
+          "adulto": 1,
+          "bambino": 0.5,
+          "unita": "cucchiaino"
+        },
+        {
+          "nome": "Prezzemolo",
+          "unita": "qb"
+        },
+        {
+          "nome": "Olio extravergine d'oliva",
+          "adulto": 1,
+          "bambino": 0.5,
+          "unita": "cucchiaio"
+        },
+        {
+          "nome": "Sale",
+          "unita": "qb"
+        },
+        {
+          "nome": "Pangrattato",
+          "adulto": 10,
+          "bambino": 5,
+          "unita": "g",
+          "nota": "per una crosticina dorata",
+          "facoltativo": true,
+          "allergeni": [
+            "glutine"
+          ]
+        }
+      ],
+      "passaggi": [
+        "Accendi il forno statico a 200 °C e fodera una teglia con carta forno.",
+        "Asciuga i filetti con carta da cucina e passa le dita sulla polpa per sentire ed eliminare eventuali spine.",
+        "Sistemali nella teglia con i pomodorini tagliati a metà intorno.",
+        "Condisci con olio, sale, succo di limone e prezzemolo tritato; se vuoi, spolvera con il pangrattato.",
+        "Cuoci 15–20 minuti (12–15 se i filetti sono sottili): il pesce è pronto quando si sfalda con una forchetta."
+      ],
+      "riferimento": "https://www.misya.info/ricetta/filetto-di-merluzzo-al-forno.htm"
+    },
+    {
+      "id": "orata-al-cartoccio",
+      "nome": "Orata al cartoccio",
+      "portata": "secondo",
+      "gruppo": "pesce",
+      "difficolta": "facile",
+      "tempoPreparazione": 15,
+      "tempoCottura": 30,
+      "allergeni": [
+        "pesce"
+      ],
+      "ingredienti": [
+        {
+          "nome": "Orata intera, pulita",
+          "adulto": 300,
+          "bambino": 180,
+          "unita": "g",
+          "nota": "un'orata da 350–400 g basta per un adulto e un bambino: arrotonda al numero di pesci"
+        },
+        {
+          "nome": "Fette di limone",
+          "adulto": 2,
+          "bambino": 1,
+          "unita": "pz"
+        },
+        {
+          "nome": "Rosmarino o timo",
+          "unita": "qb"
+        },
+        {
+          "nome": "Prezzemolo",
+          "unita": "qb"
+        },
+        {
+          "nome": "Aglio",
+          "perRicetta": 1,
+          "unita": "spicchio",
+          "facoltativo": true
+        },
+        {
+          "nome": "Olio extravergine d'oliva",
+          "adulto": 1,
+          "bambino": 0.5,
+          "unita": "cucchiaio"
+        },
+        {
+          "nome": "Sale",
+          "unita": "qb"
+        }
+      ],
+      "passaggi": [
+        "Accendi il forno statico a 180 °C.",
+        "Sciacqua l'orata dentro e fuori sotto l'acqua fredda e asciugala.",
+        "Sala la pancia e riempila con fette di limone, erbe e l'eventuale aglio.",
+        "Appoggiala su un foglio di carta forno grande (con sotto uno d'alluminio), condisci con olio e sale e chiudi bene i bordi a pacchetto.",
+        "Cuoci 25–30 minuti per un'orata da 350–400 g.",
+        "Apri il cartoccio a tavola e sfiletta il pesce, eliminando lisca e spine."
+      ],
+      "consigli": [
+        "Per i bambini controlla due volte la polpa: le spine piccole stanno lungo il dorso."
+      ],
+      "riferimento": "https://www.fattoincasadabenedetta.it/ricetta/orata-al-cartoccio/"
+    },
+    {
+      "id": "polpette-di-salmone-al-forno",
+      "nome": "Polpette di salmone al forno",
+      "portata": "secondo",
+      "gruppo": "pesce",
+      "difficolta": "media",
+      "tempoPreparazione": 20,
+      "tempoCottura": 20,
+      "tempoRiposo": 20,
+      "allergeni": [
+        "pesce",
+        "glutine",
+        "uova"
+      ],
+      "ingredienti": [
+        {
+          "nome": "Filetto di salmone fresco, senza pelle",
+          "adulto": 100,
+          "bambino": 70,
+          "unita": "g"
+        },
+        {
+          "nome": "Patate",
+          "adulto": 60,
+          "bambino": 40,
+          "unita": "g"
+        },
+        {
+          "nome": "Uova",
+          "adulto": 0.25,
+          "bambino": 0.2,
+          "unita": "pz"
+        },
+        {
+          "nome": "Pangrattato",
+          "adulto": 15,
+          "bambino": 10,
+          "unita": "g",
+          "nota": "più quello per la panatura"
+        },
+        {
+          "nome": "Prezzemolo",
+          "unita": "qb"
+        },
+        {
+          "nome": "Scorza di limone grattugiata",
+          "unita": "qb",
+          "facoltativo": true
+        },
+        {
+          "nome": "Olio extravergine d'oliva",
+          "adulto": 1,
+          "bambino": 0.5,
+          "unita": "cucchiaio"
+        },
+        {
+          "nome": "Sale",
+          "unita": "qb"
+        }
+      ],
+      "passaggi": [
+        "Lessa le patate con la buccia (20–25 minuti), pelale e schiacciale.",
+        "Elimina eventuali spine dal salmone e tritalo al coltello in pezzetti piccoli, o con pochi scatti di mixer.",
+        "In una ciotola mescola salmone, patate, uovo, prezzemolo tritato, scorza di limone e sale.",
+        "Aggiungi il pangrattato poco alla volta, finché l'impasto si lavora senza attaccarsi alle mani. Riponilo in frigorifero per 20 minuti.",
+        "Accendi il forno ventilato a 190 °C. Forma delle polpette grandi come una noce e passale nel pangrattato.",
+        "Sistemale su una teglia con carta forno, condisci con un filo d'olio e cuoci 18–20 minuti, girandole a metà cottura."
+      ],
+      "consigli": [
+        "Usa salmone fresco, non affumicato: quello affumicato è molto salato per i bambini."
+      ],
+      "conservazione": "Crude si congelano bene: cuocile senza scongelarle, con qualche minuto in più.",
+      "riferimento": "https://www.misya.info/ricetta/polpette-di-salmone.htm"
+    },
+    {
+      "id": "platessa-impanata-al-forno",
+      "nome": "Platessa impanata al forno",
+      "portata": "secondo",
+      "gruppo": "pesce",
+      "difficolta": "facile",
+      "tempoPreparazione": 10,
+      "tempoCottura": 15,
+      "allergeni": [
+        "pesce",
+        "glutine"
+      ],
+      "ingredienti": [
+        {
+          "nome": "Filetti di platessa",
+          "adulto": 150,
+          "bambino": 100,
+          "unita": "g"
+        },
+        {
+          "nome": "Pangrattato",
+          "adulto": 20,
+          "bambino": 15,
+          "unita": "g"
+        },
+        {
+          "nome": "Prezzemolo",
+          "unita": "qb"
+        },
+        {
+          "nome": "Scorza di limone grattugiata",
+          "unita": "qb",
+          "facoltativo": true
+        },
+        {
+          "nome": "Olio extravergine d'oliva",
+          "adulto": 1.5,
+          "bambino": 1,
+          "unita": "cucchiaio"
+        },
+        {
+          "nome": "Sale",
+          "unita": "qb"
+        }
+      ],
+      "passaggi": [
+        "Accendi il forno ventilato a 200 °C e fodera una teglia con carta forno.",
+        "Asciuga bene i filetti con carta da cucina.",
+        "In un piatto mescola il pangrattato con prezzemolo tritato, scorza di limone e un pizzico di sale.",
+        "Spennella i filetti con olio su entrambi i lati: l'olio prende il posto dell'uovo e fa aderire la panatura.",
+        "Passali nel pangrattato premendo bene e sistemali nella teglia, con un filo d'olio sopra.",
+        "Cuoci 12–15 minuti senza girarli; negli ultimi 2 minuti accendi il grill per dorarli."
+      ],
+      "riferimento": "https://www.misya.info/ricetta/filetti-di-pesce-impanati-al-forno.htm"
+    },
+    {
+      "id": "polpette-di-ceci-al-forno",
+      "nome": "Polpette di ceci al forno",
+      "portata": "secondo",
+      "gruppo": "legumi",
+      "difficolta": "facile",
+      "tempoPreparazione": 20,
+      "tempoCottura": 25,
+      "tempoRiposo": 15,
+      "allergeni": [
+        "glutine"
+      ],
+      "ingredienti": [
+        {
+          "nome": "Ceci lessati",
+          "adulto": 130,
+          "bambino": 90,
+          "unita": "g",
+          "nota": "in scatola, sciacquati e ben asciugati"
+        },
+        {
+          "nome": "Patate",
+          "adulto": 40,
+          "bambino": 30,
+          "unita": "g",
+          "nota": "lessate: legano l'impasto senza uovo"
+        },
+        {
+          "nome": "Pangrattato",
+          "adulto": 15,
+          "bambino": 10,
+          "unita": "g",
+          "nota": "più quello per la panatura"
+        },
+        {
+          "nome": "Prezzemolo",
+          "unita": "qb"
+        },
+        {
+          "nome": "Cumino",
+          "unita": "qb",
+          "facoltativo": true
+        },
+        {
+          "nome": "Olio extravergine d'oliva",
+          "adulto": 1,
+          "bambino": 0.5,
+          "unita": "cucchiaio"
+        },
+        {
+          "nome": "Sale",
+          "unita": "qb"
+        }
+      ],
+      "passaggi": [
+        "Lessa la patata, pelala e schiacciala.",
+        "Frulla i ceci con la patata, il prezzemolo, il sale e l'eventuale cumino fino a un composto grossolano.",
+        "Aggiungi il pangrattato poco alla volta, finché l'impasto si compatta. Riponilo in frigorifero per 15 minuti.",
+        "Accendi il forno ventilato a 190 °C. Forma delle polpette grandi come una noce e passale nel pangrattato.",
+        "Sistemale su una teglia con carta forno, condisci con un filo d'olio e cuoci 20–25 minuti, girandole a metà cottura."
+      ],
+      "consigli": [
+        "Se l'impasto è troppo morbido, aggiungi un cucchiaio di pangrattato alla volta."
+      ],
+      "conservazione": "2 giorni in frigorifero; crude si possono congelare.",
+      "riferimento": "https://www.cucchiaio.it/ricetta/polpette-di-ceci-al-forno/"
+    },
+    {
+      "id": "hummus-di-ceci-con-pane",
+      "nome": "Hummus di ceci con pane",
+      "portata": "secondo",
+      "gruppo": "legumi",
+      "difficolta": "moltoFacile",
+      "tempoPreparazione": 10,
+      "tempoCottura": 0,
+      "allergeni": [
+        "sesamo",
+        "glutine"
+      ],
+      "ingredienti": [
+        {
+          "nome": "Ceci lessati",
+          "adulto": 120,
+          "bambino": 80,
+          "unita": "g",
+          "nota": "in scatola, sciacquati"
+        },
+        {
+          "nome": "Tahina (crema di sesamo)",
+          "adulto": 1,
+          "bambino": 0.5,
+          "unita": "cucchiaio"
+        },
+        {
+          "nome": "Succo di limone",
+          "adulto": 1,
+          "bambino": 0.5,
+          "unita": "cucchiaino"
+        },
+        {
+          "nome": "Acqua fredda",
+          "adulto": 2,
+          "bambino": 1,
+          "unita": "cucchiaio"
+        },
+        {
+          "nome": "Olio extravergine d'oliva",
+          "adulto": 1,
+          "bambino": 0.5,
+          "unita": "cucchiaio"
+        },
+        {
+          "nome": "Aglio",
+          "perRicetta": 1,
+          "unita": "spicchio",
+          "nota": "per i bambini meglio senza",
+          "facoltativo": true
+        },
+        {
+          "nome": "Sale",
+          "unita": "qb"
+        },
+        {
+          "nome": "Paprika dolce",
+          "unita": "qb",
+          "facoltativo": true
+        },
+        {
+          "nome": "Pane",
+          "adulto": 60,
+          "bambino": 40,
+          "unita": "g"
+        }
+      ],
+      "passaggi": [
+        "Sciacqua i ceci; per una crema più liscia, togli le bucce strofinandoli tra le mani.",
+        "Frulla ceci, tahina, succo di limone, sale e l'eventuale aglio, aggiungendo l'acqua a filo.",
+        "Continua per 2–3 minuti finché la crema è liscia; regola con altra acqua se è troppo densa.",
+        "Versala in una ciotola, condisci con l'olio e un pizzico di paprika.",
+        "Servi con il pane tostato tagliato a bastoncini, da intingere."
+      ],
+      "conservazione": "3 giorni in frigorifero in un contenitore chiuso.",
+      "riferimento": "https://www.fattoincasadabenedetta.it/ricetta/hummus-ceci/"
+    },
+    {
+      "id": "burger-di-lenticchie-al-forno",
+      "nome": "Burger di lenticchie al forno",
+      "portata": "secondo",
+      "gruppo": "legumi",
+      "difficolta": "media",
+      "tempoPreparazione": 20,
+      "tempoCottura": 25,
+      "tempoRiposo": 30,
+      "allergeni": [
+        "glutine"
+      ],
+      "ingredienti": [
+        {
+          "nome": "Lenticchie rosse decorticate (secche)",
+          "adulto": 50,
+          "bambino": 35,
+          "unita": "g"
+        },
+        {
+          "nome": "Carote",
+          "adulto": 30,
+          "bambino": 20,
+          "unita": "g"
+        },
+        {
+          "nome": "Cipolla",
+          "adulto": 10,
+          "bambino": 5,
+          "unita": "g"
+        },
+        {
+          "nome": "Pangrattato",
+          "adulto": 20,
+          "bambino": 15,
+          "unita": "g"
+        },
+        {
+          "nome": "Prezzemolo",
+          "unita": "qb"
+        },
+        {
+          "nome": "Paprika dolce",
+          "unita": "qb",
+          "facoltativo": true
+        },
+        {
+          "nome": "Olio extravergine d'oliva",
+          "adulto": 1,
+          "bambino": 0.5,
+          "unita": "cucchiaio"
+        },
+        {
+          "nome": "Sale",
+          "unita": "qb"
+        }
+      ],
+      "passaggi": [
+        "Cuoci le lenticchie in acqua salata per 10–12 minuti: devono essere morbide ma non sfatte. Scolale benissimo.",
+        "Grattugia la carota, trita la cipolla e falle appassire in padella con poco olio per 5 minuti.",
+        "In una ciotola schiaccia le lenticchie con la forchetta e unisci le verdure, il prezzemolo, la paprika e il sale.",
+        "Aggiungi il pangrattato finché il composto si compatta. Riponilo in frigorifero per 30 minuti.",
+        "Accendi il forno ventilato a 190 °C. Forma dei burger alti 1,5 cm, aiutandoti con un coppapasta.",
+        "Sistemali su una teglia con carta forno, condisci con un filo d'olio e cuoci 20–25 minuti, girandoli a metà cottura."
+      ],
+      "conservazione": "2 giorni in frigorifero; crudi si congelano separati da carta forno.",
+      "riferimento": "https://www.fattoincasadabenedetta.it/ricetta/burger-di-lenticchie/"
+    },
+    {
+      "id": "fagioli-alluccelletto",
+      "nome": "Fagioli all'uccelletto",
+      "portata": "secondo",
+      "gruppo": "legumi",
+      "difficolta": "facile",
+      "tempoPreparazione": 5,
+      "tempoCottura": 25,
+      "allergeni": [],
+      "ingredienti": [
+        {
+          "nome": "Fagioli cannellini lessati",
+          "adulto": 150,
+          "bambino": 100,
+          "unita": "g",
+          "nota": "in scatola, sciacquati; tieni un po' del loro liquido"
+        },
+        {
+          "nome": "Passata di pomodoro",
+          "adulto": 80,
+          "bambino": 55,
+          "unita": "g"
+        },
+        {
+          "nome": "Salvia",
+          "perRicetta": 3,
+          "unita": "foglia"
+        },
+        {
+          "nome": "Aglio",
+          "perRicetta": 1,
+          "unita": "spicchio",
+          "nota": "intero, da togliere"
+        },
+        {
+          "nome": "Olio extravergine d'oliva",
+          "adulto": 1,
+          "bambino": 0.5,
+          "unita": "cucchiaio"
+        },
+        {
+          "nome": "Sale",
+          "unita": "qb"
+        },
+        {
+          "nome": "Pepe",
+          "unita": "qb",
+          "nota": "solo per gli adulti",
+          "facoltativo": true
+        }
+      ],
+      "passaggi": [
+        "In un tegame scalda l'olio con l'aglio schiacciato e la salvia per 2 minuti a fuoco basso.",
+        "Versa la passata, sala e cuoci 5 minuti.",
+        "Aggiungi i fagioli con un paio di cucchiai d'acqua e cuoci 15–20 minuti a fuoco basso, mescolando con delicatezza.",
+        "Quando il sugo è denso e avvolge i fagioli, togli l'aglio e servi con un filo d'olio a crudo."
+      ],
+      "conservazione": "2 giorni in frigorifero; il giorno dopo è anche più saporito.",
+      "riferimento": "https://www.cucchiaio.it/ricetta/fagioli-all-uccelletto/"
+    },
+    {
+      "id": "frittata-al-forno",
+      "nome": "Frittata al forno",
+      "portata": "secondo",
+      "gruppo": "uova",
+      "difficolta": "facile",
+      "tempoPreparazione": 10,
+      "tempoCottura": 25,
+      "allergeni": [
+        "uova",
+        "latte"
+      ],
+      "ingredienti": [
+        {
+          "nome": "Uova",
+          "adulto": 2,
+          "bambino": 1,
+          "unita": "pz"
+        },
+        {
+          "nome": "Latte",
+          "adulto": 15,
+          "bambino": 10,
+          "unita": "ml"
+        },
+        {
+          "nome": "Parmigiano Reggiano grattugiato",
+          "adulto": 10,
+          "bambino": 5,
+          "unita": "g"
+        },
+        {
+          "nome": "Prezzemolo",
+          "unita": "qb"
+        },
+        {
+          "nome": "Olio extravergine d'oliva",
+          "adulto": 0.5,
+          "bambino": 0.5,
+          "unita": "cucchiaio"
+        },
+        {
+          "nome": "Sale",
+          "unita": "qb"
+        }
+      ],
+      "passaggi": [
+        "Accendi il forno statico a 180 °C.",
+        "Bagna e strizza un foglio di carta forno e usalo per foderare una teglia: circa 20 cm di diametro per 6 uova.",
+        "Sbatti le uova con latte, parmigiano, prezzemolo tritato e un pizzico di sale.",
+        "Ungi la carta con l'olio, versa il composto e cuoci 20–25 minuti.",
+        "È pronta quando è dorata e, toccando il centro, è soda; uno stecchino deve uscire asciutto."
+      ],
+      "consigli": [
+        "Puoi aggiungere verdure già cotte e ben scolate, come zucchine o patate."
+      ],
+      "conservazione": "2 giorni in frigorifero; è buona anche fredda.",
+      "riferimento": "https://www.misya.info/ricetta/frittata-di-verdure-al-forno.htm"
+    },
+    {
+      "id": "uova-sode",
+      "nome": "Uova sode",
+      "portata": "secondo",
+      "gruppo": "uova",
+      "difficolta": "moltoFacile",
+      "tempoPreparazione": 2,
+      "tempoCottura": 12,
+      "allergeni": [
+        "uova"
+      ],
+      "ingredienti": [
+        {
+          "nome": "Uova",
+          "adulto": 2,
+          "bambino": 1,
+          "unita": "pz",
+          "nota": "a temperatura ambiente, così non si crepano"
+        },
+        {
+          "nome": "Olio extravergine d'oliva",
+          "adulto": 0.5,
+          "bambino": 0.5,
+          "unita": "cucchiaio"
+        },
+        {
+          "nome": "Sale",
+          "unita": "qb"
+        }
+      ],
+      "passaggi": [
+        "Metti le uova in un pentolino e coprile con acqua fredda, che le superi di 2 cm.",
+        "Porta a bollore, poi abbassa la fiamma: l'acqua deve sobbollire, non bollire forte.",
+        "Conta 9 minuti dal bollore.",
+        "Trasferiscile subito in acqua fredda per 5 minuti: si sgusciano meglio e il tuorlo non diventa verde.",
+        "Sgusciale, tagliale a spicchi e condiscile con olio e sale."
+      ],
+      "conservazione": "Con il guscio, 3 giorni in frigorifero.",
+      "riferimento": "https://www.cucchiaio.it/ricetta/uova-sode/"
+    },
+    {
+      "id": "uova-strapazzate",
+      "nome": "Uova strapazzate",
+      "portata": "secondo",
+      "gruppo": "uova",
+      "difficolta": "moltoFacile",
+      "tempoPreparazione": 2,
+      "tempoCottura": 5,
+      "allergeni": [
+        "uova"
+      ],
+      "ingredienti": [
+        {
+          "nome": "Uova",
+          "adulto": 2,
+          "bambino": 1,
+          "unita": "pz"
+        },
+        {
+          "nome": "Olio extravergine d'oliva",
+          "adulto": 1,
+          "bambino": 0.5,
+          "unita": "cucchiaino"
+        },
+        {
+          "nome": "Sale",
+          "unita": "qb"
+        },
+        {
+          "nome": "Erba cipollina",
+          "unita": "qb",
+          "facoltativo": true
+        }
+      ],
+      "passaggi": [
+        "Sbatti le uova con un pizzico di sale.",
+        "Scalda l'olio in una padella antiaderente a fuoco basso.",
+        "Versa le uova e aspetta 20 secondi senza toccarle.",
+        "Con una spatola spingi il composto dai bordi verso il centro, lentamente, per 2–3 minuti.",
+        "Spegni quando sono ancora morbide ma senza parti liquide e servi subito, con l'erba cipollina."
+      ],
+      "consigli": [
+        "Per i bambini le uova devono essere ben rapprese: niente parti crude o liquide."
+      ],
+      "riferimento": "https://www.misya.info/ricetta/uova-strapazzate.htm"
+    },
+    {
+      "id": "tortino-di-zucchine",
+      "nome": "Tortino di zucchine",
+      "portata": "secondo",
+      "gruppo": "uova",
+      "difficolta": "facile",
+      "tempoPreparazione": 20,
+      "tempoCottura": 40,
+      "tempoRiposo": 10,
+      "allergeni": [
+        "uova",
+        "latte",
+        "glutine"
+      ],
+      "ingredienti": [
+        {
+          "nome": "Zucchine",
+          "adulto": 150,
+          "bambino": 100,
+          "unita": "g"
+        },
+        {
+          "nome": "Uova",
+          "adulto": 1,
+          "bambino": 0.5,
+          "unita": "pz"
+        },
+        {
+          "nome": "Ricotta",
+          "adulto": 40,
+          "bambino": 25,
+          "unita": "g"
+        },
+        {
+          "nome": "Parmigiano Reggiano grattugiato",
+          "adulto": 15,
+          "bambino": 10,
+          "unita": "g"
+        },
+        {
+          "nome": "Pangrattato",
+          "adulto": 15,
+          "bambino": 10,
+          "unita": "g"
+        },
+        {
+          "nome": "Basilico",
+          "unita": "qb"
+        },
+        {
+          "nome": "Olio extravergine d'oliva",
+          "adulto": 1,
+          "bambino": 0.5,
+          "unita": "cucchiaio"
+        },
+        {
+          "nome": "Sale",
+          "unita": "qb"
+        }
+      ],
+      "passaggi": [
+        "Grattugia le zucchine con la grattugia a fori grossi, salale leggermente e lasciale in un colino 10 minuti.",
+        "Strizzale bene con le mani: meno acqua resta, più il tortino è compatto.",
+        "Accendi il forno statico a 180 °C.",
+        "In una ciotola mescola zucchine, uova, ricotta, parmigiano, metà del pangrattato e il basilico spezzettato.",
+        "Ungi una teglia, spolverala con un po' di pangrattato e versa il composto livellandolo.",
+        "Copri con il pangrattato rimasto e un filo d'olio e cuoci 35–40 minuti, finché è dorato.",
+        "Lascia riposare 10 minuti prima di tagliarlo."
+      ],
+      "conservazione": "2 giorni in frigorifero.",
+      "riferimento": "https://www.cucchiaio.it/ricetta/tortino-di-zucchine/"
+    },
+    {
+      "id": "petto-di-pollo-alla-piastra",
+      "nome": "Petto di pollo alla piastra",
+      "portata": "secondo",
+      "gruppo": "carneBianca",
+      "difficolta": "facile",
+      "tempoPreparazione": 10,
+      "tempoCottura": 10,
+      "tempoRiposo": 25,
+      "allergeni": [],
+      "ingredienti": [
+        {
+          "nome": "Petto di pollo a fette",
+          "adulto": 130,
+          "bambino": 90,
+          "unita": "g",
+          "nota": "fette di circa 1 cm"
+        },
+        {
+          "nome": "Succo di limone",
+          "adulto": 1,
+          "bambino": 0.5,
+          "unita": "cucchiaio"
+        },
+        {
+          "nome": "Olio extravergine d'oliva",
+          "adulto": 1,
+          "bambino": 0.5,
+          "unita": "cucchiaio"
+        },
+        {
+          "nome": "Rosmarino",
+          "unita": "qb"
+        },
+        {
+          "nome": "Sale",
+          "unita": "qb"
+        }
+      ],
+      "passaggi": [
+        "Batti leggermente le fette con il batticarne, perché abbiano tutte lo stesso spessore e cuociano uniformi.",
+        "Mettile in un piatto con olio, succo di limone e rosmarino e lasciale marinare in frigorifero 20–30 minuti.",
+        "Scalda bene una piastra o una padella antiaderente.",
+        "Scola le fette dalla marinata e cuocile 3–4 minuti per lato, senza muoverle finché non si staccano da sole.",
+        "Sala a fine cottura e lascia riposare 2 minuti prima di tagliarle.",
+        "Dentro devono essere bianche, senza parti rosate."
+      ],
+      "riferimento": "https://www.fattoincasadabenedetta.it/ricetta/tagliata-di-pollo/"
+    },
+    {
+      "id": "tacchino-al-forno",
+      "nome": "Tacchino al forno",
+      "portata": "secondo",
+      "gruppo": "carneBianca",
+      "difficolta": "media",
+      "tempoPreparazione": 15,
+      "tempoCottura": 60,
+      "tempoRiposo": 10,
+      "allergeni": [],
+      "ingredienti": [
+        {
+          "nome": "Fesa di tacchino in un pezzo",
+          "adulto": 150,
+          "bambino": 100,
+          "unita": "g",
+          "nota": "un pezzo unico da almeno 600 g, legato"
+        },
+        {
+          "nome": "Acqua calda",
+          "adulto": 50,
+          "bambino": 30,
+          "unita": "ml"
+        },
+        {
+          "nome": "Rosmarino",
+          "perRicetta": 2,
+          "unita": "rametto"
+        },
+        {
+          "nome": "Salvia",
+          "perRicetta": 4,
+          "unita": "foglia"
+        },
+        {
+          "nome": "Aglio",
+          "perRicetta": 1,
+          "unita": "spicchio",
+          "facoltativo": true
+        },
+        {
+          "nome": "Olio extravergine d'oliva",
+          "adulto": 1,
+          "bambino": 0.5,
+          "unita": "cucchiaio"
+        },
+        {
+          "nome": "Sale",
+          "unita": "qb"
+        }
+      ],
+      "passaggi": [
+        "Accendi il forno statico a 180 °C.",
+        "Massaggia la fesa con olio e sale e infila rosmarino e salvia sotto lo spago.",
+        "Rosolala in una padella calda su tutti i lati per 5–6 minuti: la crosticina trattiene i succhi.",
+        "Trasferiscila in una teglia con l'eventuale aglio, versa l'acqua calda sul fondo e copri con alluminio.",
+        "Cuoci 40 minuti coperta e altri 10–15 scoperta, bagnandola con il fondo ogni 15 minuti.",
+        "Lasciala riposare 10 minuti coperta, poi affettala sottile e servila con il suo fondo di cottura."
+      ],
+      "consigli": [
+        "Niente vino né brandy, che spesso si usano nell'arrosto: con l'acqua e il fondo resta morbido lo stesso.",
+        "Con un termometro da cucina, è cotta quando al centro raggiunge 70–72 °C."
+      ],
+      "conservazione": "3 giorni in frigorifero; avanzata, è ottima a fette nei panini.",
+      "riferimento": "https://www.fattoincasadabenedetta.it/ricetta/arrosto-di-tacchino/"
+    },
+    {
+      "id": "polpettine-di-pollo-al-forno",
+      "nome": "Polpettine di pollo al forno",
+      "portata": "secondo",
+      "gruppo": "carneBianca",
+      "difficolta": "facile",
+      "tempoPreparazione": 15,
+      "tempoCottura": 20,
+      "tempoRiposo": 15,
+      "allergeni": [
+        "glutine",
+        "uova",
+        "latte"
+      ],
+      "ingredienti": [
+        {
+          "nome": "Macinato di pollo",
+          "adulto": 120,
+          "bambino": 80,
+          "unita": "g",
+          "nota": "o petto di pollo tritato nel mixer"
+        },
+        {
+          "nome": "Uova",
+          "adulto": 0.25,
+          "bambino": 0.2,
+          "unita": "pz"
+        },
+        {
+          "nome": "Parmigiano Reggiano grattugiato",
+          "adulto": 10,
+          "bambino": 7,
+          "unita": "g"
+        },
+        {
+          "nome": "Pangrattato",
+          "adulto": 15,
+          "bambino": 10,
+          "unita": "g",
+          "nota": "più quello per la panatura"
+        },
+        {
+          "nome": "Latte",
+          "adulto": 10,
+          "bambino": 5,
+          "unita": "ml"
+        },
+        {
+          "nome": "Prezzemolo",
+          "unita": "qb"
+        },
+        {
+          "nome": "Scorza di limone grattugiata",
+          "unita": "qb",
+          "facoltativo": true
+        },
+        {
+          "nome": "Olio extravergine d'oliva",
+          "adulto": 1,
+          "bambino": 0.5,
+          "unita": "cucchiaio"
+        },
+        {
+          "nome": "Sale",
+          "unita": "qb"
+        }
+      ],
+      "passaggi": [
+        "In una ciotola mescola il macinato con uovo, parmigiano, latte, prezzemolo tritato, scorza di limone e sale.",
+        "Aggiungi il pangrattato finché l'impasto è morbido ma non appiccicoso. Riponilo in frigorifero per 15 minuti.",
+        "Accendi il forno ventilato a 190 °C.",
+        "Forma delle polpettine grandi come una noce e passale nel pangrattato.",
+        "Sistemale su una teglia con carta forno, condisci con un filo d'olio e cuoci 18–20 minuti, girandole a metà cottura.",
+        "Aprine una: dentro dev'essere bianca e cotta fino al centro."
+      ],
+      "conservazione": "2 giorni in frigorifero; crude si congelano bene.",
+      "riferimento": "https://www.fattoincasadabenedetta.it/ricetta/polpette-pollo-al-forno/"
+    },
+    {
+      "id": "spiedini-di-pollo",
+      "nome": "Spiedini di pollo",
+      "portata": "secondo",
+      "gruppo": "carneBianca",
+      "difficolta": "facile",
+      "tempoPreparazione": 15,
+      "tempoCottura": 18,
+      "tempoRiposo": 30,
+      "allergeni": [],
+      "ingredienti": [
+        {
+          "nome": "Petto di pollo",
+          "adulto": 130,
+          "bambino": 90,
+          "unita": "g"
+        },
+        {
+          "nome": "Succo di limone",
+          "adulto": 1,
+          "bambino": 0.5,
+          "unita": "cucchiaio"
+        },
+        {
+          "nome": "Olio extravergine d'oliva",
+          "adulto": 1,
+          "bambino": 0.5,
+          "unita": "cucchiaio"
+        },
+        {
+          "nome": "Rosmarino o timo",
+          "unita": "qb"
+        },
+        {
+          "nome": "Paprika dolce",
+          "unita": "qb",
+          "facoltativo": true
+        },
+        {
+          "nome": "Sale",
+          "unita": "qb"
+        },
+        {
+          "nome": "Stecchini di legno",
+          "adulto": 2,
+          "bambino": 1,
+          "unita": "pz"
+        }
+      ],
+      "passaggi": [
+        "Taglia il pollo a cubetti di 2–3 cm, tutti uguali, così cuociono nello stesso tempo.",
+        "Condiscili con olio, limone, erbe e paprika e lasciali marinare in frigorifero 30 minuti.",
+        "Metti a bagno gli stecchini in acqua per 15 minuti, così non bruciano.",
+        "Infila i cubetti sugli stecchini senza schiacciarli troppo.",
+        "Cuoci in forno ventilato a 200 °C su una griglia sopra la leccarda per 15–18 minuti, girandoli a metà; oppure su una piastra calda per 8–10 minuti, girandoli spesso.",
+        "Sala a fine cottura."
+      ],
+      "consigli": [
+        "Ai bambini servi i bocconcini già sfilati dallo stecchino: la punta è appuntita."
+      ],
+      "riferimento": "https://www.fattoincasadabenedetta.it/ricetta/spiedini-di-pollo/"
+    },
+    {
+      "id": "mozzarella-con-pane",
+      "nome": "Mozzarella con pane",
+      "portata": "secondo",
+      "gruppo": "formaggio",
+      "difficolta": "moltoFacile",
+      "tempoPreparazione": 5,
+      "tempoCottura": 0,
+      "allergeni": [
+        "latte",
+        "glutine"
+      ],
+      "ingredienti": [
+        {
+          "nome": "Mozzarella",
+          "adulto": 100,
+          "bambino": 60,
+          "unita": "g"
+        },
+        {
+          "nome": "Pane",
+          "adulto": 50,
+          "bambino": 30,
+          "unita": "g"
+        },
+        {
+          "nome": "Basilico",
+          "unita": "qb",
+          "facoltativo": true
+        },
+        {
+          "nome": "Olio extravergine d'oliva",
+          "unita": "qb",
+          "facoltativo": true
+        }
+      ],
+      "passaggi": [
+        "Togli la mozzarella dal frigorifero 30 minuti prima: a temperatura ambiente ha più sapore.",
+        "Scolala dal siero e tagliala a fette.",
+        "Servila con un filo d'olio, qualche foglia di basilico e il pane, anche tostato."
+      ],
+      "consigli": [
+        "Per i più piccoli taglia la mozzarella a pezzetti: le ciliegine intere sono a rischio soffocamento."
+      ]
+    },
+    {
+      "id": "ricotta-con-pane-integrale",
+      "nome": "Ricotta con pane integrale",
+      "portata": "secondo",
+      "gruppo": "formaggio",
+      "difficolta": "moltoFacile",
+      "tempoPreparazione": 5,
+      "tempoCottura": 0,
+      "allergeni": [
+        "latte",
+        "glutine"
+      ],
+      "ingredienti": [
+        {
+          "nome": "Ricotta vaccina",
+          "adulto": 100,
+          "bambino": 70,
+          "unita": "g"
+        },
+        {
+          "nome": "Pane integrale",
+          "adulto": 50,
+          "bambino": 30,
+          "unita": "g"
+        },
+        {
+          "nome": "Olio extravergine d'oliva",
+          "unita": "qb",
+          "facoltativo": true
+        },
+        {
+          "nome": "Erba cipollina o timo",
+          "unita": "qb",
+          "facoltativo": true
+        },
+        {
+          "nome": "Sale",
+          "unita": "qb"
+        }
+      ],
+      "passaggi": [
+        "Lavora la ricotta con una forchetta, un pizzico di sale, un filo d'olio e le erbe tritate.",
+        "Tosta il pane e spalmaci sopra la ricotta, oppure servila a parte da spalmare a tavola."
+      ]
+    },
+    {
+      "id": "tortino-di-verdure-al-parmigiano",
+      "nome": "Tortino di verdure al parmigiano",
+      "portata": "secondo",
+      "gruppo": "formaggio",
+      "difficolta": "media",
+      "tempoPreparazione": 25,
+      "tempoCottura": 35,
+      "tempoRiposo": 10,
+      "allergeni": [
+        "latte",
+        "uova"
+      ],
+      "ingredienti": [
+        {
+          "nome": "Patate",
+          "adulto": 80,
+          "bambino": 50,
+          "unita": "g"
+        },
+        {
+          "nome": "Zucchine",
+          "adulto": 80,
+          "bambino": 50,
+          "unita": "g"
+        },
+        {
+          "nome": "Carote",
+          "adulto": 50,
+          "bambino": 35,
+          "unita": "g"
+        },
+        {
+          "nome": "Uova",
+          "adulto": 0.5,
+          "bambino": 0.25,
+          "unita": "pz"
+        },
+        {
+          "nome": "Latte",
+          "adulto": 20,
+          "bambino": 15,
+          "unita": "ml"
+        },
+        {
+          "nome": "Parmigiano Reggiano grattugiato",
+          "adulto": 25,
+          "bambino": 15,
+          "unita": "g"
+        },
+        {
+          "nome": "Prezzemolo o maggiorana",
+          "unita": "qb"
+        },
+        {
+          "nome": "Olio extravergine d'oliva",
+          "adulto": 1,
+          "bambino": 0.5,
+          "unita": "cucchiaio"
+        },
+        {
+          "nome": "Sale",
+          "unita": "qb"
+        }
+      ],
+      "passaggi": [
+        "Accendi il forno statico a 190 °C.",
+        "Affetta patate e carote sottili, 2–3 mm, e sbollentale in acqua salata per 4 minuti. Scolale bene.",
+        "Taglia le zucchine a rondelle sottili, crude.",
+        "Sbatti le uova con il latte, metà del parmigiano, le erbe tritate e un pizzico di sale.",
+        "Ungi una teglia e disponi le verdure a strati, spolverando ogni strato con un po' del parmigiano rimasto.",
+        "Versa sopra il composto di uova, finisci con il parmigiano e un filo d'olio.",
+        "Cuoci 30–35 minuti; se la superficie si scurisce troppo presto, coprila con alluminio. Lascia riposare 10 minuti prima di tagliare."
+      ],
+      "conservazione": "2 giorni in frigorifero.",
+      "riferimento": "https://www.misya.info/ricetta/sformato-di-verdure.htm"
+    }
+  ]
+}
